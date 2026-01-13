@@ -1,0 +1,134 @@
+{
+  "image_id": "chip_0466",
+  "width": 256,
+  "height": 256,
+  "total_pins": 14,
+  "pins": [
+    {
+      "pin_id": 0,
+      "name": "MISO",
+      "center": [
+        55,
+        38
+      ],
+      "pin_number": 1
+    },
+    {
+      "pin_id": 1,
+      "name": "A2",
+      "center": [
+        55,
+        68
+      ],
+      "pin_number": 2
+    },
+    {
+      "pin_id": 2,
+      "name": "RXD",
+      "center": [
+        55,
+        98
+      ],
+      "pin_number": 3
+    },
+    {
+      "pin_id": 3,
+      "name": "D1",
+      "center": [
+        55,
+        128
+      ],
+      "pin_number": 4
+    },
+    {
+      "pin_id": 4,
+      "name": "SHDN",
+      "center": [
+        55,
+        158
+      ],
+      "pin_number": 5
+    },
+    {
+      "pin_id": 5,
+      "name": "CANH",
+      "center": [
+        55,
+        188
+      ],
+      "pin_number": 6
+    },
+    {
+      "pin_id": 6,
+      "name": "TRIG",
+      "center": [
+        55,
+        218
+      ],
+      "pin_number": 7
+    },
+    {
+      "pin_id": 7,
+      "name": "ALERT",
+      "center": [
+        188,
+        38
+      ],
+      "pin_number": 14
+    },
+    {
+      "pin_id": 8,
+      "name": "D0",
+      "center": [
+        188,
+        68
+      ],
+      "pin_number": 13
+    },
+    {
+      "pin_id": 9,
+      "name": "A1",
+      "center": [
+        188,
+        98
+      ],
+      "pin_number": 12
+    },
+    {
+      "pin_id": 10,
+      "name": "EN",
+      "center": [
+        188,
+        128
+      ],
+      "pin_number": 11
+    },
+    {
+      "pin_id": 11,
+      "name": "VINN",
+      "center": [
+        188,
+        158
+      ],
+      "pin_number": 10
+    },
+    {
+      "pin_id": 12,
+      "name": "BIAS",
+      "center": [
+        188,
+        188
+      ],
+      "pin_number": 9
+    },
+    {
+      "pin_id": 13,
+      "name": "TX",
+      "center": [
+        188,
+        218
+      ],
+      "pin_number": 8
+    }
+  ]
+}

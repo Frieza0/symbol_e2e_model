@@ -1,0 +1,80 @@
+{
+  "image_id": "chip_0392",
+  "width": 256,
+  "height": 256,
+  "total_pins": 8,
+  "pins": [
+    {
+      "pin_id": 0,
+      "name": "I0",
+      "center": [
+        55,
+        38
+      ],
+      "pin_number": 1
+    },
+    {
+      "pin_id": 1,
+      "name": "PWR",
+      "center": [
+        55,
+        98
+      ],
+      "pin_number": 2
+    },
+    {
+      "pin_id": 2,
+      "name": "HOLD",
+      "center": [
+        55,
+        158
+      ],
+      "pin_number": 3
+    },
+    {
+      "pin_id": 3,
+      "name": "VSS",
+      "center": [
+        55,
+        218
+      ],
+      "pin_number": 4
+    },
+    {
+      "pin_id": 4,
+      "name": "GPIO",
+      "center": [
+        188,
+        38
+      ],
+      "pin_number": 8
+    },
+    {
+      "pin_id": 5,
+      "name": "DATA",
+      "center": [
+        188,
+        98
+      ],
+      "pin_number": 7
+    },
+    {
+      "pin_id": 6,
+      "name": "COM",
+      "center": [
+        188,
+        158
+      ],
+      "pin_number": 6
+    },
+    {
+      "pin_id": 7,
+      "name": "VDD",
+      "center": [
+        188,
+        218
+      ],
+      "pin_number": 5
+    }
+  ]
+}

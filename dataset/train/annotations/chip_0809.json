@@ -1,0 +1,98 @@
+{
+  "image_id": "chip_0809",
+  "width": 256,
+  "height": 256,
+  "total_pins": 10,
+  "pins": [
+    {
+      "pin_id": 0,
+      "name": "TDI",
+      "center": [
+        55,
+        38
+      ],
+      "pin_number": 1
+    },
+    {
+      "pin_id": 1,
+      "name": "OSC",
+      "center": [
+        55,
+        83
+      ],
+      "pin_number": 2
+    },
+    {
+      "pin_id": 2,
+      "name": "VSS",
+      "center": [
+        55,
+        128
+      ],
+      "pin_number": 3
+    },
+    {
+      "pin_id": 3,
+      "name": "TEST",
+      "center": [
+        55,
+        173
+      ],
+      "pin_number": 4
+    },
+    {
+      "pin_id": 4,
+      "name": "5V",
+      "center": [
+        55,
+        218
+      ],
+      "pin_number": 5
+    },
+    {
+      "pin_id": 5,
+      "name": "I2",
+      "center": [
+        188,
+        38
+      ],
+      "pin_number": 10
+    },
+    {
+      "pin_id": 6,
+      "name": "VCC",
+      "center": [
+        188,
+        83
+      ],
+      "pin_number": 9
+    },
+    {
+      "pin_id": 7,
+      "name": "BCLK",
+      "center": [
+        188,
+        128
+      ],
+      "pin_number": 8
+    },
+    {
+      "pin_id": 8,
+      "name": "IRQ",
+      "center": [
+        188,
+        173
+      ],
+      "pin_number": 7
+    },
+    {
+      "pin_id": 9,
+      "name": "WP",
+      "center": [
+        188,
+        218
+      ],
+      "pin_number": 6
+    }
+  ]
+}

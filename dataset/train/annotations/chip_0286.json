@@ -1,0 +1,80 @@
+{
+  "image_id": "chip_0286",
+  "width": 256,
+  "height": 256,
+  "total_pins": 8,
+  "pins": [
+    {
+      "pin_id": 0,
+      "name": "PROG",
+      "center": [
+        55,
+        38
+      ],
+      "pin_number": 1
+    },
+    {
+      "pin_id": 1,
+      "name": "AD1",
+      "center": [
+        55,
+        98
+      ],
+      "pin_number": 2
+    },
+    {
+      "pin_id": 2,
+      "name": "OFF",
+      "center": [
+        55,
+        158
+      ],
+      "pin_number": 3
+    },
+    {
+      "pin_id": 3,
+      "name": "CANL",
+      "center": [
+        55,
+        218
+      ],
+      "pin_number": 4
+    },
+    {
+      "pin_id": 4,
+      "name": "D5",
+      "center": [
+        188,
+        38
+      ],
+      "pin_number": 8
+    },
+    {
+      "pin_id": 5,
+      "name": "FLAG",
+      "center": [
+        188,
+        98
+      ],
+      "pin_number": 7
+    },
+    {
+      "pin_id": 6,
+      "name": "XTAL1",
+      "center": [
+        188,
+        158
+      ],
+      "pin_number": 6
+    },
+    {
+      "pin_id": 7,
+      "name": "WP",
+      "center": [
+        188,
+        218
+      ],
+      "pin_number": 5
+    }
+  ]
+}

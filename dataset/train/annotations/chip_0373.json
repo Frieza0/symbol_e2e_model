@@ -1,0 +1,116 @@
+{
+  "image_id": "chip_0373",
+  "width": 256,
+  "height": 256,
+  "total_pins": 12,
+  "pins": [
+    {
+      "pin_id": 0,
+      "name": "TXD",
+      "center": [
+        55,
+        38
+      ],
+      "pin_number": 1
+    },
+    {
+      "pin_id": 1,
+      "name": "AD1",
+      "center": [
+        55,
+        74
+      ],
+      "pin_number": 2
+    },
+    {
+      "pin_id": 2,
+      "name": "O1",
+      "center": [
+        55,
+        110
+      ],
+      "pin_number": 3
+    },
+    {
+      "pin_id": 3,
+      "name": "I1",
+      "center": [
+        55,
+        146
+      ],
+      "pin_number": 4
+    },
+    {
+      "pin_id": 4,
+      "name": "SENSE",
+      "center": [
+        55,
+        182
+      ],
+      "pin_number": 5
+    },
+    {
+      "pin_id": 5,
+      "name": "NC",
+      "center": [
+        55,
+        218
+      ],
+      "pin_number": 6
+    },
+    {
+      "pin_id": 6,
+      "name": "MISO",
+      "center": [
+        188,
+        38
+      ],
+      "pin_number": 12
+    },
+    {
+      "pin_id": 7,
+      "name": "5V",
+      "center": [
+        188,
+        74
+      ],
+      "pin_number": 11
+    },
+    {
+      "pin_id": 8,
+      "name": "OE",
+      "center": [
+        188,
+        110
+      ],
+      "pin_number": 10
+    },
+    {
+      "pin_id": 9,
+      "name": "O0",
+      "center": [
+        188,
+        146
+      ],
+      "pin_number": 9
+    },
+    {
+      "pin_id": 10,
+      "name": "CANH",
+      "center": [
+        188,
+        182
+      ],
+      "pin_number": 8
+    },
+    {
+      "pin_id": 11,
+      "name": "I2",
+      "center": [
+        188,
+        218
+      ],
+      "pin_number": 7
+    }
+  ]
+}

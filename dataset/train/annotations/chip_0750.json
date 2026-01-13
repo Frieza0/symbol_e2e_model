@@ -1,0 +1,134 @@
+{
+  "image_id": "chip_0750",
+  "width": 256,
+  "height": 256,
+  "total_pins": 14,
+  "pins": [
+    {
+      "pin_id": 0,
+      "name": "VINP",
+      "center": [
+        55,
+        38
+      ],
+      "pin_number": 1
+    },
+    {
+      "pin_id": 1,
+      "name": "TDI",
+      "center": [
+        55,
+        68
+      ],
+      "pin_number": 2
+    },
+    {
+      "pin_id": 2,
+      "name": "TX",
+      "center": [
+        55,
+        98
+      ],
+      "pin_number": 3
+    },
+    {
+      "pin_id": 3,
+      "name": "RF",
+      "center": [
+        55,
+        128
+      ],
+      "pin_number": 4
+    },
+    {
+      "pin_id": 4,
+      "name": "IO",
+      "center": [
+        55,
+        158
+      ],
+      "pin_number": 5
+    },
+    {
+      "pin_id": 5,
+      "name": "ADDR",
+      "center": [
+        55,
+        188
+      ],
+      "pin_number": 6
+    },
+    {
+      "pin_id": 6,
+      "name": "RI",
+      "center": [
+        55,
+        218
+      ],
+      "pin_number": 7
+    },
+    {
+      "pin_id": 7,
+      "name": "SI",
+      "center": [
+        188,
+        38
+      ],
+      "pin_number": 14
+    },
+    {
+      "pin_id": 8,
+      "name": "SCK",
+      "center": [
+        188,
+        68
+      ],
+      "pin_number": 13
+    },
+    {
+      "pin_id": 9,
+      "name": "SD",
+      "center": [
+        188,
+        98
+      ],
+      "pin_number": 12
+    },
+    {
+      "pin_id": 10,
+      "name": "A4",
+      "center": [
+        188,
+        128
+      ],
+      "pin_number": 11
+    },
+    {
+      "pin_id": 11,
+      "name": "OFF",
+      "center": [
+        188,
+        158
+      ],
+      "pin_number": 10
+    },
+    {
+      "pin_id": 12,
+      "name": "DSR",
+      "center": [
+        188,
+        188
+      ],
+      "pin_number": 9
+    },
+    {
+      "pin_id": 13,
+      "name": "O0",
+      "center": [
+        188,
+        218
+      ],
+      "pin_number": 8
+    }
+  ]
+}

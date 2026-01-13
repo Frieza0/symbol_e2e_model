@@ -1,0 +1,152 @@
+{
+  "image_id": "chip_0144",
+  "width": 256,
+  "height": 256,
+  "total_pins": 16,
+  "pins": [
+    {
+      "pin_id": 0,
+      "name": "I0",
+      "center": [
+        55,
+        38
+      ],
+      "pin_number": 1
+    },
+    {
+      "pin_id": 1,
+      "name": "HOLD",
+      "center": [
+        55,
+        63
+      ],
+      "pin_number": 2
+    },
+    {
+      "pin_id": 2,
+      "name": "RST",
+      "center": [
+        55,
+        89
+      ],
+      "pin_number": 3
+    },
+    {
+      "pin_id": 3,
+      "name": "DTR",
+      "center": [
+        55,
+        115
+      ],
+      "pin_number": 4
+    },
+    {
+      "pin_id": 4,
+      "name": "ADDR",
+      "center": [
+        55,
+        140
+      ],
+      "pin_number": 5
+    },
+    {
+      "pin_id": 5,
+      "name": "A5",
+      "center": [
+        55,
+        166
+      ],
+      "pin_number": 6
+    },
+    {
+      "pin_id": 6,
+      "name": "RTS",
+      "center": [
+        55,
+        192
+      ],
+      "pin_number": 7
+    },
+    {
+      "pin_id": 7,
+      "name": "SDI",
+      "center": [
+        55,
+        218
+      ],
+      "pin_number": 8
+    },
+    {
+      "pin_id": 8,
+      "name": "AIN",
+      "center": [
+        188,
+        38
+      ],
+      "pin_number": 16
+    },
+    {
+      "pin_id": 9,
+      "name": "TDO",
+      "center": [
+        188,
+        63
+      ],
+      "pin_number": 15
+    },
+    {
+      "pin_id": 10,
+      "name": "WCLK",
+      "center": [
+        188,
+        89
+      ],
+      "pin_number": 14
+    },
+    {
+      "pin_id": 11,
+      "name": "I1",
+      "center": [
+        188,
+        115
+      ],
+      "pin_number": 13
+    },
+    {
+      "pin_id": 12,
+      "name": "FB",
+      "center": [
+        188,
+        140
+      ],
+      "pin_number": 12
+    },
+    {
+      "pin_id": 13,
+      "name": "TDI",
+      "center": [
+        188,
+        166
+      ],
+      "pin_number": 11
+    },
+    {
+      "pin_id": 14,
+      "name": "CANL",
+      "center": [
+        188,
+        192
+      ],
+      "pin_number": 10
+    },
+    {
+      "pin_id": 15,
+      "name": "TMS",
+      "center": [
+        188,
+        218
+      ],
+      "pin_number": 9
+    }
+  ]
+}

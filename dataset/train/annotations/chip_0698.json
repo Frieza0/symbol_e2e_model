@@ -1,0 +1,152 @@
+{
+  "image_id": "chip_0698",
+  "width": 256,
+  "height": 256,
+  "total_pins": 16,
+  "pins": [
+    {
+      "pin_id": 0,
+      "name": "WCLK",
+      "center": [
+        55,
+        38
+      ],
+      "pin_number": 1
+    },
+    {
+      "pin_id": 1,
+      "name": "DO",
+      "center": [
+        55,
+        63
+      ],
+      "pin_number": 2
+    },
+    {
+      "pin_id": 2,
+      "name": "SD",
+      "center": [
+        55,
+        89
+      ],
+      "pin_number": 3
+    },
+    {
+      "pin_id": 3,
+      "name": "IRQ",
+      "center": [
+        55,
+        115
+      ],
+      "pin_number": 4
+    },
+    {
+      "pin_id": 4,
+      "name": "TEST",
+      "center": [
+        55,
+        140
+      ],
+      "pin_number": 5
+    },
+    {
+      "pin_id": 5,
+      "name": "VINP",
+      "center": [
+        55,
+        166
+      ],
+      "pin_number": 6
+    },
+    {
+      "pin_id": 6,
+      "name": "A1",
+      "center": [
+        55,
+        192
+      ],
+      "pin_number": 7
+    },
+    {
+      "pin_id": 7,
+      "name": "O3",
+      "center": [
+        55,
+        218
+      ],
+      "pin_number": 8
+    },
+    {
+      "pin_id": 8,
+      "name": "PWR",
+      "center": [
+        188,
+        38
+      ],
+      "pin_number": 16
+    },
+    {
+      "pin_id": 9,
+      "name": "DTR",
+      "center": [
+        188,
+        63
+      ],
+      "pin_number": 15
+    },
+    {
+      "pin_id": 10,
+      "name": "SCL",
+      "center": [
+        188,
+        89
+      ],
+      "pin_number": 14
+    },
+    {
+      "pin_id": 11,
+      "name": "ANT",
+      "center": [
+        188,
+        115
+      ],
+      "pin_number": 13
+    },
+    {
+      "pin_id": 12,
+      "name": "SDO",
+      "center": [
+        188,
+        140
+      ],
+      "pin_number": 12
+    },
+    {
+      "pin_id": 13,
+      "name": "IN",
+      "center": [
+        188,
+        166
+      ],
+      "pin_number": 11
+    },
+    {
+      "pin_id": 14,
+      "name": "GPIO",
+      "center": [
+        188,
+        192
+      ],
+      "pin_number": 10
+    },
+    {
+      "pin_id": 15,
+      "name": "RI",
+      "center": [
+        188,
+        218
+      ],
+      "pin_number": 9
+    }
+  ]
+}

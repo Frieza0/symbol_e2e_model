@@ -1,0 +1,152 @@
+{
+  "image_id": "chip_0566",
+  "width": 256,
+  "height": 256,
+  "total_pins": 16,
+  "pins": [
+    {
+      "pin_id": 0,
+      "name": "D4",
+      "center": [
+        55,
+        38
+      ],
+      "pin_number": 1
+    },
+    {
+      "pin_id": 1,
+      "name": "GPIO",
+      "center": [
+        55,
+        63
+      ],
+      "pin_number": 2
+    },
+    {
+      "pin_id": 2,
+      "name": "A2",
+      "center": [
+        55,
+        89
+      ],
+      "pin_number": 3
+    },
+    {
+      "pin_id": 3,
+      "name": "D1",
+      "center": [
+        55,
+        115
+      ],
+      "pin_number": 4
+    },
+    {
+      "pin_id": 4,
+      "name": "FLAG",
+      "center": [
+        55,
+        140
+      ],
+      "pin_number": 5
+    },
+    {
+      "pin_id": 5,
+      "name": "RXD",
+      "center": [
+        55,
+        166
+      ],
+      "pin_number": 6
+    },
+    {
+      "pin_id": 6,
+      "name": "ALERT",
+      "center": [
+        55,
+        192
+      ],
+      "pin_number": 7
+    },
+    {
+      "pin_id": 7,
+      "name": "A5",
+      "center": [
+        55,
+        218
+      ],
+      "pin_number": 8
+    },
+    {
+      "pin_id": 8,
+      "name": "DCD",
+      "center": [
+        188,
+        38
+      ],
+      "pin_number": 16
+    },
+    {
+      "pin_id": 9,
+      "name": "VSS",
+      "center": [
+        188,
+        63
+      ],
+      "pin_number": 15
+    },
+    {
+      "pin_id": 10,
+      "name": "A4",
+      "center": [
+        188,
+        89
+      ],
+      "pin_number": 14
+    },
+    {
+      "pin_id": 11,
+      "name": "SI",
+      "center": [
+        188,
+        115
+      ],
+      "pin_number": 13
+    },
+    {
+      "pin_id": 12,
+      "name": "SDO",
+      "center": [
+        188,
+        140
+      ],
+      "pin_number": 12
+    },
+    {
+      "pin_id": 13,
+      "name": "INT",
+      "center": [
+        188,
+        166
+      ],
+      "pin_number": 11
+    },
+    {
+      "pin_id": 14,
+      "name": "MOSI",
+      "center": [
+        188,
+        192
+      ],
+      "pin_number": 10
+    },
+    {
+      "pin_id": 15,
+      "name": "TCK",
+      "center": [
+        188,
+        218
+      ],
+      "pin_number": 9
+    }
+  ]
+}

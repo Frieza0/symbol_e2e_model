@@ -1,0 +1,116 @@
+{
+  "image_id": "chip_0512",
+  "width": 256,
+  "height": 256,
+  "total_pins": 12,
+  "pins": [
+    {
+      "pin_id": 0,
+      "name": "WP",
+      "center": [
+        55,
+        38
+      ],
+      "pin_number": 1
+    },
+    {
+      "pin_id": 1,
+      "name": "A5",
+      "center": [
+        55,
+        74
+      ],
+      "pin_number": 2
+    },
+    {
+      "pin_id": 2,
+      "name": "RX",
+      "center": [
+        55,
+        110
+      ],
+      "pin_number": 3
+    },
+    {
+      "pin_id": 3,
+      "name": "ADDR",
+      "center": [
+        55,
+        146
+      ],
+      "pin_number": 4
+    },
+    {
+      "pin_id": 4,
+      "name": "A7",
+      "center": [
+        55,
+        182
+      ],
+      "pin_number": 5
+    },
+    {
+      "pin_id": 5,
+      "name": "ALERT",
+      "center": [
+        55,
+        218
+      ],
+      "pin_number": 6
+    },
+    {
+      "pin_id": 6,
+      "name": "AOUT",
+      "center": [
+        188,
+        38
+      ],
+      "pin_number": 12
+    },
+    {
+      "pin_id": 7,
+      "name": "VDD",
+      "center": [
+        188,
+        74
+      ],
+      "pin_number": 11
+    },
+    {
+      "pin_id": 8,
+      "name": "VOUT",
+      "center": [
+        188,
+        110
+      ],
+      "pin_number": 10
+    },
+    {
+      "pin_id": 9,
+      "name": "VINN",
+      "center": [
+        188,
+        146
+      ],
+      "pin_number": 9
+    },
+    {
+      "pin_id": 10,
+      "name": "RESET",
+      "center": [
+        188,
+        182
+      ],
+      "pin_number": 8
+    },
+    {
+      "pin_id": 11,
+      "name": "D6",
+      "center": [
+        188,
+        218
+      ],
+      "pin_number": 7
+    }
+  ]
+}

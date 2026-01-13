@@ -1,0 +1,152 @@
+{
+  "image_id": "chip_0293",
+  "width": 256,
+  "height": 256,
+  "total_pins": 16,
+  "pins": [
+    {
+      "pin_id": 0,
+      "name": "GND",
+      "center": [
+        55,
+        38
+      ],
+      "pin_number": 1
+    },
+    {
+      "pin_id": 1,
+      "name": "TRIG",
+      "center": [
+        55,
+        63
+      ],
+      "pin_number": 2
+    },
+    {
+      "pin_id": 2,
+      "name": "O2",
+      "center": [
+        55,
+        89
+      ],
+      "pin_number": 3
+    },
+    {
+      "pin_id": 3,
+      "name": "FB",
+      "center": [
+        55,
+        115
+      ],
+      "pin_number": 4
+    },
+    {
+      "pin_id": 4,
+      "name": "IO",
+      "center": [
+        55,
+        140
+      ],
+      "pin_number": 5
+    },
+    {
+      "pin_id": 5,
+      "name": "TEST",
+      "center": [
+        55,
+        166
+      ],
+      "pin_number": 6
+    },
+    {
+      "pin_id": 6,
+      "name": "VREF",
+      "center": [
+        55,
+        192
+      ],
+      "pin_number": 7
+    },
+    {
+      "pin_id": 7,
+      "name": "VDD",
+      "center": [
+        55,
+        218
+      ],
+      "pin_number": 8
+    },
+    {
+      "pin_id": 8,
+      "name": "ISNS",
+      "center": [
+        188,
+        38
+      ],
+      "pin_number": 16
+    },
+    {
+      "pin_id": 9,
+      "name": "SENSE",
+      "center": [
+        188,
+        63
+      ],
+      "pin_number": 15
+    },
+    {
+      "pin_id": 10,
+      "name": "XTAL2",
+      "center": [
+        188,
+        89
+      ],
+      "pin_number": 14
+    },
+    {
+      "pin_id": 11,
+      "name": "I3",
+      "center": [
+        188,
+        115
+      ],
+      "pin_number": 13
+    },
+    {
+      "pin_id": 12,
+      "name": "SDA",
+      "center": [
+        188,
+        140
+      ],
+      "pin_number": 12
+    },
+    {
+      "pin_id": 13,
+      "name": "ON",
+      "center": [
+        188,
+        166
+      ],
+      "pin_number": 11
+    },
+    {
+      "pin_id": 14,
+      "name": "A7",
+      "center": [
+        188,
+        192
+      ],
+      "pin_number": 10
+    },
+    {
+      "pin_id": 15,
+      "name": "SO",
+      "center": [
+        188,
+        218
+      ],
+      "pin_number": 9
+    }
+  ]
+}

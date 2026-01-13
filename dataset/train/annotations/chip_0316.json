@@ -1,0 +1,152 @@
+{
+  "image_id": "chip_0316",
+  "width": 256,
+  "height": 256,
+  "total_pins": 16,
+  "pins": [
+    {
+      "pin_id": 0,
+      "name": "VOUT",
+      "center": [
+        55,
+        38
+      ],
+      "pin_number": 1
+    },
+    {
+      "pin_id": 1,
+      "name": "DI",
+      "center": [
+        55,
+        63
+      ],
+      "pin_number": 2
+    },
+    {
+      "pin_id": 2,
+      "name": "VCC",
+      "center": [
+        55,
+        89
+      ],
+      "pin_number": 3
+    },
+    {
+      "pin_id": 3,
+      "name": "WP",
+      "center": [
+        55,
+        115
+      ],
+      "pin_number": 4
+    },
+    {
+      "pin_id": 4,
+      "name": "D3",
+      "center": [
+        55,
+        140
+      ],
+      "pin_number": 5
+    },
+    {
+      "pin_id": 5,
+      "name": "AOUT",
+      "center": [
+        55,
+        166
+      ],
+      "pin_number": 6
+    },
+    {
+      "pin_id": 6,
+      "name": "A5",
+      "center": [
+        55,
+        192
+      ],
+      "pin_number": 7
+    },
+    {
+      "pin_id": 7,
+      "name": "A4",
+      "center": [
+        55,
+        218
+      ],
+      "pin_number": 8
+    },
+    {
+      "pin_id": 8,
+      "name": "COM",
+      "center": [
+        188,
+        38
+      ],
+      "pin_number": 16
+    },
+    {
+      "pin_id": 9,
+      "name": "SCL",
+      "center": [
+        188,
+        63
+      ],
+      "pin_number": 15
+    },
+    {
+      "pin_id": 10,
+      "name": "DSR",
+      "center": [
+        188,
+        89
+      ],
+      "pin_number": 14
+    },
+    {
+      "pin_id": 11,
+      "name": "O1",
+      "center": [
+        188,
+        115
+      ],
+      "pin_number": 13
+    },
+    {
+      "pin_id": 12,
+      "name": "REFCLK",
+      "center": [
+        188,
+        140
+      ],
+      "pin_number": 12
+    },
+    {
+      "pin_id": 13,
+      "name": "ANT",
+      "center": [
+        188,
+        166
+      ],
+      "pin_number": 11
+    },
+    {
+      "pin_id": 14,
+      "name": "BCLK",
+      "center": [
+        188,
+        192
+      ],
+      "pin_number": 10
+    },
+    {
+      "pin_id": 15,
+      "name": "VIN",
+      "center": [
+        188,
+        218
+      ],
+      "pin_number": 9
+    }
+  ]
+}

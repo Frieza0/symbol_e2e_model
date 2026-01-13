@@ -1,0 +1,62 @@
+{
+  "image_id": "chip_0908",
+  "width": 256,
+  "height": 256,
+  "total_pins": 6,
+  "pins": [
+    {
+      "pin_id": 0,
+      "name": "VREF",
+      "center": [
+        55,
+        38
+      ],
+      "pin_number": 1
+    },
+    {
+      "pin_id": 1,
+      "name": "OSC",
+      "center": [
+        55,
+        128
+      ],
+      "pin_number": 2
+    },
+    {
+      "pin_id": 2,
+      "name": "SWDIO",
+      "center": [
+        55,
+        218
+      ],
+      "pin_number": 3
+    },
+    {
+      "pin_id": 3,
+      "name": "HOLD",
+      "center": [
+        188,
+        38
+      ],
+      "pin_number": 6
+    },
+    {
+      "pin_id": 4,
+      "name": "REFCLK",
+      "center": [
+        188,
+        128
+      ],
+      "pin_number": 5
+    },
+    {
+      "pin_id": 5,
+      "name": "OUT",
+      "center": [
+        188,
+        218
+      ],
+      "pin_number": 4
+    }
+  ]
+}
