@@ -1,0 +1,754 @@
+{
+  "image_id": "120个测试用例汇总_25_1",
+  "width": 1428,
+  "height": 1539,
+  "total_pins": 100,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "GPIO12/T\\Z\\1\\/CANTXB/SPISIMOB",
+      "bbox_pin": null,
+      "bbox_name": [
+        406,
+        1154,
+        431,
+        1438
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        432,
+        1155,
+        460,
+        1191
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VDDIO",
+      "bbox_pin": null,
+      "bbox_name": [
+        462,
+        1152,
+        486,
+        1211
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GPIO29/SCITXDA//T\\Z\\6\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        488,
+        1154,
+        516,
+        1354
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "GPIO33/SCLA/EPWMSYNCO/A\\D\\C\\S\\O\\C\\B\\O\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        514,
+        1155,
+        545,
+        1517
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "GPIO30/CANRXA",
+      "bbox_pin": null,
+      "bbox_name": [
+        543,
+        1157,
+        565,
+        1312
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "GPIO31/CANTXA",
+      "bbox_pin": null,
+      "bbox_name": [
+        563,
+        1157,
+        593,
+        1312
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GPIO14/T\\Z\\3\\/SCITXDB/SPICLKB",
+      "bbox_pin": null,
+      "bbox_name": [
+        596,
+        1157,
+        623,
+        1437
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "GPIO15/T\\Z\\4\\/SCIRXDB/SPISTEB",
+      "bbox_pin": null,
+      "bbox_name": [
+        623,
+        1155,
+        653,
+        1435
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        650,
+        1157,
+        673,
+        1197
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        676,
+        1152,
+        700,
+        1200
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "VDD1A18",
+      "bbox_pin": null,
+      "bbox_name": [
+        707,
+        1149,
+        733,
+        1238
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "VSS1AGND",
+      "bbox_pin": null,
+      "bbox_name": [
+        734,
+        1149,
+        759,
+        1252
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "VSSA2",
+      "bbox_pin": null,
+      "bbox_name": [
+        760,
+        1155,
+        788,
+        1214
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "VDDA2",
+      "bbox_pin": null,
+      "bbox_name": [
+        788,
+        1158,
+        814,
+        1208
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "ADCINA7",
+      "bbox_pin": null,
+      "bbox_name": [
+        814,
+        1154,
+        844,
+        1243
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "ADCINA6",
+      "bbox_pin": null,
+      "bbox_name": [
+        844,
+        1157,
+        868,
+        1245
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "ADCINA5",
+      "bbox_pin": null,
+      "bbox_name": [
+        868,
+        1157,
+        895,
+        1251
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "ADCINA4",
+      "bbox_pin": null,
+      "bbox_name": [
+        895,
+        1157,
+        922,
+        1249
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "ADCINA3",
+      "bbox_pin": null,
+      "bbox_name": [
+        922,
+        1160,
+        952,
+        1248
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "ADCINA2",
+      "bbox_pin": null,
+      "bbox_name": [
+        948,
+        1151,
+        976,
+        1241
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "ADCINA1",
+      "bbox_pin": null,
+      "bbox_name": [
+        979,
+        1152,
+        1002,
+        1246
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "ADCINA0",
+      "bbox_pin": null,
+      "bbox_name": [
+        1008,
+        1154,
+        1032,
+        1248
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "ADCLO",
+      "bbox_pin": null,
+      "bbox_name": [
+        1035,
+        1152,
+        1056,
+        1234
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "VSSAIO",
+      "bbox_pin": null,
+      "bbox_name": [
+        1061,
+        1160,
+        1095,
+        1229
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "VDDAIO",
+      "bbox_pin": null,
+      "bbox_name": [
+        1124,
+        1092,
+        1190,
+        1123
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "ADCINB0",
+      "bbox_pin": null,
+      "bbox_name": [
+        1124,
+        1060,
+        1206,
+        1095
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "ADCINB1",
+      "bbox_pin": null,
+      "bbox_name": [
+        1124,
+        1032,
+        1207,
+        1066
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "ADCINB2",
+      "bbox_pin": null,
+      "bbox_name": [
+        1127,
+        1012,
+        1207,
+        1040
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "ADCINB3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 31,
+      "name": "ADCINB4",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 32,
+      "name": "ADCINB5",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 33,
+      "name": "ADCINB6",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 34,
+      "name": "ADCINB7",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 35,
+      "name": "ADCREFIN",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 36,
+      "name": "ADCREFM",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 37,
+      "name": "ADCREFP",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 38,
+      "name": "ADCRESEXT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 39,
+      "name": "VSS2AGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 40,
+      "name": "VDD2A18",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 41,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 42,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 43,
+      "name": "GPIO34",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 44,
+      "name": "GPIO1/EPWM1B/SPISIMOD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 45,
+      "name": "GPIO2/EPWM2A",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 46,
+      "name": "VDDIO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 47,
+      "name": "GPIO0/EPWM1A",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 48,
+      "name": "GPIO3/EPWM2B/SPISOMID",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 49,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 50,
+      "name": "GPIO16/SPISIMOA/CANTXB/T\\Z\\5\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 51,
+      "name": "GPIO4/EPWM3A",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 52,
+      "name": "GPIO17/SPISOMIA/CANRXB/T\\Z\\6\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 53,
+      "name": "GPIO5/EPWM3B/SPICLKD/ECAP1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 54,
+      "name": "GPIO18/SPICLKA/SCITXDB",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 55,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 56,
+      "name": "GPIO6/EPWM4A/EPWMSYNCI/EPWMSYNCO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 57,
+      "name": "GPIO19/SPISTEA/SCIRXDB",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 58,
+      "name": "GPIO7/EPWM4B/SPISTED/ECAP2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 59,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 60,
+      "name": "GPIO8/EPWM5A/CANTXB/A\\D\\C\\S\\O\\C\\A\\O\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 61,
+      "name": "GPIO9/EPWM5B/SCITXDB/ECAP3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 62,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 63,
+      "name": "GPIO20/EQEP1A/SPISIMOC/CANTXB",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 64,
+      "name": "GPIO10/EPWM6A/CANRXB/A\\D\\C\\S\\O\\C\\B\\O\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 65,
+      "name": "VDDIO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 66,
+      "name": "XCLKOUT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 67,
+      "name": "GPIO21/EQEP1B/SPISOMIC/CANRXB",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 68,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 69,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 70,
+      "name": "GPIO11/EPWM6B/SCIRXDB/ECAP4",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 71,
+      "name": "GPIO22/EQEP1S/SPICLKC/SCITXDB",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 72,
+      "name": "GPIO23/EQEP1I/SPISTEC/SCIRXDB",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 73,
+      "name": "TDI",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 74,
+      "name": "TMS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 75,
+      "name": "TCK",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 76,
+      "name": "TDO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 77,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 78,
+      "name": "X\\R\\S\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 79,
+      "name": "GPIO27/ECAP4/EQEP2S/SPISTEB",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 80,
+      "name": "EMU0",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 81,
+      "name": "EMU1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 82,
+      "name": "VDDIO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 83,
+      "name": "GPIO24/ECAP1/EQEP2A/SPISIMOB",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 84,
+      "name": "T\\R\\S\\T\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 85,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 86,
+      "name": "X2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 87,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 88,
+      "name": "X1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 89,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 90,
+      "name": "XCLKIN",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 91,
+      "name": "GPIO25/ECAP2/EQEP2B/SPISOMIB",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 92,
+      "name": "GPIO28/SCIRXDA/T\\Z\\5\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 93,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 94,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 95,
+      "name": "GPIO13/T\\Z\\2\\/CANRXB/SPISOMIB",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 96,
+      "name": "VDD3VFL",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 97,
+      "name": "TEST1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 98,
+      "name": "TEST2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 99,
+      "name": "GPIO26/ECAP3/EQEP2I/SPICLKB",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 100,
+      "name": "GPIO32/SDAA/EPWMSYNCI/A\\D\\C\\S\\O\\C\\A\\O\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "image_id": "ADS41B49_4_1",
+  "width": 945,
+  "height": 945,
+  "total_pins": 48,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": "1",
+      "name": "DRGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "2",
+      "name": "DRVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "3",
+      "name": "OVR_SDOUT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "4",
+      "name": "CLKOUTM",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "5",
+      "name": "CLKOUTP",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "6",
+      "name": "DFS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "7",
+      "name": "OE",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "8",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "9",
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "10",
+      "name": "CLKP",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "11",
+      "name": "CLKM",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "12",
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "13",
+      "name": "VCM",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "14",
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "15",
+      "name": "INP",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "16",
+      "name": "INM",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "17",
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "18",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "19",
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "20",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "21",
+      "name": "AVDD_BUF",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "22",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "23",
+      "name": "RESERVED",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "24",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "25",
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "26",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "27",
+      "name": "SEN",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "28",
+      "name": "SDATA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "29",
+      "name": "SCLK",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "30",
+      "name": "RESET",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "31",
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "32",
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "33",
+      "name": "D0_D1_M",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "34",
+      "name": "D0_D1_P",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "35",
+      "name": "DRVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "36",
+      "name": "DRGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "37",
+      "name": "D2_D3_M",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "38",
+      "name": "D2_D3_P",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "39",
+      "name": "D4_D5_M",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "40",
+      "name": "D4_D5_P",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "41",
+      "name": "D6_D7_M",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "42",
+      "name": "D6_D7_P",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "43",
+      "name": "D8_D9_M",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "44",
+      "name": "D8_D9_P",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "45",
+      "name": "D10_D11_M",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "46",
+      "name": "D10_D11_P",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "47",
+      "name": "D12_D13_M",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "48",
+      "name": "D12_D13_P",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ],
+  "file_name": "ADS41B49_4_1.jpg"
+}

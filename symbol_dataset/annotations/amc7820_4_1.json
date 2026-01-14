@@ -1,0 +1,298 @@
+{
+  "image_id": "amc7820_4_1",
+  "width": 1119,
+  "height": 1149,
+  "total_pins": 48,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": "1",
+      "name": "SW2_OUT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "2",
+      "name": "T_SENSOR_VOLTAGE",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "3",
+      "name": "OPA6_IN–",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "4",
+      "name": "OPA6_OUT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "5",
+      "name": "OPA6_IN+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "6",
+      "name": "DAC0_OUT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "7",
+      "name": "DAC0_OUT_SET",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "8",
+      "name": "OPA2_IN–",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "9",
+      "name": "OPA2_OUT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "10",
+      "name": "OPA2_IN+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "11",
+      "name": "OPA5_IN–",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "12",
+      "name": "OPA5_OUT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "13",
+      "name": "OPA5_IN+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "14",
+      "name": "OPA4_IN–",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "15",
+      "name": "OPA4_OUT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "16",
+      "name": "OPA4_IN+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "17",
+      "name": "DAC2_OUT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "18",
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "19",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "20",
+      "name": "DAC2_OUT_SET",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "21",
+      "name": "DAC1_OUT_SET",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "22",
+      "name": "DAC1_OUT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "23",
+      "name": "OPA3_IN–",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "24",
+      "name": "OPA3_OUT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "25",
+      "name": "OPA3_IN+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "26",
+      "name": "REF_OUT_+2.5V",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "27",
+      "name": "EXT_REF_IN",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "28",
+      "name": "SW1_OUT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "29",
+      "name": "OPA1_IN+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "30",
+      "name": "OPA1_OUT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "31",
+      "name": "OPA1_IN–",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "32",
+      "name": "CH5",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "33",
+      "name": "CH4",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "34",
+      "name": "CH3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "35",
+      "name": "CH2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "36",
+      "name": "R\\E\\S\\E\\T\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "37",
+      "name": "SCLK",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "38",
+      "name": "MOSI",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "39",
+      "name": "MISO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "40",
+      "name": "S\\S\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "41",
+      "name": "BVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "42",
+      "name": "DVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "43",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "44",
+      "name": "THERM_I_OUTPUT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "45",
+      "name": "ISET_RESISTOR",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "46",
+      "name": "OPA7_IN–",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "47",
+      "name": "OPA7_OUT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "48",
+      "name": "OPA7_IN+",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ],
+  "file_name": "amc7820_4_1.jpg"
+}

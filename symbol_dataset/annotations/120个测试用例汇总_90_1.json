@@ -1,0 +1,537 @@
+{
+  "image_id": "120个测试用例汇总_90_1",
+  "width": 801,
+  "height": 624,
+  "total_pins": 48,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VDDR/X",
+      "bbox_pin": null,
+      "bbox_name": [
+        180,
+        28,
+        258,
+        55
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "*MODE/REF0",
+      "bbox_pin": null,
+      "bbox_name": [
+        136,
+        56,
+        259,
+        77
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GNDREF",
+      "bbox_pin": null,
+      "bbox_name": [
+        172,
+        80,
+        260,
+        101
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "X1",
+      "bbox_pin": null,
+      "bbox_name": [
+        227,
+        103,
+        260,
+        122
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "X2",
+      "bbox_pin": null,
+      "bbox_name": [
+        228,
+        125,
+        262,
+        147
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "VDDPCI",
+      "bbox_pin": null,
+      "bbox_name": [
+        184,
+        147,
+        258,
+        169
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "*FS1/PCICLK_F",
+      "bbox_pin": null,
+      "bbox_name": [
+        116,
+        173,
+        260,
+        196
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "*FS2.PCICLK0",
+      "bbox_pin": null,
+      "bbox_name": [
+        129,
+        196,
+        259,
+        215
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "GNDPCI",
+      "bbox_pin": null,
+      "bbox_name": [
+        181,
+        220,
+        259,
+        240
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "PCICLK1",
+      "bbox_pin": null,
+      "bbox_name": [
+        175,
+        241,
+        256,
+        263
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "PCICLK2",
+      "bbox_pin": null,
+      "bbox_name": [
+        172,
+        262,
+        257,
+        284
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "PCICLK3",
+      "bbox_pin": null,
+      "bbox_name": [
+        176,
+        286,
+        258,
+        308
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "PCICLK4",
+      "bbox_pin": null,
+      "bbox_name": [
+        176,
+        310,
+        259,
+        330
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "VDDPCI",
+      "bbox_pin": null,
+      "bbox_name": [
+        181,
+        331,
+        258,
+        353
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "SDRAM12",
+      "bbox_pin": null,
+      "bbox_name": [
+        164,
+        356,
+        258,
+        377
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "GNDSDR",
+      "bbox_pin": null,
+      "bbox_name": [
+        172,
+        378,
+        258,
+        400
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "*CPUSTOP#/SDRAM11",
+      "bbox_pin": null,
+      "bbox_name": [
+        34,
+        400,
+        256,
+        424
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "*PCISTOP#/SDRAM10",
+      "bbox_pin": null,
+      "bbox_name": [
+        42,
+        424,
+        259,
+        449
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "VDDSD/C",
+      "bbox_pin": null,
+      "bbox_name": [
+        169,
+        449,
+        259,
+        469
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "*SDRAM_STOP#/SDRAM9",
+      "bbox_pin": null,
+      "bbox_name": [
+        18,
+        470,
+        260,
+        495
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "*PD#/SDRAM8",
+      "bbox_pin": null,
+      "bbox_name": [
+        119,
+        494,
+        257,
+        514
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "GNDFIX",
+      "bbox_pin": null,
+      "bbox_name": [
+        179,
+        519,
+        259,
+        537
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "I2CSDATA",
+      "bbox_pin": null,
+      "bbox_name": [
+        136,
+        540,
+        259,
+        564
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "SCLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        204,
+        560,
+        260,
+        583
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "SIO/SEL24_14#MHZ*",
+      "bbox_pin": null,
+      "bbox_name": [
+        597,
+        564,
+        779,
+        589
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "48MHZ/FS0*",
+      "bbox_pin": null,
+      "bbox_name": [
+        594,
+        540,
+        705,
+        561
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "GNDSDR",
+      "bbox_pin": null,
+      "bbox_name": [
+        593,
+        516,
+        679,
+        537
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "SDRAM7",
+      "bbox_pin": null,
+      "bbox_name": [
+        594,
+        494,
+        676,
+        516
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "SDRAM6",
+      "bbox_pin": null,
+      "bbox_name": [
+        594,
+        471,
+        674,
+        493
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "VDDSDR",
+      "bbox_pin": null,
+      "bbox_name": [
+        592,
+        449,
+        676,
+        469
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "SDRAM5",
+      "bbox_pin": null,
+      "bbox_name": [
+        592,
+        423,
+        675,
+        446
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "SDRAM4",
+      "bbox_pin": null,
+      "bbox_name": [
+        591,
+        401,
+        676,
+        424
+      ]
+    },
+    {
+      "pin_number": 33,
+      "name": "GNDSDR",
+      "bbox_pin": null,
+      "bbox_name": [
+        593,
+        379,
+        678,
+        401
+      ]
+    },
+    {
+      "pin_number": 34,
+      "name": "SDRAM3",
+      "bbox_pin": null,
+      "bbox_name": [
+        593,
+        355,
+        677,
+        378
+      ]
+    },
+    {
+      "pin_number": 35,
+      "name": "SDRAM2",
+      "bbox_pin": null,
+      "bbox_name": [
+        593,
+        333,
+        676,
+        354
+      ]
+    },
+    {
+      "pin_number": 36,
+      "name": "VDDSDR",
+      "bbox_pin": null,
+      "bbox_name": [
+        594,
+        311,
+        676,
+        331
+      ]
+    },
+    {
+      "pin_number": 37,
+      "name": "SDRAM1",
+      "bbox_pin": null,
+      "bbox_name": [
+        594,
+        287,
+        675,
+        310
+      ]
+    },
+    {
+      "pin_number": 38,
+      "name": "SDRAM0",
+      "bbox_pin": null,
+      "bbox_name": [
+        592,
+        265,
+        675,
+        285
+      ]
+    },
+    {
+      "pin_number": 39,
+      "name": "GNDCPU",
+      "bbox_pin": null,
+      "bbox_name": [
+        594,
+        240,
+        677,
+        264
+      ]
+    },
+    {
+      "pin_number": 40,
+      "name": "CPUCLK3",
+      "bbox_pin": null,
+      "bbox_name": [
+        595,
+        217,
+        683,
+        240
+      ]
+    },
+    {
+      "pin_number": 41,
+      "name": "CPUCLK2",
+      "bbox_pin": null,
+      "bbox_name": [
+        594,
+        194,
+        684,
+        215
+      ]
+    },
+    {
+      "pin_number": 42,
+      "name": "VDDLCPU",
+      "bbox_pin": null,
+      "bbox_name": [
+        593,
+        172,
+        686,
+        192
+      ]
+    },
+    {
+      "pin_number": 43,
+      "name": "CPUCLK1",
+      "bbox_pin": null,
+      "bbox_name": [
+        592,
+        151,
+        684,
+        170
+      ]
+    },
+    {
+      "pin_number": 44,
+      "name": "REF2/CPU2.53.3#*",
+      "bbox_pin": null,
+      "bbox_name": [
+        594,
+        125,
+        771,
+        153
+      ]
+    },
+    {
+      "pin_number": 45,
+      "name": "GNDLAPIC",
+      "bbox_pin": null,
+      "bbox_name": [
+        595,
+        101,
+        692,
+        123
+      ]
+    },
+    {
+      "pin_number": 46,
+      "name": "REF1/SD_SEL#",
+      "bbox_pin": null,
+      "bbox_name": [
+        591,
+        76,
+        740,
+        104
+      ]
+    },
+    {
+      "pin_number": 47,
+      "name": "IOAPIC",
+      "bbox_pin": null,
+      "bbox_name": [
+        593,
+        56,
+        663,
+        78
+      ]
+    },
+    {
+      "pin_number": 48,
+      "name": "VDDLAPIC",
+      "bbox_pin": null,
+      "bbox_name": [
+        595,
+        33,
+        692,
+        54
+      ]
+    }
+  ]
+}

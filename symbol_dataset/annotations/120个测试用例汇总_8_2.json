@@ -1,0 +1,185 @@
+{
+  "image_id": "120个测试用例汇总_8_2",
+  "width": 669,
+  "height": 699,
+  "total_pins": 16,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "A1",
+      "bbox_pin": null,
+      "bbox_name": [
+        32,
+        235,
+        82,
+        269
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "A0",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        317,
+        77,
+        352
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        17,
+        397,
+        81,
+        432
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "AUX",
+      "bbox_pin": null,
+      "bbox_name": [
+        14,
+        483,
+        80,
+        517
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        175,
+        618,
+        214,
+        678
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "XP",
+      "bbox_pin": null,
+      "bbox_name": [
+        272,
+        624,
+        304,
+        673
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "YP",
+      "bbox_pin": null,
+      "bbox_name": [
+        354,
+        625,
+        383,
+        672
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "XN",
+      "bbox_pin": null,
+      "bbox_name": [
+        439,
+        623,
+        474,
+        673
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "YN",
+      "bbox_pin": null,
+      "bbox_name": [
+        585,
+        486,
+        623,
+        522
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        580,
+        399,
+        645,
+        431
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "BAT",
+      "bbox_pin": null,
+      "bbox_name": [
+        590,
+        315,
+        650,
+        348
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        594,
+        231,
+        644,
+        262
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "VREF",
+      "bbox_pin": null,
+      "bbox_name": [
+        439,
+        51,
+        469,
+        124
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "PENIRQ",
+      "bbox_pin": null,
+      "bbox_name": [
+        348,
+        19,
+        381,
+        125
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "SDA",
+      "bbox_pin": null,
+      "bbox_name": [
+        268,
+        67,
+        293,
+        125
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "SCL",
+      "bbox_pin": null,
+      "bbox_name": [
+        189,
+        66,
+        218,
+        124
+      ]
+    }
+  ]
+}

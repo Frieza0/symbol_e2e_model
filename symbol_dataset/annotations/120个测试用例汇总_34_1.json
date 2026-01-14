@@ -1,0 +1,265 @@
+{
+  "image_id": "120个测试用例汇总_34_1",
+  "width": 741,
+  "height": 582,
+  "total_pins": 16,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "CH",
+      "bbox_pin": [
+        176,
+        63,
+        197,
+        83
+      ],
+      "bbox_name": [
+        79,
+        56,
+        140,
+        92
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "DVSS",
+      "bbox_pin": [
+        173,
+        121,
+        197,
+        145
+      ],
+      "bbox_name": [
+        40,
+        117,
+        137,
+        154
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "ROUT",
+      "bbox_pin": [
+        175,
+        182,
+        200,
+        205
+      ],
+      "bbox_name": [
+        41,
+        175,
+        136,
+        215
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "LOUT",
+      "bbox_pin": [
+        174,
+        245,
+        200,
+        265
+      ],
+      "bbox_name": [
+        43,
+        236,
+        136,
+        268
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "AVSS",
+      "bbox_pin": [
+        172,
+        303,
+        199,
+        326
+      ],
+      "bbox_name": [
+        42,
+        295,
+        138,
+        329
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "AVDD",
+      "bbox_pin": [
+        172,
+        363,
+        199,
+        383
+      ],
+      "bbox_name": [
+        40,
+        355,
+        136,
+        390
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "XI/RCLK",
+      "bbox_pin": [
+        174,
+        423,
+        199,
+        443
+      ],
+      "bbox_name": [
+        9,
+        413,
+        136,
+        449
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "XX",
+      "bbox_pin": [
+        175,
+        484,
+        197,
+        504
+      ],
+      "bbox_name": [
+        82,
+        476,
+        135,
+        507
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "ENABLE",
+      "bbox_pin": [
+        535,
+        483,
+        558,
+        504
+      ],
+      "bbox_name": [
+        595,
+        476,
+        732,
+        511
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "AMINN",
+      "bbox_pin": [
+        529,
+        421,
+        564,
+        444
+      ],
+      "bbox_name": [
+        597,
+        411,
+        710,
+        452
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "AMINP",
+      "bbox_pin": [
+        527,
+        362,
+        559,
+        385
+      ],
+      "bbox_name": [
+        595,
+        353,
+        704,
+        388
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "RFINP",
+      "bbox_pin": [
+        526,
+        302,
+        561,
+        323
+      ],
+      "bbox_name": [
+        596,
+        294,
+        697,
+        327
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "RFGND",
+      "bbox_pin": [
+        528,
+        244,
+        562,
+        265
+      ],
+      "bbox_name": [
+        595,
+        233,
+        715,
+        270
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "SCL",
+      "bbox_pin": [
+        527,
+        183,
+        563,
+        206
+      ],
+      "bbox_name": [
+        596,
+        175,
+        672,
+        214
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "SDA",
+      "bbox_pin": [
+        528,
+        123,
+        563,
+        146
+      ],
+      "bbox_name": [
+        590,
+        115,
+        677,
+        153
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "VOL",
+      "bbox_pin": [
+        530,
+        65,
+        566,
+        85
+      ],
+      "bbox_name": [
+        593,
+        54,
+        666,
+        91
+      ]
+    }
+  ]
+}

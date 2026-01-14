@@ -1,0 +1,200 @@
+{
+  "image_id": "chip_0005",
+  "width": 256,
+  "height": 256,
+  "total_pins": 12,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "D4",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        51,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "ISNS",
+      "bbox_pin": [
+        78,
+        68,
+        86,
+        80
+      ],
+      "bbox_name": [
+        33,
+        68,
+        65,
+        80
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "IO",
+      "bbox_pin": [
+        78,
+        104,
+        86,
+        116
+      ],
+      "bbox_name": [
+        33,
+        104,
+        48,
+        116
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "D5",
+      "bbox_pin": [
+        78,
+        140,
+        86,
+        152
+      ],
+      "bbox_name": [
+        33,
+        140,
+        51,
+        152
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "ON",
+      "bbox_pin": [
+        78,
+        176,
+        86,
+        188
+      ],
+      "bbox_name": [
+        33,
+        176,
+        54,
+        188
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "O2",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        52,
+        224
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "A5",
+      "bbox_pin": [
+        173,
+        32,
+        189,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        221,
+        44
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "MISO",
+      "bbox_pin": [
+        173,
+        68,
+        189,
+        80
+      ],
+      "bbox_name": [
+        203,
+        68,
+        239,
+        80
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "D0",
+      "bbox_pin": [
+        173,
+        104,
+        189,
+        116
+      ],
+      "bbox_name": [
+        203,
+        104,
+        221,
+        116
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "BOOT",
+      "bbox_pin": [
+        173,
+        140,
+        181,
+        152
+      ],
+      "bbox_name": [
+        203,
+        140,
+        243,
+        152
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "CLK",
+      "bbox_pin": [
+        173,
+        176,
+        181,
+        188
+      ],
+      "bbox_name": [
+        203,
+        176,
+        231,
+        188
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "OFF",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        232,
+        224
+      ]
+    }
+  ]
+}

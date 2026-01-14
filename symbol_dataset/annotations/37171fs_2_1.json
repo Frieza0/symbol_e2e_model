@@ -1,0 +1,361 @@
+{
+  "image_id": "37171fs_2_1",
+  "width": 561,
+  "height": 544,
+  "total_pins": 32,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VON",
+      "bbox_pin": null,
+      "bbox_name": [
+        46,
+        140,
+        90,
+        168
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "PGOOD",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        176,
+        88,
+        200
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VRNG",
+      "bbox_pin": null,
+      "bbox_name": [
+        39,
+        215,
+        91,
+        243
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "ITH",
+      "bbox_pin": null,
+      "bbox_name": [
+        57,
+        251,
+        90,
+        277
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "SGND",
+      "bbox_pin": null,
+      "bbox_name": [
+        36,
+        289,
+        89,
+        311
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "ION",
+      "bbox_pin": null,
+      "bbox_name": [
+        54,
+        325,
+        90,
+        350
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "VFB",
+      "bbox_pin": null,
+      "bbox_name": [
+        54,
+        362,
+        88,
+        389
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        59,
+        400,
+        89,
+        422
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        135,
+        474,
+        158,
+        507
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "VREF",
+      "bbox_pin": null,
+      "bbox_name": [
+        175,
+        475,
+        199,
+        516
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        210,
+        474,
+        231,
+        501
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        245,
+        471,
+        268,
+        502
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        280,
+        472,
+        305,
+        502
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        321,
+        477,
+        342,
+        504
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "EXTVCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        355,
+        476,
+        382,
+        541
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "VIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        393,
+        476,
+        421,
+        505
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "INTVCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        466,
+        399,
+        534,
+        428
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "DRVCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        467,
+        360,
+        529,
+        390
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "BG",
+      "bbox_pin": null,
+      "bbox_name": [
+        466,
+        323,
+        499,
+        347
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "PGND",
+      "bbox_pin": null,
+      "bbox_name": [
+        464,
+        288,
+        522,
+        314
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "SENSE–",
+      "bbox_pin": null,
+      "bbox_name": [
+        470,
+        249,
+        537,
+        275
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        468,
+        216,
+        495,
+        241
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "SENSE+",
+      "bbox_pin": null,
+      "bbox_name": [
+        470,
+        178,
+        534,
+        203
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "SW",
+      "bbox_pin": null,
+      "bbox_name": [
+        466,
+        140,
+        497,
+        165
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        392,
+        66,
+        415,
+        96
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        358,
+        67,
+        378,
+        96
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "TG",
+      "bbox_pin": null,
+      "bbox_name": [
+        321,
+        71,
+        341,
+        97
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "BOOST",
+      "bbox_pin": null,
+      "bbox_name": [
+        281,
+        33,
+        305,
+        97
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        247,
+        71,
+        269,
+        96
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        209,
+        68,
+        231,
+        95
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "RUN/SS",
+      "bbox_pin": null,
+      "bbox_name": [
+        176,
+        29,
+        195,
+        95
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        137,
+        68,
+        157,
+        96
+      ]
+    }
+  ]
+}

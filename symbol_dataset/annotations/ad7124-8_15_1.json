@@ -1,0 +1,202 @@
+{
+  "image_id": "ad7124-8_15_1",
+  "width": 591,
+  "height": 455,
+  "total_pins": 32,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": "1",
+      "name": "REGCAPD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "2",
+      "name": "IOVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "3",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "4",
+      "name": "AIN0/IOUT/VBIAS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "5",
+      "name": "AIN1/IOUT/VBIAS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "6",
+      "name": "AIN2/IOUT/VBIAS/P1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "7",
+      "name": "AIN3/IOUT/VBIAS/P2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "8",
+      "name": "AIN4/IOUT/VBIAS/P3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "9",
+      "name": "AIN5/IOUT/VBIAS/P4",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "10",
+      "name": "AIN6/IOUT/VBIAS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "11",
+      "name": "AIN7/IOUT/VBIAS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "12",
+      "name": "REFIN1(+)",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "13",
+      "name": "REFIN1(–)",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "14",
+      "name": "AIN8/IOUT/VBIAS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "15",
+      "name": "AIN9/IOUT/VBIAS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "16",
+      "name": "AIN10/IOUT/VBIAS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "17",
+      "name": "AIN11/IOUT/VBIAS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "18",
+      "name": "AIN12/IOUT/VBIAS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "19",
+      "name": "AIN13/IOUT/VBIAS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "20",
+      "name": "AIN14/IOUT/VBIAS/REFIN2(+)",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "21",
+      "name": "AIN15/IOUT/VBIAS/REFIN2(–)",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "22",
+      "name": "REFOUT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "23",
+      "name": "AVSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "24",
+      "name": "REGCAPA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "25",
+      "name": "PSW",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "26",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "27",
+      "name": "S\\Y\\N\\C\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "28",
+      "name": "DOUT/R\\D\\Y\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "29",
+      "name": "DIN",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "30",
+      "name": "SCLK",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "31",
+      "name": "CLK",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "32",
+      "name": "C\\S\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ],
+  "file_name": "ad7124-8_15_1.jpg"
+}

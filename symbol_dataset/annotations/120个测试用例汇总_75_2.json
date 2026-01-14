@@ -1,0 +1,233 @@
+{
+  "image_id": "120个测试用例汇总_75_2",
+  "width": 426,
+  "height": 219,
+  "total_pins": 14,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "CLKIN",
+      "bbox_pin": [
+        93,
+        27,
+        109,
+        47
+      ],
+      "bbox_name": [
+        14,
+        27,
+        74,
+        49
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "1G",
+      "bbox_pin": [
+        92,
+        51,
+        108,
+        70
+      ],
+      "bbox_name": [
+        44,
+        51,
+        72,
+        71
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "Y 0",
+      "bbox_pin": [
+        92,
+        77,
+        108,
+        97
+      ],
+      "bbox_name": [
+        40,
+        79,
+        72,
+        96
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GND",
+      "bbox_pin": [
+        92,
+        103,
+        107,
+        122
+      ],
+      "bbox_name": [
+        27,
+        103,
+        70,
+        122
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VDD",
+      "bbox_pin": [
+        91,
+        126,
+        106,
+        147
+      ],
+      "bbox_name": [
+        29,
+        126,
+        73,
+        147
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "Y 4",
+      "bbox_pin": [
+        92,
+        151,
+        107,
+        170
+      ],
+      "bbox_name": [
+        44,
+        151,
+        72,
+        171
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "GND",
+      "bbox_pin": [
+        92,
+        178,
+        107,
+        200
+      ],
+      "bbox_name": [
+        24,
+        181,
+        72,
+        201
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VDD",
+      "bbox_pin": [
+        331,
+        180,
+        348,
+        199
+      ],
+      "bbox_name": [
+        368,
+        180,
+        413,
+        201
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "Y 5",
+      "bbox_pin": [
+        331,
+        154,
+        349,
+        173
+      ],
+      "bbox_name": [
+        368,
+        152,
+        399,
+        171
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "GND",
+      "bbox_pin": [
+        326,
+        128,
+        349,
+        148
+      ],
+      "bbox_name": [
+        367,
+        127,
+        415,
+        145
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "Y 2",
+      "bbox_pin": [
+        326,
+        103,
+        346,
+        123
+      ],
+      "bbox_name": [
+        368,
+        104,
+        397,
+        123
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "VDD",
+      "bbox_pin": [
+        325,
+        79,
+        349,
+        98
+      ],
+      "bbox_name": [
+        365,
+        77,
+        412,
+        97
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "Y 3",
+      "bbox_pin": [
+        325,
+        52,
+        350,
+        73
+      ],
+      "bbox_name": [
+        367,
+        53,
+        401,
+        73
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "Y 1",
+      "bbox_pin": [
+        324,
+        26,
+        349,
+        47
+      ],
+      "bbox_name": [
+        368,
+        27,
+        398,
+        46
+      ]
+    }
+  ]
+}

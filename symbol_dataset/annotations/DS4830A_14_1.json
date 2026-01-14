@@ -1,0 +1,250 @@
+{
+  "image_id": "DS4830A_14_1",
+  "width": 678,
+  "height": 651,
+  "total_pins": 40,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": "1",
+      "name": "R\\S\\T\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "2",
+      "name": "SCL",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "3",
+      "name": "SDA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "4",
+      "name": "GP0",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "5",
+      "name": "REG274",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "6",
+      "name": "GP1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "7",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "8",
+      "name": "GP2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "9",
+      "name": "GP3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "10",
+      "name": "GP4",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "11",
+      "name": "GP5",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "12",
+      "name": "GP6",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "13",
+      "name": "GP7",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "14",
+      "name": "GP8",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "15",
+      "name": "GP9",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "16",
+      "name": "REG18",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "17",
+      "name": "GP10",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "18",
+      "name": "GP11",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "19",
+      "name": "GP12",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "20",
+      "name": "GP13",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "21",
+      "name": "GP14",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "22",
+      "name": "GP15",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "23",
+      "name": "SHEN",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "24",
+      "name": "MSDIO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "25",
+      "name": "MSDI",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "26",
+      "name": "MSCL",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "27",
+      "name": "MCS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "28",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "29",
+      "name": "PWM9",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "30",
+      "name": "PWM8",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "31",
+      "name": "REFINA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "32",
+      "name": "DACPW0",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "33",
+      "name": "DACPW1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "34",
+      "name": "DACPW2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "35",
+      "name": "DACPW3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "36",
+      "name": "DACPW4",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "37",
+      "name": "DACPW5",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "38",
+      "name": "DACPW6",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "39",
+      "name": "REFINB",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "40",
+      "name": "DACPW7",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ],
+  "file_name": "DS4830A_14_1.jpg"
+}

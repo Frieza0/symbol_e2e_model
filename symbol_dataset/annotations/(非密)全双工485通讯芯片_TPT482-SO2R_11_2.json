@@ -1,0 +1,137 @@
+{
+  "image_id": "(非密)全双工485通讯芯片_TPT482-SO2R_11_2",
+  "width": 471,
+  "height": 339,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VCC",
+      "bbox_pin": [
+        89,
+        67,
+        113,
+        84
+      ],
+      "bbox_name": [
+        8,
+        57,
+        65,
+        85
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "R",
+      "bbox_pin": [
+        89,
+        131,
+        109,
+        150
+      ],
+      "bbox_name": [
+        34,
+        127,
+        66,
+        156
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "D",
+      "bbox_pin": [
+        92,
+        193,
+        110,
+        213
+      ],
+      "bbox_name": [
+        33,
+        186,
+        67,
+        214
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GND",
+      "bbox_pin": [
+        90,
+        258,
+        110,
+        277
+      ],
+      "bbox_name": [
+        7,
+        254,
+        64,
+        285
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "Y",
+      "bbox_pin": [
+        390,
+        258,
+        411,
+        278
+      ],
+      "bbox_name": [
+        434,
+        255,
+        462,
+        285
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "Z",
+      "bbox_pin": [
+        391,
+        194,
+        411,
+        213
+      ],
+      "bbox_name": [
+        436,
+        191,
+        462,
+        219
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "B",
+      "bbox_pin": [
+        391,
+        132,
+        411,
+        151
+      ],
+      "bbox_name": [
+        435,
+        125,
+        462,
+        154
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "A",
+      "bbox_pin": [
+        393,
+        66,
+        414,
+        84
+      ],
+      "bbox_name": [
+        435,
+        62,
+        463,
+        90
+      ]
+    }
+  ]
+}

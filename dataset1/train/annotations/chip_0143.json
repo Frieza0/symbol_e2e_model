@@ -1,0 +1,264 @@
+{
+  "image_id": "chip_0143",
+  "width": 256,
+  "height": 256,
+  "total_pins": 16,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "CANH",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        72,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "TEST",
+      "bbox_pin": [
+        78,
+        57,
+        86,
+        69
+      ],
+      "bbox_name": [
+        33,
+        57,
+        69,
+        69
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "CANL",
+      "bbox_pin": [
+        78,
+        83,
+        86,
+        95
+      ],
+      "bbox_name": [
+        33,
+        83,
+        70,
+        95
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "CTS",
+      "bbox_pin": [
+        78,
+        109,
+        86,
+        121
+      ],
+      "bbox_name": [
+        33,
+        109,
+        61,
+        121
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "I2",
+      "bbox_pin": [
+        78,
+        134,
+        86,
+        146
+      ],
+      "bbox_name": [
+        33,
+        134,
+        45,
+        146
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "D3",
+      "bbox_pin": [
+        78,
+        160,
+        86,
+        172
+      ],
+      "bbox_name": [
+        33,
+        160,
+        51,
+        172
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "A1",
+      "bbox_pin": [
+        78,
+        186,
+        86,
+        198
+      ],
+      "bbox_name": [
+        33,
+        186,
+        51,
+        198
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VINN",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        66,
+        224
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "PD",
+      "bbox_pin": [
+        173,
+        32,
+        189,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        222,
+        44
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "PWR",
+      "bbox_pin": [
+        173,
+        57,
+        189,
+        69
+      ],
+      "bbox_name": [
+        203,
+        57,
+        235,
+        69
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "D0",
+      "bbox_pin": [
+        173,
+        83,
+        189,
+        95
+      ],
+      "bbox_name": [
+        203,
+        83,
+        221,
+        95
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "VINP",
+      "bbox_pin": [
+        173,
+        109,
+        189,
+        121
+      ],
+      "bbox_name": [
+        203,
+        109,
+        235,
+        121
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "TDI",
+      "bbox_pin": [
+        173,
+        134,
+        189,
+        146
+      ],
+      "bbox_name": [
+        203,
+        134,
+        226,
+        146
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "IRQ",
+      "bbox_pin": [
+        173,
+        160,
+        189,
+        172
+      ],
+      "bbox_name": [
+        203,
+        159,
+        228,
+        173
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "SO",
+      "bbox_pin": [
+        173,
+        186,
+        189,
+        198
+      ],
+      "bbox_name": [
+        203,
+        186,
+        223,
+        198
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "D7",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        221,
+        224
+      ]
+    }
+  ]
+}

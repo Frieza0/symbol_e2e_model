@@ -1,0 +1,105 @@
+{
+  "image_id": "120个测试用例汇总_110_2",
+  "width": 534,
+  "height": 288,
+  "total_pins": 6,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "S1",
+      "bbox_pin": [
+        105,
+        77,
+        124,
+        100
+      ],
+      "bbox_name": [
+        40,
+        73,
+        81,
+        103
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VSS",
+      "bbox_pin": [
+        105,
+        155,
+        129,
+        182
+      ],
+      "bbox_name": [
+        23,
+        155,
+        76,
+        188
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VDD",
+      "bbox_pin": [
+        106,
+        215,
+        127,
+        234
+      ],
+      "bbox_name": [
+        20,
+        210,
+        78,
+        240
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "NC",
+      "bbox_pin": [
+        419,
+        217,
+        441,
+        240
+      ],
+      "bbox_name": [
+        469,
+        212,
+        512,
+        243
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VM",
+      "bbox_pin": [
+        422,
+        157,
+        440,
+        180
+      ],
+      "bbox_name": [
+        466,
+        149,
+        514,
+        185
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "S2",
+      "bbox_pin": [
+        422,
+        84,
+        441,
+        111
+      ],
+      "bbox_name": [
+        465,
+        75,
+        505,
+        111
+      ]
+    }
+  ]
+}

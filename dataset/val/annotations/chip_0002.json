@@ -5,130 +5,228 @@
   "total_pins": 14,
   "pins": [
     {
-      "pin_id": 0,
+      "pin_number": 1,
       "name": "ANT",
-      "center": [
-        55,
-        38
+      "bbox_pin": [
+        73,
+        30,
+        88,
+        44
       ],
-      "pin_number": 1
+      "bbox_name": [
+        27,
+        30,
+        62,
+        47
+      ]
     },
     {
-      "pin_id": 1,
+      "pin_number": 2,
       "name": "ADDR",
-      "center": [
-        55,
-        68
+      "bbox_pin": [
+        74,
+        59,
+        88,
+        76
       ],
-      "pin_number": 2
+      "bbox_name": [
+        27,
+        57,
+        73,
+        76
+      ]
     },
     {
-      "pin_id": 2,
+      "pin_number": 3,
       "name": "XTAL1",
-      "center": [
-        55,
-        98
+      "bbox_pin": [
+        74,
+        88,
+        87,
+        106
       ],
-      "pin_number": 3
+      "bbox_name": [
+        29,
+        86,
+        73,
+        106
+      ]
     },
     {
-      "pin_id": 3,
+      "pin_number": 4,
       "name": "D6",
-      "center": [
-        55,
-        128
+      "bbox_pin": [
+        73,
+        119,
+        87,
+        137
       ],
-      "pin_number": 4
+      "bbox_name": [
+        26,
+        117,
+        55,
+        135
+      ]
     },
     {
-      "pin_id": 4,
+      "pin_number": 5,
       "name": "I1",
-      "center": [
-        55,
-        158
+      "bbox_pin": [
+        72,
+        150,
+        87,
+        166
       ],
-      "pin_number": 5
+      "bbox_name": [
+        23,
+        148,
+        49,
+        165
+      ]
     },
     {
-      "pin_id": 5,
+      "pin_number": 6,
       "name": "OFF",
-      "center": [
-        55,
-        188
+      "bbox_pin": [
+        72,
+        178,
+        87,
+        196
       ],
-      "pin_number": 6
+      "bbox_name": [
+        28,
+        179,
+        64,
+        198
+      ]
     },
     {
-      "pin_id": 6,
+      "pin_number": 7,
       "name": "IRQ",
-      "center": [
-        55,
-        218
+      "bbox_pin": [
+        72,
+        208,
+        87,
+        228
       ],
-      "pin_number": 7
+      "bbox_name": [
+        24,
+        208,
+        60,
+        228
+      ]
     },
     {
-      "pin_id": 7,
-      "name": "BIAS",
-      "center": [
-        188,
-        38
-      ],
-      "pin_number": 14
-    },
-    {
-      "pin_id": 8,
-      "name": "SCL",
-      "center": [
-        188,
-        68
-      ],
-      "pin_number": 13
-    },
-    {
-      "pin_id": 9,
-      "name": "DTR",
-      "center": [
-        188,
-        98
-      ],
-      "pin_number": 12
-    },
-    {
-      "pin_id": 10,
-      "name": "MISO",
-      "center": [
-        188,
-        128
-      ],
-      "pin_number": 11
-    },
-    {
-      "pin_id": 11,
-      "name": "OSC",
-      "center": [
-        188,
-        158
-      ],
-      "pin_number": 10
-    },
-    {
-      "pin_id": 12,
-      "name": "OUT",
-      "center": [
-        188,
-        188
-      ],
-      "pin_number": 9
-    },
-    {
-      "pin_id": 13,
+      "pin_number": 8,
       "name": "VEE",
-      "center": [
-        188,
-        218
+      "bbox_pin": [
+        170,
+        209,
+        183,
+        226
       ],
-      "pin_number": 8
+      "bbox_name": [
+        196,
+        207,
+        236,
+        229
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "OUT",
+      "bbox_pin": [
+        169,
+        179,
+        186,
+        199
+      ],
+      "bbox_name": [
+        196,
+        176,
+        238,
+        198
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "OSC",
+      "bbox_pin": [
+        170,
+        148,
+        190,
+        167
+      ],
+      "bbox_name": [
+        196,
+        148,
+        237,
+        167
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "MISO",
+      "bbox_pin": [
+        171,
+        118,
+        190,
+        135
+      ],
+      "bbox_name": [
+        195,
+        117,
+        241,
+        137
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "DTR",
+      "bbox_pin": [
+        171,
+        89,
+        192,
+        106
+      ],
+      "bbox_name": [
+        196,
+        90,
+        236,
+        107
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "SCL",
+      "bbox_pin": [
+        170,
+        60,
+        192,
+        76
+      ],
+      "bbox_name": [
+        198,
+        58,
+        232,
+        79
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "BIAS",
+      "bbox_pin": [
+        171,
+        30,
+        191,
+        44
+      ],
+      "bbox_name": [
+        198,
+        26,
+        238,
+        47
+      ]
     }
   ]
 }

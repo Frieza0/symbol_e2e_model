@@ -1,0 +1,137 @@
+{
+  "image_id": "120个测试用例汇总_15_1",
+  "width": 333,
+  "height": 210,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "IP+",
+      "bbox_pin": [
+        69,
+        49,
+        83,
+        63
+      ],
+      "bbox_name": [
+        20,
+        46,
+        55,
+        65
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "IP+",
+      "bbox_pin": [
+        69,
+        82,
+        83,
+        97
+      ],
+      "bbox_name": [
+        18,
+        78,
+        55,
+        99
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "IP–",
+      "bbox_pin": [
+        69,
+        115,
+        83,
+        129
+      ],
+      "bbox_name": [
+        21,
+        112,
+        55,
+        131
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "IP–",
+      "bbox_pin": [
+        69,
+        148,
+        82,
+        163
+      ],
+      "bbox_name": [
+        22,
+        145,
+        56,
+        164
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "GND",
+      "bbox_pin": [
+        214,
+        148,
+        227,
+        163
+      ],
+      "bbox_name": [
+        242,
+        146,
+        287,
+        166
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "FILTER",
+      "bbox_pin": [
+        214,
+        115,
+        227,
+        130
+      ],
+      "bbox_name": [
+        240,
+        111,
+        307,
+        131
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "VIOUT",
+      "bbox_pin": [
+        214,
+        82,
+        226,
+        97
+      ],
+      "bbox_name": [
+        240,
+        80,
+        301,
+        100
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC",
+      "bbox_pin": [
+        214,
+        48,
+        226,
+        64
+      ],
+      "bbox_name": [
+        240,
+        46,
+        284,
+        64
+      ]
+    }
+  ]
+}

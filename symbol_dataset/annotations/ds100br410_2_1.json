@@ -1,0 +1,298 @@
+{
+  "image_id": "ds100br410_2_1",
+  "width": 801,
+  "height": 858,
+  "total_pins": 48,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": "1",
+      "name": "IN_0+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "2",
+      "name": "IN_0-",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "3",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "4",
+      "name": "IN_1+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "5",
+      "name": "IN_1-",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "6",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "7",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "8",
+      "name": "IN_2+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "9",
+      "name": "IN_2-",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "10",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "11",
+      "name": "IN_3+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "12",
+      "name": "IN_3-",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "13",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "14",
+      "name": "BST_1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "15",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "16",
+      "name": "CS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "17",
+      "name": "SDC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "18",
+      "name": "SDA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "19",
+      "name": "VOD_SEL",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "20",
+      "name": "DE_SEL",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "21",
+      "name": "PIN_MODE",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "22",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "23",
+      "name": "BST_0",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "24",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "25",
+      "name": "OUT_3-",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "26",
+      "name": "OUT_3+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "27",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "28",
+      "name": "OUT_2-",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "29",
+      "name": "OUT_2+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "30",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "31",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "32",
+      "name": "OUT_1-",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "33",
+      "name": "OUT_1+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "34",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "35",
+      "name": "OUT_0-",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "36",
+      "name": "OUT_0+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "37",
+      "name": "BST_2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "38",
+      "name": "EN3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "39",
+      "name": "SD3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "40",
+      "name": "EN2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "41",
+      "name": "SD2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "42",
+      "name": "EN1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "43",
+      "name": "SD1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "44",
+      "name": "EN0",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "45",
+      "name": "SD0",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "46",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "47",
+      "name": "OOB_DIS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "48",
+      "name": "RES",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ],
+  "file_name": "ds100br410_2_1.jpg"
+}

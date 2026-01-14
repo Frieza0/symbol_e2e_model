@@ -1,0 +1,105 @@
+{
+  "image_id": "120个测试用例汇总_48_3",
+  "width": 201,
+  "height": 246,
+  "total_pins": 6,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "FB",
+      "bbox_pin": [
+        39,
+        153,
+        57,
+        175
+      ],
+      "bbox_name": [
+        30,
+        216,
+        63,
+        238
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "EN",
+      "bbox_pin": [
+        90,
+        154,
+        112,
+        177
+      ],
+      "bbox_name": [
+        74,
+        215,
+        123,
+        235
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "SW",
+      "bbox_pin": [
+        146,
+        153,
+        164,
+        176
+      ],
+      "bbox_name": [
+        135,
+        215,
+        173,
+        238
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "SW",
+      "bbox_pin": [
+        146,
+        69,
+        166,
+        94
+      ],
+      "bbox_name": [
+        136,
+        8,
+        175,
+        33
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "EN",
+      "bbox_pin": [
+        95,
+        66,
+        110,
+        92
+      ],
+      "bbox_name": [
+        84,
+        10,
+        116,
+        30
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "NC/PG",
+      "bbox_pin": [
+        38,
+        70,
+        56,
+        93
+      ],
+      "bbox_name": [
+        14,
+        6,
+        80,
+        31
+      ]
+    }
+  ]
+}

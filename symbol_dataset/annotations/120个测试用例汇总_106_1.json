@@ -1,0 +1,185 @@
+{
+  "image_id": "120个测试用例汇总_106_1",
+  "width": 390,
+  "height": 229,
+  "total_pins": 11,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "IN",
+      "bbox_pin": [
+        97,
+        40,
+        112,
+        59
+      ],
+      "bbox_name": [
+        55,
+        36,
+        80,
+        59
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "IN",
+      "bbox_pin": [
+        98,
+        73,
+        112,
+        91
+      ],
+      "bbox_name": [
+        53,
+        70,
+        81,
+        92
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "EN/UV",
+      "bbox_pin": [
+        97,
+        105,
+        111,
+        125
+      ],
+      "bbox_name": [
+        23,
+        103,
+        82,
+        126
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "PG",
+      "bbox_pin": [
+        96,
+        137,
+        113,
+        157
+      ],
+      "bbox_name": [
+        47,
+        137,
+        81,
+        161
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "ILIM",
+      "bbox_pin": [
+        96,
+        172,
+        112,
+        191
+      ],
+      "bbox_name": [
+        37,
+        167,
+        80,
+        195
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "PGFB",
+      "bbox_pin": [
+        283,
+        172,
+        298,
+        191
+      ],
+      "bbox_name": [
+        311,
+        170,
+        362,
+        193
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "SET",
+      "bbox_pin": [
+        282,
+        136,
+        297,
+        157
+      ],
+      "bbox_name": [
+        309,
+        136,
+        353,
+        163
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GND",
+      "bbox_pin": [
+        281,
+        105,
+        299,
+        125
+      ],
+      "bbox_name": [
+        311,
+        102,
+        356,
+        127
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "OUTS",
+      "bbox_pin": [
+        282,
+        72,
+        297,
+        91
+      ],
+      "bbox_name": [
+        310,
+        69,
+        364,
+        93
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "OUT",
+      "bbox_pin": [
+        279,
+        40,
+        299,
+        58
+      ],
+      "bbox_name": [
+        309,
+        37,
+        353,
+        61
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "GND",
+      "bbox_pin": [
+        184,
+        87,
+        210,
+        110
+      ],
+      "bbox_name": [
+        174,
+        115,
+        221,
+        136
+      ]
+    }
+  ]
+}

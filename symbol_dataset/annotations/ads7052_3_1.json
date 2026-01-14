@@ -1,0 +1,58 @@
+{
+  "image_id": "ads7052_3_1",
+  "width": 594,
+  "height": 621,
+  "total_pins": 8,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": "1",
+      "name": "C\\S\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "2",
+      "name": "SDO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "3",
+      "name": "SCLK",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "4",
+      "name": "DVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "5",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "6",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "7",
+      "name": "AINP",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "8",
+      "name": "AINM",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ],
+  "file_name": "ads7052_3_1.jpg"
+}

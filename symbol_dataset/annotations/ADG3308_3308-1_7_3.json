@@ -1,0 +1,130 @@
+{
+  "image_id": "ADG3308_3308-1_7_3",
+  "width": 400,
+  "height": 441,
+  "total_pins": 20,
+  "package_type": "circle",
+  "pins": [
+    {
+      "pin_number": "a1",
+      "name": "VCCY",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "a2",
+      "name": "Y1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "a3",
+      "name": "A1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "a4",
+      "name": "VCCA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "b1",
+      "name": "Y2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "b2",
+      "name": "Y3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "b3",
+      "name": "A3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "b4",
+      "name": "A2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "c1",
+      "name": "Y4",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "c2",
+      "name": "Y5",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "c3",
+      "name": "A5",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "c4",
+      "name": "A4",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "d1",
+      "name": "Y6",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "d2",
+      "name": "Y7",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "d3",
+      "name": "A7",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "d4",
+      "name": "A6",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "e1",
+      "name": "Y8",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "e2",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "e3",
+      "name": "EN",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "e4",
+      "name": "A8",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ],
+  "file_name": "ADG3308_3308-1_7_3.jpg"
+}

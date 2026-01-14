@@ -1,0 +1,232 @@
+{
+  "image_id": "chip_0098",
+  "width": 256,
+  "height": 256,
+  "total_pins": 14,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "NO",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        54,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "O2",
+      "bbox_pin": [
+        78,
+        62,
+        86,
+        74
+      ],
+      "bbox_name": [
+        33,
+        62,
+        52,
+        74
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "A4",
+      "bbox_pin": [
+        78,
+        92,
+        86,
+        104
+      ],
+      "bbox_name": [
+        33,
+        92,
+        51,
+        104
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "DQ",
+      "bbox_pin": [
+        78,
+        122,
+        86,
+        134
+      ],
+      "bbox_name": [
+        33,
+        121,
+        54,
+        135
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "A2",
+      "bbox_pin": [
+        78,
+        152,
+        86,
+        164
+      ],
+      "bbox_name": [
+        33,
+        152,
+        51,
+        164
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "D5",
+      "bbox_pin": [
+        78,
+        182,
+        86,
+        194
+      ],
+      "bbox_name": [
+        33,
+        182,
+        51,
+        194
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "TRIG",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        67,
+        224
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "A3",
+      "bbox_pin": [
+        173,
+        32,
+        189,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        221,
+        44
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "CS",
+      "bbox_pin": [
+        173,
+        62,
+        189,
+        74
+      ],
+      "bbox_name": [
+        203,
+        62,
+        222,
+        74
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "TXD",
+      "bbox_pin": [
+        173,
+        92,
+        189,
+        104
+      ],
+      "bbox_name": [
+        203,
+        92,
+        231,
+        104
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "FLAG",
+      "bbox_pin": [
+        173,
+        122,
+        189,
+        134
+      ],
+      "bbox_name": [
+        203,
+        122,
+        240,
+        134
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "OUT",
+      "bbox_pin": [
+        173,
+        152,
+        189,
+        164
+      ],
+      "bbox_name": [
+        203,
+        152,
+        233,
+        164
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "A5",
+      "bbox_pin": [
+        173,
+        182,
+        181,
+        194
+      ],
+      "bbox_name": [
+        203,
+        182,
+        221,
+        194
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "SI",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        216,
+        224
+      ]
+    }
+  ]
+}

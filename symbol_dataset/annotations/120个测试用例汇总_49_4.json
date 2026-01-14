@@ -1,0 +1,137 @@
+{
+  "image_id": "120个测试用例汇总_49_4",
+  "width": 477,
+  "height": 264,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "BOOT",
+      "bbox_pin": [
+        150,
+        45,
+        164,
+        65
+      ],
+      "bbox_name": [
+        21,
+        42,
+        87,
+        69
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VIN",
+      "bbox_pin": [
+        150,
+        97,
+        164,
+        119
+      ],
+      "bbox_name": [
+        41,
+        92,
+        87,
+        126
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "PH",
+      "bbox_pin": [
+        146,
+        151,
+        165,
+        175
+      ],
+      "bbox_name": [
+        49,
+        149,
+        86,
+        174
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GND",
+      "bbox_pin": [
+        148,
+        204,
+        165,
+        225
+      ],
+      "bbox_name": [
+        36,
+        203,
+        87,
+        228
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VSENSE",
+      "bbox_pin": [
+        290,
+        201,
+        306,
+        225
+      ],
+      "bbox_name": [
+        364,
+        201,
+        453,
+        226
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "COMP",
+      "bbox_pin": [
+        291,
+        148,
+        306,
+        172
+      ],
+      "bbox_name": [
+        364,
+        149,
+        434,
+        173
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "EN",
+      "bbox_pin": [
+        288,
+        96,
+        306,
+        117
+      ],
+      "bbox_name": [
+        363,
+        95,
+        397,
+        119
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "SS",
+      "bbox_pin": [
+        290,
+        43,
+        305,
+        66
+      ],
+      "bbox_name": [
+        362,
+        41,
+        398,
+        66
+      ]
+    }
+  ]
+}

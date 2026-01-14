@@ -1,0 +1,232 @@
+{
+  "image_id": "chip_0239",
+  "width": 256,
+  "height": 256,
+  "total_pins": 14,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "LIN",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        55,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "CANH",
+      "bbox_pin": [
+        78,
+        62,
+        86,
+        74
+      ],
+      "bbox_name": [
+        33,
+        62,
+        72,
+        74
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "MOSI",
+      "bbox_pin": [
+        78,
+        92,
+        86,
+        104
+      ],
+      "bbox_name": [
+        33,
+        92,
+        69,
+        104
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "CANL",
+      "bbox_pin": [
+        78,
+        122,
+        86,
+        134
+      ],
+      "bbox_name": [
+        33,
+        122,
+        70,
+        134
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "ALERT",
+      "bbox_pin": [
+        78,
+        152,
+        86,
+        164
+      ],
+      "bbox_name": [
+        33,
+        152,
+        79,
+        164
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SHDN",
+      "bbox_pin": [
+        78,
+        182,
+        86,
+        194
+      ],
+      "bbox_name": [
+        33,
+        182,
+        72,
+        194
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "VREF",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        70,
+        224
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "DSR",
+      "bbox_pin": [
+        173,
+        32,
+        189,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        232,
+        44
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "SDI",
+      "bbox_pin": [
+        173,
+        62,
+        189,
+        74
+      ],
+      "bbox_name": [
+        203,
+        62,
+        226,
+        74
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "D5",
+      "bbox_pin": [
+        173,
+        92,
+        189,
+        104
+      ],
+      "bbox_name": [
+        203,
+        92,
+        221,
+        104
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "PWR",
+      "bbox_pin": [
+        173,
+        122,
+        189,
+        134
+      ],
+      "bbox_name": [
+        203,
+        122,
+        235,
+        134
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "RST",
+      "bbox_pin": [
+        173,
+        152,
+        189,
+        164
+      ],
+      "bbox_name": [
+        203,
+        152,
+        231,
+        164
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "TCK",
+      "bbox_pin": [
+        173,
+        182,
+        181,
+        194
+      ],
+      "bbox_name": [
+        203,
+        182,
+        232,
+        194
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "BOOT",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        243,
+        224
+      ]
+    }
+  ]
+}

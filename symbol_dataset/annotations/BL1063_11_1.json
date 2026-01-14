@@ -1,0 +1,346 @@
+{
+  "image_id": "BL1063_11_1",
+  "width": 975,
+  "height": 1008,
+  "total_pins": 56,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": "1",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "2",
+      "name": "VIND+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "3",
+      "name": "VIND-",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "4",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "5",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "6",
+      "name": "CLK-",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "7",
+      "name": "CLK+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "8",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "9",
+      "name": "SYSREF+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "10",
+      "name": "SYSREF-",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "11",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "12",
+      "name": "DVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "13",
+      "name": "DVSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "14",
+      "name": "NIC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "15",
+      "name": "NIC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "16",
+      "name": "SYNCINB+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "17",
+      "name": "SYNCINB-",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "18",
+      "name": "DRVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "19",
+      "name": "SERDOUT3-",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "20",
+      "name": "SERDOUT3+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "21",
+      "name": "SERDOUT2+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "22",
+      "name": "SERDOUT2-",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "23",
+      "name": "DRVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "24",
+      "name": "SERDOUT1-",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "25",
+      "name": "SERDOUT1+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "26",
+      "name": "SERDOUT0+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "27",
+      "name": "SERDOUT0-",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "28",
+      "name": "DRVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "29",
+      "name": "NIC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "30",
+      "name": "NIC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "31",
+      "name": "DVSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "32",
+      "name": "DVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "33",
+      "name": "SVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "34",
+      "name": "DNC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "35",
+      "name": "SCLK",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "36",
+      "name": "SDIO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "37",
+      "name": "CSB",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "38",
+      "name": "PDWN",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "39",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "40",
+      "name": "VINA-",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "41",
+      "name": "VINA+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "42",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "43",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "44",
+      "name": "VINB+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "45",
+      "name": "VINB-",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "46",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "47",
+      "name": "RBIAS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "48",
+      "name": "SENSE",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "49",
+      "name": "VREF",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "50",
+      "name": "VCM",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "51",
+      "name": "SYNC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "52",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "53",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "54",
+      "name": "VINC-",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "55",
+      "name": "VINC+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "56",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ],
+  "file_name": "BL1063_11_1.jpg"
+}

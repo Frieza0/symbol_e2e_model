@@ -1,0 +1,185 @@
+{
+  "image_id": "AD8330_6_1",
+  "width": 414,
+  "height": 398,
+  "total_pins": 16,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VPSI",
+      "bbox_pin": null,
+      "bbox_name": [
+        31,
+        129,
+        80,
+        154
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "INHI",
+      "bbox_pin": null,
+      "bbox_name": [
+        35,
+        161,
+        82,
+        185
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "INLO",
+      "bbox_pin": null,
+      "bbox_name": [
+        29,
+        197,
+        79,
+        219
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "MODE",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        230,
+        80,
+        257
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VDBS",
+      "bbox_pin": null,
+      "bbox_name": [
+        138,
+        318,
+        160,
+        371
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "CMGN",
+      "bbox_pin": null,
+      "bbox_name": [
+        173,
+        315,
+        195,
+        375
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "COMM",
+      "bbox_pin": null,
+      "bbox_name": [
+        206,
+        317,
+        230,
+        377
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VMAG",
+      "bbox_pin": null,
+      "bbox_name": [
+        242,
+        318,
+        264,
+        374
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "CMOP",
+      "bbox_pin": null,
+      "bbox_name": [
+        335,
+        232,
+        393,
+        253
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "OPLO",
+      "bbox_pin": null,
+      "bbox_name": [
+        333,
+        197,
+        391,
+        218
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "OPHI",
+      "bbox_pin": null,
+      "bbox_name": [
+        333,
+        165,
+        382,
+        187
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "VPSO",
+      "bbox_pin": null,
+      "bbox_name": [
+        333,
+        132,
+        388,
+        153
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "CNTR",
+      "bbox_pin": null,
+      "bbox_name": [
+        241,
+        7,
+        262,
+        62
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "VPOS",
+      "bbox_pin": null,
+      "bbox_name": [
+        207,
+        9,
+        227,
+        60
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "OFST",
+      "bbox_pin": null,
+      "bbox_name": [
+        173,
+        11,
+        194,
+        60
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "ENBL",
+      "bbox_pin": null,
+      "bbox_name": [
+        137,
+        4,
+        162,
+        60
+      ]
+    }
+  ]
+}

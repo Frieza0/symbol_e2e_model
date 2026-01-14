@@ -1,0 +1,200 @@
+{
+  "image_id": "chip_0267",
+  "width": 256,
+  "height": 256,
+  "total_pins": 12,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "SDA",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        62,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "OE",
+      "bbox_pin": [
+        78,
+        68,
+        86,
+        80
+      ],
+      "bbox_name": [
+        33,
+        68,
+        53,
+        80
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "D4",
+      "bbox_pin": [
+        78,
+        104,
+        86,
+        116
+      ],
+      "bbox_name": [
+        33,
+        104,
+        51,
+        116
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VREF",
+      "bbox_pin": [
+        78,
+        140,
+        86,
+        152
+      ],
+      "bbox_name": [
+        33,
+        140,
+        70,
+        152
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "A6",
+      "bbox_pin": [
+        78,
+        176,
+        86,
+        188
+      ],
+      "bbox_name": [
+        33,
+        176,
+        51,
+        188
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "IO",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        48,
+        224
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "SI",
+      "bbox_pin": [
+        173,
+        32,
+        189,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        216,
+        44
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "RTS",
+      "bbox_pin": [
+        173,
+        68,
+        189,
+        80
+      ],
+      "bbox_name": [
+        203,
+        68,
+        231,
+        80
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "RST",
+      "bbox_pin": [
+        173,
+        104,
+        189,
+        116
+      ],
+      "bbox_name": [
+        203,
+        104,
+        231,
+        116
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "PWR",
+      "bbox_pin": [
+        173,
+        140,
+        181,
+        152
+      ],
+      "bbox_name": [
+        203,
+        140,
+        235,
+        152
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "COM",
+      "bbox_pin": [
+        173,
+        176,
+        181,
+        188
+      ],
+      "bbox_name": [
+        203,
+        176,
+        236,
+        188
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "ALERT",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        249,
+        224
+      ]
+    }
+  ]
+}

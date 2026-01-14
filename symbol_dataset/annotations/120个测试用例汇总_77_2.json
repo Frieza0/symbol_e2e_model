@@ -1,0 +1,89 @@
+{
+  "image_id": "120个测试用例汇总_77_2",
+  "width": 294,
+  "height": 174,
+  "total_pins": 5,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "N.C.",
+      "bbox_pin": [
+        120,
+        31,
+        131,
+        47
+      ],
+      "bbox_name": [
+        14,
+        28,
+        65,
+        52
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "A",
+      "bbox_pin": [
+        117,
+        76,
+        134,
+        102
+      ],
+      "bbox_name": [
+        42,
+        76,
+        63,
+        100
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GND",
+      "bbox_pin": [
+        117,
+        126,
+        132,
+        150
+      ],
+      "bbox_name": [
+        12,
+        122,
+        62,
+        149
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "Y",
+      "bbox_pin": [
+        183,
+        125,
+        202,
+        147
+      ],
+      "bbox_name": [
+        247,
+        126,
+        266,
+        148
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VCC",
+      "bbox_pin": [
+        186,
+        29,
+        201,
+        48
+      ],
+      "bbox_name": [
+        248,
+        24,
+        286,
+        55
+      ]
+    }
+  ]
+}

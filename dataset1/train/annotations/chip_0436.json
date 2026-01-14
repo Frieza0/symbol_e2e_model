@@ -1,0 +1,232 @@
+{
+  "image_id": "chip_0436",
+  "width": 256,
+  "height": 256,
+  "total_pins": 14,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "IRQ",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        31,
+        58,
+        45
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "CTS",
+      "bbox_pin": [
+        78,
+        62,
+        86,
+        74
+      ],
+      "bbox_name": [
+        33,
+        62,
+        61,
+        74
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "SCL",
+      "bbox_pin": [
+        78,
+        92,
+        86,
+        104
+      ],
+      "bbox_name": [
+        33,
+        92,
+        60,
+        104
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VINN",
+      "bbox_pin": [
+        78,
+        122,
+        86,
+        134
+      ],
+      "bbox_name": [
+        33,
+        122,
+        66,
+        134
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "RTS",
+      "bbox_pin": [
+        78,
+        152,
+        86,
+        164
+      ],
+      "bbox_name": [
+        33,
+        152,
+        61,
+        164
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SDO",
+      "bbox_pin": [
+        78,
+        182,
+        86,
+        194
+      ],
+      "bbox_name": [
+        33,
+        182,
+        63,
+        194
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "A2",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        51,
+        224
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "PWR",
+      "bbox_pin": [
+        173,
+        32,
+        189,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        235,
+        44
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "DCD",
+      "bbox_pin": [
+        173,
+        62,
+        189,
+        74
+      ],
+      "bbox_name": [
+        203,
+        62,
+        233,
+        74
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "TDI",
+      "bbox_pin": [
+        173,
+        92,
+        189,
+        104
+      ],
+      "bbox_name": [
+        203,
+        92,
+        226,
+        104
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "O2",
+      "bbox_pin": [
+        173,
+        122,
+        189,
+        134
+      ],
+      "bbox_name": [
+        203,
+        122,
+        222,
+        134
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "ALERT",
+      "bbox_pin": [
+        173,
+        152,
+        189,
+        164
+      ],
+      "bbox_name": [
+        203,
+        152,
+        249,
+        164
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "GPIO",
+      "bbox_pin": [
+        173,
+        182,
+        181,
+        194
+      ],
+      "bbox_name": [
+        203,
+        182,
+        238,
+        194
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "CANL",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        240,
+        224
+      ]
+    }
+  ]
+}

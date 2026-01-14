@@ -1,0 +1,1564 @@
+{
+  "image_id": "ADI-ADV7604-BGAgrid_10_1",
+  "width": 1488,
+  "height": 1227,
+  "total_pins": 259,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": "A1",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A2",
+      "name": "RXD_2–",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A3",
+      "name": "RXD_1–",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A4",
+      "name": "RXD_0–",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A5",
+      "name": "RXD_C–",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A6",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A7",
+      "name": "RXC_2–",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A8",
+      "name": "RXC_1–",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A9",
+      "name": "RXC_0–",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A10",
+      "name": "RXC_C–",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A11",
+      "name": "TVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A12",
+      "name": "RXB_2–",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A13",
+      "name": "RXB_1–",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A14",
+      "name": "RXB_0–",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A15",
+      "name": "RXB_C–",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A16",
+      "name": "TVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A17",
+      "name": "TVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A18",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B1",
+      "name": "RXD_5V",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B2",
+      "name": "RXD_2+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B3",
+      "name": "RXD_1+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B4",
+      "name": "RXD_0+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B5",
+      "name": "RXD_C+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B6",
+      "name": "TVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B7",
+      "name": "RXC_2+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B8",
+      "name": "RXC_1+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B9",
+      "name": "RXC_0+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B10",
+      "name": "RXC_C+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B11",
+      "name": "TVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B12",
+      "name": "RXB_2+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B13",
+      "name": "RXB_1+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B14",
+      "name": "RXB_0+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B15",
+      "name": "RXB_C+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B16",
+      "name": "TVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B17",
+      "name": "RXA_2+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B18",
+      "name": "RXA_2–",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C1",
+      "name": "P\\W\\R\\D\\N\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C2",
+      "name": "TVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C3",
+      "name": "TVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C4",
+      "name": "CVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C5",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C6",
+      "name": "TVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C7",
+      "name": "TVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C8",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C9",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C10",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C11",
+      "name": "TVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C12",
+      "name": "TVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C13",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C14",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C15",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C16",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C17",
+      "name": "RXA_1+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C18",
+      "name": "RXA_1–",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D1",
+      "name": "RXC_5V",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D2",
+      "name": "RXB_5V",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D3",
+      "name": "RXA_5V",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D4",
+      "name": "DDCD_SDA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D5",
+      "name": "DDCD_SCL",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D6",
+      "name": "DDCC_SDA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D7",
+      "name": "DDCC_SCL",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D8",
+      "name": "CVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D9",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D10",
+      "name": "RTERM",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D11",
+      "name": "CVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D12",
+      "name": "DDCB_SDA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D13",
+      "name": "DDCB_SCL",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D14",
+      "name": "DDCA_SCL",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D15",
+      "name": "DDCA_SDA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D16",
+      "name": "TVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D17",
+      "name": "RXA_0+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D18",
+      "name": "RXA_0–",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E1",
+      "name": "DE",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E2",
+      "name": "CEC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E3",
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E4",
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E15",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E16",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E17",
+      "name": "RXA_C+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E18",
+      "name": "RXA_C–",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F1",
+      "name": "HS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F2",
+      "name": "VS_FIELD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F3",
+      "name": "EP_MISO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F4",
+      "name": "EP_MOSI",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F15",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F16",
+      "name": "CVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F17",
+      "name": "TVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F18",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G1",
+      "name": "P1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G2",
+      "name": "P0",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G3",
+      "name": "EP_CS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G4",
+      "name": "EP_SCK",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G7",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G8",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G9",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G10",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G11",
+      "name": "PVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G12",
+      "name": "PVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G15",
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G16",
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G17",
+      "name": "TEST1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G18",
+      "name": "TEST2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H1",
+      "name": "P3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H2",
+      "name": "P2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H3",
+      "name": "RAW_VSYNC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H4",
+      "name": "RAW_SYNC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H7",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H8",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H9",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H10",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H11",
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H12",
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H15",
+      "name": "XTALP",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H16",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H17",
+      "name": "REFN",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H18",
+      "name": "REFP",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J1",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J2",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J3",
+      "name": "MCLKOUT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J4",
+      "name": "SPDIF/DSD0A/DST",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J7",
+      "name": "DVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J8",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J9",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J10",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J11",
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J12",
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J15",
+      "name": "XTALN",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J16",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J17",
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J18",
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K1",
+      "name": "P4",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K2",
+      "name": "P5",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K3",
+      "name": "LRCLK/DSD2B/DST_FF",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K4",
+      "name": "SCLK/DST_CLK",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K7",
+      "name": "DVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K8",
+      "name": "DVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K9",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K10",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K11",
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K12",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K15",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K16",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K17",
+      "name": "AIN11",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K18",
+      "name": "AIN12",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L1",
+      "name": "P6",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L2",
+      "name": "P7",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L3",
+      "name": "I2S3/DSD2A/HBR3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L4",
+      "name": "I2S2/DSD1B/HBR2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L7",
+      "name": "DVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L8",
+      "name": "DVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L9",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L10",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L11",
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L12",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L15",
+      "name": "TRI8/VS_IN2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L16",
+      "name": "TRI7/HS_IN2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L17",
+      "name": "SYNC4",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L18",
+      "name": "AIN10",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M1",
+      "name": "P8",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M2",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M3",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M4",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M7",
+      "name": "DVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M8",
+      "name": "DVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M9",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M10",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M11",
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M12",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M15",
+      "name": "TRI5",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M16",
+      "name": "TRI6",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M17",
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M18",
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N1",
+      "name": "P9",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N2",
+      "name": "DVDDIO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N3",
+      "name": "DVDDIO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N4",
+      "name": "DVDDIO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N15",
+      "name": "TRI3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N16",
+      "name": "TRI4",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N17",
+      "name": "AIN8",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N18",
+      "name": "AIN9",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P1",
+      "name": "P10",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P2",
+      "name": "P11",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P3",
+      "name": "I2S0/DSD0B/HBR0",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P4",
+      "name": "I2S1/DSD1A/HBR1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P15",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P16",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P17",
+      "name": "SYNC3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P18",
+      "name": "AIN7",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R1",
+      "name": "P12",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R2",
+      "name": "P13",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R3",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R4",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R5",
+      "name": "SCL",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R6",
+      "name": "DVDDIO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R7",
+      "name": "INT1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R9",
+      "name": "DVDDIO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R10",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R11",
+      "name": "FB_OUT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R12",
+      "name": "SHARED_EDID",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R13",
+      "name": "HS_IN1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R14",
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R15",
+      "name": "Y_MUX_OUT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R16",
+      "name": "TRI2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R17",
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R18",
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T1",
+      "name": "P14",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T2",
+      "name": "P15",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T3",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T4",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T5",
+      "name": "P25",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T6",
+      "name": "DVDDIO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T7",
+      "name": "SDA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T8",
+      "name": "SYNC_OUT/INT2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T9",
+      "name": "DVDDIO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T10",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T11",
+      "name": "R\\E\\S\\E\\T\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T12",
+      "name": "AVLINK",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T13",
+      "name": "VS_IN1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T14",
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T15",
+      "name": "TRI1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T16",
+      "name": "SYNC2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T17",
+      "name": "AIN5",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T18",
+      "name": "AIN6",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U1",
+      "name": "P16",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U2",
+      "name": "P17",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U3",
+      "name": "P19",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U4",
+      "name": "P21",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U5",
+      "name": "P23",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U6",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U7",
+      "name": "P26",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U8",
+      "name": "DCLKIN",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U9",
+      "name": "P28",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U10",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U11",
+      "name": "P31",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U12",
+      "name": "P33",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U13",
+      "name": "P35",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U14",
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U15",
+      "name": "SYNC1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U16",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U17",
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U18",
+      "name": "AIN4",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V1",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V2",
+      "name": "P18",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V3",
+      "name": "P20",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V4",
+      "name": "P22",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V5",
+      "name": "P24",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V6",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V7",
+      "name": "P27",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V8",
+      "name": "LLC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V9",
+      "name": "P29",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V10",
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V11",
+      "name": "P30",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V12",
+      "name": "P32",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V13",
+      "name": "P34",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V14",
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V15",
+      "name": "AIN1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V16",
+      "name": "AIN2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V17",
+      "name": "AIN3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V18",
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ],
+  "file_name": "ADI-ADV7604-BGAgrid_10_1.jpg"
+}

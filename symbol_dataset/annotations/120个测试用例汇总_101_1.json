@@ -1,0 +1,105 @@
+{
+  "image_id": "120个测试用例汇总_101_1",
+  "width": 528,
+  "height": 306,
+  "total_pins": 6,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "CSN",
+      "bbox_pin": [
+        105,
+        68,
+        124,
+        92
+      ],
+      "bbox_name": [
+        18,
+        62,
+        81,
+        98
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VIN",
+      "bbox_pin": [
+        100,
+        139,
+        124,
+        165
+      ],
+      "bbox_name": [
+        35,
+        135,
+        84,
+        172
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VIN",
+      "bbox_pin": [
+        99,
+        205,
+        123,
+        232
+      ],
+      "bbox_name": [
+        17,
+        201,
+        81,
+        238
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VCC",
+      "bbox_pin": [
+        396,
+        208,
+        423,
+        236
+      ],
+      "bbox_name": [
+        444,
+        205,
+        506,
+        239
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "DRV",
+      "bbox_pin": [
+        397,
+        141,
+        418,
+        168
+      ],
+      "bbox_name": [
+        442,
+        137,
+        504,
+        177
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "GND",
+      "bbox_pin": [
+        396,
+        71,
+        420,
+        95
+      ],
+      "bbox_name": [
+        444,
+        66,
+        506,
+        102
+      ]
+    }
+  ]
+}

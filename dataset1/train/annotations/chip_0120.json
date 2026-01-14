@@ -1,0 +1,168 @@
+{
+  "image_id": "chip_0120",
+  "width": 256,
+  "height": 256,
+  "total_pins": 10,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "D7",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        51,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "5V",
+      "bbox_pin": [
+        78,
+        77,
+        86,
+        89
+      ],
+      "bbox_name": [
+        33,
+        77,
+        51,
+        89
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "COMP",
+      "bbox_pin": [
+        78,
+        122,
+        86,
+        134
+      ],
+      "bbox_name": [
+        33,
+        122,
+        75,
+        134
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "CTS",
+      "bbox_pin": [
+        78,
+        167,
+        86,
+        179
+      ],
+      "bbox_name": [
+        33,
+        167,
+        61,
+        179
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "AOUT",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        73,
+        224
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "BOOT",
+      "bbox_pin": [
+        173,
+        32,
+        189,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        243,
+        44
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "DO",
+      "bbox_pin": [
+        173,
+        77,
+        181,
+        89
+      ],
+      "bbox_name": [
+        203,
+        77,
+        224,
+        89
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "CANL",
+      "bbox_pin": [
+        173,
+        122,
+        181,
+        134
+      ],
+      "bbox_name": [
+        203,
+        122,
+        240,
+        134
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "ALERT",
+      "bbox_pin": [
+        173,
+        167,
+        181,
+        179
+      ],
+      "bbox_name": [
+        203,
+        167,
+        249,
+        179
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "VPP",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        230,
+        224
+      ]
+    }
+  ]
+}

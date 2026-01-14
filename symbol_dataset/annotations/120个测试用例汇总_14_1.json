@@ -1,0 +1,137 @@
+{
+  "image_id": "120个测试用例汇总_14_1",
+  "width": 693,
+  "height": 480,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "RO",
+      "bbox_pin": [
+        98,
+        117,
+        121,
+        152
+      ],
+      "bbox_name": [
+        13,
+        108,
+        76,
+        161
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "R\\E\\",
+      "bbox_pin": [
+        94,
+        187,
+        123,
+        226
+      ],
+      "bbox_name": [
+        12,
+        176,
+        76,
+        237
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "DE",
+      "bbox_pin": [
+        97,
+        257,
+        123,
+        291
+      ],
+      "bbox_name": [
+        14,
+        244,
+        75,
+        301
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "DI",
+      "bbox_pin": [
+        97,
+        327,
+        123,
+        362
+      ],
+      "bbox_name": [
+        24,
+        320,
+        72,
+        371
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "GND",
+      "bbox_pin": [
+        548,
+        325,
+        574,
+        360
+      ],
+      "bbox_name": [
+        595,
+        323,
+        676,
+        372
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "A",
+      "bbox_pin": [
+        546,
+        256,
+        576,
+        294
+      ],
+      "bbox_name": [
+        595,
+        250,
+        634,
+        302
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "B",
+      "bbox_pin": [
+        547,
+        187,
+        572,
+        221
+      ],
+      "bbox_name": [
+        595,
+        182,
+        630,
+        228
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC",
+      "bbox_pin": [
+        548,
+        119,
+        572,
+        153
+      ],
+      "bbox_name": [
+        595,
+        111,
+        677,
+        160
+      ]
+    }
+  ]
+}

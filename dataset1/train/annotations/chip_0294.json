@@ -1,0 +1,200 @@
+{
+  "image_id": "chip_0294",
+  "width": 256,
+  "height": 256,
+  "total_pins": 12,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "IRQ",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        31,
+        58,
+        45
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "RXD",
+      "bbox_pin": [
+        78,
+        68,
+        86,
+        80
+      ],
+      "bbox_name": [
+        33,
+        68,
+        62,
+        80
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "OUT",
+      "bbox_pin": [
+        78,
+        104,
+        86,
+        116
+      ],
+      "bbox_name": [
+        33,
+        104,
+        63,
+        116
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "LIN",
+      "bbox_pin": [
+        78,
+        140,
+        86,
+        152
+      ],
+      "bbox_name": [
+        33,
+        140,
+        55,
+        152
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "AIN",
+      "bbox_pin": [
+        78,
+        176,
+        86,
+        188
+      ],
+      "bbox_name": [
+        33,
+        176,
+        57,
+        188
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "ALERT",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        79,
+        224
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "SENSE",
+      "bbox_pin": [
+        173,
+        32,
+        189,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        249,
+        44
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "A4",
+      "bbox_pin": [
+        173,
+        68,
+        189,
+        80
+      ],
+      "bbox_name": [
+        203,
+        68,
+        221,
+        80
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "A3",
+      "bbox_pin": [
+        173,
+        104,
+        189,
+        116
+      ],
+      "bbox_name": [
+        203,
+        104,
+        221,
+        116
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "D4",
+      "bbox_pin": [
+        173,
+        140,
+        181,
+        152
+      ],
+      "bbox_name": [
+        203,
+        140,
+        221,
+        152
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "TX",
+      "bbox_pin": [
+        173,
+        176,
+        181,
+        188
+      ],
+      "bbox_name": [
+        203,
+        176,
+        222,
+        188
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "VIN",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        226,
+        224
+      ]
+    }
+  ]
+}

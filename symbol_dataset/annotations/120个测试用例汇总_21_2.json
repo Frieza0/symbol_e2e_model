@@ -1,0 +1,137 @@
+{
+  "image_id": "120个测试用例汇总_21_2",
+  "width": 276,
+  "height": 198,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "OSCO",
+      "bbox_pin": [
+        35,
+        43,
+        48,
+        55
+      ],
+      "bbox_name": [
+        59,
+        38,
+        127,
+        62
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "OSCI",
+      "bbox_pin": [
+        37,
+        76,
+        47,
+        90
+      ],
+      "bbox_name": [
+        58,
+        73,
+        115,
+        95
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VDD",
+      "bbox_pin": [
+        37,
+        111,
+        49,
+        123
+      ],
+      "bbox_name": [
+        61,
+        102,
+        110,
+        127
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "LED",
+      "bbox_pin": [
+        36,
+        146,
+        47,
+        155
+      ],
+      "bbox_name": [
+        58,
+        139,
+        106,
+        161
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VSS",
+      "bbox_pin": [
+        229,
+        143,
+        241,
+        154
+      ],
+      "bbox_name": [
+        171,
+        139,
+        219,
+        163
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "K1",
+      "bbox_pin": [
+        230,
+        110,
+        240,
+        121
+      ],
+      "bbox_name": [
+        186,
+        107,
+        215,
+        127
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "K2",
+      "bbox_pin": [
+        229,
+        77,
+        239,
+        88
+      ],
+      "bbox_name": [
+        183,
+        70,
+        217,
+        94
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "OUT1",
+      "bbox_pin": [
+        229,
+        42,
+        241,
+        54
+      ],
+      "bbox_name": [
+        155,
+        32,
+        212,
+        60
+      ]
+    }
+  ]
+}

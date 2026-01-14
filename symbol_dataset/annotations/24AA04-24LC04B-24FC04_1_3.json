@@ -1,0 +1,64 @@
+{
+  "image_id": "24AA04-24LC04B-24FC04_1_3",
+  "width": 321,
+  "height": 184,
+  "total_pins": 5,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "SCL",
+      "bbox_pin": null,
+      "bbox_name": [
+        13,
+        21,
+        64,
+        47
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        77,
+        64,
+        100
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "SDA",
+      "bbox_pin": null,
+      "bbox_name": [
+        7,
+        129,
+        64,
+        154
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        277,
+        125,
+        319,
+        155
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "WP",
+      "bbox_pin": null,
+      "bbox_name": [
+        278,
+        20,
+        319,
+        44
+      ]
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+{
+  "image_id": "120个测试用例汇总_61_1",
+  "width": 525,
+  "height": 513,
+  "total_pins": 28,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "OPFI",
+      "bbox_pin": [
+        190,
+        36,
+        212,
+        58
+      ],
+      "bbox_name": [
+        46,
+        38,
+        96,
+        63
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VCC",
+      "bbox_pin": [
+        185,
+        69,
+        210,
+        85
+      ],
+      "bbox_name": [
+        57,
+        66,
+        95,
+        89
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "PSOUT",
+      "bbox_pin": [
+        185,
+        103,
+        208,
+        121
+      ],
+      "bbox_name": [
+        31,
+        100,
+        98,
+        123
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "PSOUTB",
+      "bbox_pin": [
+        184,
+        139,
+        209,
+        152
+      ],
+      "bbox_name": [
+        21,
+        131,
+        96,
+        153
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VEE",
+      "bbox_pin": [
+        182,
+        164,
+        209,
+        182
+      ],
+      "bbox_name": [
+        48,
+        159,
+        94,
+        183
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "TANKS",
+      "bbox_pin": [
+        182,
+        201,
+        208,
+        212
+      ],
+      "bbox_name": [
+        31,
+        191,
+        97,
+        215
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "TANKSB",
+      "bbox_pin": [
+        183,
+        230,
+        213,
+        246
+      ],
+      "bbox_name": [
+        27,
+        224,
+        93,
+        250
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VEE",
+      "bbox_pin": [
+        178,
+        259,
+        207,
+        273
+      ],
+      "bbox_name": [
+        52,
+        258,
+        94,
+        279
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "TANKV",
+      "bbox_pin": [
+        184,
+        293,
+        204,
+        308
+      ],
+      "bbox_name": [
+        30,
+        289,
+        94,
+        311
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "TANKVB",
+      "bbox_pin": [
+        185,
+        322,
+        203,
+        342
+      ],
+      "bbox_name": [
+        19,
+        319,
+        96,
+        342
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "VEE",
+      "bbox_pin": [
+        181,
+        354,
+        201,
+        375
+      ],
+      "bbox_name": [
+        52,
+        352,
+        100,
+        376
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "NC",
+      "bbox_pin": [
+        179,
+        388,
+        203,
+        406
+      ],
+      "bbox_name": [
+        63,
+        382,
+        99,
+        405
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "VCC",
+      "bbox_pin": [
+        178,
+        419,
+        198,
+        436
+      ],
+      "bbox_name": [
+        50,
+        419,
+        96,
+        438
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "OPFQ",
+      "bbox_pin": [
+        173,
+        450,
+        199,
+        466
+      ],
+      "bbox_name": [
+        36,
+        447,
+        93,
+        472
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "VEE",
+      "bbox_pin": [
+        347,
+        453,
+        370,
+        472
+      ],
+      "bbox_name": [
+        438,
+        448,
+        490,
+        472
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "IPFQ",
+      "bbox_pin": [
+        350,
+        423,
+        368,
+        437
+      ],
+      "bbox_name": [
+        438,
+        420,
+        497,
+        443
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "VEE",
+      "bbox_pin": [
+        346,
+        390,
+        366,
+        406
+      ],
+      "bbox_name": [
+        442,
+        385,
+        487,
+        409
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "QOUT",
+      "bbox_pin": [
+        345,
+        357,
+        371,
+        372
+      ],
+      "bbox_name": [
+        442,
+        353,
+        499,
+        377
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "AGC",
+      "bbox_pin": [
+        346,
+        327,
+        367,
+        341
+      ],
+      "bbox_name": [
+        448,
+        317,
+        496,
+        342
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "VEE",
+      "bbox_pin": [
+        345,
+        297,
+        373,
+        310
+      ],
+      "bbox_name": [
+        446,
+        293,
+        486,
+        312
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "RFB",
+      "bbox_pin": [
+        341,
+        266,
+        367,
+        278
+      ],
+      "bbox_name": [
+        446,
+        263,
+        490,
+        283
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "RF",
+      "bbox_pin": [
+        343,
+        231,
+        364,
+        245
+      ],
+      "bbox_name": [
+        446,
+        233,
+        479,
+        252
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "VCC",
+      "bbox_pin": [
+        343,
+        202,
+        362,
+        214
+      ],
+      "bbox_name": [
+        443,
+        196,
+        486,
+        216
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "LOSEL",
+      "bbox_pin": [
+        344,
+        169,
+        364,
+        185
+      ],
+      "bbox_name": [
+        442,
+        163,
+        503,
+        185
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "IOUT",
+      "bbox_pin": [
+        347,
+        133,
+        366,
+        147
+      ],
+      "bbox_name": [
+        438,
+        132,
+        485,
+        157
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "VEE",
+      "bbox_pin": [
+        352,
+        106,
+        368,
+        121
+      ],
+      "bbox_name": [
+        446,
+        102,
+        485,
+        122
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "IPFI",
+      "bbox_pin": [
+        348,
+        76,
+        366,
+        88
+      ],
+      "bbox_name": [
+        442,
+        67,
+        485,
+        90
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "VEE",
+      "bbox_pin": [
+        346,
+        37,
+        375,
+        54
+      ],
+      "bbox_name": [
+        444,
+        41,
+        484,
+        63
+      ]
+    }
+  ]
+}

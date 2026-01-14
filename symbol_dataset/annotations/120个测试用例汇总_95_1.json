@@ -1,0 +1,493 @@
+{
+  "image_id": "120个测试用例汇总_95_1",
+  "width": 684,
+  "height": 660,
+  "total_pins": 44,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "A4",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        26,
+        60,
+        50
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "A3",
+      "bbox_pin": null,
+      "bbox_name": [
+        28,
+        55,
+        58,
+        79
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "A2",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        82,
+        58,
+        105
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "A1",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        110,
+        56,
+        133
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "A0",
+      "bbox_pin": null,
+      "bbox_name": [
+        29,
+        139,
+        58,
+        158
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "C\\S\\1\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        14,
+        162,
+        57,
+        188
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "I/O0",
+      "bbox_pin": null,
+      "bbox_name": [
+        15,
+        196,
+        56,
+        217
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "I/O1",
+      "bbox_pin": null,
+      "bbox_name": [
+        13,
+        221,
+        55,
+        243
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "I/O2",
+      "bbox_pin": null,
+      "bbox_name": [
+        16,
+        248,
+        56,
+        272
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "I/O3",
+      "bbox_pin": null,
+      "bbox_name": [
+        12,
+        279,
+        58,
+        300
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        10,
+        305,
+        56,
+        328
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        9,
+        334,
+        56,
+        354
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "I/O4",
+      "bbox_pin": null,
+      "bbox_name": [
+        15,
+        361,
+        57,
+        385
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "I/O5",
+      "bbox_pin": null,
+      "bbox_name": [
+        15,
+        392,
+        56,
+        412
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "I/O6",
+      "bbox_pin": null,
+      "bbox_name": [
+        15,
+        419,
+        57,
+        440
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "I/O7",
+      "bbox_pin": null,
+      "bbox_name": [
+        14,
+        443,
+        56,
+        468
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "W\\E\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        17,
+        470,
+        58,
+        495
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "A16",
+      "bbox_pin": null,
+      "bbox_name": [
+        17,
+        499,
+        57,
+        524
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "A15",
+      "bbox_pin": null,
+      "bbox_name": [
+        17,
+        533,
+        58,
+        553
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "A14",
+      "bbox_pin": null,
+      "bbox_name": [
+        17,
+        558,
+        58,
+        582
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "A13",
+      "bbox_pin": null,
+      "bbox_name": [
+        17,
+        585,
+        58,
+        607
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "A12",
+      "bbox_pin": null,
+      "bbox_name": [
+        17,
+        614,
+        57,
+        636
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        617,
+        615,
+        653,
+        639
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "A11",
+      "bbox_pin": null,
+      "bbox_name": [
+        614,
+        586,
+        654,
+        609
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "A10",
+      "bbox_pin": null,
+      "bbox_name": [
+        615,
+        560,
+        656,
+        581
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "A9",
+      "bbox_pin": null,
+      "bbox_name": [
+        617,
+        528,
+        647,
+        555
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "A8",
+      "bbox_pin": null,
+      "bbox_name": [
+        614,
+        503,
+        646,
+        524
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        617,
+        475,
+        650,
+        498
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "I/O8",
+      "bbox_pin": null,
+      "bbox_name": [
+        616,
+        445,
+        658,
+        471
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "I/O9",
+      "bbox_pin": null,
+      "bbox_name": [
+        615,
+        417,
+        658,
+        439
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "I/O10",
+      "bbox_pin": null,
+      "bbox_name": [
+        615,
+        389,
+        668,
+        413
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "I/O11",
+      "bbox_pin": null,
+      "bbox_name": [
+        617,
+        361,
+        668,
+        385
+      ]
+    },
+    {
+      "pin_number": 33,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        618,
+        332,
+        661,
+        356
+      ]
+    },
+    {
+      "pin_number": 34,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        615,
+        305,
+        665,
+        328
+      ]
+    },
+    {
+      "pin_number": 35,
+      "name": "I/O12",
+      "bbox_pin": null,
+      "bbox_name": [
+        615,
+        277,
+        670,
+        300
+      ]
+    },
+    {
+      "pin_number": 36,
+      "name": "I/O13",
+      "bbox_pin": null,
+      "bbox_name": [
+        618,
+        249,
+        670,
+        271
+      ]
+    },
+    {
+      "pin_number": 37,
+      "name": "I/O14",
+      "bbox_pin": null,
+      "bbox_name": [
+        617,
+        223,
+        669,
+        242
+      ]
+    },
+    {
+      "pin_number": 38,
+      "name": "I/O15",
+      "bbox_pin": null,
+      "bbox_name": [
+        617,
+        193,
+        669,
+        217
+      ]
+    },
+    {
+      "pin_number": 39,
+      "name": "L\\B\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        615,
+        162,
+        647,
+        186
+      ]
+    },
+    {
+      "pin_number": 40,
+      "name": "U\\B\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        617,
+        133,
+        648,
+        157
+      ]
+    },
+    {
+      "pin_number": 41,
+      "name": "O\\E\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        616,
+        108,
+        650,
+        130
+      ]
+    },
+    {
+      "pin_number": 42,
+      "name": "A7",
+      "bbox_pin": null,
+      "bbox_name": [
+        618,
+        83,
+        646,
+        104
+      ]
+    },
+    {
+      "pin_number": 43,
+      "name": "A6",
+      "bbox_pin": null,
+      "bbox_name": [
+        617,
+        56,
+        648,
+        75
+      ]
+    },
+    {
+      "pin_number": 44,
+      "name": "A5",
+      "bbox_pin": null,
+      "bbox_name": [
+        618,
+        25,
+        645,
+        51
+      ]
+    }
+  ]
+}

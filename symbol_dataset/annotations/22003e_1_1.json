@@ -1,0 +1,75 @@
+{
+  "image_id": "22003e_1_1",
+  "width": 378,
+  "height": 180,
+  "total_pins": 6,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VIN+",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        32,
+        79,
+        64
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        75,
+        70,
+        109
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "SCL",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        120,
+        78,
+        145
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "SDA",
+      "bbox_pin": null,
+      "bbox_name": [
+        297,
+        116,
+        358,
+        144
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        296,
+        75,
+        348,
+        108
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "VIN-",
+      "bbox_pin": null,
+      "bbox_name": [
+        294,
+        34,
+        349,
+        65
+      ]
+    }
+  ]
+}

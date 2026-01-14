@@ -1,0 +1,329 @@
+{
+  "image_id": "120个测试用例汇总_73_1",
+  "width": 345,
+  "height": 471,
+  "total_pins": 20,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "CPVDD",
+      "bbox_pin": [
+        60,
+        34,
+        71,
+        56
+      ],
+      "bbox_name": [
+        77,
+        34,
+        140,
+        56
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "CAPP",
+      "bbox_pin": [
+        61,
+        77,
+        73,
+        97
+      ],
+      "bbox_name": [
+        74,
+        77,
+        128,
+        97
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "CPGND",
+      "bbox_pin": [
+        61,
+        121,
+        71,
+        139
+      ],
+      "bbox_name": [
+        77,
+        116,
+        143,
+        140
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "CAPM",
+      "bbox_pin": [
+        60,
+        163,
+        72,
+        179
+      ],
+      "bbox_name": [
+        75,
+        163,
+        131,
+        183
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VNEG",
+      "bbox_pin": [
+        60,
+        204,
+        73,
+        225
+      ],
+      "bbox_name": [
+        75,
+        203,
+        132,
+        225
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "OUTL",
+      "bbox_pin": [
+        59,
+        246,
+        73,
+        267
+      ],
+      "bbox_name": [
+        77,
+        245,
+        129,
+        266
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "OUTR",
+      "bbox_pin": [
+        62,
+        285,
+        71,
+        306
+      ],
+      "bbox_name": [
+        77,
+        285,
+        132,
+        312
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "AVDD",
+      "bbox_pin": [
+        62,
+        331,
+        73,
+        350
+      ],
+      "bbox_name": [
+        78,
+        329,
+        129,
+        353
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "AGND",
+      "bbox_pin": [
+        62,
+        372,
+        73,
+        393
+      ],
+      "bbox_name": [
+        75,
+        372,
+        132,
+        393
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "DEMP",
+      "bbox_pin": [
+        62,
+        416,
+        81,
+        434
+      ],
+      "bbox_name": [
+        84,
+        412,
+        142,
+        436
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "FLT",
+      "bbox_pin": [
+        264,
+        414,
+        283,
+        435
+      ],
+      "bbox_name": [
+        221,
+        413,
+        259,
+        437
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "SCK",
+      "bbox_pin": [
+        262,
+        372,
+        285,
+        392
+      ],
+      "bbox_name": [
+        213,
+        373,
+        260,
+        393
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "BCK",
+      "bbox_pin": [
+        264,
+        333,
+        285,
+        351
+      ],
+      "bbox_name": [
+        218,
+        333,
+        261,
+        349
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "DIN",
+      "bbox_pin": [
+        262,
+        287,
+        285,
+        308
+      ],
+      "bbox_name": [
+        224,
+        288,
+        260,
+        306
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "LRCK",
+      "bbox_pin": [
+        264,
+        244,
+        285,
+        267
+      ],
+      "bbox_name": [
+        206,
+        243,
+        261,
+        266
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "FMT",
+      "bbox_pin": [
+        263,
+        204,
+        286,
+        224
+      ],
+      "bbox_name": [
+        217,
+        203,
+        260,
+        223
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "XSMT",
+      "bbox_pin": [
+        262,
+        161,
+        286,
+        180
+      ],
+      "bbox_name": [
+        206,
+        162,
+        258,
+        180
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "LDOO",
+      "bbox_pin": [
+        262,
+        119,
+        285,
+        139
+      ],
+      "bbox_name": [
+        203,
+        119,
+        259,
+        140
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "DGND",
+      "bbox_pin": [
+        262,
+        75,
+        286,
+        96
+      ],
+      "bbox_name": [
+        202,
+        77,
+        259,
+        98
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "DVDD",
+      "bbox_pin": [
+        262,
+        33,
+        285,
+        54
+      ],
+      "bbox_name": [
+        206,
+        34,
+        259,
+        55
+      ]
+    }
+  ]
+}

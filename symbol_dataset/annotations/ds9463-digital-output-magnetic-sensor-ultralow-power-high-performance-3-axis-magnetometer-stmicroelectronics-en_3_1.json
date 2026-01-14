@@ -1,0 +1,82 @@
+{
+  "image_id": "ds9463-digital-output-magnetic-sensor-ultralow-power-high-performance-3-axis-magnetometer-stmicroelectronics-en_3_1",
+  "width": 522,
+  "height": 537,
+  "total_pins": 12,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": "1",
+      "name": "SCL/SPC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "2",
+      "name": "RES",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "3",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "4",
+      "name": "C1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "5",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "6",
+      "name": "VDD_IO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "7",
+      "name": "INT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "8",
+      "name": "DRDY",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "9",
+      "name": "SD0/SA1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "10",
+      "name": "CS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "11",
+      "name": "SDA/SDI/SDO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "12",
+      "name": "RES",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ],
+  "file_name": "ds9463-digital-output-magnetic-sensor-ultralow-power-high-performance-3-axis-magnetometer-stmicroelectronics-en_3_1.jpg"
+}

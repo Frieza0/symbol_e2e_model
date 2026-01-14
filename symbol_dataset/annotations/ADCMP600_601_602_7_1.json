@@ -1,0 +1,46 @@
+{
+  "image_id": "ADCMP600_601_602_7_1",
+  "width": 366,
+  "height": 202,
+  "total_pins": 6,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": "1",
+      "name": "Q",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "2",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "3",
+      "name": "VP",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "4",
+      "name": "VN",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "5",
+      "name": "LE/HYS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "6",
+      "name": "VCCI/VCCO",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ],
+  "file_name": "ADCMP600_601_602_7_1.jpg"
+}

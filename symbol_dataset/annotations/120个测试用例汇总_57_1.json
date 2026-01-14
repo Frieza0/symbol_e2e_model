@@ -1,0 +1,393 @@
+{
+  "image_id": "120个测试用例汇总_57_1",
+  "width": 549,
+  "height": 708,
+  "total_pins": 24,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "NC",
+      "bbox_pin": [
+        73,
+        226,
+        99,
+        252
+      ],
+      "bbox_name": [
+        9,
+        225,
+        50,
+        252
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "NC",
+      "bbox_pin": [
+        77,
+        276,
+        102,
+        300
+      ],
+      "bbox_name": [
+        7,
+        277,
+        55,
+        303
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "NC",
+      "bbox_pin": [
+        77,
+        327,
+        99,
+        349
+      ],
+      "bbox_name": [
+        8,
+        325,
+        53,
+        354
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "NC",
+      "bbox_pin": [
+        77,
+        370,
+        101,
+        397
+      ],
+      "bbox_name": [
+        6,
+        375,
+        48,
+        401
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "NC",
+      "bbox_pin": [
+        75,
+        422,
+        104,
+        448
+      ],
+      "bbox_name": [
+        11,
+        421,
+        51,
+        450
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "NC",
+      "bbox_pin": [
+        75,
+        470,
+        102,
+        495
+      ],
+      "bbox_name": [
+        11,
+        471,
+        46,
+        497
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "AUX_CL",
+      "bbox_pin": [
+        133,
+        527,
+        164,
+        552
+      ],
+      "bbox_name": [
+        131,
+        572,
+        166,
+        673
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VDDIO",
+      "bbox_pin": [
+        182,
+        527,
+        210,
+        551
+      ],
+      "bbox_name": [
+        178,
+        569,
+        211,
+        655
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "SDO / AD0",
+      "bbox_pin": [
+        233,
+        527,
+        259,
+        554
+      ],
+      "bbox_name": [
+        231,
+        575,
+        256,
+        695
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "REGOUT",
+      "bbox_pin": [
+        281,
+        526,
+        307,
+        552
+      ],
+      "bbox_name": [
+        280,
+        575,
+        308,
+        678
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "FSYNC",
+      "bbox_pin": [
+        330,
+        524,
+        355,
+        557
+      ],
+      "bbox_name": [
+        328,
+        575,
+        355,
+        661
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "INT",
+      "bbox_pin": [
+        378,
+        523,
+        403,
+        553
+      ],
+      "bbox_name": [
+        374,
+        575,
+        405,
+        619
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "VDD",
+      "bbox_pin": [
+        439,
+        471,
+        465,
+        495
+      ],
+      "bbox_name": [
+        483,
+        468,
+        534,
+        497
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "NC",
+      "bbox_pin": [
+        437,
+        421,
+        466,
+        444
+      ],
+      "bbox_name": [
+        481,
+        424,
+        518,
+        448
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "NC",
+      "bbox_pin": [
+        437,
+        373,
+        470,
+        397
+      ],
+      "bbox_name": [
+        480,
+        375,
+        520,
+        404
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "NC",
+      "bbox_pin": [
+        436,
+        329,
+        468,
+        349
+      ],
+      "bbox_name": [
+        479,
+        323,
+        524,
+        354
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "NC",
+      "bbox_pin": [
+        437,
+        276,
+        468,
+        303
+      ],
+      "bbox_name": [
+        479,
+        279,
+        519,
+        303
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "GND",
+      "bbox_pin": [
+        436,
+        230,
+        469,
+        252
+      ],
+      "bbox_name": [
+        482,
+        222,
+        534,
+        252
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "RESV",
+      "bbox_pin": [
+        376,
+        163,
+        398,
+        190
+      ],
+      "bbox_name": [
+        372,
+        72,
+        400,
+        143
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "RESV",
+      "bbox_pin": [
+        326,
+        157,
+        352,
+        190
+      ],
+      "bbox_name": [
+        320,
+        71,
+        354,
+        140
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "AUX_DA",
+      "bbox_pin": [
+        276,
+        156,
+        303,
+        191
+      ],
+      "bbox_name": [
+        274,
+        46,
+        304,
+        140
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "NCS",
+      "bbox_pin": [
+        228,
+        160,
+        253,
+        189
+      ],
+      "bbox_name": [
+        224,
+        87,
+        254,
+        145
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "SCL / SCLK",
+      "bbox_pin": [
+        181,
+        160,
+        206,
+        190
+      ],
+      "bbox_name": [
+        174,
+        8,
+        206,
+        138
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "SDA / SDI",
+      "bbox_pin": [
+        130,
+        156,
+        157,
+        191
+      ],
+      "bbox_name": [
+        123,
+        29,
+        157,
+        139
+      ]
+    }
+  ]
+}

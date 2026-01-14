@@ -1,0 +1,339 @@
+{
+  "image_id": "A5M35TG140-TC_2_1",
+  "width": 822,
+  "height": 624,
+  "total_pins": 30,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        75,
+        230,
+        132,
+        257
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "RFin",
+      "bbox_pin": null,
+      "bbox_name": [
+        79,
+        265,
+        135,
+        294
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        75,
+        300,
+        131,
+        331
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VDP1",
+      "bbox_pin": null,
+      "bbox_name": [
+        75,
+        335,
+        133,
+        370
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "N.C.",
+      "bbox_pin": null,
+      "bbox_name": [
+        79,
+        372,
+        131,
+        401
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "VDP21",
+      "bbox_pin": null,
+      "bbox_name": [
+        244,
+        546,
+        274,
+        615
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        283,
+        544,
+        305,
+        602
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        318,
+        542,
+        340,
+        603
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        353,
+        547,
+        376,
+        605
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        388,
+        547,
+        413,
+        601
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        455,
+        549,
+        488,
+        603
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        499,
+        548,
+        522,
+        602
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        533,
+        550,
+        558,
+        603
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        572,
+        545,
+        596,
+        601
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        606,
+        549,
+        629,
+        602
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        752,
+        375,
+        800,
+        399
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "RFout",
+      "bbox_pin": null,
+      "bbox_name": [
+        745,
+        343,
+        810,
+        368
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        748,
+        300,
+        802,
+        328
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        748,
+        267,
+        803,
+        292
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        745,
+        231,
+        801,
+        255
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "VDC21",
+      "bbox_pin": null,
+      "bbox_name": [
+        607,
+        16,
+        636,
+        80
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        571,
+        24,
+        595,
+        76
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "N.C.",
+      "bbox_pin": null,
+      "bbox_name": [
+        536,
+        33,
+        561,
+        76
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "VDC1",
+      "bbox_pin": null,
+      "bbox_name": [
+        501,
+        28,
+        528,
+        79
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        460,
+        24,
+        490,
+        76
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "VGC2",
+      "bbox_pin": null,
+      "bbox_name": [
+        392,
+        22,
+        421,
+        80
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "VGC1",
+      "bbox_pin": null,
+      "bbox_name": [
+        357,
+        23,
+        385,
+        78
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        318,
+        27,
+        345,
+        79
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "VGP1",
+      "bbox_pin": null,
+      "bbox_name": [
+        286,
+        24,
+        310,
+        76
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "VGP2",
+      "bbox_pin": null,
+      "bbox_name": [
+        249,
+        23,
+        275,
+        77
+      ]
+    }
+  ]
+}

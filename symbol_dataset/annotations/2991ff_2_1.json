@@ -1,0 +1,185 @@
+{
+  "image_id": "2991ff_2_1",
+  "width": 372,
+  "height": 203,
+  "total_pins": 16,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "V1",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        11,
+        47,
+        31
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "V2",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        32,
+        48,
+        53
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "V3",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        56,
+        49,
+        77
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "V4",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        79,
+        47,
+        100
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "V5",
+      "bbox_pin": null,
+      "bbox_name": [
+        22,
+        101,
+        48,
+        122
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "V6",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        125,
+        47,
+        144
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "V7",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        147,
+        47,
+        167
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "V8",
+      "bbox_pin": null,
+      "bbox_name": [
+        22,
+        169,
+        50,
+        191
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        297,
+        172,
+        339,
+        191
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "SDA",
+      "bbox_pin": null,
+      "bbox_name": [
+        297,
+        148,
+        338,
+        168
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "SCL",
+      "bbox_pin": null,
+      "bbox_name": [
+        298,
+        127,
+        334,
+        145
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "PWM",
+      "bbox_pin": null,
+      "bbox_name": [
+        296,
+        102,
+        345,
+        124
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "ADR0",
+      "bbox_pin": null,
+      "bbox_name": [
+        297,
+        78,
+        350,
+        100
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "ADR1",
+      "bbox_pin": null,
+      "bbox_name": [
+        297,
+        57,
+        344,
+        77
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "ADR2",
+      "bbox_pin": null,
+      "bbox_name": [
+        298,
+        35,
+        349,
+        53
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        297,
+        13,
+        332,
+        34
+      ]
+    }
+  ]
+}

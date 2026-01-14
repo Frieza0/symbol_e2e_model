@@ -1,0 +1,625 @@
+{
+  "image_id": "120个测试用例汇总_89_1",
+  "width": 573,
+  "height": 849,
+  "total_pins": 56,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VDDPCI",
+      "bbox_pin": null,
+      "bbox_name": [
+        42,
+        12,
+        133,
+        39
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "GNDPCI",
+      "bbox_pin": null,
+      "bbox_name": [
+        44,
+        46,
+        133,
+        67
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "PCICLK0",
+      "bbox_pin": null,
+      "bbox_name": [
+        36,
+        73,
+        134,
+        96
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "PCICLK1",
+      "bbox_pin": null,
+      "bbox_name": [
+        34,
+        103,
+        133,
+        126
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "PCICLK2",
+      "bbox_pin": null,
+      "bbox_name": [
+        36,
+        132,
+        134,
+        157
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "PCICLK3",
+      "bbox_pin": null,
+      "bbox_name": [
+        36,
+        163,
+        134,
+        185
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "GNDPCI",
+      "bbox_pin": null,
+      "bbox_name": [
+        40,
+        191,
+        134,
+        214
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VDDPCI",
+      "bbox_pin": null,
+      "bbox_name": [
+        43,
+        219,
+        133,
+        247
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "PCICLK_F0",
+      "bbox_pin": null,
+      "bbox_name": [
+        7,
+        250,
+        134,
+        276
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "PCICLK_F1",
+      "bbox_pin": null,
+      "bbox_name": [
+        6,
+        278,
+        134,
+        305
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "PCICLK_F2",
+      "bbox_pin": null,
+      "bbox_name": [
+        11,
+        305,
+        135,
+        335
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "VDD48",
+      "bbox_pin": null,
+      "bbox_name": [
+        56,
+        337,
+        134,
+        363
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "48MHZ",
+      "bbox_pin": null,
+      "bbox_name": [
+        55,
+        366,
+        135,
+        393
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "GND48",
+      "bbox_pin": null,
+      "bbox_name": [
+        52,
+        393,
+        134,
+        421
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "VDDSRC",
+      "bbox_pin": null,
+      "bbox_name": [
+        34,
+        423,
+        134,
+        450
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "SRCCLKT0",
+      "bbox_pin": null,
+      "bbox_name": [
+        12,
+        454,
+        134,
+        479
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "SRCCLKC0",
+      "bbox_pin": null,
+      "bbox_name": [
+        13,
+        481,
+        133,
+        510
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "SRCCLKC1",
+      "bbox_pin": null,
+      "bbox_name": [
+        12,
+        514,
+        132,
+        539
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "SRCCLKT1",
+      "bbox_pin": null,
+      "bbox_name": [
+        14,
+        543,
+        133,
+        571
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "GNDSRC",
+      "bbox_pin": null,
+      "bbox_name": [
+        36,
+        571,
+        134,
+        599
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "SRCCLKT2",
+      "bbox_pin": null,
+      "bbox_name": [
+        10,
+        600,
+        134,
+        625
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "SRCCLKC2",
+      "bbox_pin": null,
+      "bbox_name": [
+        3,
+        626,
+        133,
+        655
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "SRCCLKC3",
+      "bbox_pin": null,
+      "bbox_name": [
+        7,
+        662,
+        135,
+        685
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "SRCCLKT3",
+      "bbox_pin": null,
+      "bbox_name": [
+        3,
+        689,
+        135,
+        714
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "VDDSRC",
+      "bbox_pin": null,
+      "bbox_name": [
+        29,
+        715,
+        135,
+        747
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "SRCCLKT4",
+      "bbox_pin": null,
+      "bbox_name": [
+        9,
+        745,
+        134,
+        775
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "SRCCLKC4",
+      "bbox_pin": null,
+      "bbox_name": [
+        8,
+        776,
+        134,
+        804
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "VDDSRC",
+      "bbox_pin": null,
+      "bbox_name": [
+        33,
+        806,
+        134,
+        835
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "SCLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        357,
+        807,
+        424,
+        834
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "SDATA",
+      "bbox_pin": null,
+      "bbox_name": [
+        357,
+        779,
+        439,
+        802
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "Vtt_PwrGd#/PD",
+      "bbox_pin": null,
+      "bbox_name": [
+        359,
+        746,
+        519,
+        773
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        356,
+        719,
+        394,
+        741
+      ]
+    },
+    {
+      "pin_number": 33,
+      "name": "IREF",
+      "bbox_pin": null,
+      "bbox_name": [
+        358,
+        689,
+        417,
+        714
+      ]
+    },
+    {
+      "pin_number": 34,
+      "name": "GNDA",
+      "bbox_pin": null,
+      "bbox_name": [
+        356,
+        663,
+        425,
+        685
+      ]
+    },
+    {
+      "pin_number": 35,
+      "name": "VDDA",
+      "bbox_pin": null,
+      "bbox_name": [
+        357,
+        628,
+        425,
+        657
+      ]
+    },
+    {
+      "pin_number": 36,
+      "name": "CPUCLKC3",
+      "bbox_pin": null,
+      "bbox_name": [
+        356,
+        601,
+        478,
+        627
+      ]
+    },
+    {
+      "pin_number": 37,
+      "name": "CPUCLKT3",
+      "bbox_pin": null,
+      "bbox_name": [
+        355,
+        573,
+        476,
+        598
+      ]
+    },
+    {
+      "pin_number": 38,
+      "name": "VDDCPU",
+      "bbox_pin": null,
+      "bbox_name": [
+        356,
+        544,
+        456,
+        569
+      ]
+    },
+    {
+      "pin_number": 39,
+      "name": "CPUCLKC2",
+      "bbox_pin": null,
+      "bbox_name": [
+        357,
+        512,
+        478,
+        539
+      ]
+    },
+    {
+      "pin_number": 40,
+      "name": "CPUCLKT2",
+      "bbox_pin": null,
+      "bbox_name": [
+        357,
+        484,
+        477,
+        510
+      ]
+    },
+    {
+      "pin_number": 41,
+      "name": "GNDCPU",
+      "bbox_pin": null,
+      "bbox_name": [
+        358,
+        456,
+        457,
+        480
+      ]
+    },
+    {
+      "pin_number": 42,
+      "name": "CPUCLKC1",
+      "bbox_pin": null,
+      "bbox_name": [
+        357,
+        426,
+        475,
+        449
+      ]
+    },
+    {
+      "pin_number": 43,
+      "name": "CPUCLKT1",
+      "bbox_pin": null,
+      "bbox_name": [
+        354,
+        399,
+        477,
+        422
+      ]
+    },
+    {
+      "pin_number": 44,
+      "name": "VDDCPU",
+      "bbox_pin": null,
+      "bbox_name": [
+        360,
+        371,
+        456,
+        395
+      ]
+    },
+    {
+      "pin_number": 45,
+      "name": "CPUCLKC0",
+      "bbox_pin": null,
+      "bbox_name": [
+        357,
+        337,
+        480,
+        365
+      ]
+    },
+    {
+      "pin_number": 46,
+      "name": "CPUCLKT0",
+      "bbox_pin": null,
+      "bbox_name": [
+        357,
+        308,
+        476,
+        335
+      ]
+    },
+    {
+      "pin_number": 47,
+      "name": "VDDCPU",
+      "bbox_pin": null,
+      "bbox_name": [
+        357,
+        278,
+        456,
+        305
+      ]
+    },
+    {
+      "pin_number": 48,
+      "name": "FS_A",
+      "bbox_pin": null,
+      "bbox_name": [
+        357,
+        252,
+        419,
+        275
+      ]
+    },
+    {
+      "pin_number": 49,
+      "name": "FS_B/TEST_MODE",
+      "bbox_pin": null,
+      "bbox_name": [
+        357,
+        219,
+        561,
+        249
+      ]
+    },
+    {
+      "pin_number": 50,
+      "name": "GNDREF",
+      "bbox_pin": null,
+      "bbox_name": [
+        357,
+        190,
+        454,
+        218
+      ]
+    },
+    {
+      "pin_number": 51,
+      "name": "X2",
+      "bbox_pin": null,
+      "bbox_name": [
+        357,
+        162,
+        390,
+        188
+      ]
+    },
+    {
+      "pin_number": 52,
+      "name": "X1",
+      "bbox_pin": null,
+      "bbox_name": [
+        357,
+        133,
+        389,
+        161
+      ]
+    },
+    {
+      "pin_number": 53,
+      "name": "VDDREF",
+      "bbox_pin": null,
+      "bbox_name": [
+        357,
+        101,
+        453,
+        131
+      ]
+    },
+    {
+      "pin_number": 54,
+      "name": "REF1",
+      "bbox_pin": null,
+      "bbox_name": [
+        357,
+        73,
+        414,
+        99
+      ]
+    },
+    {
+      "pin_number": 55,
+      "name": "REF0",
+      "bbox_pin": null,
+      "bbox_name": [
+        357,
+        43,
+        418,
+        73
+      ]
+    },
+    {
+      "pin_number": 56,
+      "name": "FS_C/TEST_SEL",
+      "bbox_pin": null,
+      "bbox_name": [
+        357,
+        13,
+        542,
+        42
+      ]
+    }
+  ]
+}

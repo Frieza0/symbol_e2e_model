@@ -1,0 +1,104 @@
+{
+  "image_id": "chip_0407",
+  "width": 256,
+  "height": 256,
+  "total_pins": 6,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "DTR",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        62,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "GPIO",
+      "bbox_pin": [
+        78,
+        122,
+        86,
+        134
+      ],
+      "bbox_name": [
+        33,
+        122,
+        68,
+        134
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "SCL",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        60,
+        224
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "ISNS",
+      "bbox_pin": [
+        173,
+        32,
+        181,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        235,
+        44
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "OE",
+      "bbox_pin": [
+        173,
+        122,
+        181,
+        134
+      ],
+      "bbox_name": [
+        203,
+        122,
+        223,
+        134
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "LIN",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        225,
+        224
+      ]
+    }
+  ]
+}

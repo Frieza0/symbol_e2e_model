@@ -1,0 +1,265 @@
+{
+  "image_id": "120个测试用例汇总_59_1",
+  "width": 511,
+  "height": 506,
+  "total_pins": 16,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VDDIO",
+      "bbox_pin": [
+        101,
+        124,
+        128,
+        153
+      ],
+      "bbox_name": [
+        2,
+        125,
+        75,
+        152
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "BYP",
+      "bbox_pin": [
+        104,
+        179,
+        126,
+        206
+      ],
+      "bbox_name": [
+        18,
+        176,
+        75,
+        203
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "NC",
+      "bbox_pin": [
+        102,
+        235,
+        129,
+        257
+      ],
+      "bbox_name": [
+        32,
+        231,
+        77,
+        261
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "SCL",
+      "bbox_pin": [
+        101,
+        289,
+        126,
+        313
+      ],
+      "bbox_name": [
+        19,
+        286,
+        76,
+        313
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "GND",
+      "bbox_pin": [
+        103,
+        345,
+        125,
+        367
+      ],
+      "bbox_name": [
+        19,
+        344,
+        74,
+        371
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SDA",
+      "bbox_pin": [
+        197,
+        387,
+        217,
+        412
+      ],
+      "bbox_name": [
+        190,
+        434,
+        218,
+        488
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "SA0",
+      "bbox_pin": [
+        251,
+        386,
+        270,
+        410
+      ],
+      "bbox_name": [
+        247,
+        433,
+        273,
+        486
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "NC",
+      "bbox_pin": [
+        307,
+        385,
+        327,
+        412
+      ],
+      "bbox_name": [
+        302,
+        435,
+        327,
+        477
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "INT2",
+      "bbox_pin": [
+        403,
+        346,
+        421,
+        366
+      ],
+      "bbox_name": [
+        453,
+        339,
+        507,
+        366
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "GND",
+      "bbox_pin": [
+        400,
+        290,
+        428,
+        313
+      ],
+      "bbox_name": [
+        447,
+        283,
+        507,
+        312
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "INT1",
+      "bbox_pin": [
+        398,
+        235,
+        426,
+        260
+      ],
+      "bbox_name": [
+        449,
+        231,
+        508,
+        257
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "GND",
+      "bbox_pin": [
+        401,
+        180,
+        430,
+        204
+      ],
+      "bbox_name": [
+        453,
+        175,
+        510,
+        202
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "NC",
+      "bbox_pin": [
+        399,
+        129,
+        429,
+        154
+      ],
+      "bbox_name": [
+        449,
+        125,
+        492,
+        150
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "VDD",
+      "bbox_pin": [
+        305,
+        86,
+        331,
+        115
+      ],
+      "bbox_name": [
+        300,
+        5,
+        328,
+        58
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "NC",
+      "bbox_pin": [
+        247,
+        86,
+        275,
+        116
+      ],
+      "bbox_name": [
+        244,
+        17,
+        276,
+        60
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "NC",
+      "bbox_pin": [
+        192,
+        85,
+        223,
+        113
+      ],
+      "bbox_name": [
+        191,
+        16,
+        220,
+        56
+      ]
+    }
+  ]
+}

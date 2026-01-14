@@ -1,0 +1,104 @@
+{
+  "image_id": "chip_0302",
+  "width": 256,
+  "height": 256,
+  "total_pins": 6,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "GPIO",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        68,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "A3",
+      "bbox_pin": [
+        78,
+        122,
+        86,
+        134
+      ],
+      "bbox_name": [
+        33,
+        122,
+        51,
+        134
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VREF",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        70,
+        224
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "DSR",
+      "bbox_pin": [
+        173,
+        32,
+        181,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        232,
+        44
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "NO",
+      "bbox_pin": [
+        173,
+        122,
+        181,
+        134
+      ],
+      "bbox_name": [
+        203,
+        122,
+        224,
+        134
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GND",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        234,
+        224
+      ]
+    }
+  ]
+}

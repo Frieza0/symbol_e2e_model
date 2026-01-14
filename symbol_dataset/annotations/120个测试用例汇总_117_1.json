@@ -1,0 +1,137 @@
+{
+  "image_id": "120个测试用例汇总_117_1",
+  "width": 606,
+  "height": 267,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "OFFSET N1",
+      "bbox_pin": [
+        236,
+        53,
+        259,
+        84
+      ],
+      "bbox_name": [
+        21,
+        51,
+        200,
+        83
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "IN−",
+      "bbox_pin": [
+        232,
+        95,
+        261,
+        128
+      ],
+      "bbox_name": [
+        143,
+        96,
+        202,
+        124
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "IN+",
+      "bbox_pin": [
+        232,
+        139,
+        261,
+        171
+      ],
+      "bbox_name": [
+        146,
+        139,
+        201,
+        167
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VCC−",
+      "bbox_pin": [
+        235,
+        186,
+        261,
+        217
+      ],
+      "bbox_name": [
+        118,
+        182,
+        203,
+        222
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "NC",
+      "bbox_pin": [
+        342,
+        186,
+        369,
+        217
+      ],
+      "bbox_name": [
+        398,
+        180,
+        454,
+        213
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "OUT",
+      "bbox_pin": [
+        343,
+        144,
+        368,
+        175
+      ],
+      "bbox_name": [
+        400,
+        142,
+        473,
+        170
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "VCC+",
+      "bbox_pin": [
+        344,
+        102,
+        368,
+        132
+      ],
+      "bbox_name": [
+        401,
+        94,
+        485,
+        134
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "OFFSET N2",
+      "bbox_pin": [
+        341,
+        55,
+        365,
+        83
+      ],
+      "bbox_name": [
+        400,
+        48,
+        584,
+        82
+      ]
+    }
+  ]
+}

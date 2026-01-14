@@ -1,0 +1,201 @@
+{
+  "image_id": "120个测试用例汇总_55_1",
+  "width": 597,
+  "height": 480,
+  "total_pins": 12,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "SCL/SPC",
+      "bbox_pin": [
+        374,
+        103,
+        400,
+        129
+      ],
+      "bbox_name": [
+        433,
+        101,
+        532,
+        135
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "CS",
+      "bbox_pin": [
+        373,
+        185,
+        399,
+        211
+      ],
+      "bbox_name": [
+        435,
+        178,
+        474,
+        211
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "SDO/SA0",
+      "bbox_pin": [
+        375,
+        262,
+        398,
+        286
+      ],
+      "bbox_name": [
+        430,
+        260,
+        535,
+        295
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "SDA/SDI/SDO",
+      "bbox_pin": [
+        377,
+        340,
+        395,
+        367
+      ],
+      "bbox_name": [
+        433,
+        337,
+        578,
+        371
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "NC",
+      "bbox_pin": [
+        295,
+        343,
+        317,
+        364
+      ],
+      "bbox_name": [
+        294,
+        406,
+        325,
+        446
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "GND",
+      "bbox_pin": [
+        219,
+        344,
+        242,
+        365
+      ],
+      "bbox_name": [
+        205,
+        409,
+        238,
+        459
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "RES",
+      "bbox_pin": [
+        137,
+        340,
+        158,
+        364
+      ],
+      "bbox_name": [
+        42,
+        341,
+        97,
+        371
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GND",
+      "bbox_pin": [
+        135,
+        267,
+        161,
+        288
+      ],
+      "bbox_name": [
+        39,
+        268,
+        97,
+        293
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "VDD",
+      "bbox_pin": [
+        138,
+        187,
+        162,
+        212
+      ],
+      "bbox_name": [
+        42,
+        187,
+        98,
+        215
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "VDDIO",
+      "bbox_pin": [
+        135,
+        105,
+        165,
+        132
+      ],
+      "bbox_name": [
+        19,
+        101,
+        97,
+        135
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "INT2",
+      "bbox_pin": [
+        218,
+        110,
+        243,
+        133
+      ],
+      "bbox_name": [
+        211,
+        24,
+        245,
+        79
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "INT1",
+      "bbox_pin": [
+        295,
+        110,
+        321,
+        135
+      ],
+      "bbox_name": [
+        292,
+        19,
+        321,
+        76
+      ]
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+{
+  "image_id": "120个测试用例汇总_100_1",
+  "width": 579,
+  "height": 489,
+  "total_pins": 28,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "FBOUT",
+      "bbox_pin": [
+        183,
+        32,
+        210,
+        57
+      ],
+      "bbox_name": [
+        19,
+        27,
+        121,
+        57
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "GND",
+      "bbox_pin": [
+        181,
+        62,
+        210,
+        88
+      ],
+      "bbox_name": [
+        19,
+        57,
+        119,
+        86
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "DDRT0",
+      "bbox_pin": [
+        181,
+        95,
+        209,
+        117
+      ],
+      "bbox_name": [
+        21,
+        88,
+        119,
+        117
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "DDRC0",
+      "bbox_pin": [
+        182,
+        123,
+        207,
+        149
+      ],
+      "bbox_name": [
+        20,
+        121,
+        119,
+        148
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VDD2.5",
+      "bbox_pin": [
+        183,
+        153,
+        207,
+        180
+      ],
+      "bbox_name": [
+        18,
+        151,
+        118,
+        180
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "GND",
+      "bbox_pin": [
+        184,
+        185,
+        207,
+        209
+      ],
+      "bbox_name": [
+        28,
+        184,
+        118,
+        212
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "DDRT1",
+      "bbox_pin": [
+        183,
+        215,
+        208,
+        240
+      ],
+      "bbox_name": [
+        24,
+        216,
+        117,
+        242
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "DDRC1",
+      "bbox_pin": [
+        181,
+        246,
+        208,
+        272
+      ],
+      "bbox_name": [
+        19,
+        244,
+        116,
+        272
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "VDD2.5",
+      "bbox_pin": [
+        182,
+        275,
+        210,
+        303
+      ],
+      "bbox_name": [
+        15,
+        276,
+        120,
+        304
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "BUF_IN",
+      "bbox_pin": [
+        173,
+        305,
+        210,
+        336
+      ],
+      "bbox_name": [
+        13,
+        307,
+        119,
+        336
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "GND",
+      "bbox_pin": [
+        172,
+        337,
+        206,
+        364
+      ],
+      "bbox_name": [
+        41,
+        338,
+        120,
+        364
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "DDRT2",
+      "bbox_pin": [
+        170,
+        371,
+        211,
+        396
+      ],
+      "bbox_name": [
+        22,
+        366,
+        119,
+        396
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "DDRC2",
+      "bbox_pin": [
+        173,
+        399,
+        206,
+        424
+      ],
+      "bbox_name": [
+        16,
+        399,
+        119,
+        427
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "VDD2.5",
+      "bbox_pin": [
+        179,
+        425,
+        206,
+        456
+      ],
+      "bbox_name": [
+        15,
+        429,
+        119,
+        457
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "SDATA",
+      "bbox_pin": [
+        368,
+        430,
+        404,
+        457
+      ],
+      "bbox_name": [
+        455,
+        429,
+        547,
+        460
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "SCLK",
+      "bbox_pin": [
+        366,
+        400,
+        403,
+        427
+      ],
+      "bbox_name": [
+        454,
+        396,
+        535,
+        425
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "VDD2.5",
+      "bbox_pin": [
+        365,
+        368,
+        401,
+        395
+      ],
+      "bbox_name": [
+        455,
+        366,
+        555,
+        394
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "DDRC3",
+      "bbox_pin": [
+        369,
+        338,
+        401,
+        365
+      ],
+      "bbox_name": [
+        454,
+        335,
+        556,
+        364
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "DDRT3",
+      "bbox_pin": [
+        367,
+        309,
+        402,
+        334
+      ],
+      "bbox_name": [
+        453,
+        304,
+        550,
+        333
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "GND",
+      "bbox_pin": [
+        367,
+        278,
+        400,
+        303
+      ],
+      "bbox_name": [
+        453,
+        273,
+        533,
+        303
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "VDD2.5",
+      "bbox_pin": [
+        369,
+        247,
+        399,
+        273
+      ],
+      "bbox_name": [
+        456,
+        244,
+        559,
+        272
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "DDRC4",
+      "bbox_pin": [
+        367,
+        218,
+        402,
+        241
+      ],
+      "bbox_name": [
+        456,
+        213,
+        555,
+        241
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "DDRT4",
+      "bbox_pin": [
+        367,
+        185,
+        402,
+        211
+      ],
+      "bbox_name": [
+        457,
+        182,
+        552,
+        209
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "GND",
+      "bbox_pin": [
+        366,
+        155,
+        401,
+        179
+      ],
+      "bbox_name": [
+        455,
+        154,
+        528,
+        179
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "VDD2.5",
+      "bbox_pin": [
+        368,
+        125,
+        402,
+        149
+      ],
+      "bbox_name": [
+        454,
+        119,
+        558,
+        150
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "DDRC5",
+      "bbox_pin": [
+        369,
+        94,
+        400,
+        118
+      ],
+      "bbox_name": [
+        453,
+        88,
+        557,
+        118
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "DDRT5",
+      "bbox_pin": [
+        371,
+        66,
+        400,
+        88
+      ],
+      "bbox_name": [
+        452,
+        59,
+        555,
+        87
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "GND",
+      "bbox_pin": [
+        368,
+        33,
+        401,
+        56
+      ],
+      "bbox_name": [
+        448,
+        30,
+        539,
+        56
+      ]
+    }
+  ]
+}

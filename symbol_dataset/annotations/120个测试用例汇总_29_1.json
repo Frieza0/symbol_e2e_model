@@ -1,0 +1,265 @@
+{
+  "image_id": "120个测试用例汇总_29_1",
+  "width": 486,
+  "height": 492,
+  "total_pins": 16,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "C/SSS",
+      "bbox_pin": [
+        133,
+        52,
+        152,
+        73
+      ],
+      "bbox_name": [
+        12,
+        45,
+        124,
+        80
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VREF",
+      "bbox_pin": [
+        134,
+        106,
+        150,
+        126
+      ],
+      "bbox_name": [
+        55,
+        95,
+        118,
+        128
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "C/S-",
+      "bbox_pin": [
+        133,
+        159,
+        151,
+        180
+      ],
+      "bbox_name": [
+        56,
+        154,
+        118,
+        184
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "CIS+",
+      "bbox_pin": [
+        134,
+        213,
+        151,
+        231
+      ],
+      "bbox_name": [
+        49,
+        209,
+        121,
+        236
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "MISS",
+      "bbox_pin": [
+        134,
+        265,
+        150,
+        285
+      ],
+      "bbox_name": [
+        45,
+        263,
+        120,
+        292
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "E/A-",
+      "bbox_pin": [
+        133,
+        318,
+        153,
+        338
+      ],
+      "bbox_name": [
+        57,
+        310,
+        119,
+        341
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "COMP",
+      "bbox_pin": [
+        134,
+        369,
+        149,
+        392
+      ],
+      "bbox_name": [
+        37,
+        370,
+        121,
+        397
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "CT",
+      "bbox_pin": [
+        134,
+        424,
+        151,
+        445
+      ],
+      "bbox_name": [
+        83,
+        420,
+        116,
+        446
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "RT",
+      "bbox_pin": [
+        313,
+        427,
+        330,
+        444
+      ],
+      "bbox_name": [
+        341,
+        420,
+        377,
+        450
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "SYMC",
+      "bbox_pin": [
+        311,
+        371,
+        333,
+        391
+      ],
+      "bbox_name": [
+        340,
+        366,
+        406,
+        398
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "AOUT",
+      "bbox_pin": [
+        311,
+        317,
+        332,
+        338
+      ],
+      "bbox_name": [
+        340,
+        315,
+        421,
+        343
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "GND",
+      "bbox_pin": [
+        309,
+        265,
+        334,
+        284
+      ],
+      "bbox_name": [
+        343,
+        258,
+        392,
+        287
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "VC",
+      "bbox_pin": [
+        310,
+        212,
+        332,
+        231
+      ],
+      "bbox_name": [
+        341,
+        206,
+        379,
+        233
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "BOUT",
+      "bbox_pin": [
+        311,
+        159,
+        332,
+        178
+      ],
+      "bbox_name": [
+        339,
+        155,
+        420,
+        184
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "VIN",
+      "bbox_pin": [
+        312,
+        107,
+        333,
+        125
+      ],
+      "bbox_name": [
+        343,
+        103,
+        384,
+        128
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "SNUTDOWN",
+      "bbox_pin": [
+        312,
+        53,
+        334,
+        72
+      ],
+      "bbox_name": [
+        340,
+        46,
+        460,
+        77
+      ]
+    }
+  ]
+}

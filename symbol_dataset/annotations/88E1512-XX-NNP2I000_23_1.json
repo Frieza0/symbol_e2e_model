@@ -1,0 +1,625 @@
+{
+  "image_id": "88E1512-XX-NNP2I000_23_1",
+  "width": 1188,
+  "height": 1215,
+  "total_pins": 56,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "S_INP",
+      "bbox_pin": null,
+      "bbox_name": [
+        232,
+        1054,
+        263,
+        1140
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "S_INN",
+      "bbox_pin": null,
+      "bbox_name": [
+        282,
+        1053,
+        317,
+        1132
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "AVDD18",
+      "bbox_pin": null,
+      "bbox_name": [
+        336,
+        1055,
+        369,
+        1160
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "S_OUTP",
+      "bbox_pin": null,
+      "bbox_name": [
+        387,
+        1057,
+        426,
+        1160
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "S_OUTN",
+      "bbox_pin": null,
+      "bbox_name": [
+        446,
+        1053,
+        481,
+        1170
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "DVDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        500,
+        1055,
+        533,
+        1132
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "MDC",
+      "bbox_pin": null,
+      "bbox_name": [
+        554,
+        1054,
+        586,
+        1119
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "MDIO",
+      "bbox_pin": null,
+      "bbox_name": [
+        610,
+        1057,
+        640,
+        1125
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "CLK125",
+      "bbox_pin": null,
+      "bbox_name": [
+        668,
+        1052,
+        696,
+        1154
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "VDDO_SEL",
+      "bbox_pin": null,
+      "bbox_name": [
+        714,
+        1052,
+        751,
+        1195
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "VDDO",
+      "bbox_pin": null,
+      "bbox_name": [
+        777,
+        1050,
+        798,
+        1131
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "LED[2]/INTn",
+      "bbox_pin": null,
+      "bbox_name": [
+        828,
+        1052,
+        860,
+        1197
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "LED[1]",
+      "bbox_pin": null,
+      "bbox_name": [
+        884,
+        1054,
+        915,
+        1142
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "LED[0]",
+      "bbox_pin": null,
+      "bbox_name": [
+        930,
+        1049,
+        971,
+        1137
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "CONFIG",
+      "bbox_pin": null,
+      "bbox_name": [
+        1056,
+        944,
+        1164,
+        973
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "RESETn",
+      "bbox_pin": null,
+      "bbox_name": [
+        1054,
+        885,
+        1158,
+        923
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "MDIN[3]",
+      "bbox_pin": null,
+      "bbox_name": [
+        1055,
+        840,
+        1157,
+        873
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "MDIP[3]",
+      "bbox_pin": null,
+      "bbox_name": [
+        1054,
+        784,
+        1153,
+        821
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "AVDD18",
+      "bbox_pin": null,
+      "bbox_name": [
+        1055,
+        736,
+        1158,
+        766
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "AVDD33",
+      "bbox_pin": null,
+      "bbox_name": [
+        1057,
+        685,
+        1160,
+        719
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "MDIN[2]",
+      "bbox_pin": null,
+      "bbox_name": [
+        1057,
+        635,
+        1156,
+        662
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "MDIP[2]",
+      "bbox_pin": null,
+      "bbox_name": [
+        1059,
+        581,
+        1153,
+        614
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "MDIN[1]",
+      "bbox_pin": null,
+      "bbox_name": [
+        1054,
+        535,
+        1156,
+        562
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "MDIP[1]",
+      "bbox_pin": null,
+      "bbox_name": [
+        1054,
+        477,
+        1153,
+        512
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "AVDD33",
+      "bbox_pin": null,
+      "bbox_name": [
+        1056,
+        421,
+        1168,
+        454
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "AVDD18",
+      "bbox_pin": null,
+      "bbox_name": [
+        1060,
+        369,
+        1158,
+        408
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "MDIN[0]",
+      "bbox_pin": null,
+      "bbox_name": [
+        1050,
+        320,
+        1155,
+        354
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "MDIP[0]",
+      "bbox_pin": null,
+      "bbox_name": [
+        1057,
+        270,
+        1151,
+        304
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "TSTPT",
+      "bbox_pin": null,
+      "bbox_name": [
+        936,
+        103,
+        966,
+        188
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "RSET",
+      "bbox_pin": null,
+      "bbox_name": [
+        887,
+        119,
+        913,
+        189
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "HSDACN",
+      "bbox_pin": null,
+      "bbox_name": [
+        832,
+        75,
+        859,
+        190
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "HSDACP",
+      "bbox_pin": null,
+      "bbox_name": [
+        779,
+        80,
+        803,
+        188
+      ]
+    },
+    {
+      "pin_number": 33,
+      "name": "XTAL_OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        722,
+        59,
+        752,
+        188
+      ]
+    },
+    {
+      "pin_number": 34,
+      "name": "XTAL_IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        667,
+        81,
+        696,
+        189
+      ]
+    },
+    {
+      "pin_number": 35,
+      "name": "AVDDC18",
+      "bbox_pin": null,
+      "bbox_name": [
+        611,
+        72,
+        640,
+        189
+      ]
+    },
+    {
+      "pin_number": 36,
+      "name": "REG_IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        555,
+        91,
+        590,
+        188
+      ]
+    },
+    {
+      "pin_number": 37,
+      "name": "REGCAP1",
+      "bbox_pin": null,
+      "bbox_name": [
+        498,
+        66,
+        533,
+        189
+      ]
+    },
+    {
+      "pin_number": 38,
+      "name": "AVDD18",
+      "bbox_pin": null,
+      "bbox_name": [
+        447,
+        88,
+        480,
+        190
+      ]
+    },
+    {
+      "pin_number": 39,
+      "name": "AVDD18_OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        392,
+        19,
+        425,
+        191
+      ]
+    },
+    {
+      "pin_number": 40,
+      "name": "DVDD_OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        336,
+        44,
+        369,
+        190
+      ]
+    },
+    {
+      "pin_number": 41,
+      "name": "REGCAP2",
+      "bbox_pin": null,
+      "bbox_name": [
+        284,
+        68,
+        313,
+        188
+      ]
+    },
+    {
+      "pin_number": 42,
+      "name": "DVDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        234,
+        115,
+        259,
+        189
+      ]
+    },
+    {
+      "pin_number": 43,
+      "name": "RX_CTRL",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        267,
+        144,
+        304
+      ]
+    },
+    {
+      "pin_number": 44,
+      "name": "RXD[0]",
+      "bbox_pin": null,
+      "bbox_name": [
+        57,
+        320,
+        147,
+        353
+      ]
+    },
+    {
+      "pin_number": 45,
+      "name": "RXD[1]",
+      "bbox_pin": null,
+      "bbox_name": [
+        58,
+        373,
+        148,
+        405
+      ]
+    },
+    {
+      "pin_number": 46,
+      "name": "RX_CLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        37,
+        421,
+        144,
+        454
+      ]
+    },
+    {
+      "pin_number": 47,
+      "name": "RXD[2]",
+      "bbox_pin": null,
+      "bbox_name": [
+        55,
+        471,
+        147,
+        506
+      ]
+    },
+    {
+      "pin_number": 48,
+      "name": "RXD[3]",
+      "bbox_pin": null,
+      "bbox_name": [
+        55,
+        521,
+        145,
+        557
+      ]
+    },
+    {
+      "pin_number": 49,
+      "name": "VDDO",
+      "bbox_pin": null,
+      "bbox_name": [
+        63,
+        583,
+        144,
+        607
+      ]
+    },
+    {
+      "pin_number": 50,
+      "name": "TXD[0]",
+      "bbox_pin": null,
+      "bbox_name": [
+        58,
+        629,
+        147,
+        665
+      ]
+    },
+    {
+      "pin_number": 51,
+      "name": "TXD[1]",
+      "bbox_pin": null,
+      "bbox_name": [
+        60,
+        675,
+        145,
+        716
+      ]
+    },
+    {
+      "pin_number": 52,
+      "name": "VDDO",
+      "bbox_pin": null,
+      "bbox_name": [
+        62,
+        732,
+        144,
+        763
+      ]
+    },
+    {
+      "pin_number": 53,
+      "name": "TX_CLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        40,
+        783,
+        144,
+        818
+      ]
+    },
+    {
+      "pin_number": 54,
+      "name": "TXD[2]",
+      "bbox_pin": null,
+      "bbox_name": [
+        59,
+        839,
+        149,
+        869
+      ]
+    },
+    {
+      "pin_number": 55,
+      "name": "TXD[3]",
+      "bbox_pin": null,
+      "bbox_name": [
+        58,
+        888,
+        148,
+        927
+      ]
+    },
+    {
+      "pin_number": 56,
+      "name": "TX_CTRL",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        942,
+        148,
+        976
+      ]
+    }
+  ]
+}

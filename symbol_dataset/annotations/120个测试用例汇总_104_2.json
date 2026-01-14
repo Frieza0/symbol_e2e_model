@@ -1,0 +1,137 @@
+{
+  "image_id": "120个测试用例汇总_104_2",
+  "width": 969,
+  "height": 261,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "PB7/PC14-OSCX_IN",
+      "bbox_pin": [
+        350,
+        47,
+        370,
+        74
+      ],
+      "bbox_name": [
+        54,
+        50,
+        230,
+        74
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VDD/VDDA",
+      "bbox_pin": [
+        350,
+        92,
+        369,
+        124
+      ],
+      "bbox_name": [
+        129,
+        95,
+        230,
+        120
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VSS/VSSA",
+      "bbox_pin": [
+        350,
+        143,
+        368,
+        172
+      ],
+      "bbox_name": [
+        128,
+        141,
+        233,
+        170
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "PA0/PA1/PA2/PF2-NRST",
+      "bbox_pin": [
+        352,
+        187,
+        372,
+        219
+      ],
+      "bbox_name": [
+        15,
+        187,
+        228,
+        218
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "PA11[PA9]/PA8",
+      "bbox_pin": [
+        528,
+        193,
+        551,
+        219
+      ],
+      "bbox_name": [
+        633,
+        189,
+        770,
+        218
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "PA12[PA10]",
+      "bbox_pin": [
+        528,
+        142,
+        551,
+        171
+      ],
+      "bbox_name": [
+        634,
+        143,
+        742,
+        172
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "PA13",
+      "bbox_pin": [
+        527,
+        87,
+        550,
+        124
+      ],
+      "bbox_name": [
+        633,
+        96,
+        693,
+        119
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "PB6/PA14-BOOT0/PC15-OSCX_OUT",
+      "bbox_pin": [
+        527,
+        48,
+        549,
+        73
+      ],
+      "bbox_name": [
+        634,
+        51,
+        948,
+        78
+      ]
+    }
+  ]
+}

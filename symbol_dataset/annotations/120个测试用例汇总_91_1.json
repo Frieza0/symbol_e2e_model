@@ -1,0 +1,361 @@
+{
+  "image_id": "120个测试用例汇总_91_1",
+  "width": 639,
+  "height": 588,
+  "total_pins": 32,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        85,
+        154,
+        130,
+        182
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "CLK_ENA",
+      "bbox_pin": null,
+      "bbox_name": [
+        22,
+        191,
+        131,
+        218
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "CLKA",
+      "bbox_pin": null,
+      "bbox_name": [
+        61,
+        228,
+        130,
+        253
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "nCLKA",
+      "bbox_pin": null,
+      "bbox_name": [
+        52,
+        265,
+        130,
+        290
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "CLK_ENB",
+      "bbox_pin": null,
+      "bbox_name": [
+        22,
+        301,
+        130,
+        326
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "CLKB",
+      "bbox_pin": null,
+      "bbox_name": [
+        62,
+        334,
+        129,
+        359
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "nCLKB",
+      "bbox_pin": null,
+      "bbox_name": [
+        54,
+        370,
+        127,
+        395
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VEE",
+      "bbox_pin": null,
+      "bbox_name": [
+        84,
+        414,
+        131,
+        438
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "VCCO",
+      "bbox_pin": null,
+      "bbox_name": [
+        198,
+        505,
+        224,
+        560
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "nQB4",
+      "bbox_pin": null,
+      "bbox_name": [
+        237,
+        505,
+        266,
+        567
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "QB4",
+      "bbox_pin": null,
+      "bbox_name": [
+        274,
+        508,
+        300,
+        556
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "nQB3",
+      "bbox_pin": null,
+      "bbox_name": [
+        310,
+        508,
+        335,
+        567
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "QB3",
+      "bbox_pin": null,
+      "bbox_name": [
+        348,
+        506,
+        371,
+        556
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "nQB2",
+      "bbox_pin": null,
+      "bbox_name": [
+        381,
+        508,
+        409,
+        567
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "QB2",
+      "bbox_pin": null,
+      "bbox_name": [
+        421,
+        503,
+        443,
+        554
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "VCCO",
+      "bbox_pin": null,
+      "bbox_name": [
+        456,
+        508,
+        480,
+        559
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "nQB1",
+      "bbox_pin": null,
+      "bbox_name": [
+        554,
+        410,
+        613,
+        433
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "QB1",
+      "bbox_pin": null,
+      "bbox_name": [
+        555,
+        375,
+        601,
+        399
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "nQB0",
+      "bbox_pin": null,
+      "bbox_name": [
+        554,
+        339,
+        611,
+        363
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "QB0",
+      "bbox_pin": null,
+      "bbox_name": [
+        554,
+        300,
+        601,
+        323
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "nQA4",
+      "bbox_pin": null,
+      "bbox_name": [
+        554,
+        267,
+        611,
+        291
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "QA4",
+      "bbox_pin": null,
+      "bbox_name": [
+        555,
+        229,
+        601,
+        254
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "nQA3",
+      "bbox_pin": null,
+      "bbox_name": [
+        555,
+        194,
+        613,
+        219
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "QA3",
+      "bbox_pin": null,
+      "bbox_name": [
+        553,
+        156,
+        600,
+        183
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "VCCO",
+      "bbox_pin": null,
+      "bbox_name": [
+        459,
+        28,
+        481,
+        82
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "nQA2",
+      "bbox_pin": null,
+      "bbox_name": [
+        424,
+        22,
+        446,
+        79
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "QA2",
+      "bbox_pin": null,
+      "bbox_name": [
+        389,
+        37,
+        409,
+        81
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "nQA1",
+      "bbox_pin": null,
+      "bbox_name": [
+        355,
+        25,
+        374,
+        79
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "QA1",
+      "bbox_pin": null,
+      "bbox_name": [
+        316,
+        35,
+        340,
+        80
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "nQA0",
+      "bbox_pin": null,
+      "bbox_name": [
+        280,
+        26,
+        302,
+        79
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "QA0",
+      "bbox_pin": null,
+      "bbox_name": [
+        245,
+        34,
+        265,
+        82
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "VCCO",
+      "bbox_pin": null,
+      "bbox_name": [
+        202,
+        29,
+        224,
+        82
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "image_id": "chip_0162",
+  "width": 256,
+  "height": 256,
+  "total_pins": 8,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "FLAG",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        70,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "MISO",
+      "bbox_pin": [
+        78,
+        92,
+        86,
+        104
+      ],
+      "bbox_name": [
+        33,
+        92,
+        69,
+        104
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "A5",
+      "bbox_pin": [
+        78,
+        152,
+        86,
+        164
+      ],
+      "bbox_name": [
+        33,
+        152,
+        51,
+        164
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "BOOT",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        73,
+        224
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "HOLD",
+      "bbox_pin": [
+        173,
+        32,
+        181,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        242,
+        44
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "I1",
+      "bbox_pin": [
+        173,
+        92,
+        181,
+        104
+      ],
+      "bbox_name": [
+        203,
+        92,
+        215,
+        104
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "IO",
+      "bbox_pin": [
+        173,
+        152,
+        181,
+        164
+      ],
+      "bbox_name": [
+        203,
+        152,
+        218,
+        164
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "WP",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        225,
+        224
+      ]
+    }
+  ]
+}

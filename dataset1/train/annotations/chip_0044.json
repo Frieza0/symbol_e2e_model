@@ -1,0 +1,168 @@
+{
+  "image_id": "chip_0044",
+  "width": 256,
+  "height": 256,
+  "total_pins": 10,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "RF",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        52,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "ANT",
+      "bbox_pin": [
+        78,
+        77,
+        86,
+        89
+      ],
+      "bbox_name": [
+        33,
+        77,
+        62,
+        89
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "MOSI",
+      "bbox_pin": [
+        78,
+        122,
+        86,
+        134
+      ],
+      "bbox_name": [
+        33,
+        122,
+        69,
+        134
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "NC",
+      "bbox_pin": [
+        78,
+        167,
+        86,
+        179
+      ],
+      "bbox_name": [
+        33,
+        167,
+        53,
+        179
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VINN",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        66,
+        224
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "FB",
+      "bbox_pin": [
+        173,
+        32,
+        189,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        221,
+        44
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "A7",
+      "bbox_pin": [
+        173,
+        77,
+        181,
+        89
+      ],
+      "bbox_name": [
+        203,
+        77,
+        221,
+        89
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "D3",
+      "bbox_pin": [
+        173,
+        122,
+        181,
+        134
+      ],
+      "bbox_name": [
+        203,
+        122,
+        221,
+        134
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "RI",
+      "bbox_pin": [
+        173,
+        167,
+        181,
+        179
+      ],
+      "bbox_name": [
+        203,
+        167,
+        217,
+        179
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "O1",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        222,
+        224
+      ]
+    }
+  ]
+}

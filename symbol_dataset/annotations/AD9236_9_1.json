@@ -1,0 +1,317 @@
+{
+  "image_id": "AD9236_9_1",
+  "width": 402,
+  "height": 528,
+  "total_pins": 28,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "OTR",
+      "bbox_pin": null,
+      "bbox_name": [
+        31,
+        29,
+        76,
+        50
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "MODE",
+      "bbox_pin": null,
+      "bbox_name": [
+        17,
+        59,
+        76,
+        85
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "SENSE",
+      "bbox_pin": null,
+      "bbox_name": [
+        9,
+        96,
+        76,
+        119
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VREF",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        128,
+        77,
+        154
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "REFB",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        166,
+        76,
+        188
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "REFT",
+      "bbox_pin": null,
+      "bbox_name": [
+        22,
+        199,
+        76,
+        222
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        234,
+        74,
+        258
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        270,
+        76,
+        290
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "VIN+",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        303,
+        74,
+        326
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "VIN–",
+      "bbox_pin": null,
+      "bbox_name": [
+        31,
+        335,
+        75,
+        358
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        370,
+        74,
+        393
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        404,
+        73,
+        427
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "CLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        32,
+        440,
+        73,
+        460
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "PDWN",
+      "bbox_pin": null,
+      "bbox_name": [
+        16,
+        476,
+        76,
+        496
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "D0 (LSB)",
+      "bbox_pin": null,
+      "bbox_name": [
+        298,
+        474,
+        375,
+        497
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "D1",
+      "bbox_pin": null,
+      "bbox_name": [
+        297,
+        441,
+        322,
+        460
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "D2",
+      "bbox_pin": null,
+      "bbox_name": [
+        296,
+        405,
+        325,
+        427
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "D3",
+      "bbox_pin": null,
+      "bbox_name": [
+        296,
+        373,
+        324,
+        395
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "D4",
+      "bbox_pin": null,
+      "bbox_name": [
+        295,
+        336,
+        324,
+        359
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "D5",
+      "bbox_pin": null,
+      "bbox_name": [
+        295,
+        301,
+        326,
+        323
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "D6",
+      "bbox_pin": null,
+      "bbox_name": [
+        294,
+        271,
+        322,
+        290
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "D7",
+      "bbox_pin": null,
+      "bbox_name": [
+        295,
+        234,
+        325,
+        257
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": [
+        296,
+        201,
+        354,
+        223
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "DRVDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        295,
+        166,
+        365,
+        190
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "D8",
+      "bbox_pin": null,
+      "bbox_name": [
+        295,
+        131,
+        325,
+        152
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "D9",
+      "bbox_pin": null,
+      "bbox_name": [
+        295,
+        99,
+        324,
+        119
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "D10",
+      "bbox_pin": null,
+      "bbox_name": [
+        294,
+        64,
+        333,
+        83
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "D11 (MSB)",
+      "bbox_pin": null,
+      "bbox_name": [
+        298,
+        25,
+        388,
+        51
+      ]
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "image_id": "chip_0144",
+  "width": 256,
+  "height": 256,
+  "total_pins": 12,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "IO",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        48,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "PWR",
+      "bbox_pin": [
+        78,
+        68,
+        86,
+        80
+      ],
+      "bbox_name": [
+        33,
+        68,
+        65,
+        80
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "RESET",
+      "bbox_pin": [
+        78,
+        104,
+        86,
+        116
+      ],
+      "bbox_name": [
+        33,
+        104,
+        79,
+        116
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "CANL",
+      "bbox_pin": [
+        78,
+        140,
+        86,
+        152
+      ],
+      "bbox_name": [
+        33,
+        140,
+        70,
+        152
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "5V",
+      "bbox_pin": [
+        78,
+        176,
+        86,
+        188
+      ],
+      "bbox_name": [
+        33,
+        176,
+        51,
+        188
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SD",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        52,
+        224
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "WP",
+      "bbox_pin": [
+        173,
+        32,
+        189,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        225,
+        44
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "TCK",
+      "bbox_pin": [
+        173,
+        68,
+        189,
+        80
+      ],
+      "bbox_name": [
+        203,
+        68,
+        232,
+        80
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "TDO",
+      "bbox_pin": [
+        173,
+        104,
+        189,
+        116
+      ],
+      "bbox_name": [
+        203,
+        104,
+        233,
+        116
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "TEST",
+      "bbox_pin": [
+        173,
+        140,
+        181,
+        152
+      ],
+      "bbox_name": [
+        203,
+        140,
+        239,
+        152
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VSS",
+      "bbox_pin": [
+        173,
+        176,
+        181,
+        188
+      ],
+      "bbox_name": [
+        203,
+        176,
+        230,
+        188
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "D3",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        221,
+        224
+      ]
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "image_id": "chip_0062",
+  "width": 256,
+  "height": 256,
+  "total_pins": 16,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "OUT",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        63,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "AD0",
+      "bbox_pin": [
+        78,
+        57,
+        86,
+        69
+      ],
+      "bbox_name": [
+        33,
+        57,
+        61,
+        69
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "D2",
+      "bbox_pin": [
+        78,
+        83,
+        86,
+        95
+      ],
+      "bbox_name": [
+        33,
+        83,
+        51,
+        95
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "D4",
+      "bbox_pin": [
+        78,
+        109,
+        86,
+        121
+      ],
+      "bbox_name": [
+        33,
+        109,
+        51,
+        121
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "AD1",
+      "bbox_pin": [
+        78,
+        134,
+        86,
+        146
+      ],
+      "bbox_name": [
+        33,
+        134,
+        61,
+        146
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "DI",
+      "bbox_pin": [
+        78,
+        160,
+        86,
+        172
+      ],
+      "bbox_name": [
+        33,
+        160,
+        47,
+        172
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "A6",
+      "bbox_pin": [
+        78,
+        186,
+        86,
+        198
+      ],
+      "bbox_name": [
+        33,
+        186,
+        51,
+        198
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "DO",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        54,
+        224
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "CANH",
+      "bbox_pin": [
+        173,
+        32,
+        189,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        242,
+        44
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "OFF",
+      "bbox_pin": [
+        173,
+        57,
+        189,
+        69
+      ],
+      "bbox_name": [
+        203,
+        57,
+        232,
+        69
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "ADDR",
+      "bbox_pin": [
+        173,
+        83,
+        189,
+        95
+      ],
+      "bbox_name": [
+        203,
+        83,
+        243,
+        95
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "SDI",
+      "bbox_pin": [
+        173,
+        109,
+        189,
+        121
+      ],
+      "bbox_name": [
+        203,
+        109,
+        226,
+        121
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "VEE",
+      "bbox_pin": [
+        173,
+        134,
+        189,
+        146
+      ],
+      "bbox_name": [
+        203,
+        134,
+        230,
+        146
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "SO",
+      "bbox_pin": [
+        173,
+        160,
+        189,
+        172
+      ],
+      "bbox_name": [
+        203,
+        160,
+        223,
+        172
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "MCLK",
+      "bbox_pin": [
+        173,
+        186,
+        189,
+        198
+      ],
+      "bbox_name": [
+        203,
+        186,
+        243,
+        198
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "SENSE",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        249,
+        224
+      ]
+    }
+  ]
+}

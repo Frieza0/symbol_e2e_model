@@ -3,132 +3,231 @@
   "width": 256,
   "height": 256,
   "total_pins": 14,
+  "package_type": "2side",
   "pins": [
     {
-      "pin_id": 0,
+      "pin_number": 1,
       "name": "VSS",
-      "center": [
-        55,
-        38
+      "bbox_pin": [
+        73,
+        30,
+        85,
+        46
       ],
-      "pin_number": 1
+      "bbox_name": [
+        25,
+        28,
+        63,
+        47
+      ]
     },
     {
-      "pin_id": 1,
+      "pin_number": 2,
       "name": "SI",
-      "center": [
-        55,
-        68
+      "bbox_pin": [
+        70,
+        60,
+        87,
+        76
       ],
-      "pin_number": 2
+      "bbox_name": [
+        27,
+        59,
+        51,
+        77
+      ]
     },
     {
-      "pin_id": 2,
+      "pin_number": 3,
       "name": "D6",
-      "center": [
-        55,
-        98
+      "bbox_pin": [
+        70,
+        89,
+        87,
+        106
       ],
-      "pin_number": 3
+      "bbox_name": [
+        25,
+        89,
+        54,
+        106
+      ]
     },
     {
-      "pin_id": 3,
+      "pin_number": 4,
       "name": "BIAS",
-      "center": [
-        55,
-        128
+      "bbox_pin": [
+        72,
+        118,
+        86,
+        136
       ],
-      "pin_number": 4
+      "bbox_name": [
+        28,
+        119,
+        65,
+        137
+      ]
     },
     {
-      "pin_id": 4,
+      "pin_number": 5,
       "name": "SHDN",
-      "center": [
-        55,
-        158
+      "bbox_pin": [
+        76,
+        149,
+        87,
+        166
       ],
-      "pin_number": 5
+      "bbox_name": [
+        27,
+        147,
+        72,
+        166
+      ]
     },
     {
-      "pin_id": 5,
+      "pin_number": 6,
       "name": "VINP",
-      "center": [
-        55,
-        188
+      "bbox_pin": [
+        72,
+        179,
+        87,
+        194
       ],
-      "pin_number": 6
+      "bbox_name": [
+        26,
+        175,
+        65,
+        196
+      ]
     },
     {
-      "pin_id": 6,
+      "pin_number": 7,
       "name": "OFF",
-      "center": [
-        55,
-        218
+      "bbox_pin": [
+        72,
+        209,
+        87,
+        228
       ],
-      "pin_number": 7
+      "bbox_name": [
+        29,
+        205,
+        63,
+        228
+      ]
     },
     {
-      "pin_id": 7,
-      "name": "DTR",
-      "center": [
-        188,
-        38
-      ],
-      "pin_number": 14
-    },
-    {
-      "pin_id": 8,
-      "name": "VIN",
-      "center": [
-        188,
-        68
-      ],
-      "pin_number": 13
-    },
-    {
-      "pin_id": 9,
-      "name": "TX",
-      "center": [
-        188,
-        98
-      ],
-      "pin_number": 12
-    },
-    {
-      "pin_id": 10,
-      "name": "SDO",
-      "center": [
-        188,
-        128
-      ],
-      "pin_number": 11
-    },
-    {
-      "pin_id": 11,
-      "name": "RI",
-      "center": [
-        188,
-        158
-      ],
-      "pin_number": 10
-    },
-    {
-      "pin_id": 12,
-      "name": "SO",
-      "center": [
-        188,
-        188
-      ],
-      "pin_number": 9
-    },
-    {
-      "pin_id": 13,
+      "pin_number": 8,
       "name": "WCLK",
-      "center": [
-        188,
-        218
+      "bbox_pin": [
+        169,
+        210,
+        185,
+        226
       ],
-      "pin_number": 8
+      "bbox_name": [
+        196,
+        208,
+        246,
+        227
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "SO",
+      "bbox_pin": [
+        167,
+        179,
+        183,
+        194
+      ],
+      "bbox_name": [
+        198,
+        177,
+        231,
+        197
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "RI",
+      "bbox_pin": [
+        168,
+        149,
+        192,
+        165
+      ],
+      "bbox_name": [
+        197,
+        149,
+        219,
+        167
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "SDO",
+      "bbox_pin": [
+        168,
+        119,
+        192,
+        136
+      ],
+      "bbox_name": [
+        201,
+        117,
+        235,
+        134
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "TX",
+      "bbox_pin": [
+        171,
+        90,
+        190,
+        105
+      ],
+      "bbox_name": [
+        199,
+        86,
+        226,
+        106
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "VIN",
+      "bbox_pin": [
+        171,
+        58,
+        192,
+        76
+      ],
+      "bbox_name": [
+        197,
+        57,
+        231,
+        76
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "DTR",
+      "bbox_pin": [
+        170,
+        29,
+        192,
+        46
+      ],
+      "bbox_name": [
+        197,
+        29,
+        235,
+        46
+      ]
     }
   ]
 }

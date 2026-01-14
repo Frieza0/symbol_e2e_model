@@ -1,0 +1,713 @@
+{
+  "image_id": "AD9516_3_17_1",
+  "width": 789,
+  "height": 777,
+  "total_pins": 64,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VS",
+      "bbox_pin": null,
+      "bbox_name": [
+        91,
+        224,
+        124,
+        246
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "REFMON",
+      "bbox_pin": null,
+      "bbox_name": [
+        41,
+        248,
+        123,
+        267
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "LD",
+      "bbox_pin": null,
+      "bbox_name": [
+        90,
+        269,
+        122,
+        289
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VCP",
+      "bbox_pin": null,
+      "bbox_name": [
+        79,
+        292,
+        121,
+        310
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "CP",
+      "bbox_pin": null,
+      "bbox_name": [
+        86,
+        312,
+        121,
+        329
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "STATUS",
+      "bbox_pin": null,
+      "bbox_name": [
+        44,
+        333,
+        122,
+        350
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "REF_SEL",
+      "bbox_pin": null,
+      "bbox_name": [
+        34,
+        352,
+        122,
+        375
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "S\\Y\\N\\C\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        61,
+        376,
+        122,
+        394
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "LF",
+      "bbox_pin": null,
+      "bbox_name": [
+        91,
+        397,
+        122,
+        415
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "BYPASS",
+      "bbox_pin": null,
+      "bbox_name": [
+        40,
+        415,
+        122,
+        435
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "VS",
+      "bbox_pin": null,
+      "bbox_name": [
+        93,
+        439,
+        122,
+        457
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "VS",
+      "bbox_pin": null,
+      "bbox_name": [
+        94,
+        459,
+        121,
+        477
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "CLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        80,
+        482,
+        122,
+        500
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "C\\L\\K\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        78,
+        500,
+        122,
+        520
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        87,
+        519,
+        122,
+        543
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "SCLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        69,
+        546,
+        121,
+        565
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "C\\S\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        209,
+        651,
+        233,
+        683
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        237,
+        655,
+        254,
+        686
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        258,
+        653,
+        275,
+        683
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        279,
+        655,
+        298,
+        683
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "SDO",
+      "bbox_pin": null,
+      "bbox_name": [
+        302,
+        656,
+        320,
+        699
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "SDIO",
+      "bbox_pin": null,
+      "bbox_name": [
+        321,
+        656,
+        340,
+        703
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "R\\E\\S\\E\\T\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        342,
+        655,
+        359,
+        720
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "P\\D\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        362,
+        654,
+        381,
+        683
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "OUT4",
+      "bbox_pin": null,
+      "bbox_name": [
+        387,
+        651,
+        404,
+        709
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "O\\U\\T\\4\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        406,
+        649,
+        425,
+        707
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "VS_LVPECL",
+      "bbox_pin": null,
+      "bbox_name": [
+        429,
+        654,
+        450,
+        766
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "OUT5",
+      "bbox_pin": null,
+      "bbox_name": [
+        451,
+        655,
+        467,
+        708
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "O\\U\\T\\5\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        469,
+        656,
+        488,
+        710
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "VS",
+      "bbox_pin": null,
+      "bbox_name": [
+        494,
+        655,
+        508,
+        681
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "VS",
+      "bbox_pin": null,
+      "bbox_name": [
+        516,
+        655,
+        534,
+        683
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "VS",
+      "bbox_pin": null,
+      "bbox_name": [
+        537,
+        651,
+        555,
+        684
+      ]
+    },
+    {
+      "pin_number": 33,
+      "name": "OUT8 (OUT8A)",
+      "bbox_pin": null,
+      "bbox_name": [
+        646,
+        544,
+        776,
+        570
+      ]
+    },
+    {
+      "pin_number": 34,
+      "name": "O\\U\\T\\8\\ (O\\U\\T\\8\\B)",
+      "bbox_pin": null,
+      "bbox_name": [
+        648,
+        522,
+        772,
+        542
+      ]
+    },
+    {
+      "pin_number": 35,
+      "name": "OUT9 (OUT9A)",
+      "bbox_pin": null,
+      "bbox_name": [
+        649,
+        501,
+        773,
+        523
+      ]
+    },
+    {
+      "pin_number": 36,
+      "name": "O\\U\\T\\9\\ (O\\U\\T\\9\\B)",
+      "bbox_pin": null,
+      "bbox_name": [
+        647,
+        479,
+        774,
+        498
+      ]
+    },
+    {
+      "pin_number": 37,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        647,
+        460,
+        691,
+        477
+      ]
+    },
+    {
+      "pin_number": 38,
+      "name": "VS",
+      "bbox_pin": null,
+      "bbox_name": [
+        647,
+        439,
+        674,
+        457
+      ]
+    },
+    {
+      "pin_number": 39,
+      "name": "O\\U\\T\\3\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        646,
+        415,
+        701,
+        437
+      ]
+    },
+    {
+      "pin_number": 40,
+      "name": "OUT3",
+      "bbox_pin": null,
+      "bbox_name": [
+        647,
+        396,
+        699,
+        414
+      ]
+    },
+    {
+      "pin_number": 41,
+      "name": "VS_LVPECL",
+      "bbox_pin": null,
+      "bbox_name": [
+        647,
+        372,
+        755,
+        398
+      ]
+    },
+    {
+      "pin_number": 42,
+      "name": "O\\U\\T\\2\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        646,
+        351,
+        701,
+        371
+      ]
+    },
+    {
+      "pin_number": 43,
+      "name": "OUT2",
+      "bbox_pin": null,
+      "bbox_name": [
+        645,
+        334,
+        697,
+        350
+      ]
+    },
+    {
+      "pin_number": 44,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        646,
+        313,
+        691,
+        332
+      ]
+    },
+    {
+      "pin_number": 45,
+      "name": "O\\U\\T\\7\\ (O\\U\\T\\7\\B)",
+      "bbox_pin": null,
+      "bbox_name": [
+        645,
+        286,
+        777,
+        315
+      ]
+    },
+    {
+      "pin_number": 46,
+      "name": "OUT7 (OUT7A)",
+      "bbox_pin": null,
+      "bbox_name": [
+        647,
+        269,
+        775,
+        290
+      ]
+    },
+    {
+      "pin_number": 47,
+      "name": "O\\U\\T\\6\\ (O\\U\\T\\6\\B)",
+      "bbox_pin": null,
+      "bbox_name": [
+        645,
+        244,
+        775,
+        267
+      ]
+    },
+    {
+      "pin_number": 48,
+      "name": "OUT6 (OUT6A)",
+      "bbox_pin": null,
+      "bbox_name": [
+        645,
+        226,
+        775,
+        245
+      ]
+    },
+    {
+      "pin_number": 49,
+      "name": "VS",
+      "bbox_pin": null,
+      "bbox_name": [
+        536,
+        105,
+        555,
+        134
+      ]
+    },
+    {
+      "pin_number": 50,
+      "name": "VS",
+      "bbox_pin": null,
+      "bbox_name": [
+        513,
+        106,
+        533,
+        135
+      ]
+    },
+    {
+      "pin_number": 51,
+      "name": "VS",
+      "bbox_pin": null,
+      "bbox_name": [
+        493,
+        106,
+        509,
+        134
+      ]
+    },
+    {
+      "pin_number": 52,
+      "name": "O\\U\\T\\1\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        469,
+        83,
+        490,
+        132
+      ]
+    },
+    {
+      "pin_number": 53,
+      "name": "OUT1",
+      "bbox_pin": null,
+      "bbox_name": [
+        450,
+        86,
+        470,
+        131
+      ]
+    },
+    {
+      "pin_number": 54,
+      "name": "VS_LVPECL",
+      "bbox_pin": null,
+      "bbox_name": [
+        428,
+        27,
+        447,
+        132
+      ]
+    },
+    {
+      "pin_number": 55,
+      "name": "O\\U\\T\\0\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        404,
+        84,
+        426,
+        132
+      ]
+    },
+    {
+      "pin_number": 56,
+      "name": "OUT0",
+      "bbox_pin": null,
+      "bbox_name": [
+        384,
+        80,
+        405,
+        135
+      ]
+    },
+    {
+      "pin_number": 57,
+      "name": "VS",
+      "bbox_pin": null,
+      "bbox_name": [
+        365,
+        104,
+        384,
+        134
+      ]
+    },
+    {
+      "pin_number": 58,
+      "name": "RSET",
+      "bbox_pin": null,
+      "bbox_name": [
+        342,
+        83,
+        363,
+        134
+      ]
+    },
+    {
+      "pin_number": 59,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        322,
+        89,
+        341,
+        132
+      ]
+    },
+    {
+      "pin_number": 60,
+      "name": "VS",
+      "bbox_pin": null,
+      "bbox_name": [
+        303,
+        104,
+        320,
+        134
+      ]
+    },
+    {
+      "pin_number": 61,
+      "name": "VS",
+      "bbox_pin": null,
+      "bbox_name": [
+        279,
+        102,
+        300,
+        132
+      ]
+    },
+    {
+      "pin_number": 62,
+      "name": "CPRSET",
+      "bbox_pin": null,
+      "bbox_name": [
+        259,
+        57,
+        280,
+        130
+      ]
+    },
+    {
+      "pin_number": 63,
+      "name": "R\\E\\F\\I\\N\\ (REF2)",
+      "bbox_pin": null,
+      "bbox_name": [
+        234,
+        13,
+        258,
+        132
+      ]
+    },
+    {
+      "pin_number": 64,
+      "name": "REFIN (REF1)",
+      "bbox_pin": null,
+      "bbox_name": [
+        209,
+        12,
+        231,
+        132
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "image_id": "120个测试用例汇总_88_1",
+  "width": 357,
+  "height": 166,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        91,
+        37,
+        134,
+        57
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "XTAL_IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        44,
+        66,
+        135,
+        90
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "XTAL_OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        97,
+        134,
+        120
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VEE",
+      "bbox_pin": null,
+      "bbox_name": [
+        96,
+        127,
+        134,
+        147
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "Q0",
+      "bbox_pin": null,
+      "bbox_name": [
+        281,
+        126,
+        314,
+        148
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "VCCO",
+      "bbox_pin": null,
+      "bbox_name": [
+        282,
+        96,
+        331,
+        116
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "nQ1",
+      "bbox_pin": null,
+      "bbox_name": [
+        281,
+        65,
+        324,
+        88
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "Q1",
+      "bbox_pin": null,
+      "bbox_name": [
+        282,
+        36,
+        314,
+        58
+      ]
+    }
+  ]
+}

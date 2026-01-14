@@ -1,0 +1,137 @@
+{
+  "image_id": "120个测试用例汇总_18_1",
+  "width": 513,
+  "height": 357,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "IN+",
+      "bbox_pin": [
+        142,
+        81,
+        164,
+        108
+      ],
+      "bbox_name": [
+        16,
+        81,
+        61,
+        108
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "IN+",
+      "bbox_pin": [
+        141,
+        134,
+        163,
+        164
+      ],
+      "bbox_name": [
+        17,
+        136,
+        60,
+        164
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "IN±",
+      "bbox_pin": [
+        138,
+        192,
+        164,
+        217
+      ],
+      "bbox_name": [
+        15,
+        188,
+        61,
+        217
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "IN±",
+      "bbox_pin": [
+        140,
+        247,
+        166,
+        274
+      ],
+      "bbox_name": [
+        18,
+        244,
+        60,
+        272
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "GND",
+      "bbox_pin": [
+        320,
+        244,
+        344,
+        269
+      ],
+      "bbox_name": [
+        422,
+        247,
+        483,
+        271
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "NC",
+      "bbox_pin": [
+        317,
+        188,
+        346,
+        217
+      ],
+      "bbox_name": [
+        424,
+        189,
+        470,
+        213
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "VOUT",
+      "bbox_pin": [
+        316,
+        137,
+        344,
+        165
+      ],
+      "bbox_name": [
+        425,
+        134,
+        492,
+        163
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VS",
+      "bbox_pin": [
+        318,
+        85,
+        344,
+        111
+      ],
+      "bbox_name": [
+        426,
+        81,
+        465,
+        106
+      ]
+    }
+  ]
+}

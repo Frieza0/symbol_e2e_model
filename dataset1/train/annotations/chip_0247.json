@@ -1,0 +1,136 @@
+{
+  "image_id": "chip_0247",
+  "width": 256,
+  "height": 256,
+  "total_pins": 8,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "BCLK",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        70,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "PD",
+      "bbox_pin": [
+        78,
+        92,
+        86,
+        104
+      ],
+      "bbox_name": [
+        33,
+        92,
+        52,
+        104
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "AIN",
+      "bbox_pin": [
+        78,
+        152,
+        86,
+        164
+      ],
+      "bbox_name": [
+        33,
+        152,
+        57,
+        164
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "PROG",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        74,
+        224
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "RESET",
+      "bbox_pin": [
+        173,
+        32,
+        181,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        249,
+        44
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "O2",
+      "bbox_pin": [
+        173,
+        92,
+        181,
+        104
+      ],
+      "bbox_name": [
+        203,
+        92,
+        222,
+        104
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SCK",
+      "bbox_pin": [
+        173,
+        152,
+        181,
+        164
+      ],
+      "bbox_name": [
+        203,
+        152,
+        232,
+        164
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "TRIG",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        237,
+        224
+      ]
+    }
+  ]
+}

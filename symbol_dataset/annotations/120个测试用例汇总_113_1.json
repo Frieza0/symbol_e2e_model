@@ -1,0 +1,393 @@
+{
+  "image_id": "120个测试用例汇总_113_1",
+  "width": 633,
+  "height": 645,
+  "total_pins": 24,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "DVDD",
+      "bbox_pin": [
+        167,
+        49,
+        191,
+        76
+      ],
+      "bbox_name": [
+        71,
+        46,
+        147,
+        80
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "DGND",
+      "bbox_pin": [
+        168,
+        99,
+        193,
+        125
+      ],
+      "bbox_name": [
+        63,
+        89,
+        147,
+        126
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "CLKIN/XTAL1",
+      "bbox_pin": [
+        167,
+        146,
+        190,
+        170
+      ],
+      "bbox_name": [
+        6,
+        136,
+        145,
+        179
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "XTAL2",
+      "bbox_pin": [
+        167,
+        194,
+        190,
+        217
+      ],
+      "bbox_name": [
+        67,
+        187,
+        149,
+        224
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "DGND",
+      "bbox_pin": [
+        168,
+        243,
+        194,
+        268
+      ],
+      "bbox_name": [
+        72,
+        239,
+        146,
+        273
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "DGND",
+      "bbox_pin": [
+        167,
+        290,
+        193,
+        316
+      ],
+      "bbox_name": [
+        69,
+        285,
+        148,
+        318
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "TEMP",
+      "bbox_pin": [
+        169,
+        338,
+        190,
+        363
+      ],
+      "bbox_name": [
+        70,
+        333,
+        147,
+        363
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "A0",
+      "bbox_pin": [
+        169,
+        386,
+        190,
+        411
+      ],
+      "bbox_name": [
+        99,
+        382,
+        149,
+        417
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "CAP",
+      "bbox_pin": [
+        170,
+        432,
+        190,
+        459
+      ],
+      "bbox_name": [
+        90,
+        430,
+        149,
+        461
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "CAP",
+      "bbox_pin": [
+        167,
+        483,
+        195,
+        508
+      ],
+      "bbox_name": [
+        89,
+        476,
+        147,
+        509
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "AINP1",
+      "bbox_pin": [
+        167,
+        528,
+        193,
+        555
+      ],
+      "bbox_name": [
+        74,
+        526,
+        148,
+        559
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "AINN1",
+      "bbox_pin": [
+        167,
+        576,
+        194,
+        604
+      ],
+      "bbox_name": [
+        76,
+        570,
+        146,
+        606
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "AINN2",
+      "bbox_pin": [
+        441,
+        574,
+        472,
+        603
+      ],
+      "bbox_name": [
+        492,
+        574,
+        562,
+        606
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "AINP2",
+      "bbox_pin": [
+        442,
+        525,
+        469,
+        554
+      ],
+      "bbox_name": [
+        483,
+        525,
+        565,
+        559
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "REFN",
+      "bbox_pin": [
+        441,
+        480,
+        470,
+        506
+      ],
+      "bbox_name": [
+        485,
+        476,
+        563,
+        510
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "REFP",
+      "bbox_pin": [
+        440,
+        432,
+        471,
+        459
+      ],
+      "bbox_name": [
+        485,
+        422,
+        562,
+        465
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "AGND",
+      "bbox_pin": [
+        440,
+        385,
+        471,
+        412
+      ],
+      "bbox_name": [
+        489,
+        383,
+        561,
+        412
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "AVDD",
+      "bbox_pin": [
+        443,
+        337,
+        471,
+        365
+      ],
+      "bbox_name": [
+        491,
+        331,
+        560,
+        365
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "GAIN0",
+      "bbox_pin": [
+        438,
+        290,
+        469,
+        313
+      ],
+      "bbox_name": [
+        491,
+        287,
+        564,
+        320
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "GAIN1",
+      "bbox_pin": [
+        441,
+        241,
+        474,
+        270
+      ],
+      "bbox_name": [
+        484,
+        236,
+        571,
+        273
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "SPEED",
+      "bbox_pin": [
+        442,
+        194,
+        467,
+        218
+      ],
+      "bbox_name": [
+        486,
+        188,
+        576,
+        225
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "P\\D\\W\\N\\",
+      "bbox_pin": [
+        442,
+        148,
+        470,
+        168
+      ],
+      "bbox_name": [
+        487,
+        138,
+        563,
+        172
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "SCLK",
+      "bbox_pin": [
+        439,
+        98,
+        468,
+        123
+      ],
+      "bbox_name": [
+        488,
+        94,
+        556,
+        126
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "D\\R\\D\\Y\\/DOUT",
+      "bbox_pin": [
+        444,
+        50,
+        468,
+        74
+      ],
+      "bbox_name": [
+        483,
+        40,
+        622,
+        78
+      ]
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "image_id": "120个测试用例汇总_66_1",
+  "width": 747,
+  "height": 336,
+  "total_pins": 10,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "SDIN",
+      "bbox_pin": [
+        264,
+        48,
+        286,
+        78
+      ],
+      "bbox_name": [
+        95,
+        47,
+        183,
+        80
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "D\\E\\M\\/SCLK",
+      "bbox_pin": [
+        262,
+        98,
+        286,
+        125
+      ],
+      "bbox_name": [
+        7,
+        86,
+        184,
+        132
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "LRCK",
+      "bbox_pin": [
+        265,
+        150,
+        288,
+        179
+      ],
+      "bbox_name": [
+        83,
+        148,
+        181,
+        180
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "MCLK",
+      "bbox_pin": [
+        266,
+        199,
+        286,
+        231
+      ],
+      "bbox_name": [
+        85,
+        194,
+        184,
+        231
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VQ",
+      "bbox_pin": [
+        265,
+        251,
+        290,
+        278
+      ],
+      "bbox_name": [
+        135,
+        248,
+        183,
+        282
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "FILT+",
+      "bbox_pin": [
+        535,
+        252,
+        560,
+        281
+      ],
+      "bbox_name": [
+        620,
+        245,
+        714,
+        281
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "AOUTL",
+      "bbox_pin": [
+        535,
+        198,
+        557,
+        223
+      ],
+      "bbox_name": [
+        616,
+        195,
+        734,
+        232
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GND",
+      "bbox_pin": [
+        536,
+        145,
+        557,
+        176
+      ],
+      "bbox_name": [
+        620,
+        146,
+        699,
+        180
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "VA",
+      "bbox_pin": [
+        533,
+        99,
+        557,
+        124
+      ],
+      "bbox_name": [
+        617,
+        100,
+        673,
+        133
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "AOUTR",
+      "bbox_pin": [
+        520,
+        47,
+        554,
+        73
+      ],
+      "bbox_name": [
+        616,
+        40,
+        737,
+        81
+      ]
+    }
+  ]
+}

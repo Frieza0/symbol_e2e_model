@@ -1,0 +1,137 @@
+{
+  "image_id": "120个测试用例汇总_17_1",
+  "width": 462,
+  "height": 330,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "IP+",
+      "bbox_pin": [
+        83,
+        46,
+        106,
+        66
+      ],
+      "bbox_name": [
+        22,
+        43,
+        62,
+        70
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "IP+",
+      "bbox_pin": [
+        81,
+        125,
+        106,
+        146
+      ],
+      "bbox_name": [
+        19,
+        124,
+        63,
+        155
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "IP-",
+      "bbox_pin": [
+        85,
+        194,
+        104,
+        215
+      ],
+      "bbox_name": [
+        22,
+        193,
+        59,
+        218
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "IP-",
+      "bbox_pin": [
+        84,
+        266,
+        105,
+        285
+      ],
+      "bbox_name": [
+        24,
+        262,
+        60,
+        292
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "GND",
+      "bbox_pin": [
+        337,
+        265,
+        359,
+        284
+      ],
+      "bbox_name": [
+        383,
+        262,
+        440,
+        287
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "NC",
+      "bbox_pin": [
+        336,
+        195,
+        359,
+        216
+      ],
+      "bbox_name": [
+        388,
+        190,
+        433,
+        215
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "OUT",
+      "bbox_pin": [
+        338,
+        126,
+        356,
+        146
+      ],
+      "bbox_name": [
+        380,
+        120,
+        437,
+        150
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC",
+      "bbox_pin": [
+        338,
+        45,
+        358,
+        67
+      ],
+      "bbox_name": [
+        386,
+        44,
+        437,
+        69
+      ]
+    }
+  ]
+}

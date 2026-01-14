@@ -1,0 +1,97 @@
+{
+  "image_id": "25AA256-25LC256_1_4",
+  "width": 279,
+  "height": 168,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "C\\S\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        6,
+        8,
+        51,
+        38
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "SO",
+      "bbox_pin": null,
+      "bbox_name": [
+        5,
+        45,
+        49,
+        70
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "W\\P\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        2,
+        75,
+        51,
+        109
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        3,
+        113,
+        49,
+        142
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "SI",
+      "bbox_pin": null,
+      "bbox_name": [
+        200,
+        117,
+        228,
+        141
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SCK",
+      "bbox_pin": null,
+      "bbox_name": [
+        198,
+        82,
+        257,
+        109
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "H\\O\\L\\D\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        196,
+        40,
+        277,
+        70
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        198,
+        12,
+        244,
+        38
+      ]
+    }
+  ]
+}

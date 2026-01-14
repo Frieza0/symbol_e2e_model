@@ -1,0 +1,521 @@
+{
+  "image_id": "120个测试用例汇总_67_2",
+  "width": 714,
+  "height": 732,
+  "total_pins": 32,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "MODSEL",
+      "bbox_pin": [
+        185,
+        37,
+        212,
+        68
+      ],
+      "bbox_name": [
+        12,
+        40,
+        123,
+        71
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "SDZ",
+      "bbox_pin": [
+        182,
+        78,
+        213,
+        113
+      ],
+      "bbox_name": [
+        60,
+        80,
+        125,
+        109
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "FAULTZ",
+      "bbox_pin": [
+        186,
+        122,
+        213,
+        150
+      ],
+      "bbox_name": [
+        24,
+        120,
+        125,
+        150
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "RINP",
+      "bbox_pin": [
+        188,
+        160,
+        212,
+        199
+      ],
+      "bbox_name": [
+        52,
+        164,
+        122,
+        191
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "RINN",
+      "bbox_pin": [
+        187,
+        207,
+        213,
+        237
+      ],
+      "bbox_name": [
+        51,
+        204,
+        123,
+        237
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "PLIMIT",
+      "bbox_pin": [
+        183,
+        247,
+        212,
+        279
+      ],
+      "bbox_name": [
+        30,
+        248,
+        122,
+        277
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "GVDD",
+      "bbox_pin": [
+        186,
+        290,
+        213,
+        317
+      ],
+      "bbox_name": [
+        46,
+        291,
+        122,
+        319
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GAIN/SLV",
+      "bbox_pin": [
+        186,
+        326,
+        211,
+        360
+      ],
+      "bbox_name": [
+        4,
+        332,
+        123,
+        362
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "GND",
+      "bbox_pin": [
+        183,
+        374,
+        213,
+        403
+      ],
+      "bbox_name": [
+        59,
+        374,
+        123,
+        398
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "LINP",
+      "bbox_pin": [
+        180,
+        415,
+        220,
+        445
+      ],
+      "bbox_name": [
+        60,
+        413,
+        123,
+        441
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "LINN",
+      "bbox_pin": [
+        188,
+        453,
+        215,
+        488
+      ],
+      "bbox_name": [
+        60,
+        456,
+        122,
+        486
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "MUTE",
+      "bbox_pin": [
+        185,
+        497,
+        216,
+        528
+      ],
+      "bbox_name": [
+        48,
+        497,
+        123,
+        526
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "AM2",
+      "bbox_pin": [
+        187,
+        541,
+        216,
+        570
+      ],
+      "bbox_name": [
+        57,
+        539,
+        124,
+        566
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "AM1",
+      "bbox_pin": [
+        187,
+        579,
+        216,
+        614
+      ],
+      "bbox_name": [
+        61,
+        581,
+        123,
+        609
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "AM0",
+      "bbox_pin": [
+        185,
+        624,
+        216,
+        651
+      ],
+      "bbox_name": [
+        65,
+        620,
+        124,
+        651
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "SYNC",
+      "bbox_pin": [
+        184,
+        663,
+        216,
+        696
+      ],
+      "bbox_name": [
+        43,
+        666,
+        125,
+        696
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "AVCC",
+      "bbox_pin": [
+        511,
+        664,
+        551,
+        693
+      ],
+      "bbox_name": [
+        609,
+        663,
+        681,
+        693
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "PVCC",
+      "bbox_pin": [
+        510,
+        620,
+        544,
+        651
+      ],
+      "bbox_name": [
+        608,
+        624,
+        683,
+        651
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "PVCC",
+      "bbox_pin": [
+        515,
+        581,
+        547,
+        608
+      ],
+      "bbox_name": [
+        607,
+        581,
+        683,
+        611
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "BSNL",
+      "bbox_pin": [
+        513,
+        541,
+        547,
+        568
+      ],
+      "bbox_name": [
+        610,
+        539,
+        681,
+        572
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "OUTNL",
+      "bbox_pin": [
+        514,
+        499,
+        549,
+        529
+      ],
+      "bbox_name": [
+        607,
+        497,
+        697,
+        527
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "GND",
+      "bbox_pin": [
+        511,
+        455,
+        546,
+        485
+      ],
+      "bbox_name": [
+        611,
+        453,
+        672,
+        482
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "OUTPL",
+      "bbox_pin": [
+        511,
+        417,
+        547,
+        442
+      ],
+      "bbox_name": [
+        605,
+        414,
+        697,
+        444
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "BSPL",
+      "bbox_pin": [
+        511,
+        376,
+        547,
+        404
+      ],
+      "bbox_name": [
+        609,
+        374,
+        678,
+        402
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "GND",
+      "bbox_pin": [
+        514,
+        332,
+        547,
+        360
+      ],
+      "bbox_name": [
+        610,
+        332,
+        670,
+        357
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "BSNR",
+      "bbox_pin": [
+        512,
+        292,
+        547,
+        320
+      ],
+      "bbox_name": [
+        613,
+        288,
+        686,
+        319
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "OUTNR",
+      "bbox_pin": [
+        512,
+        251,
+        547,
+        276
+      ],
+      "bbox_name": [
+        612,
+        249,
+        702,
+        278
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "GND",
+      "bbox_pin": [
+        514,
+        207,
+        547,
+        234
+      ],
+      "bbox_name": [
+        608,
+        207,
+        670,
+        234
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "OUTPR",
+      "bbox_pin": [
+        514,
+        167,
+        545,
+        191
+      ],
+      "bbox_name": [
+        607,
+        167,
+        706,
+        192
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "BSPR",
+      "bbox_pin": [
+        516,
+        125,
+        546,
+        147
+      ],
+      "bbox_name": [
+        609,
+        121,
+        681,
+        152
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "PVCC",
+      "bbox_pin": [
+        517,
+        82,
+        546,
+        108
+      ],
+      "bbox_name": [
+        612,
+        85,
+        683,
+        114
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "PVCC",
+      "bbox_pin": [
+        514,
+        40,
+        545,
+        68
+      ],
+      "bbox_name": [
+        610,
+        40,
+        684,
+        69
+      ]
+    }
+  ]
+}

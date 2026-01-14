@@ -1,0 +1,169 @@
+{
+  "image_id": "120个测试用例汇总_112_1",
+  "width": 390,
+  "height": 226,
+  "total_pins": 10,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "REF",
+      "bbox_pin": [
+        72,
+        43,
+        86,
+        64
+      ],
+      "bbox_name": [
+        21,
+        41,
+        64,
+        62
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VDD",
+      "bbox_pin": [
+        68,
+        77,
+        85,
+        97
+      ],
+      "bbox_name": [
+        20,
+        76,
+        64,
+        98
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "IN+",
+      "bbox_pin": [
+        71,
+        109,
+        87,
+        132
+      ],
+      "bbox_name": [
+        26,
+        109,
+        63,
+        132
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "IN–",
+      "bbox_pin": [
+        71,
+        144,
+        86,
+        164
+      ],
+      "bbox_name": [
+        29,
+        147,
+        65,
+        165
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "GND",
+      "bbox_pin": [
+        72,
+        180,
+        85,
+        200
+      ],
+      "bbox_name": [
+        22,
+        181,
+        63,
+        200
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "CNV",
+      "bbox_pin": [
+        293,
+        180,
+        308,
+        199
+      ],
+      "bbox_name": [
+        318,
+        180,
+        367,
+        202
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "SDO",
+      "bbox_pin": [
+        293,
+        144,
+        308,
+        165
+      ],
+      "bbox_name": [
+        319,
+        144,
+        368,
+        167
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "SCK",
+      "bbox_pin": [
+        293,
+        112,
+        309,
+        134
+      ],
+      "bbox_name": [
+        316,
+        110,
+        366,
+        133
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "SDI",
+      "bbox_pin": [
+        293,
+        79,
+        307,
+        99
+      ],
+      "bbox_name": [
+        319,
+        78,
+        359,
+        99
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "VIO",
+      "bbox_pin": [
+        294,
+        44,
+        317,
+        64
+      ],
+      "bbox_name": [
+        322,
+        41,
+        357,
+        62
+      ]
+    }
+  ]
+}

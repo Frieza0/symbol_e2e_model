@@ -1,0 +1,97 @@
+{
+  "image_id": "4300a12fa_2_1",
+  "width": 480,
+  "height": 124,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "ENABLE/VCC2*",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        11,
+        152,
+        38
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "SCLOUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        77,
+        39,
+        150,
+        58
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "SCLIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        95,
+        64,
+        151,
+        84
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        105,
+        90,
+        151,
+        110
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "READY/ACC*",
+      "bbox_pin": null,
+      "bbox_name": [
+        346,
+        91,
+        459,
+        112
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SDAIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        348,
+        66,
+        405,
+        86
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "SDAOUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        349,
+        38,
+        422,
+        59
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        345,
+        16,
+        382,
+        37
+      ]
+    }
+  ]
+}

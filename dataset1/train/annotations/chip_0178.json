@@ -1,0 +1,232 @@
+{
+  "image_id": "chip_0178",
+  "width": 256,
+  "height": 256,
+  "total_pins": 14,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "RTS",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        61,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "OFF",
+      "bbox_pin": [
+        78,
+        62,
+        86,
+        74
+      ],
+      "bbox_name": [
+        33,
+        62,
+        62,
+        74
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "SDA",
+      "bbox_pin": [
+        78,
+        92,
+        86,
+        104
+      ],
+      "bbox_name": [
+        33,
+        92,
+        62,
+        104
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "SWCLK",
+      "bbox_pin": [
+        78,
+        122,
+        86,
+        134
+      ],
+      "bbox_name": [
+        33,
+        122,
+        83,
+        134
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "XTAL2",
+      "bbox_pin": [
+        78,
+        152,
+        86,
+        164
+      ],
+      "bbox_name": [
+        33,
+        152,
+        76,
+        164
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "VEE",
+      "bbox_pin": [
+        78,
+        182,
+        86,
+        194
+      ],
+      "bbox_name": [
+        33,
+        182,
+        60,
+        194
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "VINP",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        65,
+        224
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "LIN",
+      "bbox_pin": [
+        173,
+        32,
+        189,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        225,
+        44
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "COMP",
+      "bbox_pin": [
+        173,
+        62,
+        189,
+        74
+      ],
+      "bbox_name": [
+        203,
+        62,
+        245,
+        74
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "ANT",
+      "bbox_pin": [
+        173,
+        92,
+        189,
+        104
+      ],
+      "bbox_name": [
+        203,
+        92,
+        232,
+        104
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "RST",
+      "bbox_pin": [
+        173,
+        122,
+        189,
+        134
+      ],
+      "bbox_name": [
+        203,
+        122,
+        231,
+        134
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "AD0",
+      "bbox_pin": [
+        173,
+        152,
+        189,
+        164
+      ],
+      "bbox_name": [
+        203,
+        152,
+        231,
+        164
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "OUT",
+      "bbox_pin": [
+        173,
+        182,
+        181,
+        194
+      ],
+      "bbox_name": [
+        203,
+        182,
+        233,
+        194
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "TRIG",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        237,
+        224
+      ]
+    }
+  ]
+}

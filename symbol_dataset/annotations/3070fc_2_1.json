@@ -1,0 +1,323 @@
+{
+  "image_id": "3070fc_2_1",
+  "width": 486,
+  "height": 470,
+  "total_pins": 29,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VIOC",
+      "bbox_pin": null,
+      "bbox_name": [
+        51,
+        92,
+        97,
+        116
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "PWRGD",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        129,
+        97,
+        152
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "REF/BYP",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        167,
+        100,
+        191
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        53,
+        202,
+        97,
+        224
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        74,
+        236,
+        97,
+        262
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        75,
+        275,
+        98,
+        299
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        75,
+        311,
+        99,
+        336
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        74,
+        346,
+        98,
+        373
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        131,
+        419,
+        153,
+        463
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        167,
+        419,
+        191,
+        462
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        202,
+        422,
+        226,
+        463
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        240,
+        422,
+        263,
+        462
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        275,
+        420,
+        297,
+        463
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        313,
+        420,
+        338,
+        463
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        369,
+        349,
+        412,
+        373
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        370,
+        312,
+        413,
+        337
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        374,
+        273,
+        412,
+        299
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        372,
+        240,
+        413,
+        262
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "SENSE",
+      "bbox_pin": null,
+      "bbox_name": [
+        375,
+        202,
+        434,
+        228
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        372,
+        166,
+        415,
+        189
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "MARGSEL",
+      "bbox_pin": null,
+      "bbox_name": [
+        372,
+        130,
+        464,
+        154
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "MARGTOL",
+      "bbox_pin": null,
+      "bbox_name": [
+        374,
+        94,
+        463,
+        117
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "VO0",
+      "bbox_pin": null,
+      "bbox_name": [
+        315,
+        15,
+        342,
+        52
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "VO1",
+      "bbox_pin": null,
+      "bbox_name": [
+        276,
+        15,
+        305,
+        48
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "VO2",
+      "bbox_pin": null,
+      "bbox_name": [
+        242,
+        12,
+        268,
+        50
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        206,
+        7,
+        227,
+        48
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "BIAS",
+      "bbox_pin": null,
+      "bbox_name": [
+        169,
+        2,
+        191,
+        47
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "EN",
+      "bbox_pin": null,
+      "bbox_name": [
+        132,
+        21,
+        152,
+        48
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ]
+}

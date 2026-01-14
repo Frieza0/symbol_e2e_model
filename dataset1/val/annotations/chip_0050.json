@@ -1,0 +1,200 @@
+{
+  "image_id": "chip_0050",
+  "width": 256,
+  "height": 256,
+  "total_pins": 12,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "I3",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        45,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "O0",
+      "bbox_pin": [
+        78,
+        68,
+        86,
+        80
+      ],
+      "bbox_name": [
+        33,
+        68,
+        52,
+        80
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "DCD",
+      "bbox_pin": [
+        78,
+        104,
+        86,
+        116
+      ],
+      "bbox_name": [
+        33,
+        104,
+        63,
+        116
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VINP",
+      "bbox_pin": [
+        78,
+        140,
+        86,
+        152
+      ],
+      "bbox_name": [
+        33,
+        140,
+        65,
+        152
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "D6",
+      "bbox_pin": [
+        78,
+        176,
+        86,
+        188
+      ],
+      "bbox_name": [
+        33,
+        176,
+        51,
+        188
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SDA",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        62,
+        224
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "TMS",
+      "bbox_pin": [
+        173,
+        32,
+        189,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        233,
+        44
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "RESET",
+      "bbox_pin": [
+        173,
+        68,
+        189,
+        80
+      ],
+      "bbox_name": [
+        203,
+        68,
+        249,
+        80
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "SD",
+      "bbox_pin": [
+        173,
+        104,
+        189,
+        116
+      ],
+      "bbox_name": [
+        203,
+        104,
+        222,
+        116
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "BCLK",
+      "bbox_pin": [
+        173,
+        140,
+        181,
+        152
+      ],
+      "bbox_name": [
+        203,
+        140,
+        240,
+        152
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VIN",
+      "bbox_pin": [
+        173,
+        176,
+        181,
+        188
+      ],
+      "bbox_name": [
+        203,
+        176,
+        226,
+        188
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "VDD",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        232,
+        224
+      ]
+    }
+  ]
+}

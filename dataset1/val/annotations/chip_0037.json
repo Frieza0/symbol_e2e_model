@@ -1,0 +1,104 @@
+{
+  "image_id": "chip_0037",
+  "width": 256,
+  "height": 256,
+  "total_pins": 6,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "STBY",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        70,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "INT",
+      "bbox_pin": [
+        78,
+        122,
+        86,
+        134
+      ],
+      "bbox_name": [
+        33,
+        122,
+        56,
+        134
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "EN",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        52,
+        224
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "VIN",
+      "bbox_pin": [
+        173,
+        32,
+        181,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        226,
+        44
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "OFF",
+      "bbox_pin": [
+        173,
+        122,
+        181,
+        134
+      ],
+      "bbox_name": [
+        203,
+        122,
+        232,
+        134
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "RX",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        223,
+        224
+      ]
+    }
+  ]
+}

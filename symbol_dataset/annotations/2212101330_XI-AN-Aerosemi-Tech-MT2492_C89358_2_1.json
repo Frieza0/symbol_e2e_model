@@ -1,0 +1,75 @@
+{
+  "image_id": "2212101330_XI-AN-Aerosemi-Tech-MT2492_C89358_2_1",
+  "width": 288,
+  "height": 161,
+  "total_pins": 6,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "BS",
+      "bbox_pin": null,
+      "bbox_name": [
+        28,
+        32,
+        51,
+        51
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        73,
+        58,
+        95
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "FB",
+      "bbox_pin": null,
+      "bbox_name": [
+        26,
+        114,
+        50,
+        136
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "EN",
+      "bbox_pin": null,
+      "bbox_name": [
+        239,
+        117,
+        263,
+        136
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        236,
+        73,
+        266,
+        93
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SW",
+      "bbox_pin": null,
+      "bbox_name": [
+        237,
+        31,
+        267,
+        51
+      ]
+    }
+  ]
+}

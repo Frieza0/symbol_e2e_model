@@ -1,0 +1,329 @@
+{
+  "image_id": "120个测试用例汇总_74_2",
+  "width": 672,
+  "height": 693,
+  "total_pins": 20,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "HP_R",
+      "bbox_pin": [
+        144,
+        235,
+        166,
+        255
+      ],
+      "bbox_name": [
+        52,
+        226,
+        122,
+        257
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "HP_VGND",
+      "bbox_pin": [
+        144,
+        288,
+        167,
+        309
+      ],
+      "bbox_name": [
+        11,
+        277,
+        119,
+        311
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VDDA",
+      "bbox_pin": [
+        147,
+        343,
+        165,
+        363
+      ],
+      "bbox_name": [
+        47,
+        333,
+        120,
+        364
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "HP_L",
+      "bbox_pin": [
+        144,
+        396,
+        167,
+        417
+      ],
+      "bbox_name": [
+        58,
+        390,
+        122,
+        419
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VAG",
+      "bbox_pin": [
+        144,
+        450,
+        165,
+        470
+      ],
+      "bbox_name": [
+        63,
+        442,
+        119,
+        467
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "LINEOUT_R",
+      "bbox_pin": [
+        214,
+        517,
+        231,
+        544
+      ],
+      "bbox_name": [
+        206,
+        562,
+        233,
+        684
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "LINEOUT_L",
+      "bbox_pin": [
+        266,
+        518,
+        286,
+        542
+      ],
+      "bbox_name": [
+        261,
+        560,
+        292,
+        686
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "LINEIN_R",
+      "bbox_pin": [
+        321,
+        518,
+        339,
+        541
+      ],
+      "bbox_name": [
+        312,
+        562,
+        341,
+        663
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "LINEIN_L",
+      "bbox_pin": [
+        374,
+        515,
+        392,
+        540
+      ],
+      "bbox_name": [
+        364,
+        562,
+        397,
+        658
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "MIC",
+      "bbox_pin": [
+        426,
+        517,
+        447,
+        542
+      ],
+      "bbox_name": [
+        423,
+        559,
+        449,
+        608
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "MIC_BIAS",
+      "bbox_pin": [
+        497,
+        449,
+        520,
+        468
+      ],
+      "bbox_name": [
+        543,
+        442,
+        649,
+        472
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "VDDIO",
+      "bbox_pin": [
+        498,
+        395,
+        522,
+        415
+      ],
+      "bbox_name": [
+        541,
+        387,
+        618,
+        418
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "SYS_MCLK",
+      "bbox_pin": [
+        497,
+        343,
+        524,
+        363
+      ],
+      "bbox_name": [
+        540,
+        332,
+        659,
+        363
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "I2S_LRCLK",
+      "bbox_pin": [
+        497,
+        288,
+        522,
+        307
+      ],
+      "bbox_name": [
+        542,
+        279,
+        659,
+        308
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "I2S_SCLK",
+      "bbox_pin": [
+        497,
+        234,
+        521,
+        254
+      ],
+      "bbox_name": [
+        539,
+        223,
+        644,
+        253
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "I2S_DOUT",
+      "bbox_pin": [
+        427,
+        161,
+        447,
+        182
+      ],
+      "bbox_name": [
+        422,
+        28,
+        451,
+        140
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "I2S_DIN",
+      "bbox_pin": [
+        373,
+        162,
+        393,
+        185
+      ],
+      "bbox_name": [
+        367,
+        53,
+        399,
+        142
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "CTRL_DATA",
+      "bbox_pin": [
+        319,
+        162,
+        339,
+        185
+      ],
+      "bbox_name": [
+        316,
+        13,
+        349,
+        139
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "CTRL_CLK",
+      "bbox_pin": [
+        264,
+        162,
+        286,
+        185
+      ],
+      "bbox_name": [
+        265,
+        29,
+        294,
+        142
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "VDDD",
+      "bbox_pin": [
+        211,
+        162,
+        233,
+        185
+      ],
+      "bbox_name": [
+        217,
+        75,
+        237,
+        142
+      ]
+    }
+  ]
+}

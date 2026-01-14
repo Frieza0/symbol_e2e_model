@@ -1,0 +1,119 @@
+{
+  "image_id": "120个测试用例汇总_9_2",
+  "width": 528,
+  "height": 534,
+  "total_pins": 10,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "ADDR",
+      "bbox_pin": null,
+      "bbox_name": [
+        63,
+        119,
+        132,
+        147
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "ALERT/RDY",
+      "bbox_pin": null,
+      "bbox_name": [
+        12,
+        209,
+        131,
+        240
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        81,
+        291,
+        132,
+        318
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "AIN0",
+      "bbox_pin": null,
+      "bbox_name": [
+        78,
+        382,
+        129,
+        407
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "AIN1",
+      "bbox_pin": null,
+      "bbox_name": [
+        287,
+        474,
+        311,
+        523
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "AIN2",
+      "bbox_pin": null,
+      "bbox_name": [
+        459,
+        385,
+        514,
+        406
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "AIN3",
+      "bbox_pin": null,
+      "bbox_name": [
+        462,
+        293,
+        511,
+        317
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        462,
+        211,
+        512,
+        234
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "SDA",
+      "bbox_pin": null,
+      "bbox_name": [
+        462,
+        120,
+        509,
+        147
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "SCL",
+      "bbox_pin": null,
+      "bbox_name": [
+        288,
+        15,
+        312,
+        57
+      ]
+    }
+  ]
+}

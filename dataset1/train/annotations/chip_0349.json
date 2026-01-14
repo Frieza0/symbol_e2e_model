@@ -1,0 +1,232 @@
+{
+  "image_id": "chip_0349",
+  "width": 256,
+  "height": 256,
+  "total_pins": 14,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "I2",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        45,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "PROG",
+      "bbox_pin": [
+        78,
+        62,
+        86,
+        74
+      ],
+      "bbox_name": [
+        33,
+        62,
+        74,
+        74
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "CTS",
+      "bbox_pin": [
+        78,
+        92,
+        86,
+        104
+      ],
+      "bbox_name": [
+        33,
+        92,
+        61,
+        104
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "EN",
+      "bbox_pin": [
+        78,
+        122,
+        86,
+        134
+      ],
+      "bbox_name": [
+        33,
+        122,
+        52,
+        134
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "O2",
+      "bbox_pin": [
+        78,
+        152,
+        86,
+        164
+      ],
+      "bbox_name": [
+        33,
+        152,
+        52,
+        164
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "TXD",
+      "bbox_pin": [
+        78,
+        182,
+        86,
+        194
+      ],
+      "bbox_name": [
+        33,
+        182,
+        61,
+        194
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "CANH",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        72,
+        224
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "DQ",
+      "bbox_pin": [
+        173,
+        32,
+        189,
+        44
+      ],
+      "bbox_name": [
+        203,
+        31,
+        224,
+        45
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "SI",
+      "bbox_pin": [
+        173,
+        62,
+        189,
+        74
+      ],
+      "bbox_name": [
+        203,
+        62,
+        216,
+        74
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "O3",
+      "bbox_pin": [
+        173,
+        92,
+        189,
+        104
+      ],
+      "bbox_name": [
+        203,
+        92,
+        222,
+        104
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "XTAL1",
+      "bbox_pin": [
+        173,
+        122,
+        189,
+        134
+      ],
+      "bbox_name": [
+        203,
+        122,
+        246,
+        134
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "BIAS",
+      "bbox_pin": [
+        173,
+        152,
+        189,
+        164
+      ],
+      "bbox_name": [
+        203,
+        152,
+        234,
+        164
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "RI",
+      "bbox_pin": [
+        173,
+        182,
+        181,
+        194
+      ],
+      "bbox_name": [
+        203,
+        182,
+        217,
+        194
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "AOUT",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        243,
+        224
+      ]
+    }
+  ]
+}

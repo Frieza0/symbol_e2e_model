@@ -1,0 +1,232 @@
+{
+  "image_id": "chip_0161",
+  "width": 256,
+  "height": 256,
+  "total_pins": 14,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "ON",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        54,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "A6",
+      "bbox_pin": [
+        78,
+        62,
+        86,
+        74
+      ],
+      "bbox_name": [
+        33,
+        62,
+        51,
+        74
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VPP",
+      "bbox_pin": [
+        78,
+        92,
+        86,
+        104
+      ],
+      "bbox_name": [
+        33,
+        92,
+        60,
+        104
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "D7",
+      "bbox_pin": [
+        78,
+        122,
+        86,
+        134
+      ],
+      "bbox_name": [
+        33,
+        122,
+        51,
+        134
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "DQ",
+      "bbox_pin": [
+        78,
+        152,
+        86,
+        164
+      ],
+      "bbox_name": [
+        33,
+        151,
+        54,
+        165
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "DSR",
+      "bbox_pin": [
+        78,
+        182,
+        86,
+        194
+      ],
+      "bbox_name": [
+        33,
+        182,
+        62,
+        194
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "INT",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        56,
+        224
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "IRQ",
+      "bbox_pin": [
+        173,
+        32,
+        189,
+        44
+      ],
+      "bbox_name": [
+        203,
+        31,
+        228,
+        45
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "VCC",
+      "bbox_pin": [
+        173,
+        62,
+        189,
+        74
+      ],
+      "bbox_name": [
+        203,
+        62,
+        232,
+        74
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "ISNS",
+      "bbox_pin": [
+        173,
+        92,
+        189,
+        104
+      ],
+      "bbox_name": [
+        203,
+        92,
+        235,
+        104
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "D4",
+      "bbox_pin": [
+        173,
+        122,
+        189,
+        134
+      ],
+      "bbox_name": [
+        203,
+        122,
+        221,
+        134
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "COM",
+      "bbox_pin": [
+        173,
+        152,
+        189,
+        164
+      ],
+      "bbox_name": [
+        203,
+        152,
+        236,
+        164
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "A7",
+      "bbox_pin": [
+        173,
+        182,
+        181,
+        194
+      ],
+      "bbox_name": [
+        203,
+        182,
+        221,
+        194
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "XTAL2",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        246,
+        224
+      ]
+    }
+  ]
+}

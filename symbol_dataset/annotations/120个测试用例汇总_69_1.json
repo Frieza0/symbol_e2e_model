@@ -1,0 +1,521 @@
+{
+  "image_id": "120个测试用例汇总_69_1",
+  "width": 876,
+  "height": 798,
+  "total_pins": 32,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "MCLK",
+      "bbox_pin": [
+        274,
+        212,
+        293,
+        240
+      ],
+      "bbox_name": [
+        261,
+        97,
+        301,
+        192
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "BCLK",
+      "bbox_pin": [
+        321,
+        214,
+        340,
+        237
+      ],
+      "bbox_name": [
+        310,
+        95,
+        344,
+        188
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "WCLK",
+      "bbox_pin": [
+        370,
+        215,
+        386,
+        237
+      ],
+      "bbox_name": [
+        355,
+        91,
+        390,
+        190
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "DIN/MFP1",
+      "bbox_pin": [
+        410,
+        215,
+        430,
+        237
+      ],
+      "bbox_name": [
+        403,
+        51,
+        436,
+        188
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "DOUT/MFP2",
+      "bbox_pin": [
+        461,
+        216,
+        477,
+        237
+      ],
+      "bbox_name": [
+        447,
+        18,
+        484,
+        188
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "IOVDD",
+      "bbox_pin": [
+        506,
+        219,
+        522,
+        240
+      ],
+      "bbox_name": [
+        495,
+        94,
+        535,
+        187
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "IOVSS",
+      "bbox_pin": [
+        554,
+        218,
+        566,
+        239
+      ],
+      "bbox_name": [
+        541,
+        101,
+        578,
+        193
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "SCLK/MFP3",
+      "bbox_pin": [
+        597,
+        213,
+        611,
+        236
+      ],
+      "bbox_name": [
+        580,
+        14,
+        623,
+        189
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "SCL/S\\S\\",
+      "bbox_pin": [
+        634,
+        254,
+        649,
+        280
+      ],
+      "bbox_name": [
+        679,
+        240,
+        800,
+        284
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "SDA/MOSI",
+      "bbox_pin": [
+        634,
+        302,
+        652,
+        323
+      ],
+      "bbox_name": [
+        678,
+        296,
+        835,
+        335
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "MISO/MFP4",
+      "bbox_pin": [
+        630,
+        350,
+        654,
+        367
+      ],
+      "bbox_name": [
+        679,
+        339,
+        848,
+        375
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "SPI_SELECT",
+      "bbox_pin": [
+        635,
+        394,
+        652,
+        413
+      ],
+      "bbox_name": [
+        679,
+        384,
+        863,
+        418
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "IN1_L",
+      "bbox_pin": [
+        636,
+        439,
+        657,
+        461
+      ],
+      "bbox_name": [
+        682,
+        430,
+        771,
+        466
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "IN1_R",
+      "bbox_pin": [
+        634,
+        481,
+        657,
+        505
+      ],
+      "bbox_name": [
+        676,
+        474,
+        776,
+        513
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "IN2_L",
+      "bbox_pin": [
+        637,
+        530,
+        654,
+        553
+      ],
+      "bbox_name": [
+        679,
+        520,
+        770,
+        557
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "IN2_R",
+      "bbox_pin": [
+        634,
+        577,
+        655,
+        599
+      ],
+      "bbox_name": [
+        677,
+        568,
+        777,
+        608
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "AVSS",
+      "bbox_pin": [
+        571,
+        614,
+        589,
+        636
+      ],
+      "bbox_name": [
+        559,
+        661,
+        610,
+        743
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "REF",
+      "bbox_pin": [
+        527,
+        618,
+        543,
+        639
+      ],
+      "bbox_name": [
+        519,
+        657,
+        549,
+        725
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "MICBIAS",
+      "bbox_pin": [
+        480,
+        612,
+        495,
+        635
+      ],
+      "bbox_name": [
+        467,
+        656,
+        508,
+        785
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "IN3_L",
+      "bbox_pin": [
+        435,
+        614,
+        449,
+        638
+      ],
+      "bbox_name": [
+        421,
+        655,
+        459,
+        743
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "IN3_R",
+      "bbox_pin": [
+        392,
+        612,
+        405,
+        635
+      ],
+      "bbox_name": [
+        374,
+        660,
+        415,
+        747
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "LOL",
+      "bbox_pin": [
+        341,
+        614,
+        356,
+        633
+      ],
+      "bbox_name": [
+        329,
+        662,
+        368,
+        719
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "LOR",
+      "bbox_pin": [
+        304,
+        611,
+        319,
+        636
+      ],
+      "bbox_name": [
+        282,
+        655,
+        325,
+        726
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "AVDD",
+      "bbox_pin": [
+        251,
+        616,
+        275,
+        633
+      ],
+      "bbox_name": [
+        228,
+        654,
+        279,
+        728
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "HPL",
+      "bbox_pin": [
+        229,
+        578,
+        261,
+        601
+      ],
+      "bbox_name": [
+        133,
+        570,
+        210,
+        604
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "LDOIN",
+      "bbox_pin": [
+        229,
+        536,
+        253,
+        550
+      ],
+      "bbox_name": [
+        104,
+        522,
+        208,
+        558
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "HPR",
+      "bbox_pin": [
+        234,
+        484,
+        265,
+        506
+      ],
+      "bbox_name": [
+        134,
+        481,
+        208,
+        512
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "DVSS",
+      "bbox_pin": [
+        231,
+        442,
+        257,
+        462
+      ],
+      "bbox_name": [
+        130,
+        438,
+        209,
+        473
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "DVDD",
+      "bbox_pin": [
+        233,
+        395,
+        255,
+        414
+      ],
+      "bbox_name": [
+        122,
+        383,
+        211,
+        427
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "LDO_SELECT",
+      "bbox_pin": [
+        232,
+        349,
+        255,
+        363
+      ],
+      "bbox_name": [
+        11,
+        342,
+        207,
+        376
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "R\\E\\S\\E\\T\\",
+      "bbox_pin": [
+        233,
+        300,
+        253,
+        319
+      ],
+      "bbox_name": [
+        96,
+        294,
+        207,
+        327
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "GPIO/MFP5",
+      "bbox_pin": [
+        228,
+        252,
+        255,
+        273
+      ],
+      "bbox_name": [
+        39,
+        248,
+        207,
+        283
+      ]
+    }
+  ]
+}

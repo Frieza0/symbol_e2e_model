@@ -1,0 +1,105 @@
+{
+  "image_id": "120个测试用例汇总_45_1",
+  "width": 366,
+  "height": 234,
+  "total_pins": 6,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "GND",
+      "bbox_pin": [
+        122,
+        43,
+        138,
+        67
+      ],
+      "bbox_name": [
+        18,
+        37,
+        88,
+        70
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VIN",
+      "bbox_pin": [
+        124,
+        104,
+        139,
+        128
+      ],
+      "bbox_name": [
+        34,
+        98,
+        87,
+        136
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "EN",
+      "bbox_pin": [
+        124,
+        165,
+        138,
+        189
+      ],
+      "bbox_name": [
+        36,
+        161,
+        87,
+        191
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "FB",
+      "bbox_pin": [
+        242,
+        166,
+        255,
+        188
+      ],
+      "bbox_name": [
+        289,
+        159,
+        332,
+        190
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "NC",
+      "bbox_pin": [
+        240,
+        104,
+        257,
+        130
+      ],
+      "bbox_name": [
+        291,
+        96,
+        340,
+        130
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SW",
+      "bbox_pin": [
+        241,
+        43,
+        254,
+        64
+      ],
+      "bbox_name": [
+        294,
+        42,
+        343,
+        66
+      ]
+    }
+  ]
+}

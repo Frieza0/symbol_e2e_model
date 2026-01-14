@@ -1,0 +1,97 @@
+{
+  "image_id": "AD8138_1_1",
+  "width": 333,
+  "height": 171,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "–IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        40,
+        39,
+        73,
+        56
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VOCM",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        69,
+        75,
+        92
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "V+",
+      "bbox_pin": null,
+      "bbox_name": [
+        45,
+        98,
+        72,
+        117
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "+OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        129,
+        73,
+        149
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "–OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        269,
+        131,
+        321,
+        149
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "V–",
+      "bbox_pin": null,
+      "bbox_name": [
+        269,
+        98,
+        297,
+        116
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        269,
+        68,
+        297,
+        86
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "+IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        269,
+        37,
+        301,
+        57
+      ]
+    }
+  ]
+}

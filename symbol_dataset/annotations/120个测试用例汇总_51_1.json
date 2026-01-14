@@ -1,0 +1,1109 @@
+{
+  "image_id": "120个测试用例汇总_51_1",
+  "width": 885,
+  "height": 1161,
+  "total_pins": 100,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        46,
+        196,
+        89,
+        220
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "DQC",
+      "bbox_pin": null,
+      "bbox_name": [
+        30,
+        221,
+        88,
+        249
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "DQC",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        249,
+        87,
+        271
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VDDQ",
+      "bbox_pin": null,
+      "bbox_name": [
+        9,
+        273,
+        88,
+        298
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        299,
+        88,
+        321
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "DQC",
+      "bbox_pin": null,
+      "bbox_name": [
+        29,
+        327,
+        88,
+        350
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "DQC",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        351,
+        87,
+        377
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "DQC",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        377,
+        85,
+        404
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "DQC",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        406,
+        87,
+        430
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        429,
+        87,
+        453
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "VDDQ",
+      "bbox_pin": null,
+      "bbox_name": [
+        8,
+        455,
+        88,
+        480
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "DQC",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        482,
+        84,
+        507
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "DQC",
+      "bbox_pin": null,
+      "bbox_name": [
+        30,
+        508,
+        87,
+        532
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        39,
+        531,
+        90,
+        560
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        559,
+        90,
+        586
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        30,
+        583,
+        90,
+        609
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        26,
+        614,
+        90,
+        637
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "DQD",
+      "bbox_pin": null,
+      "bbox_name": [
+        32,
+        639,
+        88,
+        664
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "DQD",
+      "bbox_pin": null,
+      "bbox_name": [
+        31,
+        665,
+        88,
+        690
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "VDDQ",
+      "bbox_pin": null,
+      "bbox_name": [
+        12,
+        686,
+        90,
+        714
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        716,
+        87,
+        744
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "DQD",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        741,
+        90,
+        768
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "DQD",
+      "bbox_pin": null,
+      "bbox_name": [
+        30,
+        768,
+        88,
+        794
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "DQD",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        792,
+        90,
+        818
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "DQD",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        821,
+        90,
+        847
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        29,
+        845,
+        89,
+        871
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "VDDQ",
+      "bbox_pin": null,
+      "bbox_name": [
+        12,
+        869,
+        90,
+        900
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "DQD",
+      "bbox_pin": null,
+      "bbox_name": [
+        22,
+        903,
+        87,
+        925
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "DQD",
+      "bbox_pin": null,
+      "bbox_name": [
+        31,
+        928,
+        90,
+        952
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        44,
+        952,
+        90,
+        979
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "MODE",
+      "bbox_pin": null,
+      "bbox_name": [
+        144,
+        1083,
+        173,
+        1158
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        176,
+        1084,
+        204,
+        1113
+      ]
+    },
+    {
+      "pin_number": 33,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        207,
+        1085,
+        234,
+        1111
+      ]
+    },
+    {
+      "pin_number": 34,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        231,
+        1085,
+        264,
+        1113
+      ]
+    },
+    {
+      "pin_number": 35,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        265,
+        1085,
+        290,
+        1114
+      ]
+    },
+    {
+      "pin_number": 36,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        293,
+        1090,
+        322,
+        1126
+      ]
+    },
+    {
+      "pin_number": 37,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        319,
+        1087,
+        349,
+        1127
+      ]
+    },
+    {
+      "pin_number": 38,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        351,
+        1083,
+        377,
+        1126
+      ]
+    },
+    {
+      "pin_number": 39,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        385,
+        1083,
+        406,
+        1123
+      ]
+    },
+    {
+      "pin_number": 40,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        412,
+        1089,
+        433,
+        1143
+      ]
+    },
+    {
+      "pin_number": 41,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        441,
+        1084,
+        463,
+        1144
+      ]
+    },
+    {
+      "pin_number": 42,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        470,
+        1086,
+        494,
+        1125
+      ]
+    },
+    {
+      "pin_number": 43,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        498,
+        1083,
+        522,
+        1126
+      ]
+    },
+    {
+      "pin_number": 44,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        530,
+        1086,
+        553,
+        1114
+      ]
+    },
+    {
+      "pin_number": 45,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        557,
+        1085,
+        585,
+        1112
+      ]
+    },
+    {
+      "pin_number": 46,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        584,
+        1086,
+        609,
+        1111
+      ]
+    },
+    {
+      "pin_number": 47,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        614,
+        1087,
+        639,
+        1113
+      ]
+    },
+    {
+      "pin_number": 48,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        646,
+        1084,
+        670,
+        1113
+      ]
+    },
+    {
+      "pin_number": 49,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        677,
+        1086,
+        698,
+        1111
+      ]
+    },
+    {
+      "pin_number": 50,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        700,
+        1089,
+        731,
+        1112
+      ]
+    },
+    {
+      "pin_number": 51,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        789,
+        954,
+        837,
+        977
+      ]
+    },
+    {
+      "pin_number": 52,
+      "name": "DQA",
+      "bbox_pin": null,
+      "bbox_name": [
+        789,
+        924,
+        858,
+        953
+      ]
+    },
+    {
+      "pin_number": 53,
+      "name": "DQA",
+      "bbox_pin": null,
+      "bbox_name": [
+        794,
+        897,
+        847,
+        926
+      ]
+    },
+    {
+      "pin_number": 54,
+      "name": "VDDQ",
+      "bbox_pin": null,
+      "bbox_name": [
+        786,
+        870,
+        872,
+        898
+      ]
+    },
+    {
+      "pin_number": 55,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        792,
+        845,
+        854,
+        869
+      ]
+    },
+    {
+      "pin_number": 56,
+      "name": "DQA",
+      "bbox_pin": null,
+      "bbox_name": [
+        792,
+        819,
+        852,
+        848
+      ]
+    },
+    {
+      "pin_number": 57,
+      "name": "DQA",
+      "bbox_pin": null,
+      "bbox_name": [
+        795,
+        796,
+        848,
+        821
+      ]
+    },
+    {
+      "pin_number": 58,
+      "name": "DQA",
+      "bbox_pin": null,
+      "bbox_name": [
+        793,
+        766,
+        846,
+        798
+      ]
+    },
+    {
+      "pin_number": 59,
+      "name": "DQA",
+      "bbox_pin": null,
+      "bbox_name": [
+        792,
+        741,
+        844,
+        768
+      ]
+    },
+    {
+      "pin_number": 60,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        795,
+        718,
+        851,
+        740
+      ]
+    },
+    {
+      "pin_number": 61,
+      "name": "VDDQ",
+      "bbox_pin": null,
+      "bbox_name": [
+        795,
+        691,
+        874,
+        716
+      ]
+    },
+    {
+      "pin_number": 62,
+      "name": "DQA",
+      "bbox_pin": null,
+      "bbox_name": [
+        796,
+        666,
+        847,
+        689
+      ]
+    },
+    {
+      "pin_number": 63,
+      "name": "DQA",
+      "bbox_pin": null,
+      "bbox_name": [
+        792,
+        639,
+        847,
+        665
+      ]
+    },
+    {
+      "pin_number": 64,
+      "name": "ZZ",
+      "bbox_pin": null,
+      "bbox_name": [
+        793,
+        613,
+        830,
+        636
+      ]
+    },
+    {
+      "pin_number": 65,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        794,
+        585,
+        850,
+        614
+      ]
+    },
+    {
+      "pin_number": 66,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        792,
+        561,
+        836,
+        585
+      ]
+    },
+    {
+      "pin_number": 67,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        795,
+        535,
+        851,
+        559
+      ]
+    },
+    {
+      "pin_number": 68,
+      "name": "DQB",
+      "bbox_pin": null,
+      "bbox_name": [
+        795,
+        507,
+        845,
+        534
+      ]
+    },
+    {
+      "pin_number": 69,
+      "name": "DQB",
+      "bbox_pin": null,
+      "bbox_name": [
+        794,
+        485,
+        851,
+        507
+      ]
+    },
+    {
+      "pin_number": 70,
+      "name": "VDDQ",
+      "bbox_pin": null,
+      "bbox_name": [
+        795,
+        456,
+        869,
+        481
+      ]
+    },
+    {
+      "pin_number": 71,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        795,
+        431,
+        851,
+        453
+      ]
+    },
+    {
+      "pin_number": 72,
+      "name": "DQB",
+      "bbox_pin": null,
+      "bbox_name": [
+        795,
+        405,
+        847,
+        433
+      ]
+    },
+    {
+      "pin_number": 73,
+      "name": "DQB",
+      "bbox_pin": null,
+      "bbox_name": [
+        795,
+        378,
+        846,
+        405
+      ]
+    },
+    {
+      "pin_number": 74,
+      "name": "DQB",
+      "bbox_pin": null,
+      "bbox_name": [
+        794,
+        351,
+        848,
+        376
+      ]
+    },
+    {
+      "pin_number": 75,
+      "name": "DQB",
+      "bbox_pin": null,
+      "bbox_name": [
+        795,
+        328,
+        848,
+        350
+      ]
+    },
+    {
+      "pin_number": 76,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        795,
+        303,
+        852,
+        326
+      ]
+    },
+    {
+      "pin_number": 77,
+      "name": "VDDQ",
+      "bbox_pin": null,
+      "bbox_name": [
+        794,
+        275,
+        872,
+        301
+      ]
+    },
+    {
+      "pin_number": 78,
+      "name": "DQB",
+      "bbox_pin": null,
+      "bbox_name": [
+        795,
+        250,
+        844,
+        269
+      ]
+    },
+    {
+      "pin_number": 79,
+      "name": "DQB",
+      "bbox_pin": null,
+      "bbox_name": [
+        795,
+        222,
+        846,
+        244
+      ]
+    },
+    {
+      "pin_number": 80,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        795,
+        193,
+        832,
+        219
+      ]
+    },
+    {
+      "pin_number": 81,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        703,
+        69,
+        732,
+        92
+      ]
+    },
+    {
+      "pin_number": 82,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        673,
+        68,
+        701,
+        96
+      ]
+    },
+    {
+      "pin_number": 83,
+      "name": "/ADV",
+      "bbox_pin": null,
+      "bbox_name": [
+        643,
+        29,
+        671,
+        92
+      ]
+    },
+    {
+      "pin_number": 84,
+      "name": "/ADSP",
+      "bbox_pin": null,
+      "bbox_name": [
+        614,
+        16,
+        639,
+        95
+      ]
+    },
+    {
+      "pin_number": 85,
+      "name": "/ADSC",
+      "bbox_pin": null,
+      "bbox_name": [
+        585,
+        16,
+        612,
+        91
+      ]
+    },
+    {
+      "pin_number": 86,
+      "name": "/OE",
+      "bbox_pin": null,
+      "bbox_name": [
+        556,
+        45,
+        584,
+        91
+      ]
+    },
+    {
+      "pin_number": 87,
+      "name": "/BWE",
+      "bbox_pin": null,
+      "bbox_name": [
+        523,
+        25,
+        551,
+        90
+      ]
+    },
+    {
+      "pin_number": 88,
+      "name": "/GW",
+      "bbox_pin": null,
+      "bbox_name": [
+        497,
+        37,
+        522,
+        90
+      ]
+    },
+    {
+      "pin_number": 89,
+      "name": "CLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        470,
+        41,
+        493,
+        88
+      ]
+    },
+    {
+      "pin_number": 90,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        437,
+        41,
+        464,
+        89
+      ]
+    },
+    {
+      "pin_number": 91,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        412,
+        37,
+        436,
+        88
+      ]
+    },
+    {
+      "pin_number": 92,
+      "name": "/CE2",
+      "bbox_pin": null,
+      "bbox_name": [
+        383,
+        30,
+        411,
+        90
+      ]
+    },
+    {
+      "pin_number": 93,
+      "name": "/BWA",
+      "bbox_pin": null,
+      "bbox_name": [
+        355,
+        32,
+        380,
+        89
+      ]
+    },
+    {
+      "pin_number": 94,
+      "name": "/BWB",
+      "bbox_pin": null,
+      "bbox_name": [
+        320,
+        31,
+        354,
+        91
+      ]
+    },
+    {
+      "pin_number": 95,
+      "name": "/BWC",
+      "bbox_pin": null,
+      "bbox_name": [
+        296,
+        34,
+        319,
+        84
+      ]
+    },
+    {
+      "pin_number": 96,
+      "name": "/BWD",
+      "bbox_pin": null,
+      "bbox_name": [
+        267,
+        30,
+        293,
+        96
+      ]
+    },
+    {
+      "pin_number": 97,
+      "name": "CE2",
+      "bbox_pin": null,
+      "bbox_name": [
+        238,
+        39,
+        264,
+        94
+      ]
+    },
+    {
+      "pin_number": 98,
+      "name": "/CE",
+      "bbox_pin": null,
+      "bbox_name": [
+        209,
+        44,
+        232,
+        91
+      ]
+    },
+    {
+      "pin_number": 99,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        183,
+        63,
+        202,
+        91
+      ]
+    },
+    {
+      "pin_number": 100,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        149,
+        73,
+        176,
+        95
+      ]
+    }
+  ]
+}

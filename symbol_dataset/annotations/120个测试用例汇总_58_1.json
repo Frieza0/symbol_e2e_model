@@ -1,0 +1,265 @@
+{
+  "image_id": "120个测试用例汇总_58_1",
+  "width": 408,
+  "height": 372,
+  "total_pins": 16,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "NC",
+      "bbox_pin": [
+        99,
+        118,
+        110,
+        136
+      ],
+      "bbox_name": [
+        35,
+        114,
+        68,
+        137
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "ST",
+      "bbox_pin": [
+        98,
+        162,
+        111,
+        183
+      ],
+      "bbox_name": [
+        37,
+        160,
+        69,
+        181
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "COM",
+      "bbox_pin": [
+        98,
+        205,
+        113,
+        226
+      ],
+      "bbox_name": [
+        23,
+        204,
+        68,
+        226
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "NC",
+      "bbox_pin": [
+        100,
+        248,
+        115,
+        271
+      ],
+      "bbox_name": [
+        36,
+        254,
+        68,
+        270
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "COM",
+      "bbox_pin": [
+        123,
+        271,
+        141,
+        291
+      ],
+      "bbox_name": [
+        119,
+        321,
+        143,
+        365
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "COM",
+      "bbox_pin": [
+        166,
+        276,
+        185,
+        291
+      ],
+      "bbox_name": [
+        167,
+        321,
+        188,
+        366
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "COM",
+      "bbox_pin": [
+        212,
+        274,
+        231,
+        294
+      ],
+      "bbox_name": [
+        215,
+        319,
+        233,
+        366
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "ZOUT",
+      "bbox_pin": [
+        259,
+        274,
+        274,
+        291
+      ],
+      "bbox_name": [
+        254,
+        321,
+        283,
+        366
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "NC",
+      "bbox_pin": [
+        288,
+        253,
+        307,
+        270
+      ],
+      "bbox_name": [
+        338,
+        250,
+        367,
+        270
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "YOUT",
+      "bbox_pin": [
+        284,
+        204,
+        307,
+        224
+      ],
+      "bbox_name": [
+        334,
+        204,
+        384,
+        231
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "NC",
+      "bbox_pin": [
+        283,
+        164,
+        303,
+        179
+      ],
+      "bbox_name": [
+        335,
+        162,
+        368,
+        182
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "XOUT",
+      "bbox_pin": [
+        284,
+        118,
+        305,
+        133
+      ],
+      "bbox_name": [
+        333,
+        116,
+        386,
+        142
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "NC",
+      "bbox_pin": [
+        256,
+        82,
+        278,
+        100
+      ],
+      "bbox_name": [
+        254,
+        22,
+        276,
+        53
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "VS",
+      "bbox_pin": [
+        208,
+        82,
+        230,
+        98
+      ],
+      "bbox_name": [
+        207,
+        25,
+        234,
+        53
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "VS",
+      "bbox_pin": [
+        164,
+        83,
+        187,
+        99
+      ],
+      "bbox_name": [
+        162,
+        26,
+        190,
+        53
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "NC",
+      "bbox_pin": [
+        122,
+        82,
+        142,
+        101
+      ],
+      "bbox_name": [
+        120,
+        21,
+        143,
+        54
+      ]
+    }
+  ]
+}

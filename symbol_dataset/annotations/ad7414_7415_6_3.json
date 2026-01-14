@@ -1,0 +1,46 @@
+{
+  "image_id": "ad7414_7415_6_3",
+  "width": 400,
+  "height": 252,
+  "total_pins": 6,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": "1",
+      "name": "AS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "2",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "3",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "4",
+      "name": "SCL",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "5",
+      "name": "ALERT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "6",
+      "name": "SDA",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ],
+  "file_name": "ad7414_7415_6_3.jpg"
+}

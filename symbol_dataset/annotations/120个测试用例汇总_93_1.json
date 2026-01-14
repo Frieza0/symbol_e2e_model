@@ -1,0 +1,449 @@
+{
+  "image_id": "120个测试用例汇总_93_1",
+  "width": 606,
+  "height": 558,
+  "total_pins": 40,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VDDQ",
+      "bbox_pin": null,
+      "bbox_name": [
+        36,
+        145,
+        102,
+        167
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "CLKC2",
+      "bbox_pin": null,
+      "bbox_name": [
+        33,
+        172,
+        101,
+        194
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "CLKT2",
+      "bbox_pin": null,
+      "bbox_name": [
+        30,
+        200,
+        102,
+        221
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "CLK_INT",
+      "bbox_pin": null,
+      "bbox_name": [
+        13,
+        229,
+        102,
+        251
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "CLK_INC",
+      "bbox_pin": null,
+      "bbox_name": [
+        10,
+        257,
+        104,
+        280
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "VDDQ",
+      "bbox_pin": null,
+      "bbox_name": [
+        39,
+        282,
+        103,
+        308
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": [
+        36,
+        313,
+        102,
+        335
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        40,
+        340,
+        101,
+        363
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "VDDQ",
+      "bbox_pin": null,
+      "bbox_name": [
+        37,
+        369,
+        103,
+        393
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        52,
+        397,
+        104,
+        417
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "CLKT3",
+      "bbox_pin": null,
+      "bbox_name": [
+        162,
+        479,
+        186,
+        547
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "CLKC3",
+      "bbox_pin": null,
+      "bbox_name": [
+        190,
+        480,
+        213,
+        547
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "CLKC4",
+      "bbox_pin": null,
+      "bbox_name": [
+        217,
+        481,
+        239,
+        551
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "CLKT4",
+      "bbox_pin": null,
+      "bbox_name": [
+        246,
+        480,
+        268,
+        545
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "VDDQ",
+      "bbox_pin": null,
+      "bbox_name": [
+        275,
+        478,
+        294,
+        545
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "CLKT9",
+      "bbox_pin": null,
+      "bbox_name": [
+        303,
+        479,
+        323,
+        548
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "CLKC9",
+      "bbox_pin": null,
+      "bbox_name": [
+        330,
+        480,
+        353,
+        547
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "CLKC8",
+      "bbox_pin": null,
+      "bbox_name": [
+        357,
+        481,
+        381,
+        547
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "CLKT8",
+      "bbox_pin": null,
+      "bbox_name": [
+        387,
+        479,
+        407,
+        548
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "VDDQ",
+      "bbox_pin": null,
+      "bbox_name": [
+        414,
+        478,
+        434,
+        542
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "OS",
+      "bbox_pin": null,
+      "bbox_name": [
+        495,
+        396,
+        529,
+        421
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "OE",
+      "bbox_pin": null,
+      "bbox_name": [
+        492,
+        371,
+        529,
+        392
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "VDDQ",
+      "bbox_pin": null,
+      "bbox_name": [
+        496,
+        340,
+        558,
+        365
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "FB_OUTT",
+      "bbox_pin": null,
+      "bbox_name": [
+        494,
+        312,
+        589,
+        337
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "FB_OUTC",
+      "bbox_pin": null,
+      "bbox_name": [
+        494,
+        285,
+        592,
+        310
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "FB_INC",
+      "bbox_pin": null,
+      "bbox_name": [
+        495,
+        259,
+        570,
+        281
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "FB_INT",
+      "bbox_pin": null,
+      "bbox_name": [
+        493,
+        229,
+        569,
+        255
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "VDDQ",
+      "bbox_pin": null,
+      "bbox_name": [
+        496,
+        201,
+        556,
+        224
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "CLKT7",
+      "bbox_pin": null,
+      "bbox_name": [
+        494,
+        175,
+        560,
+        196
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "CLKC7",
+      "bbox_pin": null,
+      "bbox_name": [
+        496,
+        145,
+        562,
+        168
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "VDDQ",
+      "bbox_pin": null,
+      "bbox_name": [
+        415,
+        25,
+        436,
+        87
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "CLKC6",
+      "bbox_pin": null,
+      "bbox_name": [
+        387,
+        16,
+        409,
+        85
+      ]
+    },
+    {
+      "pin_number": 33,
+      "name": "CLKT6",
+      "bbox_pin": null,
+      "bbox_name": [
+        359,
+        21,
+        380,
+        86
+      ]
+    },
+    {
+      "pin_number": 34,
+      "name": "CLKT5",
+      "bbox_pin": null,
+      "bbox_name": [
+        333,
+        18,
+        352,
+        85
+      ]
+    },
+    {
+      "pin_number": 35,
+      "name": "CLKC5",
+      "bbox_pin": null,
+      "bbox_name": [
+        303,
+        16,
+        322,
+        86
+      ]
+    },
+    {
+      "pin_number": 36,
+      "name": "VDDQ",
+      "bbox_pin": null,
+      "bbox_name": [
+        278,
+        23,
+        294,
+        87
+      ]
+    },
+    {
+      "pin_number": 37,
+      "name": "CLKC0",
+      "bbox_pin": null,
+      "bbox_name": [
+        249,
+        19,
+        267,
+        87
+      ]
+    },
+    {
+      "pin_number": 38,
+      "name": "CLKT0",
+      "bbox_pin": null,
+      "bbox_name": [
+        221,
+        21,
+        241,
+        87
+      ]
+    },
+    {
+      "pin_number": 39,
+      "name": "CLKT1",
+      "bbox_pin": null,
+      "bbox_name": [
+        190,
+        20,
+        212,
+        87
+      ]
+    },
+    {
+      "pin_number": 40,
+      "name": "CLKC1",
+      "bbox_pin": null,
+      "bbox_name": [
+        163,
+        20,
+        183,
+        86
+      ]
+    }
+  ]
+}

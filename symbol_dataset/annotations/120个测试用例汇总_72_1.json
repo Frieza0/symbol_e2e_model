@@ -1,0 +1,329 @@
+{
+  "image_id": "120个测试用例汇总_72_1",
+  "width": 603,
+  "height": 396,
+  "total_pins": 20,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VINL",
+      "bbox_pin": [
+        177,
+        27,
+        193,
+        51
+      ],
+      "bbox_name": [
+        39,
+        28,
+        102,
+        60
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VINR",
+      "bbox_pin": [
+        174,
+        61,
+        195,
+        86
+      ],
+      "bbox_name": [
+        34,
+        61,
+        101,
+        93
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VREF1",
+      "bbox_pin": [
+        177,
+        96,
+        196,
+        121
+      ],
+      "bbox_name": [
+        19,
+        97,
+        94,
+        127
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VREF2",
+      "bbox_pin": [
+        176,
+        130,
+        197,
+        155
+      ],
+      "bbox_name": [
+        20,
+        131,
+        99,
+        162
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VCC",
+      "bbox_pin": [
+        176,
+        166,
+        196,
+        190
+      ],
+      "bbox_name": [
+        45,
+        166,
+        99,
+        198
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "AGND",
+      "bbox_pin": [
+        177,
+        201,
+        195,
+        223
+      ],
+      "bbox_name": [
+        22,
+        203,
+        99,
+        224
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "P\\D\\W\\N\\",
+      "bbox_pin": [
+        178,
+        233,
+        195,
+        256
+      ],
+      "bbox_name": [
+        13,
+        230,
+        100,
+        260
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "BYPAS",
+      "bbox_pin": [
+        178,
+        268,
+        195,
+        290
+      ],
+      "bbox_name": [
+        7,
+        267,
+        98,
+        293
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "TEST",
+      "bbox_pin": [
+        179,
+        303,
+        195,
+        326
+      ],
+      "bbox_name": [
+        26,
+        302,
+        99,
+        331
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "LRCK",
+      "bbox_pin": [
+        178,
+        338,
+        206,
+        361
+      ],
+      "bbox_name": [
+        22,
+        337,
+        99,
+        363
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "BCK",
+      "bbox_pin": [
+        381,
+        338,
+        404,
+        361
+      ],
+      "bbox_name": [
+        495,
+        336,
+        551,
+        360
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "DOUT",
+      "bbox_pin": [
+        381,
+        303,
+        408,
+        325
+      ],
+      "bbox_name": [
+        490,
+        300,
+        572,
+        329
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "DGND",
+      "bbox_pin": [
+        382,
+        268,
+        407,
+        291
+      ],
+      "bbox_name": [
+        487,
+        268,
+        580,
+        295
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "VDD",
+      "bbox_pin": [
+        381,
+        235,
+        407,
+        258
+      ],
+      "bbox_name": [
+        488,
+        232,
+        553,
+        265
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "SCKI",
+      "bbox_pin": [
+        381,
+        200,
+        407,
+        223
+      ],
+      "bbox_name": [
+        487,
+        196,
+        562,
+        228
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "OSR",
+      "bbox_pin": [
+        379,
+        166,
+        409,
+        190
+      ],
+      "bbox_name": [
+        489,
+        165,
+        554,
+        192
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "FMT0",
+      "bbox_pin": [
+        381,
+        132,
+        407,
+        154
+      ],
+      "bbox_name": [
+        490,
+        129,
+        568,
+        160
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "FMT1",
+      "bbox_pin": [
+        380,
+        96,
+        407,
+        119
+      ],
+      "bbox_name": [
+        490,
+        98,
+        565,
+        125
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "MODE0",
+      "bbox_pin": [
+        379,
+        62,
+        407,
+        84
+      ],
+      "bbox_name": [
+        490,
+        64,
+        589,
+        90
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "MODE1",
+      "bbox_pin": [
+        378,
+        28,
+        408,
+        51
+      ],
+      "bbox_name": [
+        489,
+        29,
+        587,
+        56
+      ]
+    }
+  ]
+}

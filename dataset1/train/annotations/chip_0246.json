@@ -1,0 +1,232 @@
+{
+  "image_id": "chip_0246",
+  "width": 256,
+  "height": 256,
+  "total_pins": 14,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "SCK",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        62,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "OSC",
+      "bbox_pin": [
+        78,
+        62,
+        86,
+        74
+      ],
+      "bbox_name": [
+        33,
+        62,
+        63,
+        74
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "BCLK",
+      "bbox_pin": [
+        78,
+        92,
+        86,
+        104
+      ],
+      "bbox_name": [
+        33,
+        92,
+        70,
+        104
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VINP",
+      "bbox_pin": [
+        78,
+        122,
+        86,
+        134
+      ],
+      "bbox_name": [
+        33,
+        122,
+        65,
+        134
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "A0",
+      "bbox_pin": [
+        78,
+        152,
+        86,
+        164
+      ],
+      "bbox_name": [
+        33,
+        152,
+        51,
+        164
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "GPIO",
+      "bbox_pin": [
+        78,
+        182,
+        86,
+        194
+      ],
+      "bbox_name": [
+        33,
+        182,
+        68,
+        194
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "DSR",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        62,
+        224
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "SWCLK",
+      "bbox_pin": [
+        173,
+        32,
+        189,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        253,
+        44
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "TDI",
+      "bbox_pin": [
+        173,
+        62,
+        189,
+        74
+      ],
+      "bbox_name": [
+        203,
+        62,
+        226,
+        74
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "OE",
+      "bbox_pin": [
+        173,
+        92,
+        189,
+        104
+      ],
+      "bbox_name": [
+        203,
+        92,
+        223,
+        104
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "O0",
+      "bbox_pin": [
+        173,
+        122,
+        189,
+        134
+      ],
+      "bbox_name": [
+        203,
+        122,
+        222,
+        134
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "DO",
+      "bbox_pin": [
+        173,
+        152,
+        189,
+        164
+      ],
+      "bbox_name": [
+        203,
+        152,
+        224,
+        164
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "VREF",
+      "bbox_pin": [
+        173,
+        182,
+        181,
+        194
+      ],
+      "bbox_name": [
+        203,
+        182,
+        240,
+        194
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "INT",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        226,
+        224
+      ]
+    }
+  ]
+}

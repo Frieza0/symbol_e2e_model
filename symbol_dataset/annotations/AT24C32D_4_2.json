@@ -1,0 +1,40 @@
+{
+  "image_id": "AT24C32D_4_2",
+  "width": 594,
+  "height": 321,
+  "total_pins": 5,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": "1",
+      "name": "SCL",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "2",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "3",
+      "name": "SDA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "4",
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "5",
+      "name": "WP",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ],
+  "file_name": "AT24C32D_4_2.jpg"
+}

@@ -1,0 +1,137 @@
+{
+  "image_id": "120个测试用例汇总_105_1",
+  "width": 399,
+  "height": 253,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "TXD",
+      "bbox_pin": [
+        85,
+        49,
+        104,
+        69
+      ],
+      "bbox_name": [
+        21,
+        46,
+        71,
+        72
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "GND",
+      "bbox_pin": [
+        83,
+        103,
+        106,
+        119
+      ],
+      "bbox_name": [
+        18,
+        97,
+        70,
+        124
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VCC",
+      "bbox_pin": [
+        89,
+        150,
+        104,
+        172
+      ],
+      "bbox_name": [
+        17,
+        149,
+        68,
+        180
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "RXD",
+      "bbox_pin": [
+        89,
+        202,
+        104,
+        223
+      ],
+      "bbox_name": [
+        18,
+        201,
+        69,
+        223
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "Vref",
+      "bbox_pin": [
+        276,
+        203,
+        292,
+        222
+      ],
+      "bbox_name": [
+        309,
+        198,
+        355,
+        233
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "CANL",
+      "bbox_pin": [
+        276,
+        151,
+        293,
+        171
+      ],
+      "bbox_name": [
+        308,
+        145,
+        371,
+        174
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "CANH",
+      "bbox_pin": [
+        275,
+        102,
+        292,
+        119
+      ],
+      "bbox_name": [
+        308,
+        97,
+        377,
+        123
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "S",
+      "bbox_pin": [
+        279,
+        49,
+        295,
+        69
+      ],
+      "bbox_name": [
+        309,
+        48,
+        330,
+        69
+      ]
+    }
+  ]
+}

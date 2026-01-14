@@ -1,0 +1,137 @@
+{
+  "image_id": "120个测试用例汇总_6_1",
+  "width": 720,
+  "height": 408,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VDD5V",
+      "bbox_pin": [
+        263,
+        58,
+        286,
+        95
+      ],
+      "bbox_name": [
+        34,
+        51,
+        154,
+        95
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VDD3V3",
+      "bbox_pin": [
+        257,
+        142,
+        286,
+        184
+      ],
+      "bbox_name": [
+        18,
+        134,
+        147,
+        185
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "OUT",
+      "bbox_pin": [
+        267,
+        220,
+        288,
+        260
+      ],
+      "bbox_name": [
+        75,
+        219,
+        152,
+        259
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GND",
+      "bbox_pin": [
+        265,
+        301,
+        291,
+        334
+      ],
+      "bbox_name": [
+        79,
+        301,
+        152,
+        341
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "PGO",
+      "bbox_pin": [
+        483,
+        305,
+        510,
+        343
+      ],
+      "bbox_name": [
+        616,
+        301,
+        703,
+        341
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SDA",
+      "bbox_pin": [
+        483,
+        228,
+        511,
+        268
+      ],
+      "bbox_name": [
+        620,
+        223,
+        696,
+        263
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "SCL",
+      "bbox_pin": [
+        485,
+        135,
+        511,
+        178
+      ],
+      "bbox_name": [
+        616,
+        133,
+        693,
+        179
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "DIR",
+      "bbox_pin": [
+        487,
+        61,
+        512,
+        98
+      ],
+      "bbox_name": [
+        617,
+        53,
+        684,
+        102
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "image_id": "74HC_HCT14_Q100_3_3",
+  "width": 357,
+  "height": 390,
+  "total_pins": 14,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "1A",
+      "bbox_pin": null,
+      "bbox_name": [
+        148,
+        17,
+        171,
+        47
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "1Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        35,
+        92,
+        63,
+        115
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "2A",
+      "bbox_pin": null,
+      "bbox_name": [
+        34,
+        130,
+        63,
+        159
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "2Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        33,
+        175,
+        64,
+        200
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "3A",
+      "bbox_pin": null,
+      "bbox_name": [
+        32,
+        220,
+        63,
+        243
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "3Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        33,
+        259,
+        65,
+        287
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        147,
+        331,
+        171,
+        377
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "4Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        195,
+        326,
+        217,
+        359
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "4A",
+      "bbox_pin": null,
+      "bbox_name": [
+        301,
+        264,
+        331,
+        286
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "5Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        300,
+        223,
+        328,
+        243
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "5A",
+      "bbox_pin": null,
+      "bbox_name": [
+        301,
+        175,
+        335,
+        199
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "6Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        298,
+        136,
+        330,
+        158
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "6A",
+      "bbox_pin": null,
+      "bbox_name": [
+        301,
+        91,
+        328,
+        113
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        193,
+        4,
+        218,
+        47
+      ]
+    }
+  ]
+}

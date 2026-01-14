@@ -1,0 +1,264 @@
+{
+  "image_id": "chip_0047",
+  "width": 256,
+  "height": 256,
+  "total_pins": 16,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "SCK",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        62,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "O0",
+      "bbox_pin": [
+        78,
+        57,
+        86,
+        69
+      ],
+      "bbox_name": [
+        33,
+        57,
+        52,
+        69
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "A2",
+      "bbox_pin": [
+        78,
+        83,
+        86,
+        95
+      ],
+      "bbox_name": [
+        33,
+        83,
+        51,
+        95
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "BOOT",
+      "bbox_pin": [
+        78,
+        109,
+        86,
+        121
+      ],
+      "bbox_name": [
+        33,
+        109,
+        73,
+        121
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VEE",
+      "bbox_pin": [
+        78,
+        134,
+        86,
+        146
+      ],
+      "bbox_name": [
+        33,
+        134,
+        60,
+        146
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "PWR",
+      "bbox_pin": [
+        78,
+        160,
+        86,
+        172
+      ],
+      "bbox_name": [
+        33,
+        160,
+        65,
+        172
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "FLAG",
+      "bbox_pin": [
+        78,
+        186,
+        86,
+        198
+      ],
+      "bbox_name": [
+        33,
+        186,
+        70,
+        198
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "A1",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        51,
+        224
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "A5",
+      "bbox_pin": [
+        173,
+        32,
+        189,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        221,
+        44
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "VINP",
+      "bbox_pin": [
+        173,
+        57,
+        189,
+        69
+      ],
+      "bbox_name": [
+        203,
+        57,
+        235,
+        69
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "WCLK",
+      "bbox_pin": [
+        173,
+        83,
+        189,
+        95
+      ],
+      "bbox_name": [
+        203,
+        83,
+        244,
+        95
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "TRIG",
+      "bbox_pin": [
+        173,
+        109,
+        189,
+        121
+      ],
+      "bbox_name": [
+        203,
+        109,
+        237,
+        121
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "5V",
+      "bbox_pin": [
+        173,
+        134,
+        189,
+        146
+      ],
+      "bbox_name": [
+        203,
+        134,
+        221,
+        146
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "AOUT",
+      "bbox_pin": [
+        173,
+        160,
+        189,
+        172
+      ],
+      "bbox_name": [
+        203,
+        160,
+        243,
+        172
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "VREF",
+      "bbox_pin": [
+        173,
+        186,
+        189,
+        198
+      ],
+      "bbox_name": [
+        203,
+        186,
+        240,
+        198
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "NC",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        223,
+        224
+      ]
+    }
+  ]
+}

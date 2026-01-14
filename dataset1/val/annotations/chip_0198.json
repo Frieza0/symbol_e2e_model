@@ -1,0 +1,168 @@
+{
+  "image_id": "chip_0198",
+  "width": 256,
+  "height": 256,
+  "total_pins": 10,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "OFF",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        62,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "RF",
+      "bbox_pin": [
+        78,
+        77,
+        86,
+        89
+      ],
+      "bbox_name": [
+        33,
+        77,
+        52,
+        89
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "O3",
+      "bbox_pin": [
+        78,
+        122,
+        86,
+        134
+      ],
+      "bbox_name": [
+        33,
+        122,
+        52,
+        134
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "COMP",
+      "bbox_pin": [
+        78,
+        167,
+        86,
+        179
+      ],
+      "bbox_name": [
+        33,
+        167,
+        75,
+        179
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "BIAS",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        64,
+        224
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "RST",
+      "bbox_pin": [
+        173,
+        32,
+        189,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        231,
+        44
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "SI",
+      "bbox_pin": [
+        173,
+        77,
+        181,
+        89
+      ],
+      "bbox_name": [
+        203,
+        77,
+        216,
+        89
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "DTR",
+      "bbox_pin": [
+        173,
+        122,
+        181,
+        134
+      ],
+      "bbox_name": [
+        203,
+        122,
+        232,
+        134
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "INT",
+      "bbox_pin": [
+        173,
+        167,
+        181,
+        179
+      ],
+      "bbox_name": [
+        203,
+        167,
+        226,
+        179
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SDA",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        232,
+        224
+      ]
+    }
+  ]
+}

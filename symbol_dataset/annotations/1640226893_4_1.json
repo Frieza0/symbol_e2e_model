@@ -1,0 +1,64 @@
+{
+  "image_id": "1640226893_4_1",
+  "width": 603,
+  "height": 336,
+  "total_pins": 5,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        147,
+        71,
+        203,
+        97
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        165,
+        143,
+        204,
+        173
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "nRESET/RESET",
+      "bbox_pin": null,
+      "bbox_name": [
+        26,
+        226,
+        203,
+        253
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "nMR",
+      "bbox_pin": null,
+      "bbox_name": [
+        528,
+        224,
+        582,
+        249
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        528,
+        64,
+        568,
+        92
+      ]
+    }
+  ]
+}

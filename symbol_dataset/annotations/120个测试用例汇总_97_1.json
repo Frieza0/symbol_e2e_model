@@ -1,0 +1,361 @@
+{
+  "image_id": "120个测试用例汇总_97_1",
+  "width": 630,
+  "height": 639,
+  "total_pins": 32,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "LF1",
+      "bbox_pin": null,
+      "bbox_name": [
+        84,
+        223,
+        127,
+        246
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "LF0",
+      "bbox_pin": null,
+      "bbox_name": [
+        85,
+        258,
+        126,
+        283
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "ISET",
+      "bbox_pin": null,
+      "bbox_name": [
+        74,
+        294,
+        128,
+        317
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        86,
+        329,
+        126,
+        352
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "nBP0",
+      "bbox_pin": null,
+      "bbox_name": [
+        67,
+        369,
+        127,
+        389
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        72,
+        402,
+        127,
+        424
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "CLK_SEL",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        438,
+        126,
+        463
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "CLK1",
+      "bbox_pin": null,
+      "bbox_name": [
+        66,
+        473,
+        126,
+        495
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "CLK0",
+      "bbox_pin": null,
+      "bbox_name": [
+        202,
+        561,
+        225,
+        620
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "V0",
+      "bbox_pin": null,
+      "bbox_name": [
+        236,
+        561,
+        259,
+        590
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        271,
+        559,
+        294,
+        603
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "MR",
+      "bbox_pin": null,
+      "bbox_name": [
+        308,
+        559,
+        330,
+        601
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "MF",
+      "bbox_pin": null,
+      "bbox_name": [
+        346,
+        559,
+        369,
+        595
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "V1",
+      "bbox_pin": null,
+      "bbox_name": [
+        378,
+        561,
+        401,
+        592
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "V2",
+      "bbox_pin": null,
+      "bbox_name": [
+        416,
+        561,
+        438,
+        591
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "V3",
+      "bbox_pin": null,
+      "bbox_name": [
+        453,
+        561,
+        476,
+        591
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "VDDA",
+      "bbox_pin": null,
+      "bbox_name": [
+        550,
+        479,
+        598,
+        502
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "VDDO",
+      "bbox_pin": null,
+      "bbox_name": [
+        548,
+        442,
+        598,
+        466
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "Q",
+      "bbox_pin": null,
+      "bbox_name": [
+        548,
+        407,
+        571,
+        431
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        548,
+        373,
+        599,
+        396
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "OE",
+      "bbox_pin": null,
+      "bbox_name": [
+        550,
+        337,
+        583,
+        360
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "nBP1",
+      "bbox_pin": null,
+      "bbox_name": [
+        549,
+        300,
+        604,
+        325
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "N1",
+      "bbox_pin": null,
+      "bbox_name": [
+        549,
+        265,
+        580,
+        288
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "N0",
+      "bbox_pin": null,
+      "bbox_name": [
+        547,
+        228,
+        582,
+        254
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        454,
+        103,
+        475,
+        144
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "XTAL_SEL",
+      "bbox_pin": null,
+      "bbox_name": [
+        417,
+        33,
+        439,
+        146
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "XTAL_OUT1",
+      "bbox_pin": null,
+      "bbox_name": [
+        382,
+        28,
+        404,
+        141
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "XTAL_IN1",
+      "bbox_pin": null,
+      "bbox_name": [
+        346,
+        38,
+        369,
+        141
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        313,
+        92,
+        335,
+        143
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "XTAL_OUT0",
+      "bbox_pin": null,
+      "bbox_name": [
+        275,
+        28,
+        301,
+        145
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "XTAL_IN0",
+      "bbox_pin": null,
+      "bbox_name": [
+        239,
+        38,
+        262,
+        143
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "VDDX",
+      "bbox_pin": null,
+      "bbox_name": [
+        202,
+        94,
+        226,
+        146
+      ]
+    }
+  ]
+}

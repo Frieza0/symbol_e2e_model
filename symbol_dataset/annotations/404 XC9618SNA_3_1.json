@@ -1,0 +1,229 @@
+{
+  "image_id": "404 XC9618SNA_3_1",
+  "width": 621,
+  "height": 603,
+  "total_pins": 20,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "LX",
+      "bbox_pin": null,
+      "bbox_name": [
+        28,
+        110,
+        62,
+        135
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "LX",
+      "bbox_pin": null,
+      "bbox_name": [
+        31,
+        151,
+        62,
+        180
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "BS",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        198,
+        63,
+        226
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        39,
+        241,
+        62,
+        269
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        38,
+        284,
+        63,
+        311
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        38,
+        329,
+        63,
+        355
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        38,
+        377,
+        64,
+        399
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        12,
+        420,
+        63,
+        443
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        10,
+        466,
+        60,
+        489
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        304,
+        555,
+        330,
+        602
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        570,
+        467,
+        605,
+        491
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        572,
+        422,
+        605,
+        445
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "PG",
+      "bbox_pin": null,
+      "bbox_name": [
+        569,
+        377,
+        609,
+        402
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "EN",
+      "bbox_pin": null,
+      "bbox_name": [
+        568,
+        333,
+        605,
+        358
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "FS",
+      "bbox_pin": null,
+      "bbox_name": [
+        569,
+        287,
+        602,
+        313
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "SS",
+      "bbox_pin": null,
+      "bbox_name": [
+        572,
+        244,
+        603,
+        270
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "FB",
+      "bbox_pin": null,
+      "bbox_name": [
+        572,
+        198,
+        601,
+        223
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        573,
+        156,
+        608,
+        180
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "VL",
+      "bbox_pin": null,
+      "bbox_name": [
+        569,
+        106,
+        600,
+        135
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "LX",
+      "bbox_pin": null,
+      "bbox_name": [
+        304,
+        13,
+        331,
+        44
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "image_id": "chip_0158",
+  "width": 256,
+  "height": 256,
+  "total_pins": 10,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "EN",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        52,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "I2",
+      "bbox_pin": [
+        78,
+        77,
+        86,
+        89
+      ],
+      "bbox_name": [
+        33,
+        77,
+        45,
+        89
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "OFF",
+      "bbox_pin": [
+        78,
+        122,
+        86,
+        134
+      ],
+      "bbox_name": [
+        33,
+        122,
+        62,
+        134
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "COMP",
+      "bbox_pin": [
+        78,
+        167,
+        86,
+        179
+      ],
+      "bbox_name": [
+        33,
+        167,
+        75,
+        179
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VINP",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        65,
+        224
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "DATA",
+      "bbox_pin": [
+        173,
+        32,
+        189,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        241,
+        44
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "MOSI",
+      "bbox_pin": [
+        173,
+        77,
+        181,
+        89
+      ],
+      "bbox_name": [
+        203,
+        77,
+        239,
+        89
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "IN",
+      "bbox_pin": [
+        173,
+        122,
+        181,
+        134
+      ],
+      "bbox_name": [
+        203,
+        122,
+        217,
+        134
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "XTAL2",
+      "bbox_pin": [
+        173,
+        167,
+        181,
+        179
+      ],
+      "bbox_name": [
+        203,
+        167,
+        246,
+        179
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "DQ",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        211,
+        224,
+        225
+      ]
+    }
+  ]
+}

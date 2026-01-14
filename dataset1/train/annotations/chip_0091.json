@@ -1,0 +1,136 @@
+{
+  "image_id": "chip_0091",
+  "width": 256,
+  "height": 256,
+  "total_pins": 8,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "A2",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        51,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VPP",
+      "bbox_pin": [
+        78,
+        92,
+        86,
+        104
+      ],
+      "bbox_name": [
+        33,
+        92,
+        60,
+        104
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "I1",
+      "bbox_pin": [
+        78,
+        152,
+        86,
+        164
+      ],
+      "bbox_name": [
+        33,
+        152,
+        45,
+        164
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "SDI",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        56,
+        224
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GND",
+      "bbox_pin": [
+        173,
+        32,
+        181,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        234,
+        44
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "PROG",
+      "bbox_pin": [
+        173,
+        92,
+        181,
+        104
+      ],
+      "bbox_name": [
+        203,
+        92,
+        244,
+        104
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "I2",
+      "bbox_pin": [
+        173,
+        152,
+        181,
+        164
+      ],
+      "bbox_name": [
+        203,
+        152,
+        215,
+        164
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "FLAG",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        240,
+        224
+      ]
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "image_id": "74HC_HCT373_4_2",
+  "width": 363,
+  "height": 535,
+  "total_pins": 20,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "O\\E\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        141,
+        6,
+        174,
+        48
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "Q0",
+      "bbox_pin": null,
+      "bbox_name": [
+        30,
+        90,
+        66,
+        118
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "D0",
+      "bbox_pin": null,
+      "bbox_name": [
+        35,
+        132,
+        66,
+        159
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "D1",
+      "bbox_pin": null,
+      "bbox_name": [
+        31,
+        179,
+        65,
+        202
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "Q1",
+      "bbox_pin": null,
+      "bbox_name": [
+        31,
+        223,
+        64,
+        247
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "Q2",
+      "bbox_pin": null,
+      "bbox_name": [
+        31,
+        265,
+        65,
+        291
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "D2",
+      "bbox_pin": null,
+      "bbox_name": [
+        31,
+        308,
+        66,
+        330
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "D3",
+      "bbox_pin": null,
+      "bbox_name": [
+        34,
+        350,
+        64,
+        375
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "Q3",
+      "bbox_pin": null,
+      "bbox_name": [
+        35,
+        394,
+        64,
+        421
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        150,
+        462,
+        175,
+        515
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "LE",
+      "bbox_pin": null,
+      "bbox_name": [
+        193,
+        460,
+        219,
+        495
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "Q4",
+      "bbox_pin": null,
+      "bbox_name": [
+        301,
+        394,
+        336,
+        419
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "D4",
+      "bbox_pin": null,
+      "bbox_name": [
+        301,
+        351,
+        332,
+        377
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "D5",
+      "bbox_pin": null,
+      "bbox_name": [
+        301,
+        307,
+        331,
+        330
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "Q5",
+      "bbox_pin": null,
+      "bbox_name": [
+        300,
+        266,
+        336,
+        289
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "Q6",
+      "bbox_pin": null,
+      "bbox_name": [
+        302,
+        220,
+        334,
+        247
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "D6",
+      "bbox_pin": null,
+      "bbox_name": [
+        301,
+        174,
+        335,
+        204
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "D7",
+      "bbox_pin": null,
+      "bbox_name": [
+        301,
+        136,
+        334,
+        161
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "Q7",
+      "bbox_pin": null,
+      "bbox_name": [
+        301,
+        93,
+        333,
+        116
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        194,
+        2,
+        222,
+        46
+      ]
+    }
+  ]
+}

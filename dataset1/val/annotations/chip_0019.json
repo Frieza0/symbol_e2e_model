@@ -1,0 +1,200 @@
+{
+  "image_id": "chip_0019",
+  "width": 256,
+  "height": 256,
+  "total_pins": 12,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "NO",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        54,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "IRQ",
+      "bbox_pin": [
+        78,
+        68,
+        86,
+        80
+      ],
+      "bbox_name": [
+        33,
+        67,
+        58,
+        81
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "A4",
+      "bbox_pin": [
+        78,
+        104,
+        86,
+        116
+      ],
+      "bbox_name": [
+        33,
+        104,
+        51,
+        116
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "SENSE",
+      "bbox_pin": [
+        78,
+        140,
+        86,
+        152
+      ],
+      "bbox_name": [
+        33,
+        140,
+        79,
+        152
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VPP",
+      "bbox_pin": [
+        78,
+        176,
+        86,
+        188
+      ],
+      "bbox_name": [
+        33,
+        176,
+        60,
+        188
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "D0",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        51,
+        224
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "A2",
+      "bbox_pin": [
+        173,
+        32,
+        189,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        221,
+        44
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "TEMP",
+      "bbox_pin": [
+        173,
+        68,
+        189,
+        80
+      ],
+      "bbox_name": [
+        203,
+        68,
+        242,
+        80
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "AD1",
+      "bbox_pin": [
+        173,
+        104,
+        189,
+        116
+      ],
+      "bbox_name": [
+        203,
+        104,
+        231,
+        116
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "D7",
+      "bbox_pin": [
+        173,
+        140,
+        181,
+        152
+      ],
+      "bbox_name": [
+        203,
+        140,
+        221,
+        152
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "RXD",
+      "bbox_pin": [
+        173,
+        176,
+        181,
+        188
+      ],
+      "bbox_name": [
+        203,
+        176,
+        232,
+        188
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "CANL",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        240,
+        224
+      ]
+    }
+  ]
+}

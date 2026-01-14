@@ -1,0 +1,97 @@
+{
+  "image_id": "AD8031_8032_1_2",
+  "width": 282,
+  "height": 139,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        14,
+        22,
+        43,
+        41
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "–IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        15,
+        50,
+        43,
+        68
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "+IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        11,
+        78,
+        43,
+        96
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "–VS",
+      "bbox_pin": null,
+      "bbox_name": [
+        13,
+        106,
+        42,
+        128
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        231,
+        107,
+        262,
+        124
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        234,
+        78,
+        271,
+        98
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "+VS",
+      "bbox_pin": null,
+      "bbox_name": [
+        233,
+        50,
+        267,
+        72
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        231,
+        24,
+        262,
+        43
+      ]
+    }
+  ]
+}

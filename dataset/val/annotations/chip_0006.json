@@ -3,96 +3,117 @@
   "width": 256,
   "height": 256,
   "total_pins": 10,
+  "package_type": "2side",
   "pins": [
     {
-      "pin_id": 0,
+      "pin_number": 1,
       "name": "A1",
-      "center": [
-        55,
-        38
+      "bbox_pin": [
+        66,
+        29,
+        88,
+        47
       ],
-      "pin_number": 1
+      "bbox_name": null
     },
     {
-      "pin_id": 1,
+      "pin_number": 2,
       "name": "BIAS",
-      "center": [
-        55,
-        83
+      "bbox_pin": [
+        73,
+        74,
+        84,
+        91
       ],
-      "pin_number": 2
+      "bbox_name": null
     },
     {
-      "pin_id": 2,
+      "pin_number": 3,
       "name": "RESET",
-      "center": [
-        55,
-        128
+      "bbox_pin": [
+        74,
+        119,
+        85,
+        138
       ],
-      "pin_number": 3
+      "bbox_name": null
     },
     {
-      "pin_id": 3,
+      "pin_number": 4,
       "name": "PD",
-      "center": [
-        55,
-        173
+      "bbox_pin": [
+        77,
+        163,
+        85,
+        185
       ],
-      "pin_number": 4
+      "bbox_name": null
     },
     {
-      "pin_id": 4,
+      "pin_number": 5,
       "name": "SCL",
-      "center": [
-        55,
-        218
+      "bbox_pin": [
+        73,
+        206,
+        86,
+        227
       ],
-      "pin_number": 5
+      "bbox_name": null
     },
     {
-      "pin_id": 5,
-      "name": "A6",
-      "center": [
-        188,
-        38
-      ],
-      "pin_number": 10
-    },
-    {
-      "pin_id": 6,
-      "name": "A3",
-      "center": [
-        188,
-        83
-      ],
-      "pin_number": 9
-    },
-    {
-      "pin_id": 7,
-      "name": "VINP",
-      "center": [
-        188,
-        128
-      ],
-      "pin_number": 8
-    },
-    {
-      "pin_id": 8,
-      "name": "CE",
-      "center": [
-        188,
-        173
-      ],
-      "pin_number": 7
-    },
-    {
-      "pin_id": 9,
+      "pin_number": 6,
       "name": "TX",
-      "center": [
-        188,
-        218
+      "bbox_pin": [
+        169,
+        209,
+        182,
+        226
       ],
-      "pin_number": 6
+      "bbox_name": null
+    },
+    {
+      "pin_number": 7,
+      "name": "CE",
+      "bbox_pin": [
+        167,
+        163,
+        184,
+        182
+      ],
+      "bbox_name": null
+    },
+    {
+      "pin_number": 8,
+      "name": "VINP",
+      "bbox_pin": [
+        168,
+        120,
+        185,
+        137
+      ],
+      "bbox_name": null
+    },
+    {
+      "pin_number": 9,
+      "name": "A3",
+      "bbox_pin": [
+        169,
+        73,
+        185,
+        93
+      ],
+      "bbox_name": null
+    },
+    {
+      "pin_number": 10,
+      "name": "A6",
+      "bbox_pin": [
+        170,
+        29,
+        190,
+        48
+      ],
+      "bbox_name": null
     }
   ]
 }

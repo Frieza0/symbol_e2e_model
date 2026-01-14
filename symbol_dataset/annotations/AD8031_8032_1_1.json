@@ -1,0 +1,64 @@
+{
+  "image_id": "AD8031_8032_1_1",
+  "width": 312,
+  "height": 205,
+  "total_pins": 5,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VOUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        53,
+        69,
+        75
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "–VS",
+      "bbox_pin": null,
+      "bbox_name": [
+        34,
+        100,
+        69,
+        123
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "+IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        37,
+        147,
+        70,
+        166
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "–IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        266,
+        147,
+        298,
+        166
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "+VS",
+      "bbox_pin": null,
+      "bbox_name": [
+        267,
+        57,
+        302,
+        76
+      ]
+    }
+  ]
+}

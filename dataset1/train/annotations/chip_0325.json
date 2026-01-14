@@ -1,0 +1,168 @@
+{
+  "image_id": "chip_0325",
+  "width": 256,
+  "height": 256,
+  "total_pins": 10,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "SCL",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        60,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "RI",
+      "bbox_pin": [
+        78,
+        77,
+        86,
+        89
+      ],
+      "bbox_name": [
+        33,
+        77,
+        47,
+        89
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "A1",
+      "bbox_pin": [
+        78,
+        122,
+        86,
+        134
+      ],
+      "bbox_name": [
+        33,
+        122,
+        51,
+        134
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "D1",
+      "bbox_pin": [
+        78,
+        167,
+        86,
+        179
+      ],
+      "bbox_name": [
+        33,
+        167,
+        51,
+        179
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "HOLD",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        72,
+        224
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "SDI",
+      "bbox_pin": [
+        173,
+        32,
+        189,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        226,
+        44
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "STBY",
+      "bbox_pin": [
+        173,
+        77,
+        181,
+        89
+      ],
+      "bbox_name": [
+        203,
+        77,
+        240,
+        89
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC",
+      "bbox_pin": [
+        173,
+        122,
+        181,
+        134
+      ],
+      "bbox_name": [
+        203,
+        122,
+        232,
+        134
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "RESET",
+      "bbox_pin": [
+        173,
+        167,
+        181,
+        179
+      ],
+      "bbox_name": [
+        203,
+        167,
+        249,
+        179
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "IRQ",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        211,
+        228,
+        225
+      ]
+    }
+  ]
+}

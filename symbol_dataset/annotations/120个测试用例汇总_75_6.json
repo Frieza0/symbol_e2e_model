@@ -1,0 +1,137 @@
+{
+  "image_id": "120个测试用例汇总_75_6",
+  "width": 420,
+  "height": 141,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "CLKIN",
+      "bbox_pin": [
+        89,
+        26,
+        105,
+        47
+      ],
+      "bbox_name": [
+        11,
+        26,
+        71,
+        46
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "1G",
+      "bbox_pin": [
+        89,
+        51,
+        105,
+        71
+      ],
+      "bbox_name": [
+        41,
+        52,
+        71,
+        72
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "Y 0",
+      "bbox_pin": [
+        89,
+        77,
+        105,
+        98
+      ],
+      "bbox_name": [
+        38,
+        77,
+        70,
+        98
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GND",
+      "bbox_pin": [
+        89,
+        103,
+        106,
+        121
+      ],
+      "bbox_name": [
+        23,
+        102,
+        71,
+        125
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "NC",
+      "bbox_pin": [
+        327,
+        104,
+        348,
+        123
+      ],
+      "bbox_name": [
+        366,
+        103,
+        398,
+        126
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "VDD",
+      "bbox_pin": [
+        326,
+        78,
+        346,
+        100
+      ],
+      "bbox_name": [
+        362,
+        77,
+        407,
+        97
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "NC",
+      "bbox_pin": [
+        330,
+        50,
+        345,
+        71
+      ],
+      "bbox_name": [
+        364,
+        52,
+        396,
+        71
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "Y 1",
+      "bbox_pin": [
+        330,
+        26,
+        346,
+        47
+      ],
+      "bbox_name": [
+        364,
+        26,
+        393,
+        46
+      ]
+    }
+  ]
+}

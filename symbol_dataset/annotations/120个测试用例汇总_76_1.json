@@ -1,0 +1,137 @@
+{
+  "image_id": "120个测试用例汇总_76_1",
+  "width": 534,
+  "height": 223,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "OSCI",
+      "bbox_pin": [
+        103,
+        21,
+        126,
+        40
+      ],
+      "bbox_name": [
+        26,
+        17,
+        87,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "OSCO",
+      "bbox_pin": [
+        103,
+        75,
+        123,
+        94
+      ],
+      "bbox_name": [
+        16,
+        71,
+        86,
+        96
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "I\\N\\T\\",
+      "bbox_pin": [
+        106,
+        128,
+        125,
+        147
+      ],
+      "bbox_name": [
+        41,
+        123,
+        90,
+        154
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VSS",
+      "bbox_pin": [
+        107,
+        183,
+        124,
+        203
+      ],
+      "bbox_name": [
+        37,
+        178,
+        86,
+        206
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "SDA",
+      "bbox_pin": [
+        384,
+        182,
+        407,
+        200
+      ],
+      "bbox_name": [
+        422,
+        182,
+        471,
+        208
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SCL",
+      "bbox_pin": [
+        383,
+        128,
+        402,
+        147
+      ],
+      "bbox_name": [
+        422,
+        128,
+        469,
+        152
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "CLKOUT",
+      "bbox_pin": [
+        383,
+        74,
+        402,
+        92
+      ],
+      "bbox_name": [
+        423,
+        71,
+        512,
+        100
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VDD",
+      "bbox_pin": [
+        384,
+        22,
+        403,
+        39
+      ],
+      "bbox_name": [
+        423,
+        18,
+        472,
+        43
+      ]
+    }
+  ]
+}

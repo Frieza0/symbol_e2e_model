@@ -1,0 +1,75 @@
+{
+  "image_id": "50158D6731C89902DAB5CD6BB2720024_2_1",
+  "width": 441,
+  "height": 276,
+  "total_pins": 6,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "A1",
+      "bbox_pin": null,
+      "bbox_name": [
+        48,
+        53,
+        79,
+        83
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        122,
+        80,
+        151
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "A2",
+      "bbox_pin": null,
+      "bbox_name": [
+        47,
+        199,
+        83,
+        228
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "Y2",
+      "bbox_pin": null,
+      "bbox_name": [
+        369,
+        197,
+        405,
+        227
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        369,
+        126,
+        420,
+        155
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "Y1",
+      "bbox_pin": null,
+      "bbox_name": [
+        369,
+        52,
+        402,
+        83
+      ]
+    }
+  ]
+}

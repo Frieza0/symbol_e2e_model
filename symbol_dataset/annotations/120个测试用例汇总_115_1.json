@@ -1,0 +1,105 @@
+{
+  "image_id": "120个测试用例汇总_115_1",
+  "width": 384,
+  "height": 180,
+  "total_pins": 6,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VIN+",
+      "bbox_pin": [
+        98,
+        40,
+        112,
+        59
+      ],
+      "bbox_name": [
+        20,
+        29,
+        86,
+        63
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VSS",
+      "bbox_pin": [
+        99,
+        84,
+        113,
+        101
+      ],
+      "bbox_name": [
+        19,
+        77,
+        75,
+        110
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "SCL",
+      "bbox_pin": [
+        98,
+        123,
+        113,
+        141
+      ],
+      "bbox_name": [
+        20,
+        119,
+        81,
+        148
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "SDA",
+      "bbox_pin": [
+        265,
+        121,
+        282,
+        139
+      ],
+      "bbox_name": [
+        298,
+        116,
+        362,
+        142
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VDD",
+      "bbox_pin": [
+        265,
+        81,
+        281,
+        100
+      ],
+      "bbox_name": [
+        297,
+        75,
+        354,
+        109
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "VIN-",
+      "bbox_pin": [
+        263,
+        39,
+        282,
+        59
+      ],
+      "bbox_name": [
+        296,
+        33,
+        355,
+        69
+      ]
+    }
+  ]
+}

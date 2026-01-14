@@ -1,0 +1,104 @@
+{
+  "image_id": "chip_0404",
+  "width": 256,
+  "height": 256,
+  "total_pins": 6,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "DTR",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        62,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "XTAL2",
+      "bbox_pin": [
+        78,
+        122,
+        86,
+        134
+      ],
+      "bbox_name": [
+        33,
+        122,
+        76,
+        134
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "RESET",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        79,
+        224
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "VIN",
+      "bbox_pin": [
+        173,
+        32,
+        181,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        226,
+        44
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "AIN",
+      "bbox_pin": [
+        173,
+        122,
+        181,
+        134
+      ],
+      "bbox_name": [
+        203,
+        122,
+        227,
+        134
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "DSR",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        232,
+        224
+      ]
+    }
+  ]
+}

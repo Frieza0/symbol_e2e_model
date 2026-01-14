@@ -3,78 +3,95 @@
   "width": 256,
   "height": 256,
   "total_pins": 8,
+  "package_type": "2side",
   "pins": [
     {
-      "pin_id": 0,
+      "pin_number": 1,
       "name": "OSC",
-      "center": [
-        55,
-        38
+      "bbox_pin": [
+        69,
+        28,
+        87,
+        47
       ],
-      "pin_number": 1
+      "bbox_name": null
     },
     {
-      "pin_id": 1,
+      "pin_number": 2,
       "name": "VREF",
-      "center": [
-        55,
-        98
+      "bbox_pin": [
+        74,
+        88,
+        88,
+        110
       ],
-      "pin_number": 2
+      "bbox_name": null
     },
     {
-      "pin_id": 2,
+      "pin_number": 3,
       "name": "A1",
-      "center": [
-        55,
-        158
+      "bbox_pin": [
+        73,
+        148,
+        89,
+        168
       ],
-      "pin_number": 3
+      "bbox_name": null
     },
     {
-      "pin_id": 3,
+      "pin_number": 4,
       "name": "SCL",
-      "center": [
-        55,
-        218
+      "bbox_pin": [
+        71,
+        212,
+        87,
+        226
       ],
-      "pin_number": 4
+      "bbox_name": null
     },
     {
-      "pin_id": 4,
-      "name": "TRIG",
-      "center": [
-        188,
-        38
-      ],
-      "pin_number": 8
-    },
-    {
-      "pin_id": 5,
-      "name": "SWCLK",
-      "center": [
-        188,
-        98
-      ],
-      "pin_number": 7
-    },
-    {
-      "pin_id": 6,
-      "name": "XTAL2",
-      "center": [
-        188,
-        158
-      ],
-      "pin_number": 6
-    },
-    {
-      "pin_id": 7,
+      "pin_number": 5,
       "name": "IN",
-      "center": [
-        188,
-        218
+      "bbox_pin": [
+        170,
+        210,
+        183,
+        229
       ],
-      "pin_number": 5
+      "bbox_name": null
+    },
+    {
+      "pin_number": 6,
+      "name": "XTAL2",
+      "bbox_pin": [
+        167,
+        147,
+        185,
+        167
+      ],
+      "bbox_name": null
+    },
+    {
+      "pin_number": 7,
+      "name": "SWCLK",
+      "bbox_pin": [
+        169,
+        87,
+        183,
+        103
+      ],
+      "bbox_name": null
+    },
+    {
+      "pin_number": 8,
+      "name": "TRIG",
+      "bbox_pin": [
+        169,
+        27,
+        179,
+        46
+      ],
+      "bbox_name": null
     }
   ]
 }

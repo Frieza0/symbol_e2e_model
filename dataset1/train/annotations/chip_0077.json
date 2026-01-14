@@ -1,0 +1,104 @@
+{
+  "image_id": "chip_0077",
+  "width": 256,
+  "height": 256,
+  "total_pins": 6,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "WCLK",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        74,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "A7",
+      "bbox_pin": [
+        78,
+        122,
+        86,
+        134
+      ],
+      "bbox_name": [
+        33,
+        122,
+        51,
+        134
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VOUT",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        72,
+        224
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "OSC",
+      "bbox_pin": [
+        173,
+        32,
+        181,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        233,
+        44
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "CLK",
+      "bbox_pin": [
+        173,
+        122,
+        181,
+        134
+      ],
+      "bbox_name": [
+        203,
+        122,
+        231,
+        134
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "RS485",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        246,
+        224
+      ]
+    }
+  ]
+}

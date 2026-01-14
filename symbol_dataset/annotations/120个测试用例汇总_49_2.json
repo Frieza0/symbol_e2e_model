@@ -1,0 +1,169 @@
+{
+  "image_id": "120个测试用例汇总_49_2",
+  "width": 450,
+  "height": 318,
+  "total_pins": 10,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VIN",
+      "bbox_pin": [
+        85,
+        53,
+        101,
+        71
+      ],
+      "bbox_name": [
+        30,
+        49,
+        71,
+        76
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "PH",
+      "bbox_pin": [
+        81,
+        99,
+        103,
+        119
+      ],
+      "bbox_name": [
+        33,
+        93,
+        69,
+        120
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GND",
+      "bbox_pin": [
+        82,
+        143,
+        98,
+        160
+      ],
+      "bbox_name": [
+        13,
+        141,
+        69,
+        167
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GND",
+      "bbox_pin": [
+        84,
+        190,
+        99,
+        207
+      ],
+      "bbox_name": [
+        19,
+        183,
+        70,
+        211
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "GND",
+      "bbox_pin": [
+        84,
+        234,
+        101,
+        251
+      ],
+      "bbox_name": [
+        15,
+        229,
+        70,
+        255
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "VSENSE",
+      "bbox_pin": [
+        307,
+        234,
+        327,
+        252
+      ],
+      "bbox_name": [
+        335,
+        228,
+        433,
+        258
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "COMP",
+      "bbox_pin": [
+        308,
+        187,
+        324,
+        205
+      ],
+      "bbox_name": [
+        339,
+        182,
+        405,
+        209
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "EN",
+      "bbox_pin": [
+        308,
+        144,
+        323,
+        161
+      ],
+      "bbox_name": [
+        337,
+        137,
+        371,
+        164
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "BOOT",
+      "bbox_pin": [
+        305,
+        100,
+        325,
+        116
+      ],
+      "bbox_name": [
+        337,
+        95,
+        404,
+        119
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "SS",
+      "bbox_pin": [
+        302,
+        54,
+        328,
+        72
+      ],
+      "bbox_name": [
+        335,
+        48,
+        372,
+        74
+      ]
+    }
+  ]
+}

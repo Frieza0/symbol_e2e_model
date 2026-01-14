@@ -1,0 +1,233 @@
+{
+  "image_id": "120个测试用例汇总_56_1",
+  "width": 648,
+  "height": 531,
+  "total_pins": 14,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "SDO/SA0",
+      "bbox_pin": [
+        181,
+        157,
+        206,
+        177
+      ],
+      "bbox_name": [
+        33,
+        150,
+        131,
+        179
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "SDX",
+      "bbox_pin": [
+        177,
+        221,
+        207,
+        242
+      ],
+      "bbox_name": [
+        71,
+        215,
+        134,
+        243
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "SCX",
+      "bbox_pin": [
+        178,
+        286,
+        206,
+        306
+      ],
+      "bbox_name": [
+        89,
+        284,
+        134,
+        309
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "INT1",
+      "bbox_pin": [
+        183,
+        348,
+        205,
+        369
+      ],
+      "bbox_name": [
+        77,
+        348,
+        130,
+        373
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VDDIO",
+      "bbox_pin": [
+        266,
+        366,
+        283,
+        391
+      ],
+      "bbox_name": [
+        256,
+        440,
+        285,
+        517
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "GND",
+      "bbox_pin": [
+        327,
+        366,
+        348,
+        390
+      ],
+      "bbox_name": [
+        322,
+        439,
+        347,
+        500
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "GND",
+      "bbox_pin": [
+        390,
+        363,
+        411,
+        392
+      ],
+      "bbox_name": [
+        387,
+        438,
+        414,
+        491
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VDD",
+      "bbox_pin": [
+        475,
+        349,
+        498,
+        369
+      ],
+      "bbox_name": [
+        536,
+        341,
+        588,
+        371
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "INT2",
+      "bbox_pin": [
+        473,
+        284,
+        501,
+        306
+      ],
+      "bbox_name": [
+        532,
+        282,
+        593,
+        309
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "CS-AUX",
+      "bbox_pin": [
+        468,
+        220,
+        500,
+        242
+      ],
+      "bbox_name": [
+        537,
+        214,
+        618,
+        246
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "SDO-AUX",
+      "bbox_pin": [
+        469,
+        157,
+        504,
+        177
+      ],
+      "bbox_name": [
+        538,
+        150,
+        634,
+        180
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "CS",
+      "bbox_pin": [
+        389,
+        133,
+        414,
+        158
+      ],
+      "bbox_name": [
+        387,
+        50,
+        410,
+        79
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "SCL",
+      "bbox_pin": [
+        326,
+        131,
+        351,
+        158
+      ],
+      "bbox_name": [
+        324,
+        40,
+        347,
+        83
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "SDA",
+      "bbox_pin": [
+        262,
+        133,
+        286,
+        157
+      ],
+      "bbox_name": [
+        258,
+        39,
+        285,
+        79
+      ]
+    }
+  ]
+}

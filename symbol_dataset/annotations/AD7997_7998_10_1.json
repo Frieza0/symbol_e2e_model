@@ -1,0 +1,229 @@
+{
+  "image_id": "AD7997_7998_10_1",
+  "width": 401,
+  "height": 326,
+  "total_pins": 20,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        37,
+        77,
+        57
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        39,
+        67,
+        76,
+        88
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        93,
+        78,
+        113
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": [
+        17,
+        119,
+        77,
+        138
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        37,
+        147,
+        76,
+        169
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "REFIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        177,
+        78,
+        201
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "VIN1",
+      "bbox_pin": null,
+      "bbox_name": [
+        37,
+        206,
+        75,
+        227
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VIN3",
+      "bbox_pin": null,
+      "bbox_name": [
+        34,
+        234,
+        76,
+        257
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "VIN5",
+      "bbox_pin": null,
+      "bbox_name": [
+        38,
+        262,
+        77,
+        284
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "VIN7",
+      "bbox_pin": null,
+      "bbox_name": [
+        37,
+        291,
+        76,
+        313
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "VIN8",
+      "bbox_pin": null,
+      "bbox_name": [
+        282,
+        292,
+        326,
+        316
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "VIN6",
+      "bbox_pin": null,
+      "bbox_name": [
+        284,
+        263,
+        323,
+        285
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "VIN4",
+      "bbox_pin": null,
+      "bbox_name": [
+        282,
+        234,
+        324,
+        255
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "VIN2",
+      "bbox_pin": null,
+      "bbox_name": [
+        283,
+        206,
+        323,
+        226
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "AS",
+      "bbox_pin": null,
+      "bbox_name": [
+        285,
+        178,
+        312,
+        197
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "C\\O\\N\\V\\S\\T\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        282,
+        147,
+        363,
+        167
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "ALERT/BUSY",
+      "bbox_pin": null,
+      "bbox_name": [
+        285,
+        118,
+        398,
+        139
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "SDA",
+      "bbox_pin": null,
+      "bbox_name": [
+        284,
+        94,
+        323,
+        112
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "SCL",
+      "bbox_pin": null,
+      "bbox_name": [
+        283,
+        66,
+        322,
+        84
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": [
+        282,
+        38,
+        338,
+        56
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "image_id": "chip_0408",
+  "width": 256,
+  "height": 256,
+  "total_pins": 10,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "DO",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        54,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "D7",
+      "bbox_pin": [
+        78,
+        77,
+        86,
+        89
+      ],
+      "bbox_name": [
+        33,
+        77,
+        51,
+        89
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "SI",
+      "bbox_pin": [
+        78,
+        122,
+        86,
+        134
+      ],
+      "bbox_name": [
+        33,
+        122,
+        46,
+        134
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "BOOT",
+      "bbox_pin": [
+        78,
+        167,
+        86,
+        179
+      ],
+      "bbox_name": [
+        33,
+        167,
+        73,
+        179
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "MISO",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        69,
+        224
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "D3",
+      "bbox_pin": [
+        173,
+        32,
+        189,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        221,
+        44
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "ADDR",
+      "bbox_pin": [
+        173,
+        77,
+        181,
+        89
+      ],
+      "bbox_name": [
+        203,
+        77,
+        243,
+        89
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "D5",
+      "bbox_pin": [
+        173,
+        122,
+        181,
+        134
+      ],
+      "bbox_name": [
+        203,
+        122,
+        221,
+        134
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "SHDN",
+      "bbox_pin": [
+        173,
+        167,
+        181,
+        179
+      ],
+      "bbox_name": [
+        203,
+        167,
+        242,
+        179
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "D2",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        221,
+        224
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "image_id": "120个测试用例汇总_118_1",
+  "width": 399,
+  "height": 267,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "OUT1",
+      "bbox_pin": [
+        75,
+        62,
+        89,
+        78
+      ],
+      "bbox_name": [
+        18,
+        60,
+        59,
+        81
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "IN1-",
+      "bbox_pin": [
+        76,
+        106,
+        89,
+        120
+      ],
+      "bbox_name": [
+        21,
+        104,
+        53,
+        123
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "IN1+",
+      "bbox_pin": [
+        77,
+        149,
+        89,
+        164
+      ],
+      "bbox_name": [
+        19,
+        146,
+        55,
+        167
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VCC-",
+      "bbox_pin": [
+        77,
+        193,
+        89,
+        207
+      ],
+      "bbox_name": [
+        20,
+        192,
+        58,
+        212
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "IN2+",
+      "bbox_pin": [
+        304,
+        193,
+        318,
+        209
+      ],
+      "bbox_name": [
+        331,
+        191,
+        368,
+        210
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "IN2-",
+      "bbox_pin": [
+        304,
+        150,
+        317,
+        165
+      ],
+      "bbox_name": [
+        333,
+        145,
+        367,
+        166
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "OUT2",
+      "bbox_pin": [
+        305,
+        107,
+        317,
+        120
+      ],
+      "bbox_name": [
+        333,
+        105,
+        375,
+        124
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC+",
+      "bbox_pin": [
+        304,
+        62,
+        316,
+        77
+      ],
+      "bbox_name": [
+        331,
+        59,
+        374,
+        78
+      ]
+    }
+  ]
+}

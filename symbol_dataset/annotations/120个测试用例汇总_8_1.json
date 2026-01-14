@@ -1,0 +1,119 @@
+{
+  "image_id": "120个测试用例汇总_8_1",
+  "width": 669,
+  "height": 465,
+  "total_pins": 10,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        15,
+        58,
+        71,
+        90
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "XP",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        138,
+        63,
+        169
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "YP",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        224,
+        65,
+        250
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "XN",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        290,
+        66,
+        326
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "WN",
+      "bbox_pin": null,
+      "bbox_name": [
+        26,
+        378,
+        65,
+        413
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        558,
+        371,
+        611,
+        405
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "PENIRQ",
+      "bbox_pin": null,
+      "bbox_name": [
+        556,
+        295,
+        650,
+        328
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "A0",
+      "bbox_pin": null,
+      "bbox_name": [
+        560,
+        219,
+        597,
+        246
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "SDA",
+      "bbox_pin": null,
+      "bbox_name": [
+        557,
+        139,
+        615,
+        166
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "SCL",
+      "bbox_pin": null,
+      "bbox_name": [
+        560,
+        65,
+        608,
+        93
+      ]
+    }
+  ]
+}

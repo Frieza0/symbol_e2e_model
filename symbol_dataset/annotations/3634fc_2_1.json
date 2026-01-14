@@ -1,0 +1,328 @@
+{
+  "image_id": "3634fc_2_1",
+  "width": 459,
+  "height": 582,
+  "total_pins": 29,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "ITH1",
+      "bbox_pin": null,
+      "bbox_name": [
+        86,
+        26,
+        133,
+        50
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "TRACKSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        46,
+        65,
+        131,
+        91
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VFB1",
+      "bbox_pin": null,
+      "bbox_name": [
+        85,
+        104,
+        129,
+        133
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "PGOOD1",
+      "bbox_pin": null,
+      "bbox_name": [
+        51,
+        143,
+        130,
+        168
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "PHMODE",
+      "bbox_pin": null,
+      "bbox_name": [
+        49,
+        178,
+        132,
+        208
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "RUN1",
+      "bbox_pin": null,
+      "bbox_name": [
+        77,
+        218,
+        131,
+        247
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "MODE/SYNC",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        258,
+        132,
+        287
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "RT",
+      "bbox_pin": null,
+      "bbox_name": [
+        101,
+        298,
+        131,
+        321
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "RUN2",
+      "bbox_pin": null,
+      "bbox_name": [
+        75,
+        338,
+        132,
+        362
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "SGND",
+      "bbox_pin": null,
+      "bbox_name": [
+        73,
+        377,
+        130,
+        402
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "PGOOD2",
+      "bbox_pin": null,
+      "bbox_name": [
+        50,
+        413,
+        131,
+        444
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "VFB2",
+      "bbox_pin": null,
+      "bbox_name": [
+        87,
+        453,
+        132,
+        483
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "VDDQIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        58,
+        493,
+        132,
+        519
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "ITH2",
+      "bbox_pin": null,
+      "bbox_name": [
+        87,
+        531,
+        132,
+        561
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "VON2",
+      "bbox_pin": null,
+      "bbox_name": [
+        359,
+        533,
+        411,
+        561
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "SW2",
+      "bbox_pin": null,
+      "bbox_name": [
+        360,
+        495,
+        407,
+        519
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "SW2",
+      "bbox_pin": null,
+      "bbox_name": [
+        361,
+        455,
+        406,
+        478
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "VIN2",
+      "bbox_pin": null,
+      "bbox_name": [
+        359,
+        414,
+        406,
+        448
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "VIN2",
+      "bbox_pin": null,
+      "bbox_name": [
+        358,
+        380,
+        404,
+        405
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "BOOST2",
+      "bbox_pin": null,
+      "bbox_name": [
+        359,
+        336,
+        436,
+        361
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "VTTR",
+      "bbox_pin": null,
+      "bbox_name": [
+        359,
+        297,
+        413,
+        324
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "INTVCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        362,
+        259,
+        428,
+        286
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "BOOST1",
+      "bbox_pin": null,
+      "bbox_name": [
+        358,
+        218,
+        438,
+        245
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "VIN1",
+      "bbox_pin": null,
+      "bbox_name": [
+        361,
+        186,
+        401,
+        207
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "VIN1",
+      "bbox_pin": null,
+      "bbox_name": [
+        361,
+        142,
+        403,
+        171
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "SW1",
+      "bbox_pin": null,
+      "bbox_name": [
+        362,
+        104,
+        404,
+        126
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "SW1",
+      "bbox_pin": null,
+      "bbox_name": [
+        362,
+        66,
+        405,
+        87
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "VON1",
+      "bbox_pin": null,
+      "bbox_name": [
+        363,
+        25,
+        408,
+        52
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "PGND",
+      "bbox_pin": null,
+      "bbox_name": [
+        221,
+        292,
+        273,
+        315
+      ]
+    }
+  ]
+}

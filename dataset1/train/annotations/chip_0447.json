@@ -1,0 +1,104 @@
+{
+  "image_id": "chip_0447",
+  "width": 256,
+  "height": 256,
+  "total_pins": 6,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "RTS",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        61,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "XTAL1",
+      "bbox_pin": [
+        78,
+        122,
+        86,
+        134
+      ],
+      "bbox_name": [
+        33,
+        122,
+        76,
+        134
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "D0",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        51,
+        224
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "I2",
+      "bbox_pin": [
+        173,
+        32,
+        181,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        215,
+        44
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "TEMP",
+      "bbox_pin": [
+        173,
+        122,
+        181,
+        134
+      ],
+      "bbox_name": [
+        203,
+        122,
+        242,
+        134
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "XTAL2",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        246,
+        224
+      ]
+    }
+  ]
+}

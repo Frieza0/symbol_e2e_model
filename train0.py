@@ -28,7 +28,7 @@ MAX_NAME_LEN = 6   # 名称最大长度（含<EOS>）
 # 1. 数据集类：读取 dataset/images 和 dataset/annotations
 # ----------------------------
 class SymbolPinDataset(Dataset):
-    def __init__(self, root_dir='dataset', img_size=224):
+    def __init__(self, root_dir='dataset1', img_size=224):
         self.root_dir = root_dir
         self.img_size = img_size
         self.image_dir = os.path.join(root_dir, 'images')
@@ -46,6 +46,7 @@ class SymbolPinDataset(Dataset):
     def __len__(self):
         return len(self.ann_files)
 
+    # 在 __getitem__ 中替换原有逻辑
     def __getitem__(self, idx):
         ann_path = os.path.join(self.ann_dir, self.ann_files[idx])
         with open(ann_path, 'r') as f:
@@ -59,36 +60,55 @@ class SymbolPinDataset(Dataset):
         image = Image.open(img_path).convert('RGB')
         image = self.transform(image)
 
-        # 按 pin_number 排序并填充到 MAX_PINS
-        pin_dict = {}
+        # 构建按 pin_number 索引的信息字典
+        pin_info = {}
         for pin in ann['pins']:
             pin_num = pin['pin_number']
-            name = pin['name'].upper()
-            pin_dict[pin_num] = name
+            pin_info[pin_num] = {
+                'name': pin['name'].upper(),
+                'bbox_pin': pin['bbox_pin'],
+                'bbox_name': pin['bbox_name']
+            }
 
         pin_ids = []
         pin_names = []
+        bbox_pins_list = []
+        bbox_names_list = []
+
         for i in range(1, MAX_PINS + 1):
-            if i in pin_dict:
+            if i in pin_info:
                 pin_ids.append(i)
-                pin_names.append(pin_dict[i])
+                pin_names.append(pin_info[i]['name'])
+                bbox_pins_list.append(pin_info[i]['bbox_pin'])      # [x1, y1, x2, y2]
+                bbox_names_list.append(pin_info[i]['bbox_name'])
             else:
                 pin_ids.append(0)
                 pin_names.append("PAD")
+                bbox_pins_list.append([0.0, 0.0, 0.0, 0.0])
+                bbox_names_list.append([0.0, 0.0, 0.0, 0.0])
 
-        # 编码为 token ID 序列
+        # 编码名称序列
         name_seq = []
         for name in pin_names:
+            # 替换原有逻辑
             if name == "PAD":
                 seq = [PAD_IDX] * MAX_NAME_LEN
             else:
-                chars = list(name) + ["<EOS>"]
-                chars = (chars + ["<PAD>"] * MAX_NAME_LEN)[:MAX_NAME_LEN]
+                chars = list(name)
+                # 确保总长度不超过 MAX_NAME_LEN - 1（留一位给 <EOS>）
+                if len(chars) > MAX_NAME_LEN - 1:
+                    chars = chars[:MAX_NAME_LEN - 1]  # 截断超长名称
+                chars.append("<EOS>")
+                # 填充到 MAX_NAME_LEN
+                while len(chars) < MAX_NAME_LEN:
+                    chars.append("<PAD>")
                 seq = [CHAR_TO_IDX.get(c, PAD_IDX) for c in chars]
             name_seq.extend(seq)
 
-        pin_ids = torch.tensor(pin_ids, dtype=torch.long)      # [16]
-        name_seq = torch.tensor(name_seq, dtype=torch.long)    # [96]
+        pin_ids = torch.tensor(pin_ids, dtype=torch.long)           # [16]
+        name_seq = torch.tensor(name_seq, dtype=torch.long)         # [96]
+        bbox_pins = torch.tensor(bbox_pins_list, dtype=torch.float) # [16, 4]
+        bbox_names = torch.tensor(bbox_names_list, dtype=torch.float) # [16, 4]
 
         return image, pin_ids, name_seq
 
@@ -100,9 +120,7 @@ class MM_PinNet(nn.Module):
         super().__init__()
         self.max_pins = max_pins
         self.max_name_len = max_name_len
-        self.max_seq_len = max_pins * max_name_len  # Query总长度
         self.d_model = d_model
-        self.nhead = nhead
 
         self.dropout = nn.Dropout(0.3)
 
@@ -116,12 +134,12 @@ class MM_PinNet(nn.Module):
         # self.feat_proj = nn.Linear(512, d_model)  # 投影每个空间位置
 
         # 优化：使用 FPN 融合多层特征
-        self.resnet = models.resnet18(weights=models.ResNet18_Weights.IMAGENET1K_V1)
+        self.resnet = models.resnet50(weights=models.ResNet50_Weights.IMAGENET1K_V1)
         self.layer1 = self.resnet.layer1
         self.layer2 = self.resnet.layer2
         self.layer3 = self.resnet.layer3
         self.layer4 = self.resnet.layer4
-        self.fpn = SimpleFPN([128,256,512], d_model)
+        self.fpn = SimpleFPN([256,512,1024], d_model)
         self.feat_proj = nn.Linear(3*d_model, d_model)  # 拼接后通道数3*d_model
         # ----------------------------
 
@@ -151,6 +169,7 @@ class MM_PinNet(nn.Module):
 
     def forward(self, images):
         B = images.shape[0]
+        device = images.device
 
         # ----------------------------
         # 提取图像特征
@@ -168,7 +187,7 @@ class MM_PinNet(nn.Module):
         f2 = self.layer2(f1)
         f3 = self.layer3(f2)
         f4 = self.layer4(f3)
-        fused_feats = self.fpn([f2, f3, f4])  # [B, 3*d_model, H, W]
+        fused_feats = self.fpn([f1, f2, f3])  # [B, 3*d_model, H, W]
         feats = fused_feats.flatten(2).transpose(1,2)
         memory = self.dropout(self.feat_proj(feats))
         # ----------------------------
@@ -176,15 +195,12 @@ class MM_PinNet(nn.Module):
 
         # ----------------------------
         # 准备解码器查询
-        device = images.device
-
         pin_ids = torch.arange(self.max_pins, device=device).unsqueeze(1).repeat(1, self.max_name_len).flatten()
         char_ids = torch.arange(self.max_name_len, device=device).repeat(self.max_pins)
         # pin_embed = self.pin_pos_embed(pin_ids)
         # char_embed = self.char_pos_embed(char_ids)
         pin_embed = self.pin_pos_embed(pin_ids) * self.layer_weight[0]
         char_embed = self.char_pos_embed(char_ids) * self.layer_weight[1]
-
         query = torch.cat([pin_embed, char_embed], dim=-1).unsqueeze(0).repeat(B, 1, 1)
         # ----------------------------
 
@@ -214,14 +230,14 @@ def train():
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
     # 数据集路径
-    train_dataset = SymbolPinDataset(root_dir='./dataset/train', img_size=224)
-    val_dataset = SymbolPinDataset(root_dir='./dataset/val', img_size=224)
+    train_dataset = SymbolPinDataset(root_dir='./dataset1/train', img_size=224)
+    val_dataset = SymbolPinDataset(root_dir='./dataset1/val', img_size=224)
 
     train_loader = DataLoader(train_dataset, batch_size=16, shuffle=True, num_workers=0)
     val_loader = DataLoader(val_dataset, batch_size=64, shuffle=False, num_workers=0)
 
     model = MM_PinNet().to(device)
-    optimizer = optim.AdamW(model.parameters(), lr=5e-5, weight_decay=1e-4)
+    optimizer = optim.AdamW(model.parameters(), lr=1e-4, weight_decay=1e-4)
     char_criterion = nn.CrossEntropyLoss(ignore_index=PAD_IDX)
     exist_criterion = nn.BCEWithLogitsLoss()
 
@@ -290,7 +306,7 @@ def train():
         name_exact_acc = correct_name_exact / total_pins_exist if total_pins_exist > 0 else 0.0
         return exist_acc, name_exact_acc
 
-    for epoch in range(80):
+    for epoch in range(100):
         # ---------- 训练 ----------
         model.train()
         total_loss = 0
@@ -306,7 +322,7 @@ def train():
             pin_exists_target = (pin_ids != 0).float()
             exist_loss = exist_criterion(pin_exists_logits, pin_exists_target)
 
-            loss = 0.8 * char_loss + 0.2 * exist_loss
+            loss = 1.0 * char_loss + 0.5 * exist_loss
             loss.backward()
             optimizer.step()
             total_loss += loss.item()
@@ -337,7 +353,7 @@ def train():
 # ----------------------------
 # 4. 推理函数
 # ----------------------------
-def inference(image_path, model_path='mm_pinnnet_best.pth'):
+def inference(image_path, model_path='mm_pinnnet_final.pth'):
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     model = MM_PinNet().to(device)
     model.load_state_dict(torch.load(model_path, map_location=device))
@@ -346,14 +362,12 @@ def inference(image_path, model_path='mm_pinnnet_best.pth'):
     image = Image.open(image_path).convert('RGB')
     transform = transforms.Compose([
         transforms.Resize((224, 224)),
-        transforms.ToTensor(),
+        transforms.ToTensor()
     ])
     input_img = transform(image).unsqueeze(0).to(device)
 
     with torch.no_grad():
         pin_exists_logits, char_logits = model(input_img)
-        # from attention_visualize import visualize_all_attentions
-        # visualize_all_attentions(image, cross_attn_weights[0])
         pin_exists = torch.sigmoid(pin_exists_logits).cpu().numpy()[0]
         preds = torch.argmax(char_logits, dim=-1).cpu().numpy().flatten()
 
@@ -379,7 +393,7 @@ if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser()
     parser.add_argument('--mode', type=str, default='infer', choices=['train', 'infer'])
-    parser.add_argument('--image', type=str, default='./dataset/val/images/chip_0000.png')
+    parser.add_argument('--image', type=str, default='./dataset1/val/images/chip_0000.png')
     args = parser.parse_args()
 
     if args.mode == 'train':

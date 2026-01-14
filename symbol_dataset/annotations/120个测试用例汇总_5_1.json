@@ -1,0 +1,276 @@
+{
+  "image_id": "120个测试用例汇总_5_1",
+  "width": 816,
+  "height": 728,
+  "total_pins": 17,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "SSD",
+      "bbox_pin": [
+        661,
+        501,
+        693,
+        530
+      ],
+      "bbox_name": [
+        719,
+        495,
+        794,
+        540
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "A",
+      "bbox_pin": [
+        663,
+        398,
+        692,
+        430
+      ],
+      "bbox_name": [
+        717,
+        399,
+        754,
+        436
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "Z",
+      "bbox_pin": [
+        657,
+        296,
+        695,
+        328
+      ],
+      "bbox_name": [
+        719,
+        293,
+        748,
+        332
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "MOSI",
+      "bbox_pin": [
+        662,
+        195,
+        692,
+        224
+      ],
+      "bbox_name": [
+        716,
+        194,
+        805,
+        232
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "CS",
+      "bbox_pin": [
+        545,
+        80,
+        570,
+        111
+      ],
+      "bbox_name": [
+        536,
+        12,
+        588,
+        49
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "B",
+      "bbox_pin": [
+        440,
+        80,
+        471,
+        116
+      ],
+      "bbox_name": [
+        442,
+        11,
+        476,
+        46
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "MISO",
+      "bbox_pin": [
+        338,
+        82,
+        375,
+        120
+      ],
+      "bbox_name": [
+        318,
+        11,
+        397,
+        47
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GND",
+      "bbox_pin": [
+        245,
+        79,
+        264,
+        117
+      ],
+      "bbox_name": [
+        219,
+        16,
+        294,
+        45
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "PWM",
+      "bbox_pin": [
+        118,
+        198,
+        146,
+        227
+      ],
+      "bbox_name": [
+        8,
+        194,
+        90,
+        230
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "TEST",
+      "bbox_pin": [
+        122,
+        300,
+        162,
+        328
+      ],
+      "bbox_name": [
+        9,
+        292,
+        89,
+        331
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "MGL",
+      "bbox_pin": [
+        119,
+        399,
+        155,
+        433
+      ],
+      "bbox_name": [
+        16,
+        396,
+        91,
+        444
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "SCLK",
+      "bbox_pin": [
+        123,
+        503,
+        159,
+        535
+      ],
+      "bbox_name": [
+        10,
+        495,
+        88,
+        543
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "VDD",
+      "bbox_pin": [
+        232,
+        612,
+        268,
+        653
+      ],
+      "bbox_name": [
+        218,
+        679,
+        289,
+        711
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "N/C",
+      "bbox_pin": [
+        336,
+        614,
+        371,
+        645
+      ],
+      "bbox_name": [
+        326,
+        673,
+        389,
+        714
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "SSCK",
+      "bbox_pin": [
+        435,
+        610,
+        474,
+        645
+      ],
+      "bbox_name": [
+        411,
+        679,
+        502,
+        712
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "MGH",
+      "bbox_pin": [
+        539,
+        612,
+        575,
+        647
+      ],
+      "bbox_name": [
+        520,
+        672,
+        601,
+        713
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "PAD",
+      "bbox_pin": [
+        383,
+        315,
+        426,
+        349
+      ],
+      "bbox_name": null
+    }
+  ]
+}

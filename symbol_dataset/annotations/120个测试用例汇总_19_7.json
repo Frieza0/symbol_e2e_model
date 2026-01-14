@@ -1,0 +1,34 @@
+{
+  "image_id": "120个测试用例汇总_19_7",
+  "width": 249,
+  "height": 306,
+  "total_pins": 4,
+  "package_type": "circle",
+  "pins": [
+    {
+      "pin_number": "Y1",
+      "name": "G\\N\\D\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B1",
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A1",
+      "name": "D\\N\\U\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A2",
+      "name": "V\\C\\C\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ],
+  "file_name": "120个测试用例汇总_19_7.jpg"
+}

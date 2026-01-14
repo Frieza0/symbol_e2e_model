@@ -1,0 +1,185 @@
+{
+  "image_id": "1_数据手册-SMUM2682MP（0）_9_1",
+  "width": 792,
+  "height": 642,
+  "total_pins": 16,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "GND1",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        81,
+        128,
+        132
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        48,
+        143,
+        126,
+        190
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "RXD",
+      "bbox_pin": null,
+      "bbox_name": [
+        42,
+        200,
+        124,
+        241
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "REN",
+      "bbox_pin": null,
+      "bbox_name": [
+        34,
+        264,
+        125,
+        306
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "DE",
+      "bbox_pin": null,
+      "bbox_name": [
+        70,
+        324,
+        125,
+        358
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "TXE",
+      "bbox_pin": null,
+      "bbox_name": [
+        50,
+        382,
+        128,
+        420
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        51,
+        446,
+        129,
+        487
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GND1",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        507,
+        136,
+        547
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "GND2",
+      "bbox_pin": null,
+      "bbox_name": [
+        621,
+        502,
+        728,
+        553
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "VISOOUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        621,
+        439,
+        772,
+        492
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        622,
+        376,
+        656,
+        419
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "Z",
+      "bbox_pin": null,
+      "bbox_name": [
+        619,
+        321,
+        651,
+        361
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "B",
+      "bbox_pin": null,
+      "bbox_name": [
+        619,
+        263,
+        654,
+        298
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        618,
+        203,
+        657,
+        240
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "VISOIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        619,
+        143,
+        738,
+        188
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "GND2",
+      "bbox_pin": null,
+      "bbox_name": [
+        619,
+        80,
+        727,
+        129
+      ]
+    }
+  ]
+}

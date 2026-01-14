@@ -1,0 +1,169 @@
+{
+  "image_id": "120个测试用例汇总_114_2",
+  "width": 702,
+  "height": 303,
+  "total_pins": 10,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "ADDR",
+      "bbox_pin": [
+        282,
+        82,
+        301,
+        102
+      ],
+      "bbox_name": [
+        210,
+        83,
+        267,
+        103
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "ALERT/RDY(ADS1114/5ONLY)",
+      "bbox_pin": [
+        283,
+        124,
+        303,
+        143
+      ],
+      "bbox_name": [
+        9,
+        124,
+        267,
+        147
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GND",
+      "bbox_pin": [
+        284,
+        164,
+        301,
+        186
+      ],
+      "bbox_name": [
+        221,
+        164,
+        267,
+        183
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "AIN0",
+      "bbox_pin": [
+        283,
+        206,
+        301,
+        227
+      ],
+      "bbox_name": [
+        220,
+        206,
+        268,
+        227
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "AIN1",
+      "bbox_pin": [
+        380,
+        241,
+        396,
+        262
+      ],
+      "bbox_name": [
+        368,
+        277,
+        414,
+        300
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "AIN2 (ADS1115 ONLY)",
+      "bbox_pin": [
+        479,
+        206,
+        496,
+        227
+      ],
+      "bbox_name": [
+        510,
+        205,
+        689,
+        229
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "AIN3 (ADS1115 ONLY)",
+      "bbox_pin": [
+        477,
+        163,
+        497,
+        184
+      ],
+      "bbox_name": [
+        511,
+        164,
+        689,
+        188
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VDD",
+      "bbox_pin": [
+        477,
+        123,
+        496,
+        144
+      ],
+      "bbox_name": [
+        508,
+        124,
+        554,
+        145
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "SDA",
+      "bbox_pin": [
+        476,
+        84,
+        498,
+        102
+      ],
+      "bbox_name": [
+        509,
+        81,
+        552,
+        103
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "SCL",
+      "bbox_pin": [
+        378,
+        46,
+        402,
+        66
+      ],
+      "bbox_name": [
+        365,
+        7,
+        409,
+        28
+      ]
+    }
+  ]
+}

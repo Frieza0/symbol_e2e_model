@@ -1,0 +1,185 @@
+{
+  "image_id": "AD8024_1_1",
+  "width": 435,
+  "height": 357,
+  "total_pins": 16,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "OUT A",
+      "bbox_pin": null,
+      "bbox_name": [
+        22,
+        38,
+        82,
+        61
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "–IN A",
+      "bbox_pin": null,
+      "bbox_name": [
+        34,
+        77,
+        83,
+        98
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "+IN A",
+      "bbox_pin": null,
+      "bbox_name": [
+        32,
+        114,
+        83,
+        135
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        44,
+        148,
+        82,
+        173
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "DIS",
+      "bbox_pin": null,
+      "bbox_name": [
+        46,
+        188,
+        83,
+        208
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "+IN B",
+      "bbox_pin": null,
+      "bbox_name": [
+        34,
+        226,
+        82,
+        244
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "–IN B",
+      "bbox_pin": null,
+      "bbox_name": [
+        35,
+        260,
+        83,
+        280
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "OUT B",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        297,
+        82,
+        316
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "OUT C",
+      "bbox_pin": null,
+      "bbox_name": [
+        354,
+        296,
+        414,
+        316
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "–IN C",
+      "bbox_pin": null,
+      "bbox_name": [
+        355,
+        259,
+        402,
+        277
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "+IN C",
+      "bbox_pin": null,
+      "bbox_name": [
+        357,
+        224,
+        402,
+        244
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": [
+        353,
+        187,
+        411,
+        206
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "VEE",
+      "bbox_pin": null,
+      "bbox_name": [
+        354,
+        147,
+        390,
+        172
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "+IN D",
+      "bbox_pin": null,
+      "bbox_name": [
+        355,
+        113,
+        403,
+        131
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "–IN D",
+      "bbox_pin": null,
+      "bbox_name": [
+        353,
+        78,
+        405,
+        96
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "OUT D",
+      "bbox_pin": null,
+      "bbox_name": [
+        354,
+        40,
+        412,
+        58
+      ]
+    }
+  ]
+}

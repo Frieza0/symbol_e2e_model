@@ -1,0 +1,136 @@
+{
+  "image_id": "chip_0244",
+  "width": 256,
+  "height": 256,
+  "total_pins": 8,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "DATA",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        71,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "AD1",
+      "bbox_pin": [
+        78,
+        92,
+        86,
+        104
+      ],
+      "bbox_name": [
+        33,
+        92,
+        61,
+        104
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "D6",
+      "bbox_pin": [
+        78,
+        152,
+        86,
+        164
+      ],
+      "bbox_name": [
+        33,
+        152,
+        51,
+        164
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "5V",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        51,
+        224
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "RST",
+      "bbox_pin": [
+        173,
+        32,
+        181,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        231,
+        44
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "SO",
+      "bbox_pin": [
+        173,
+        92,
+        181,
+        104
+      ],
+      "bbox_name": [
+        203,
+        92,
+        223,
+        104
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "INT",
+      "bbox_pin": [
+        173,
+        152,
+        181,
+        164
+      ],
+      "bbox_name": [
+        203,
+        152,
+        226,
+        164
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "AIN",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        227,
+        224
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "image_id": "chip_0137",
+  "width": 256,
+  "height": 256,
+  "total_pins": 6,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "O1",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        52,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "TDI",
+      "bbox_pin": [
+        78,
+        122,
+        86,
+        134
+      ],
+      "bbox_name": [
+        33,
+        122,
+        56,
+        134
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VPP",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        60,
+        224
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "LIN",
+      "bbox_pin": [
+        173,
+        32,
+        181,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        225,
+        44
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "CANL",
+      "bbox_pin": [
+        173,
+        122,
+        181,
+        134
+      ],
+      "bbox_name": [
+        203,
+        122,
+        240,
+        134
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "AD1",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        231,
+        224
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "image_id": "chip_0229",
+  "width": 256,
+  "height": 256,
+  "total_pins": 8,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VEE",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        60,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "I3",
+      "bbox_pin": [
+        78,
+        92,
+        86,
+        104
+      ],
+      "bbox_name": [
+        33,
+        92,
+        45,
+        104
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "PROG",
+      "bbox_pin": [
+        78,
+        152,
+        86,
+        164
+      ],
+      "bbox_name": [
+        33,
+        152,
+        74,
+        164
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "DO",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        54,
+        224
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "ANT",
+      "bbox_pin": [
+        173,
+        32,
+        181,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        232,
+        44
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "ADDR",
+      "bbox_pin": [
+        173,
+        92,
+        181,
+        104
+      ],
+      "bbox_name": [
+        203,
+        92,
+        243,
+        104
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "RX",
+      "bbox_pin": [
+        173,
+        152,
+        181,
+        164
+      ],
+      "bbox_name": [
+        203,
+        152,
+        223,
+        164
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "SWCLK",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        253,
+        224
+      ]
+    }
+  ]
+}

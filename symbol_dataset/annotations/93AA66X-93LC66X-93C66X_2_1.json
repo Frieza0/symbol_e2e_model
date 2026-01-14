@@ -1,0 +1,97 @@
+{
+  "image_id": "93AA66X-93LC66X-93C66X_2_1",
+  "width": 262,
+  "height": 158,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "CS",
+      "bbox_pin": null,
+      "bbox_name": [
+        8,
+        14,
+        46,
+        37
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "CLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        1,
+        49,
+        47,
+        74
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "DI",
+      "bbox_pin": null,
+      "bbox_name": [
+        18,
+        84,
+        44,
+        103
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "DO",
+      "bbox_pin": null,
+      "bbox_name": [
+        6,
+        109,
+        44,
+        131
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        204,
+        112,
+        250,
+        136
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "ORG",
+      "bbox_pin": null,
+      "bbox_name": [
+        204,
+        77,
+        260,
+        99
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        205,
+        46,
+        241,
+        68
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        201,
+        13,
+        252,
+        37
+      ]
+    }
+  ]
+}

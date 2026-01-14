@@ -1,0 +1,457 @@
+{
+  "image_id": "120个测试用例汇总_70_1",
+  "width": 453,
+  "height": 510,
+  "total_pins": 28,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "DVDD",
+      "bbox_pin": [
+        185,
+        34,
+        202,
+        53
+      ],
+      "bbox_name": [
+        117,
+        30,
+        175,
+        51
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "LRCLK/EF_WCLK",
+      "bbox_pin": [
+        187,
+        69,
+        200,
+        84
+      ],
+      "bbox_name": [
+        14,
+        62,
+        174,
+        87
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "BCLK/EF_BCLK",
+      "bbox_pin": [
+        187,
+        104,
+        200,
+        117
+      ],
+      "bbox_name": [
+        28,
+        92,
+        177,
+        118
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "SDATA/EF_LDATA",
+      "bbox_pin": [
+        187,
+        134,
+        202,
+        153
+      ],
+      "bbox_name": [
+        3,
+        129,
+        175,
+        151
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "EF_RDATA",
+      "bbox_pin": [
+        187,
+        167,
+        203,
+        185
+      ],
+      "bbox_name": [
+        70,
+        161,
+        174,
+        184
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "DSD_SCLK",
+      "bbox_pin": [
+        186,
+        199,
+        203,
+        216
+      ],
+      "bbox_name": [
+        68,
+        195,
+        177,
+        217
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "DSD_LDATA",
+      "bbox_pin": [
+        187,
+        234,
+        200,
+        251
+      ],
+      "bbox_name": [
+        58,
+        229,
+        175,
+        250
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "DSD_RDATA",
+      "bbox_pin": [
+        187,
+        267,
+        202,
+        282
+      ],
+      "bbox_name": [
+        58,
+        261,
+        173,
+        283
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "DSD_PHASE",
+      "bbox_pin": [
+        188,
+        299,
+        202,
+        316
+      ],
+      "bbox_name": [
+        57,
+        292,
+        177,
+        316
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "AGND",
+      "bbox_pin": [
+        184,
+        333,
+        205,
+        349
+      ],
+      "bbox_name": [
+        114,
+        326,
+        175,
+        350
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "IOUTR+",
+      "bbox_pin": [
+        184,
+        365,
+        203,
+        383
+      ],
+      "bbox_name": [
+        98,
+        357,
+        178,
+        384
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "IOUTR–",
+      "bbox_pin": [
+        185,
+        397,
+        203,
+        414
+      ],
+      "bbox_name": [
+        93,
+        392,
+        175,
+        413
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "FILTR",
+      "bbox_pin": [
+        184,
+        430,
+        203,
+        449
+      ],
+      "bbox_name": [
+        113,
+        423,
+        177,
+        448
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "IREF",
+      "bbox_pin": [
+        185,
+        464,
+        203,
+        480
+      ],
+      "bbox_name": [
+        122,
+        462,
+        175,
+        482
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "AVDD",
+      "bbox_pin": [
+        335,
+        465,
+        356,
+        479
+      ],
+      "bbox_name": [
+        360,
+        461,
+        418,
+        483
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "FILTB",
+      "bbox_pin": [
+        338,
+        431,
+        356,
+        447
+      ],
+      "bbox_name": [
+        362,
+        427,
+        418,
+        447
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "IOUTL–",
+      "bbox_pin": [
+        336,
+        397,
+        355,
+        416
+      ],
+      "bbox_name": [
+        363,
+        395,
+        430,
+        416
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "IOUTL+",
+      "bbox_pin": [
+        337,
+        365,
+        354,
+        380
+      ],
+      "bbox_name": [
+        365,
+        361,
+        436,
+        384
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "AGND",
+      "bbox_pin": [
+        337,
+        334,
+        356,
+        347
+      ],
+      "bbox_name": [
+        364,
+        330,
+        421,
+        349
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "ZEROR",
+      "bbox_pin": [
+        337,
+        299,
+        356,
+        315
+      ],
+      "bbox_name": [
+        362,
+        297,
+        429,
+        317
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "ZEROL",
+      "bbox_pin": [
+        337,
+        269,
+        354,
+        284
+      ],
+      "bbox_name": [
+        363,
+        263,
+        426,
+        287
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "MUTE",
+      "bbox_pin": [
+        336,
+        234,
+        355,
+        248
+      ],
+      "bbox_name": [
+        362,
+        230,
+        421,
+        249
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "P\\D\\/\\R\\S\\T\\",
+      "bbox_pin": [
+        334,
+        198,
+        354,
+        216
+      ],
+      "bbox_name": [
+        363,
+        197,
+        433,
+        218
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "CDATA",
+      "bbox_pin": [
+        335,
+        168,
+        354,
+        184
+      ],
+      "bbox_name": [
+        363,
+        163,
+        431,
+        185
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "C\\L\\A\\T\\C\\H\\",
+      "bbox_pin": [
+        337,
+        134,
+        355,
+        149
+      ],
+      "bbox_name": [
+        363,
+        131,
+        443,
+        155
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "CCLK",
+      "bbox_pin": [
+        338,
+        104,
+        356,
+        117
+      ],
+      "bbox_name": [
+        364,
+        96,
+        418,
+        117
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "MCLK",
+      "bbox_pin": [
+        336,
+        68,
+        355,
+        84
+      ],
+      "bbox_name": [
+        363,
+        66,
+        417,
+        84
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "DGND",
+      "bbox_pin": [
+        337,
+        37,
+        354,
+        52
+      ],
+      "bbox_name": [
+        365,
+        31,
+        420,
+        51
+      ]
+    }
+  ]
+}

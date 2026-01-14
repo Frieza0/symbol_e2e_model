@@ -1,0 +1,169 @@
+{
+  "image_id": "120个测试用例汇总_81_1",
+  "width": 519,
+  "height": 390,
+  "total_pins": 10,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "D-",
+      "bbox_pin": [
+        229,
+        285,
+        245,
+        313
+      ],
+      "bbox_name": [
+        222,
+        340,
+        259,
+        372
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "R",
+      "bbox_pin": [
+        285,
+        283,
+        304,
+        310
+      ],
+      "bbox_name": [
+        284,
+        342,
+        318,
+        372
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "MISS",
+      "bbox_pin": [
+        359,
+        276,
+        381,
+        301
+      ],
+      "bbox_name": [
+        407,
+        271,
+        432,
+        306
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "MISS",
+      "bbox_pin": [
+        358,
+        220,
+        378,
+        242
+      ],
+      "bbox_name": [
+        407,
+        213,
+        481,
+        246
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "MISS",
+      "bbox_pin": [
+        358,
+        162,
+        376,
+        183
+      ],
+      "bbox_name": [
+        409,
+        155,
+        501,
+        191
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "COMP",
+      "bbox_pin": [
+        286,
+        145,
+        305,
+        172
+      ],
+      "bbox_name": [
+        276,
+        32,
+        307,
+        115
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "MISS",
+      "bbox_pin": [
+        231,
+        142,
+        245,
+        169
+      ],
+      "bbox_name": [
+        221,
+        27,
+        252,
+        117
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GND",
+      "bbox_pin": [
+        157,
+        163,
+        183,
+        182
+      ],
+      "bbox_name": [
+        43,
+        154,
+        113,
+        189
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "VDDD",
+      "bbox_pin": [
+        159,
+        218,
+        178,
+        241
+      ],
+      "bbox_name": [
+        24,
+        218,
+        115,
+        254
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "D+",
+      "bbox_pin": [
+        149,
+        278,
+        182,
+        299
+      ],
+      "bbox_name": [
+        55,
+        269,
+        104,
+        298
+      ]
+    }
+  ]
+}

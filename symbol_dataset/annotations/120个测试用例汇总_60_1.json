@@ -1,0 +1,905 @@
+{
+  "image_id": "120个测试用例汇总_60_1",
+  "width": 870,
+  "height": 860,
+  "total_pins": 56,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "AUX_N",
+      "bbox_pin": [
+        155,
+        213,
+        175,
+        233
+      ],
+      "bbox_name": [
+        55,
+        207,
+        139,
+        237
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "AUX_P",
+      "bbox_pin": [
+        155,
+        245,
+        174,
+        268
+      ],
+      "bbox_name": [
+        61,
+        245,
+        137,
+        270
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GND",
+      "bbox_pin": [
+        156,
+        280,
+        172,
+        299
+      ],
+      "bbox_name": [
+        84,
+        274,
+        141,
+        301
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "DP0_P",
+      "bbox_pin": [
+        153,
+        313,
+        173,
+        332
+      ],
+      "bbox_name": [
+        65,
+        310,
+        140,
+        338
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "DP0_N",
+      "bbox_pin": [
+        154,
+        345,
+        175,
+        365
+      ],
+      "bbox_name": [
+        63,
+        338,
+        141,
+        371
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "VDD(1V8)",
+      "bbox_pin": [
+        154,
+        376,
+        175,
+        397
+      ],
+      "bbox_name": [
+        46,
+        375,
+        140,
+        405
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "DP1_P",
+      "bbox_pin": [
+        153,
+        411,
+        172,
+        430
+      ],
+      "bbox_name": [
+        61,
+        409,
+        137,
+        436
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "DP1_N",
+      "bbox_pin": [
+        150,
+        443,
+        175,
+        463
+      ],
+      "bbox_name": [
+        61,
+        437,
+        141,
+        469
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "RST_N",
+      "bbox_pin": [
+        154,
+        479,
+        172,
+        499
+      ],
+      "bbox_name": [
+        56,
+        474,
+        140,
+        501
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "PD_N",
+      "bbox_pin": [
+        152,
+        509,
+        177,
+        529
+      ],
+      "bbox_name": [
+        74,
+        506,
+        140,
+        536
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "HPDRX",
+      "bbox_pin": [
+        153,
+        543,
+        178,
+        564
+      ],
+      "bbox_name": [
+        54,
+        540,
+        139,
+        565
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "DEV_CFG",
+      "bbox_pin": [
+        153,
+        575,
+        178,
+        595
+      ],
+      "bbox_name": [
+        30,
+        570,
+        140,
+        600
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "VDD(3V3)",
+      "bbox_pin": [
+        150,
+        610,
+        178,
+        629
+      ],
+      "bbox_name": [
+        44,
+        609,
+        139,
+        634
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "VDD(3V3)",
+      "bbox_pin": [
+        153,
+        642,
+        177,
+        662
+      ],
+      "bbox_name": [
+        43,
+        644,
+        138,
+        674
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "N.C.",
+      "bbox_pin": [
+        210,
+        696,
+        231,
+        720
+      ],
+      "bbox_name": [
+        210,
+        733,
+        237,
+        774
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "N.C.",
+      "bbox_pin": [
+        245,
+        695,
+        264,
+        719
+      ],
+      "bbox_name": [
+        244,
+        732,
+        265,
+        774
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "GNDREG",
+      "bbox_pin": [
+        276,
+        696,
+        297,
+        721
+      ],
+      "bbox_name": [
+        271,
+        732,
+        297,
+        830
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "GNDREG",
+      "bbox_pin": [
+        310,
+        697,
+        333,
+        720
+      ],
+      "bbox_name": [
+        304,
+        733,
+        330,
+        830
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "VDD(1V8)",
+      "bbox_pin": [
+        341,
+        697,
+        364,
+        719
+      ],
+      "bbox_name": [
+        339,
+        731,
+        369,
+        831
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "TESTMODE",
+      "bbox_pin": [
+        374,
+        699,
+        395,
+        722
+      ],
+      "bbox_name": [
+        373,
+        734,
+        394,
+        855
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "CFG1",
+      "bbox_pin": [
+        409,
+        697,
+        427,
+        723
+      ],
+      "bbox_name": [
+        403,
+        731,
+        427,
+        796
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "CFG2",
+      "bbox_pin": [
+        442,
+        697,
+        461,
+        719
+      ],
+      "bbox_name": [
+        436,
+        731,
+        461,
+        795
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "CFG3",
+      "bbox_pin": [
+        475,
+        694,
+        493,
+        720
+      ],
+      "bbox_name": [
+        470,
+        731,
+        493,
+        795
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "MS_SDA",
+      "bbox_pin": [
+        506,
+        694,
+        527,
+        720
+      ],
+      "bbox_name": [
+        502,
+        731,
+        531,
+        829
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "MS_SCL",
+      "bbox_pin": [
+        541,
+        697,
+        561,
+        722
+      ],
+      "bbox_name": [
+        536,
+        733,
+        561,
+        823
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "BKLTEN",
+      "bbox_pin": [
+        573,
+        694,
+        593,
+        720
+      ],
+      "bbox_name": [
+        569,
+        732,
+        593,
+        821
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "CFG4",
+      "bbox_pin": [
+        605,
+        698,
+        626,
+        721
+      ],
+      "bbox_name": [
+        602,
+        731,
+        624,
+        795
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "PWMO",
+      "bbox_pin": [
+        640,
+        698,
+        660,
+        722
+      ],
+      "bbox_name": [
+        632,
+        734,
+        661,
+        807
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "DDC_SCL",
+      "bbox_pin": [
+        693,
+        642,
+        721,
+        660
+      ],
+      "bbox_name": [
+        732,
+        641,
+        833,
+        665
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "DDC_SDA",
+      "bbox_pin": [
+        695,
+        611,
+        719,
+        626
+      ],
+      "bbox_name": [
+        735,
+        606,
+        836,
+        632
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "LVSDE_P",
+      "bbox_pin": [
+        693,
+        577,
+        716,
+        593
+      ],
+      "bbox_name": [
+        728,
+        577,
+        835,
+        598
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "LVSDE_N",
+      "bbox_pin": [
+        692,
+        543,
+        719,
+        563
+      ],
+      "bbox_name": [
+        732,
+        540,
+        834,
+        569
+      ]
+    },
+    {
+      "pin_number": 33,
+      "name": "PVCCEN",
+      "bbox_pin": [
+        693,
+        509,
+        720,
+        528
+      ],
+      "bbox_name": [
+        731,
+        508,
+        826,
+        537
+      ]
+    },
+    {
+      "pin_number": 34,
+      "name": "LVSCKE_P",
+      "bbox_pin": [
+        694,
+        478,
+        716,
+        497
+      ],
+      "bbox_name": [
+        729,
+        473,
+        843,
+        501
+      ]
+    },
+    {
+      "pin_number": 35,
+      "name": "LVSCKE_N",
+      "bbox_pin": [
+        694,
+        444,
+        720,
+        464
+      ],
+      "bbox_name": [
+        731,
+        441,
+        844,
+        468
+      ]
+    },
+    {
+      "pin_number": 36,
+      "name": "LVSCE_P",
+      "bbox_pin": [
+        695,
+        411,
+        718,
+        430
+      ],
+      "bbox_name": [
+        732,
+        409,
+        829,
+        434
+      ]
+    },
+    {
+      "pin_number": 37,
+      "name": "LVSCE_N",
+      "bbox_pin": [
+        695,
+        377,
+        719,
+        399
+      ],
+      "bbox_name": [
+        729,
+        375,
+        833,
+        402
+      ]
+    },
+    {
+      "pin_number": 38,
+      "name": "VDD(3V3)",
+      "bbox_pin": [
+        693,
+        344,
+        718,
+        363
+      ],
+      "bbox_name": [
+        728,
+        344,
+        820,
+        371
+      ]
+    },
+    {
+      "pin_number": 39,
+      "name": "LVSBE_P",
+      "bbox_pin": [
+        693,
+        313,
+        720,
+        331
+      ],
+      "bbox_name": [
+        730,
+        309,
+        826,
+        341
+      ]
+    },
+    {
+      "pin_number": 40,
+      "name": "LVSBE_N",
+      "bbox_pin": [
+        694,
+        279,
+        720,
+        297
+      ],
+      "bbox_name": [
+        730,
+        276,
+        828,
+        301
+      ]
+    },
+    {
+      "pin_number": 41,
+      "name": "LVSAE_P",
+      "bbox_pin": [
+        694,
+        247,
+        718,
+        265
+      ],
+      "bbox_name": [
+        734,
+        243,
+        826,
+        272
+      ]
+    },
+    {
+      "pin_number": 42,
+      "name": "LVSAE_N",
+      "bbox_pin": [
+        695,
+        214,
+        718,
+        231
+      ],
+      "bbox_name": [
+        732,
+        207,
+        831,
+        236
+      ]
+    },
+    {
+      "pin_number": 43,
+      "name": "LVSDO_P",
+      "bbox_pin": [
+        641,
+        153,
+        659,
+        178
+      ],
+      "bbox_name": [
+        636,
+        41,
+        664,
+        141
+      ]
+    },
+    {
+      "pin_number": 44,
+      "name": "LVSDO_N",
+      "bbox_pin": [
+        605,
+        153,
+        625,
+        180
+      ],
+      "bbox_name": [
+        604,
+        36,
+        632,
+        141
+      ]
+    },
+    {
+      "pin_number": 45,
+      "name": "VDD(1V8)",
+      "bbox_pin": [
+        573,
+        155,
+        592,
+        178
+      ],
+      "bbox_name": [
+        574,
+        49,
+        601,
+        142
+      ]
+    },
+    {
+      "pin_number": 46,
+      "name": "LVSCKO_P",
+      "bbox_pin": [
+        541,
+        153,
+        561,
+        178
+      ],
+      "bbox_name": [
+        533,
+        24,
+        563,
+        141
+      ]
+    },
+    {
+      "pin_number": 47,
+      "name": "LVSCKO_N",
+      "bbox_pin": [
+        509,
+        154,
+        526,
+        181
+      ],
+      "bbox_name": [
+        504,
+        24,
+        527,
+        142
+      ]
+    },
+    {
+      "pin_number": 48,
+      "name": "LVSCO_P",
+      "bbox_pin": [
+        477,
+        154,
+        493,
+        179
+      ],
+      "bbox_name": [
+        470,
+        36,
+        494,
+        141
+      ]
+    },
+    {
+      "pin_number": 49,
+      "name": "LVSCO_N",
+      "bbox_pin": [
+        442,
+        155,
+        461,
+        179
+      ],
+      "bbox_name": [
+        436,
+        40,
+        463,
+        139
+      ]
+    },
+    {
+      "pin_number": 50,
+      "name": "VDD(3V3)",
+      "bbox_pin": [
+        408,
+        155,
+        427,
+        178
+      ],
+      "bbox_name": [
+        407,
+        53,
+        431,
+        140
+      ]
+    },
+    {
+      "pin_number": 51,
+      "name": "LVSBO_P",
+      "bbox_pin": [
+        376,
+        157,
+        394,
+        178
+      ],
+      "bbox_name": [
+        369,
+        45,
+        400,
+        141
+      ]
+    },
+    {
+      "pin_number": 52,
+      "name": "LVSBO_N",
+      "bbox_pin": [
+        344,
+        156,
+        364,
+        179
+      ],
+      "bbox_name": [
+        340,
+        43,
+        365,
+        143
+      ]
+    },
+    {
+      "pin_number": 53,
+      "name": "LVSAO_P",
+      "bbox_pin": [
+        312,
+        152,
+        327,
+        177
+      ],
+      "bbox_name": [
+        308,
+        41,
+        332,
+        141
+      ]
+    },
+    {
+      "pin_number": 54,
+      "name": "LVSAO_N",
+      "bbox_pin": [
+        277,
+        152,
+        296,
+        180
+      ],
+      "bbox_name": [
+        273,
+        37,
+        299,
+        141
+      ]
+    },
+    {
+      "pin_number": 55,
+      "name": "N.C.",
+      "bbox_pin": [
+        245,
+        153,
+        263,
+        179
+      ],
+      "bbox_name": [
+        242,
+        104,
+        266,
+        140
+      ]
+    },
+    {
+      "pin_number": 56,
+      "name": "EPS_N",
+      "bbox_pin": [
+        210,
+        154,
+        231,
+        180
+      ],
+      "bbox_name": [
+        202,
+        68,
+        239,
+        142
+      ]
+    }
+  ]
+}

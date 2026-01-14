@@ -1,0 +1,168 @@
+{
+  "image_id": "chip_0365",
+  "width": 256,
+  "height": 256,
+  "total_pins": 10,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "CANH",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        72,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "IO",
+      "bbox_pin": [
+        78,
+        77,
+        86,
+        89
+      ],
+      "bbox_name": [
+        33,
+        77,
+        48,
+        89
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VDD",
+      "bbox_pin": [
+        78,
+        122,
+        86,
+        134
+      ],
+      "bbox_name": [
+        33,
+        122,
+        62,
+        134
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "DTR",
+      "bbox_pin": [
+        78,
+        167,
+        86,
+        179
+      ],
+      "bbox_name": [
+        33,
+        167,
+        62,
+        179
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "A7",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        51,
+        224
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "IN",
+      "bbox_pin": [
+        173,
+        32,
+        189,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        217,
+        44
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "XTAL2",
+      "bbox_pin": [
+        173,
+        77,
+        181,
+        89
+      ],
+      "bbox_name": [
+        203,
+        77,
+        246,
+        89
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "STBY",
+      "bbox_pin": [
+        173,
+        122,
+        181,
+        134
+      ],
+      "bbox_name": [
+        203,
+        122,
+        240,
+        134
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "PWR",
+      "bbox_pin": [
+        173,
+        167,
+        181,
+        179
+      ],
+      "bbox_name": [
+        203,
+        167,
+        235,
+        179
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "A2",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        221,
+        224
+      ]
+    }
+  ]
+}

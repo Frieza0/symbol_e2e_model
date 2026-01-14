@@ -3,78 +3,95 @@
   "width": 256,
   "height": 256,
   "total_pins": 8,
+  "package_type": "2side",
   "pins": [
     {
-      "pin_id": 0,
+      "pin_number": 1,
       "name": "A5",
-      "center": [
-        55,
-        38
+      "bbox_pin": [
+        70,
+        25,
+        87,
+        51
       ],
-      "pin_number": 1
+      "bbox_name": null
     },
     {
-      "pin_id": 1,
+      "pin_number": 2,
       "name": "CTS",
-      "center": [
-        55,
-        98
+      "bbox_pin": [
+        71,
+        88,
+        86,
+        108
       ],
-      "pin_number": 2
+      "bbox_name": null
     },
     {
-      "pin_id": 2,
+      "pin_number": 3,
       "name": "ALERT",
-      "center": [
-        55,
-        158
+      "bbox_pin": [
+        74,
+        150,
+        88,
+        171
       ],
-      "pin_number": 3
+      "bbox_name": null
     },
     {
-      "pin_id": 3,
+      "pin_number": 4,
       "name": "TMS",
-      "center": [
-        55,
-        218
+      "bbox_pin": [
+        71,
+        211,
+        89,
+        228
       ],
-      "pin_number": 4
+      "bbox_name": null
     },
     {
-      "pin_id": 4,
-      "name": "AD0",
-      "center": [
-        188,
-        38
-      ],
-      "pin_number": 8
-    },
-    {
-      "pin_id": 5,
-      "name": "D0",
-      "center": [
-        188,
-        98
-      ],
-      "pin_number": 7
-    },
-    {
-      "pin_id": 6,
-      "name": "VINN",
-      "center": [
-        188,
-        158
-      ],
-      "pin_number": 6
-    },
-    {
-      "pin_id": 7,
+      "pin_number": 5,
       "name": "CLK",
-      "center": [
-        188,
-        218
+      "bbox_pin": [
+        169,
+        208,
+        185,
+        230
       ],
-      "pin_number": 5
+      "bbox_name": null
+    },
+    {
+      "pin_number": 6,
+      "name": "VINN",
+      "bbox_pin": [
+        167,
+        148,
+        186,
+        167
+      ],
+      "bbox_name": null
+    },
+    {
+      "pin_number": 7,
+      "name": "D0",
+      "bbox_pin": [
+        168,
+        89,
+        185,
+        105
+      ],
+      "bbox_name": null
+    },
+    {
+      "pin_number": 8,
+      "name": "AD0",
+      "bbox_pin": [
+        166,
+        30,
+        192,
+        53
+      ],
+      "bbox_name": null
     }
   ]
 }

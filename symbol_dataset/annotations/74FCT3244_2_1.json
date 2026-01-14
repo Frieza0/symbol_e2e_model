@@ -1,0 +1,229 @@
+{
+  "image_id": "74FCT3244_2_1",
+  "width": 669,
+  "height": 573,
+  "total_pins": 20,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "1O\\E\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        14,
+        32,
+        92,
+        79
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "1A 1",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        88,
+        94,
+        124
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "2Y 4",
+      "bbox_pin": null,
+      "bbox_name": [
+        22,
+        134,
+        94,
+        174
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "1A2",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        186,
+        97,
+        225
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "2Y3",
+      "bbox_pin": null,
+      "bbox_name": [
+        26,
+        237,
+        99,
+        269
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "1A3",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        288,
+        95,
+        323
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "2Y2",
+      "bbox_pin": null,
+      "bbox_name": [
+        26,
+        343,
+        96,
+        375
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "1A4",
+      "bbox_pin": null,
+      "bbox_name": [
+        30,
+        387,
+        95,
+        422
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "2Y1",
+      "bbox_pin": null,
+      "bbox_name": [
+        22,
+        445,
+        96,
+        475
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        12,
+        491,
+        90,
+        525
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "2A1",
+      "bbox_pin": null,
+      "bbox_name": [
+        587,
+        501,
+        647,
+        534
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "1Y4",
+      "bbox_pin": null,
+      "bbox_name": [
+        585,
+        450,
+        651,
+        484
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "2A2",
+      "bbox_pin": null,
+      "bbox_name": [
+        588,
+        398,
+        656,
+        429
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "1Y3",
+      "bbox_pin": null,
+      "bbox_name": [
+        589,
+        352,
+        652,
+        382
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "2A3",
+      "bbox_pin": null,
+      "bbox_name": [
+        586,
+        301,
+        651,
+        331
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "1Y2",
+      "bbox_pin": null,
+      "bbox_name": [
+        585,
+        246,
+        648,
+        279
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "2A4",
+      "bbox_pin": null,
+      "bbox_name": [
+        586,
+        199,
+        647,
+        231
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "1Y1",
+      "bbox_pin": null,
+      "bbox_name": [
+        589,
+        152,
+        647,
+        184
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "2O\\E\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        587,
+        95,
+        656,
+        134
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        592,
+        40,
+        651,
+        74
+      ]
+    }
+  ]
+}

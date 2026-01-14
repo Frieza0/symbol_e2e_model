@@ -3,60 +3,103 @@
   "width": 256,
   "height": 256,
   "total_pins": 6,
+  "package_type": "2side",
   "pins": [
     {
-      "pin_id": 0,
+      "pin_number": 1,
       "name": "VINP",
-      "center": [
-        55,
-        38
+      "bbox_pin": [
+        73,
+        29,
+        87,
+        47
       ],
-      "pin_number": 1
+      "bbox_name": [
+        26,
+        29,
+        67,
+        48
+      ]
     },
     {
-      "pin_id": 1,
+      "pin_number": 2,
       "name": "A1",
-      "center": [
-        55,
-        128
+      "bbox_pin": [
+        72,
+        118,
+        88,
+        137
       ],
-      "pin_number": 2
+      "bbox_name": [
+        21,
+        118,
+        55,
+        140
+      ]
     },
     {
-      "pin_id": 2,
+      "pin_number": 3,
       "name": "VEE",
-      "center": [
-        55,
-        218
+      "bbox_pin": [
+        72,
+        209,
+        87,
+        228
       ],
-      "pin_number": 3
+      "bbox_name": [
+        28,
+        206,
+        64,
+        229
+      ]
     },
     {
-      "pin_id": 3,
-      "name": "TCK",
-      "center": [
-        188,
-        38
-      ],
-      "pin_number": 6
-    },
-    {
-      "pin_id": 4,
-      "name": "ON",
-      "center": [
-        188,
-        128
-      ],
-      "pin_number": 5
-    },
-    {
-      "pin_id": 5,
+      "pin_number": 4,
       "name": "DQ",
-      "center": [
-        188,
-        218
+      "bbox_pin": [
+        168,
+        206,
+        183,
+        231
       ],
-      "pin_number": 4
+      "bbox_name": [
+        193,
+        207,
+        229,
+        229
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "ON",
+      "bbox_pin": [
+        170,
+        115,
+        185,
+        136
+      ],
+      "bbox_name": [
+        192,
+        114,
+        231,
+        138
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "TCK",
+      "bbox_pin": [
+        167,
+        28,
+        185,
+        46
+      ],
+      "bbox_name": [
+        195,
+        29,
+        237,
+        47
+      ]
     }
   ]
 }

@@ -1,0 +1,200 @@
+{
+  "image_id": "chip_0454",
+  "width": 256,
+  "height": 256,
+  "total_pins": 12,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "IN",
+      "bbox_pin": [
+        78,
+        32,
+        86,
+        44
+      ],
+      "bbox_name": [
+        33,
+        32,
+        47,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "PWR",
+      "bbox_pin": [
+        78,
+        68,
+        86,
+        80
+      ],
+      "bbox_name": [
+        33,
+        68,
+        65,
+        80
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "REFCLK",
+      "bbox_pin": [
+        78,
+        104,
+        86,
+        116
+      ],
+      "bbox_name": [
+        33,
+        104,
+        89,
+        116
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "MOSI",
+      "bbox_pin": [
+        78,
+        140,
+        86,
+        152
+      ],
+      "bbox_name": [
+        33,
+        140,
+        69,
+        152
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "STBY",
+      "bbox_pin": [
+        78,
+        176,
+        86,
+        188
+      ],
+      "bbox_name": [
+        33,
+        176,
+        70,
+        188
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "O3",
+      "bbox_pin": [
+        78,
+        212,
+        86,
+        224
+      ],
+      "bbox_name": [
+        33,
+        212,
+        52,
+        224
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "ANT",
+      "bbox_pin": [
+        173,
+        32,
+        189,
+        44
+      ],
+      "bbox_name": [
+        203,
+        32,
+        232,
+        44
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "EN",
+      "bbox_pin": [
+        173,
+        68,
+        189,
+        80
+      ],
+      "bbox_name": [
+        203,
+        68,
+        222,
+        80
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "DI",
+      "bbox_pin": [
+        173,
+        104,
+        189,
+        116
+      ],
+      "bbox_name": [
+        203,
+        104,
+        217,
+        116
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "D2",
+      "bbox_pin": [
+        173,
+        140,
+        181,
+        152
+      ],
+      "bbox_name": [
+        203,
+        140,
+        221,
+        152
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "O0",
+      "bbox_pin": [
+        173,
+        176,
+        181,
+        188
+      ],
+      "bbox_name": [
+        203,
+        176,
+        222,
+        188
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "PD",
+      "bbox_pin": [
+        173,
+        212,
+        181,
+        224
+      ],
+      "bbox_name": [
+        203,
+        212,
+        222,
+        224
+      ]
+    }
+  ]
+}

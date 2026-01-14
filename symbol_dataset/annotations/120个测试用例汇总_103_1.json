@@ -1,0 +1,457 @@
+{
+  "image_id": "120个测试用例汇总_103_1",
+  "width": 630,
+  "height": 486,
+  "total_pins": 28,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "GNDREF",
+      "bbox_pin": [
+        216,
+        31,
+        243,
+        59
+      ],
+      "bbox_name": [
+        71,
+        34,
+        164,
+        62
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "X1",
+      "bbox_pin": [
+        216,
+        62,
+        244,
+        88
+      ],
+      "bbox_name": [
+        118,
+        66,
+        165,
+        94
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "X2",
+      "bbox_pin": [
+        220,
+        92,
+        242,
+        119
+      ],
+      "bbox_name": [
+        123,
+        95,
+        166,
+        122
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "PCICLK_F",
+      "bbox_pin": [
+        220,
+        125,
+        241,
+        148
+      ],
+      "bbox_name": [
+        61,
+        123,
+        169,
+        156
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "PCICLK0",
+      "bbox_pin": [
+        219,
+        152,
+        241,
+        178
+      ],
+      "bbox_name": [
+        59,
+        156,
+        165,
+        183
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "PCICLK1",
+      "bbox_pin": [
+        219,
+        182,
+        242,
+        209
+      ],
+      "bbox_name": [
+        65,
+        187,
+        164,
+        214
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "GNDPCI",
+      "bbox_pin": [
+        222,
+        211,
+        239,
+        238
+      ],
+      "bbox_name": [
+        72,
+        215,
+        165,
+        245
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VDDPCI",
+      "bbox_pin": [
+        218,
+        244,
+        242,
+        267
+      ],
+      "bbox_name": [
+        76,
+        247,
+        166,
+        273
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "PCICLK2",
+      "bbox_pin": [
+        218,
+        274,
+        242,
+        300
+      ],
+      "bbox_name": [
+        73,
+        276,
+        164,
+        305
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "PCICLK3",
+      "bbox_pin": [
+        212,
+        306,
+        239,
+        331
+      ],
+      "bbox_name": [
+        71,
+        308,
+        163,
+        333
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "PCICLK4",
+      "bbox_pin": [
+        212,
+        337,
+        239,
+        362
+      ],
+      "bbox_name": [
+        70,
+        337,
+        165,
+        366
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "VDD48",
+      "bbox_pin": [
+        211,
+        364,
+        239,
+        390
+      ],
+      "bbox_name": [
+        90,
+        368,
+        164,
+        394
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "48MRZ",
+      "bbox_pin": [
+        210,
+        396,
+        240,
+        422
+      ],
+      "bbox_name": [
+        90,
+        399,
+        164,
+        426
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "TS#48/24MRZ",
+      "bbox_pin": [
+        213,
+        429,
+        240,
+        452
+      ],
+      "bbox_name": [
+        19,
+        424,
+        169,
+        464
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "GND48",
+      "bbox_pin": [
+        383,
+        429,
+        411,
+        453
+      ],
+      "bbox_name": [
+        452,
+        425,
+        532,
+        458
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "SEL100/66#",
+      "bbox_pin": [
+        381,
+        399,
+        411,
+        423
+      ],
+      "bbox_name": [
+        451,
+        393,
+        577,
+        422
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "PD#",
+      "bbox_pin": [
+        379,
+        368,
+        410,
+        391
+      ],
+      "bbox_name": [
+        453,
+        368,
+        505,
+        395
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "CPUSTOP#",
+      "bbox_pin": [
+        383,
+        337,
+        411,
+        361
+      ],
+      "bbox_name": [
+        456,
+        335,
+        578,
+        368
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "VDD49",
+      "bbox_pin": [
+        381,
+        306,
+        410,
+        331
+      ],
+      "bbox_name": [
+        452,
+        305,
+        506,
+        332
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "PCI_STOP#",
+      "bbox_pin": [
+        379,
+        277,
+        410,
+        302
+      ],
+      "bbox_name": [
+        454,
+        275,
+        569,
+        306
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "MISS",
+      "bbox_pin": [
+        381,
+        244,
+        409,
+        270
+      ],
+      "bbox_name": [
+        455,
+        247,
+        506,
+        272
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "MISS",
+      "bbox_pin": [
+        380,
+        215,
+        409,
+        239
+      ],
+      "bbox_name": [
+        452,
+        215,
+        515,
+        242
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "MISS",
+      "bbox_pin": [
+        380,
+        186,
+        410,
+        208
+      ],
+      "bbox_name": [
+        454,
+        185,
+        552,
+        212
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "CPUCLK1",
+      "bbox_pin": [
+        380,
+        156,
+        410,
+        177
+      ],
+      "bbox_name": [
+        454,
+        153,
+        551,
+        181
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "VDDL",
+      "bbox_pin": [
+        379,
+        125,
+        409,
+        148
+      ],
+      "bbox_name": [
+        452,
+        122,
+        514,
+        150
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "REF1/SPREAD#",
+      "bbox_pin": [
+        381,
+        92,
+        414,
+        120
+      ],
+      "bbox_name": [
+        453,
+        93,
+        611,
+        122
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "REF0/SEL48#",
+      "bbox_pin": [
+        378,
+        61,
+        410,
+        88
+      ],
+      "bbox_name": [
+        456,
+        64,
+        589,
+        90
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "VDDREF",
+      "bbox_pin": [
+        379,
+        32,
+        409,
+        58
+      ],
+      "bbox_name": [
+        455,
+        33,
+        543,
+        60
+      ]
+    }
+  ]
+}

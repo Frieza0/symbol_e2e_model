@@ -1,0 +1,521 @@
+{
+  "image_id": "120个测试用例汇总_74_1",
+  "width": 750,
+  "height": 810,
+  "total_pins": 32,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "GND",
+      "bbox_pin": [
+        137,
+        247,
+        154,
+        268
+      ],
+      "bbox_name": [
+        61,
+        242,
+        120,
+        271
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "HP_R",
+      "bbox_pin": [
+        135,
+        296,
+        156,
+        315
+      ],
+      "bbox_name": [
+        51,
+        286,
+        121,
+        322
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GND",
+      "bbox_pin": [
+        135,
+        344,
+        155,
+        363
+      ],
+      "bbox_name": [
+        62,
+        333,
+        118,
+        363
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "HP_VGND",
+      "bbox_pin": [
+        135,
+        392,
+        153,
+        410
+      ],
+      "bbox_name": [
+        4,
+        381,
+        120,
+        416
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VDDA",
+      "bbox_pin": [
+        136,
+        440,
+        153,
+        460
+      ],
+      "bbox_name": [
+        47,
+        432,
+        120,
+        462
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "HP_L",
+      "bbox_pin": [
+        136,
+        486,
+        152,
+        508
+      ],
+      "bbox_name": [
+        56,
+        481,
+        120,
+        511
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "AGND",
+      "bbox_pin": [
+        137,
+        535,
+        154,
+        554
+      ],
+      "bbox_name": [
+        42,
+        529,
+        118,
+        559
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "NC",
+      "bbox_pin": [
+        137,
+        584,
+        153,
+        604
+      ],
+      "bbox_name": [
+        73,
+        575,
+        119,
+        602
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "NC",
+      "bbox_pin": [
+        195,
+        638,
+        212,
+        658
+      ],
+      "bbox_name": [
+        187,
+        677,
+        214,
+        718
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "VAG",
+      "bbox_pin": [
+        237,
+        631,
+        261,
+        660
+      ],
+      "bbox_name": [
+        227,
+        677,
+        265,
+        733
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "LINEOUT_R",
+      "bbox_pin": [
+        287,
+        634,
+        306,
+        660
+      ],
+      "bbox_name": [
+        278,
+        676,
+        312,
+        805
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "LINEOUT_L",
+      "bbox_pin": [
+        334,
+        632,
+        354,
+        656
+      ],
+      "bbox_name": [
+        325,
+        671,
+        362,
+        803
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "LINEIN_R",
+      "bbox_pin": [
+        382,
+        631,
+        402,
+        656
+      ],
+      "bbox_name": [
+        372,
+        675,
+        408,
+        779
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "LINEIN_L",
+      "bbox_pin": [
+        431,
+        635,
+        450,
+        658
+      ],
+      "bbox_name": [
+        422,
+        677,
+        454,
+        778
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "MIC",
+      "bbox_pin": [
+        478,
+        634,
+        500,
+        657
+      ],
+      "bbox_name": [
+        475,
+        672,
+        501,
+        722
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "MIC_BIAS",
+      "bbox_pin": [
+        526,
+        634,
+        548,
+        656
+      ],
+      "bbox_name": [
+        522,
+        677,
+        551,
+        784
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "NC",
+      "bbox_pin": [
+        579,
+        584,
+        604,
+        603
+      ],
+      "bbox_name": [
+        617,
+        577,
+        657,
+        605
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "CPFILT",
+      "bbox_pin": [
+        580,
+        535,
+        605,
+        554
+      ],
+      "bbox_name": [
+        616,
+        526,
+        695,
+        557
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "NC",
+      "bbox_pin": [
+        580,
+        488,
+        605,
+        508
+      ],
+      "bbox_name": [
+        617,
+        483,
+        657,
+        506
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "VDDIO",
+      "bbox_pin": [
+        580,
+        441,
+        603,
+        459
+      ],
+      "bbox_name": [
+        617,
+        431,
+        692,
+        461
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "SYS_MCLK",
+      "bbox_pin": [
+        581,
+        393,
+        604,
+        412
+      ],
+      "bbox_name": [
+        617,
+        383,
+        741,
+        417
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "NC",
+      "bbox_pin": [
+        581,
+        345,
+        604,
+        365
+      ],
+      "bbox_name": [
+        617,
+        336,
+        655,
+        363
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "I2S_LRCLK",
+      "bbox_pin": [
+        578,
+        298,
+        604,
+        317
+      ],
+      "bbox_name": [
+        617,
+        289,
+        736,
+        323
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "I2S_SCLK",
+      "bbox_pin": [
+        580,
+        247,
+        604,
+        268
+      ],
+      "bbox_name": [
+        617,
+        238,
+        723,
+        272
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "I2S_DOUT",
+      "bbox_pin": [
+        525,
+        197,
+        548,
+        216
+      ],
+      "bbox_name": [
+        512,
+        65,
+        550,
+        179
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "I2S_DIN",
+      "bbox_pin": [
+        479,
+        198,
+        498,
+        216
+      ],
+      "bbox_name": [
+        469,
+        87,
+        500,
+        179
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "CTRL_DATA",
+      "bbox_pin": [
+        428,
+        197,
+        452,
+        217
+      ],
+      "bbox_name": [
+        419,
+        51,
+        454,
+        179
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "NC",
+      "bbox_pin": [
+        382,
+        196,
+        406,
+        217
+      ],
+      "bbox_name": [
+        377,
+        139,
+        400,
+        179
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "CTRL_CLK",
+      "bbox_pin": [
+        334,
+        196,
+        356,
+        217
+      ],
+      "bbox_name": [
+        325,
+        63,
+        358,
+        179
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "VDDD",
+      "bbox_pin": [
+        284,
+        196,
+        309,
+        218
+      ],
+      "bbox_name": [
+        276,
+        113,
+        308,
+        179
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "CTRL_ADR0_CS",
+      "bbox_pin": [
+        238,
+        195,
+        261,
+        219
+      ],
+      "bbox_name": [
+        228,
+        11,
+        259,
+        178
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "CTRL_MODE",
+      "bbox_pin": [
+        188,
+        196,
+        212,
+        217
+      ],
+      "bbox_name": [
+        181,
+        42,
+        214,
+        178
+      ]
+    }
+  ]
+}

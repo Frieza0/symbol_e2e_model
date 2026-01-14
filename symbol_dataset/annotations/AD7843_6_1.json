@@ -1,0 +1,185 @@
+{
+  "image_id": "AD7843_6_1",
+  "width": 351,
+  "height": 360,
+  "total_pins": 16,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "+VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        46,
+        67,
+        70
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "X+",
+      "bbox_pin": null,
+      "bbox_name": [
+        40,
+        82,
+        69,
+        101
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "Y+",
+      "bbox_pin": null,
+      "bbox_name": [
+        42,
+        116,
+        67,
+        137
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "X–",
+      "bbox_pin": null,
+      "bbox_name": [
+        44,
+        151,
+        68,
+        174
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "Y–",
+      "bbox_pin": null,
+      "bbox_name": [
+        41,
+        187,
+        69,
+        207
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        22,
+        223,
+        67,
+        246
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "IN3",
+      "bbox_pin": null,
+      "bbox_name": [
+        32,
+        260,
+        68,
+        281
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "IN4",
+      "bbox_pin": null,
+      "bbox_name": [
+        34,
+        295,
+        66,
+        315
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "VREF",
+      "bbox_pin": null,
+      "bbox_name": [
+        254,
+        296,
+        300,
+        319
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "+VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        254,
+        264,
+        301,
+        284
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "P\\E\\N\\I\\R\\Q\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        252,
+        221,
+        327,
+        245
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "DOUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        254,
+        188,
+        308,
+        207
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "BUSY",
+      "bbox_pin": null,
+      "bbox_name": [
+        254,
+        153,
+        306,
+        172
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "DIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        254,
+        118,
+        288,
+        138
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "C\\S\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        253,
+        78,
+        284,
+        98
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "DCLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        254,
+        43,
+        306,
+        65
+      ]
+    }
+  ]
+}

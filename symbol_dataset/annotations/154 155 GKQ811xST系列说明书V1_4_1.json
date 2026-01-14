@@ -1,0 +1,53 @@
+{
+  "image_id": "154 155 GKQ811xST系列说明书V1_4_1",
+  "width": 627,
+  "height": 420,
+  "total_pins": 4,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        46,
+        87,
+        122,
+        120
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "RESET#",
+      "bbox_pin": null,
+      "bbox_name": [
+        10,
+        325,
+        123,
+        362
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "MR#",
+      "bbox_pin": null,
+      "bbox_name": [
+        540,
+        325,
+        611,
+        360
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        538,
+        83,
+        604,
+        116
+      ]
+    }
+  ]
+}

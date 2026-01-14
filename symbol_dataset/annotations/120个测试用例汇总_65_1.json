@@ -1,0 +1,521 @@
+{
+  "image_id": "120个测试用例汇总_65_1",
+  "width": 591,
+  "height": 574,
+  "total_pins": 32,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "IOVDD",
+      "bbox_pin": [
+        177,
+        243,
+        197,
+        264
+      ],
+      "bbox_name": [
+        108,
+        245,
+        172,
+        264
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "MCLK",
+      "bbox_pin": [
+        178,
+        266,
+        197,
+        284
+      ],
+      "bbox_name": [
+        104,
+        266,
+        168,
+        283
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "ADDR0/C\\L\\A\\T\\C\\H\\",
+      "bbox_pin": [
+        175,
+        287,
+        197,
+        308
+      ],
+      "bbox_name": [
+        26,
+        290,
+        172,
+        306
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "JACKDET/MICIN",
+      "bbox_pin": [
+        179,
+        309,
+        198,
+        329
+      ],
+      "bbox_name": [
+        28,
+        309,
+        171,
+        328
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "MICBIAS",
+      "bbox_pin": [
+        179,
+        330,
+        198,
+        351
+      ],
+      "bbox_name": [
+        85,
+        332,
+        170,
+        351
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "LAUX",
+      "bbox_pin": [
+        176,
+        353,
+        198,
+        372
+      ],
+      "bbox_name": [
+        111,
+        351,
+        171,
+        371
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "CM",
+      "bbox_pin": [
+        176,
+        375,
+        197,
+        391
+      ],
+      "bbox_name": [
+        130,
+        375,
+        171,
+        392
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "AVDD",
+      "bbox_pin": [
+        175,
+        394,
+        197,
+        415
+      ],
+      "bbox_name": [
+        113,
+        395,
+        172,
+        413
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "AGND",
+      "bbox_pin": [
+        232,
+        448,
+        250,
+        466
+      ],
+      "bbox_name": [
+        226,
+        487,
+        250,
+        545
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "LINP",
+      "bbox_pin": [
+        251,
+        450,
+        270,
+        475
+      ],
+      "bbox_name": [
+        250,
+        487,
+        271,
+        536
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "LINN",
+      "bbox_pin": [
+        274,
+        448,
+        292,
+        474
+      ],
+      "bbox_name": [
+        272,
+        486,
+        294,
+        535
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "RINP",
+      "bbox_pin": [
+        295,
+        450,
+        315,
+        476
+      ],
+      "bbox_name": [
+        295,
+        486,
+        313,
+        536
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "RINN",
+      "bbox_pin": [
+        316,
+        448,
+        335,
+        476
+      ],
+      "bbox_name": [
+        315,
+        487,
+        335,
+        534
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "RAUX",
+      "bbox_pin": [
+        337,
+        454,
+        357,
+        478
+      ],
+      "bbox_name": [
+        339,
+        487,
+        357,
+        545
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "ROUTP",
+      "bbox_pin": [
+        361,
+        450,
+        380,
+        475
+      ],
+      "bbox_name": [
+        360,
+        485,
+        376,
+        552
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "ROUTN",
+      "bbox_pin": [
+        382,
+        452,
+        403,
+        477
+      ],
+      "bbox_name": [
+        381,
+        484,
+        399,
+        559
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "LOUTN",
+      "bbox_pin": [
+        437,
+        397,
+        461,
+        415
+      ],
+      "bbox_name": [
+        470,
+        397,
+        543,
+        418
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "LOUTP",
+      "bbox_pin": [
+        437,
+        375,
+        461,
+        393
+      ],
+      "bbox_name": [
+        470,
+        371,
+        537,
+        395
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "RHP",
+      "bbox_pin": [
+        436,
+        352,
+        462,
+        372
+      ],
+      "bbox_name": [
+        469,
+        352,
+        523,
+        373
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "LHP",
+      "bbox_pin": [
+        435,
+        330,
+        461,
+        351
+      ],
+      "bbox_name": [
+        469,
+        332,
+        513,
+        349
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "MONOOUT",
+      "bbox_pin": [
+        433,
+        311,
+        460,
+        327
+      ],
+      "bbox_name": [
+        472,
+        311,
+        570,
+        328
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "AGND",
+      "bbox_pin": [
+        436,
+        288,
+        461,
+        306
+      ],
+      "bbox_name": [
+        472,
+        289,
+        526,
+        308
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "AVDD",
+      "bbox_pin": [
+        435,
+        267,
+        458,
+        284
+      ],
+      "bbox_name": [
+        469,
+        264,
+        528,
+        285
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "DVDDOUT",
+      "bbox_pin": [
+        436,
+        246,
+        460,
+        262
+      ],
+      "bbox_name": [
+        468,
+        243,
+        563,
+        264
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "DGND",
+      "bbox_pin": [
+        384,
+        185,
+        401,
+        210
+      ],
+      "bbox_name": [
+        384,
+        118,
+        401,
+        179
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "ADC_SDATA/GPIO1",
+      "bbox_pin": [
+        359,
+        187,
+        379,
+        210
+      ],
+      "bbox_name": [
+        360,
+        4,
+        380,
+        177
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "DAC_SDATA/GPIO0",
+      "bbox_pin": [
+        340,
+        187,
+        358,
+        210
+      ],
+      "bbox_name": [
+        339,
+        6,
+        358,
+        178
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "BCLK/GPIO2",
+      "bbox_pin": [
+        319,
+        185,
+        335,
+        210
+      ],
+      "bbox_name": [
+        315,
+        60,
+        337,
+        177
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "LRCLK/GPIO3",
+      "bbox_pin": [
+        297,
+        185,
+        314,
+        208
+      ],
+      "bbox_name": [
+        295,
+        48,
+        315,
+        177
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "ADDR1/CDATA",
+      "bbox_pin": [
+        276,
+        183,
+        292,
+        210
+      ],
+      "bbox_name": [
+        274,
+        43,
+        292,
+        176
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "SDA/COUT",
+      "bbox_pin": [
+        254,
+        186,
+        270,
+        210
+      ],
+      "bbox_name": [
+        249,
+        78,
+        272,
+        179
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "SCL/CCLK",
+      "bbox_pin": [
+        230,
+        184,
+        249,
+        212
+      ],
+      "bbox_name": [
+        223,
+        76,
+        249,
+        177
+      ]
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "image_id": "120个测试用例汇总_12_1",
+  "width": 351,
+  "height": 360,
+  "total_pins": 16,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "+VCC",
+      "bbox_pin": [
+        78,
+        47,
+        92,
+        63
+      ],
+      "bbox_name": [
+        17,
+        44,
+        68,
+        71
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "X+",
+      "bbox_pin": [
+        79,
+        83,
+        91,
+        99
+      ],
+      "bbox_name": [
+        37,
+        79,
+        68,
+        102
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "Y+",
+      "bbox_pin": [
+        79,
+        117,
+        92,
+        133
+      ],
+      "bbox_name": [
+        38,
+        115,
+        68,
+        140
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "X–",
+      "bbox_pin": [
+        79,
+        154,
+        93,
+        170
+      ],
+      "bbox_name": [
+        38,
+        154,
+        69,
+        174
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "Y–",
+      "bbox_pin": [
+        79,
+        189,
+        93,
+        208
+      ],
+      "bbox_name": [
+        38,
+        188,
+        69,
+        209
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "GND",
+      "bbox_pin": [
+        80,
+        225,
+        95,
+        242
+      ],
+      "bbox_name": [
+        24,
+        223,
+        68,
+        246
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "IN3",
+      "bbox_pin": [
+        79,
+        262,
+        93,
+        278
+      ],
+      "bbox_name": [
+        36,
+        261,
+        67,
+        281
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "IN4",
+      "bbox_pin": [
+        79,
+        298,
+        93,
+        314
+      ],
+      "bbox_name": [
+        34,
+        294,
+        68,
+        318
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "VREF",
+      "bbox_pin": [
+        230,
+        297,
+        244,
+        313
+      ],
+      "bbox_name": [
+        252,
+        295,
+        300,
+        322
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "+VCC",
+      "bbox_pin": [
+        228,
+        262,
+        245,
+        277
+      ],
+      "bbox_name": [
+        252,
+        261,
+        303,
+        286
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "P\\E\\N\\I\\R\\Q\\",
+      "bbox_pin": [
+        226,
+        227,
+        245,
+        241
+      ],
+      "bbox_name": [
+        252,
+        218,
+        327,
+        245
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "DOUT",
+      "bbox_pin": [
+        226,
+        190,
+        245,
+        207
+      ],
+      "bbox_name": [
+        252,
+        187,
+        311,
+        208
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "BUSY",
+      "bbox_pin": [
+        228,
+        154,
+        245,
+        171
+      ],
+      "bbox_name": [
+        252,
+        152,
+        308,
+        176
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "DIN",
+      "bbox_pin": [
+        227,
+        119,
+        244,
+        133
+      ],
+      "bbox_name": [
+        253,
+        115,
+        290,
+        137
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "C\\S\\",
+      "bbox_pin": [
+        227,
+        83,
+        245,
+        99
+      ],
+      "bbox_name": [
+        252,
+        76,
+        286,
+        100
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "DCLK",
+      "bbox_pin": [
+        226,
+        46,
+        245,
+        65
+      ],
+      "bbox_name": [
+        253,
+        42,
+        309,
+        67
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "image_id": "54ls132_1_1",
+  "width": 291,
+  "height": 288,
+  "total_pins": 14,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "1A",
+      "bbox_pin": null,
+      "bbox_name": [
+        44,
+        33,
+        79,
+        57
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "1B",
+      "bbox_pin": null,
+      "bbox_name": [
+        46,
+        66,
+        78,
+        91
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "1Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        46,
+        99,
+        76,
+        122
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "2A",
+      "bbox_pin": null,
+      "bbox_name": [
+        42,
+        130,
+        78,
+        156
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "2B",
+      "bbox_pin": null,
+      "bbox_name": [
+        43,
+        163,
+        76,
+        188
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "2Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        44,
+        196,
+        76,
+        221
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        230,
+        77,
+        254
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "3Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        220,
+        226,
+        247,
+        256
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "3A",
+      "bbox_pin": null,
+      "bbox_name": [
+        219,
+        195,
+        250,
+        218
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "3B",
+      "bbox_pin": null,
+      "bbox_name": [
+        217,
+        162,
+        250,
+        185
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "4Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        217,
+        130,
+        250,
+        153
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "4A",
+      "bbox_pin": null,
+      "bbox_name": [
+        218,
+        98,
+        250,
+        121
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "4B",
+      "bbox_pin": null,
+      "bbox_name": [
+        218,
+        65,
+        249,
+        87
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        218,
+        30,
+        270,
+        60
+      ]
+    }
+  ]
+}
