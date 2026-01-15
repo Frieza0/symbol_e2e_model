@@ -1,0 +1,185 @@
+{
+  "image_id": "HCE2991MG_8_1",
+  "width": 579,
+  "height": 338,
+  "total_pins": 16,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "V1",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        20,
+        57,
+        52
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "V2",
+      "bbox_pin": null,
+      "bbox_name": [
+        16,
+        56,
+        60,
+        90
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "V3",
+      "bbox_pin": null,
+      "bbox_name": [
+        16,
+        96,
+        60,
+        129
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "V4",
+      "bbox_pin": null,
+      "bbox_name": [
+        18,
+        133,
+        59,
+        164
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "V5",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        169,
+        59,
+        202
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "V6",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        208,
+        60,
+        241
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "V7",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        247,
+        59,
+        276
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "V8",
+      "bbox_pin": null,
+      "bbox_name": [
+        18,
+        283,
+        59,
+        317
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        473,
+        284,
+        540,
+        317
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "SDA",
+      "bbox_pin": null,
+      "bbox_name": [
+        471,
+        245,
+        539,
+        278
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "SCL",
+      "bbox_pin": null,
+      "bbox_name": [
+        474,
+        209,
+        532,
+        239
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "PWM",
+      "bbox_pin": null,
+      "bbox_name": [
+        473,
+        169,
+        551,
+        203
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "ADR0",
+      "bbox_pin": null,
+      "bbox_name": [
+        473,
+        134,
+        554,
+        164
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "ADR1",
+      "bbox_pin": null,
+      "bbox_name": [
+        472,
+        98,
+        552,
+        128
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "ADR2",
+      "bbox_pin": null,
+      "bbox_name": [
+        473,
+        61,
+        554,
+        90
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        472,
+        22,
+        530,
+        57
+      ]
+    }
+  ]
+}

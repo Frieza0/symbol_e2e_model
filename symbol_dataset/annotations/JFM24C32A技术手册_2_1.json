@@ -1,0 +1,97 @@
+{
+  "image_id": "JFM24C32A技术手册_2_1",
+  "width": 453,
+  "height": 270,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "A0",
+      "bbox_pin": null,
+      "bbox_name": [
+        51,
+        39,
+        93,
+        68
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "A1",
+      "bbox_pin": null,
+      "bbox_name": [
+        54,
+        85,
+        89,
+        118
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "A2",
+      "bbox_pin": null,
+      "bbox_name": [
+        47,
+        144,
+        89,
+        170
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        190,
+        88,
+        216
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "SDA",
+      "bbox_pin": null,
+      "bbox_name": [
+        365,
+        190,
+        430,
+        219
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SCL",
+      "bbox_pin": null,
+      "bbox_name": [
+        369,
+        142,
+        430,
+        170
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "WP",
+      "bbox_pin": null,
+      "bbox_name": [
+        365,
+        91,
+        420,
+        115
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        365,
+        37,
+        432,
+        69
+      ]
+    }
+  ]
+}

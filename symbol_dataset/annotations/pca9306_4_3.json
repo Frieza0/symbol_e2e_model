@@ -1,0 +1,97 @@
+{
+  "image_id": "pca9306_4_3",
+  "width": 558,
+  "height": 474,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        26,
+        116,
+        87,
+        143
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VREF1",
+      "bbox_pin": null,
+      "bbox_name": [
+        9,
+        186,
+        80,
+        223
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "SCL1",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        258,
+        80,
+        284
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "SDA1",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        333,
+        81,
+        355
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "SDA2",
+      "bbox_pin": null,
+      "bbox_name": [
+        472,
+        331,
+        536,
+        357
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SCL2",
+      "bbox_pin": null,
+      "bbox_name": [
+        473,
+        259,
+        532,
+        283
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "VREF2",
+      "bbox_pin": null,
+      "bbox_name": [
+        473,
+        187,
+        546,
+        225
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "EN",
+      "bbox_pin": null,
+      "bbox_name": [
+        475,
+        115,
+        510,
+        140
+      ]
+    }
+  ]
+}

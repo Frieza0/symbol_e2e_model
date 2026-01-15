@@ -1,0 +1,264 @@
+{
+  "image_id": "chip_0135",
+  "width": 256,
+  "height": 256,
+  "total_pins": 16,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "DIM",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        31,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "READY",
+      "bbox_pin": [
+        93,
+        58,
+        99,
+        68
+      ],
+      "bbox_name": [
+        13,
+        58,
+        48,
+        68
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "PORTD",
+      "bbox_pin": [
+        93,
+        84,
+        99,
+        94
+      ],
+      "bbox_name": [
+        13,
+        84,
+        48,
+        94
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "AIN7",
+      "bbox_pin": [
+        93,
+        110,
+        99,
+        120
+      ],
+      "bbox_name": [
+        13,
+        110,
+        37,
+        120
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "ETH_TX+",
+      "bbox_pin": [
+        93,
+        135,
+        99,
+        145
+      ],
+      "bbox_name": [
+        13,
+        134,
+        58,
+        146
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "LCD_B0",
+      "bbox_pin": [
+        93,
+        161,
+        99,
+        171
+      ],
+      "bbox_name": [
+        13,
+        160,
+        52,
+        172
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "NO",
+      "bbox_pin": [
+        93,
+        187,
+        99,
+        197
+      ],
+      "bbox_name": [
+        13,
+        187,
+        28,
+        197
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "WAKE#",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        49,
+        223
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "CLKIN",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        213,
+        43
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "VREF",
+      "bbox_pin": [
+        163,
+        58,
+        175,
+        68
+      ],
+      "bbox_name": [
+        183,
+        58,
+        210,
+        68
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "nCEO",
+      "bbox_pin": [
+        163,
+        84,
+        175,
+        94
+      ],
+      "bbox_name": [
+        183,
+        84,
+        211,
+        94
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "AN2",
+      "bbox_pin": [
+        163,
+        110,
+        175,
+        120
+      ],
+      "bbox_name": [
+        183,
+        110,
+        204,
+        120
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "LIN",
+      "bbox_pin": [
+        163,
+        135,
+        175,
+        145
+      ],
+      "bbox_name": [
+        183,
+        135,
+        199,
+        145
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "CS3",
+      "bbox_pin": [
+        163,
+        161,
+        175,
+        171
+      ],
+      "bbox_name": [
+        183,
+        161,
+        203,
+        171
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "EPAD",
+      "bbox_pin": [
+        163,
+        187,
+        175,
+        197
+      ],
+      "bbox_name": [
+        183,
+        187,
+        211,
+        197
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "ENABLE",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        224,
+        223
+      ]
+    }
+  ]
+}

@@ -6,53 +6,92 @@
   "package_type": "2side",
   "pins": [
     {
-      "pin_number": "1",
+      "pin_number": 1,
       "name": "NC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        53,
+        63,
+        83,
+        83
+      ]
     },
     {
-      "pin_number": "2",
+      "pin_number": 2,
       "name": "SDA",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        41,
+        119,
+        84,
+        143
+      ]
     },
     {
-      "pin_number": "3",
+      "pin_number": 3,
       "name": "ALERT",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        20,
+        181,
+        83,
+        201
+      ]
     },
     {
-      "pin_number": "4",
+      "pin_number": 4,
       "name": "SCL",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        44,
+        240,
+        83,
+        263
+      ]
     },
     {
-      "pin_number": "5",
+      "pin_number": 5,
       "name": "VDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        344,
+        241,
+        379,
+        265
+      ]
     },
     {
-      "pin_number": "6",
+      "pin_number": 6,
       "name": "GND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        343,
+        181,
+        386,
+        201
+      ]
     },
     {
-      "pin_number": "7",
+      "pin_number": 7,
       "name": "AS",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        342,
+        122,
+        370,
+        143
+      ]
     },
     {
-      "pin_number": "8",
+      "pin_number": 8,
       "name": "NC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        343,
+        62,
+        371,
+        82
+      ]
     }
-  ],
-  "file_name": "ad7414_7415_6_1.jpg"
+  ]
 }

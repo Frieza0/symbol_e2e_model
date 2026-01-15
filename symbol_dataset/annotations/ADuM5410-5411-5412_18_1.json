@@ -6,149 +6,268 @@
   "package_type": "2side",
   "pins": [
     {
-      "pin_number": "1",
+      "pin_number": 1,
       "name": "VDD1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        29,
+        38,
+        72,
+        59
+      ]
     },
     {
-      "pin_number": "2",
+      "pin_number": 2,
       "name": "GND1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        24,
+        68,
+        73,
+        90
+      ]
     },
     {
-      "pin_number": "3",
+      "pin_number": 3,
       "name": "VIA",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        43,
+        98,
+        76,
+        122
+      ]
     },
     {
-      "pin_number": "4",
+      "pin_number": 4,
       "name": "VIB",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        45,
+        128,
+        75,
+        151
+      ]
     },
     {
-      "pin_number": "5",
+      "pin_number": 5,
       "name": "VOC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        37,
+        159,
+        74,
+        182
+      ]
     },
     {
-      "pin_number": "6",
+      "pin_number": 6,
       "name": "VOD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        38,
+        190,
+        74,
+        213
+      ]
     },
     {
-      "pin_number": "7",
+      "pin_number": 7,
       "name": "VE1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        39,
+        221,
+        72,
+        243
+      ]
     },
     {
-      "pin_number": "8",
+      "pin_number": 8,
       "name": "NIC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        41,
+        254,
+        74,
+        272
+      ]
     },
     {
-      "pin_number": "9",
+      "pin_number": 9,
       "name": "GND1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        23,
+        282,
+        74,
+        304
+      ]
     },
     {
-      "pin_number": "10",
+      "pin_number": 10,
       "name": "PDIS",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        29,
+        313,
+        73,
+        333
+      ]
     },
     {
-      "pin_number": "11",
+      "pin_number": 11,
       "name": "VDDP",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        28,
+        343,
+        73,
+        366
+      ]
     },
     {
-      "pin_number": "12",
+      "pin_number": 12,
       "name": "GND1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        23,
+        373,
+        75,
+        397
+      ]
     },
     {
-      "pin_number": "13",
+      "pin_number": 13,
       "name": "GNDISO",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        288,
+        373,
+        357,
+        398
+      ]
     },
     {
-      "pin_number": "14",
+      "pin_number": 14,
       "name": "VISO",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        288,
+        343,
+        328,
+        365
+      ]
     },
     {
-      "pin_number": "15",
+      "pin_number": 15,
       "name": "VSEL",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        287,
+        311,
+        331,
+        334
+      ]
     },
     {
-      "pin_number": "16",
+      "pin_number": 16,
       "name": "GNDISO",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        287,
+        282,
+        358,
+        305
+      ]
     },
     {
-      "pin_number": "17",
+      "pin_number": 17,
       "name": "NIC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        288,
+        252,
+        323,
+        272
+      ]
     },
     {
-      "pin_number": "18",
+      "pin_number": 18,
       "name": "VE2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        287,
+        219,
+        323,
+        244
+      ]
     },
     {
-      "pin_number": "19",
+      "pin_number": 19,
       "name": "VID",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        288,
+        189,
+        318,
+        212
+      ]
     },
     {
-      "pin_number": "20",
+      "pin_number": 20,
       "name": "VIC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        287,
+        159,
+        318,
+        182
+      ]
     },
     {
-      "pin_number": "21",
+      "pin_number": 21,
       "name": "VOB",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        288,
+        129,
+        326,
+        152
+      ]
     },
     {
-      "pin_number": "22",
+      "pin_number": 22,
       "name": "VOA",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        287,
+        99,
+        326,
+        121
+      ]
     },
     {
-      "pin_number": "23",
+      "pin_number": 23,
       "name": "GNDISO",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        287,
+        67,
+        356,
+        91
+      ]
     },
     {
-      "pin_number": "24",
+      "pin_number": 24,
       "name": "VDD2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        289,
+        36,
+        332,
+        60
+      ]
     }
-  ],
-  "file_name": "ADuM5410-5411-5412_18_1.jpg"
+  ]
 }

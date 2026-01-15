@@ -1,0 +1,185 @@
+{
+  "image_id": "JFM25F128A技术手册_47_1",
+  "width": 699,
+  "height": 456,
+  "total_pins": 16,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "HOLD#(DQ3)",
+      "bbox_pin": null,
+      "bbox_name": [
+        7,
+        30,
+        193,
+        70
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        125,
+        87,
+        185,
+        116
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        141,
+        139,
+        185,
+        170
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        142,
+        195,
+        186,
+        223
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        142,
+        245,
+        188,
+        275
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        143,
+        296,
+        187,
+        326
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "CS#",
+      "bbox_pin": null,
+      "bbox_name": [
+        126,
+        351,
+        184,
+        379
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "DO(DQ1)",
+      "bbox_pin": null,
+      "bbox_name": [
+        76,
+        397,
+        203,
+        435
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "WP#(DQ2)",
+      "bbox_pin": null,
+      "bbox_name": [
+        539,
+        397,
+        691,
+        438
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        554,
+        351,
+        609,
+        380
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        553,
+        292,
+        601,
+        325
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        554,
+        241,
+        600,
+        271
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        555,
+        191,
+        600,
+        221
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        550,
+        135,
+        602,
+        167
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "DI(DQ0)",
+      "bbox_pin": null,
+      "bbox_name": [
+        542,
+        86,
+        667,
+        123
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "CLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        551,
+        30,
+        606,
+        64
+      ]
+    }
+  ]
+}

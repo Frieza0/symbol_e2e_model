@@ -1,0 +1,185 @@
+{
+  "image_id": "JFM25FL032RH技术手册_20_1",
+  "width": 375,
+  "height": 447,
+  "total_pins": 16,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "HOLD#",
+      "bbox_pin": null,
+      "bbox_name": [
+        7,
+        31,
+        80,
+        61
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        92,
+        78,
+        113
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        38,
+        150,
+        75,
+        173
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        38,
+        202,
+        77,
+        223
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        40,
+        250,
+        75,
+        270
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        38,
+        297,
+        73,
+        321
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "CS#",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        353,
+        71,
+        383
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "SO",
+      "bbox_pin": null,
+      "bbox_name": [
+        41,
+        401,
+        76,
+        431
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "W#",
+      "bbox_pin": null,
+      "bbox_name": [
+        314,
+        409,
+        349,
+        433
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        315,
+        355,
+        363,
+        379
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        314,
+        298,
+        349,
+        322
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        316,
+        248,
+        350,
+        270
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        313,
+        199,
+        346,
+        222
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        313,
+        146,
+        346,
+        168
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "SI",
+      "bbox_pin": null,
+      "bbox_name": [
+        314,
+        92,
+        337,
+        114
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "SCK",
+      "bbox_pin": null,
+      "bbox_name": [
+        314,
+        34,
+        362,
+        54
+      ]
+    }
+  ]
+}

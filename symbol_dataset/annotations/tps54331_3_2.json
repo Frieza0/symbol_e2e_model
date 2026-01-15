@@ -1,0 +1,97 @@
+{
+  "image_id": "tps54331_3_2",
+  "width": 594,
+  "height": 309,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "BOOT",
+      "bbox_pin": null,
+      "bbox_name": [
+        9,
+        39,
+        87,
+        72
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        37,
+        111,
+        89,
+        140
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "EN",
+      "bbox_pin": null,
+      "bbox_name": [
+        45,
+        178,
+        86,
+        206
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "SS",
+      "bbox_pin": null,
+      "bbox_name": [
+        47,
+        251,
+        86,
+        277
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VSENSE",
+      "bbox_pin": null,
+      "bbox_name": [
+        469,
+        246,
+        584,
+        276
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "COMP",
+      "bbox_pin": null,
+      "bbox_name": [
+        472,
+        180,
+        555,
+        210
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        469,
+        107,
+        533,
+        140
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "PH",
+      "bbox_pin": null,
+      "bbox_name": [
+        468,
+        38,
+        512,
+        69
+      ]
+    }
+  ]
+}

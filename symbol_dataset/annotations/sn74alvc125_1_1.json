@@ -1,0 +1,163 @@
+{
+  "image_id": "sn74alvc125_1_1",
+  "width": 336,
+  "height": 336,
+  "total_pins": 14,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "1O\\E\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        41,
+        85,
+        73
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "1A",
+      "bbox_pin": null,
+      "bbox_name": [
+        47,
+        84,
+        81,
+        108
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "1Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        50,
+        119,
+        80,
+        146
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "2O\\E\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        157,
+        83,
+        183
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "2A",
+      "bbox_pin": null,
+      "bbox_name": [
+        43,
+        195,
+        83,
+        220
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "2Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        44,
+        229,
+        83,
+        255
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        267,
+        82,
+        292
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "3Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        256,
+        267,
+        292,
+        291
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "3A",
+      "bbox_pin": null,
+      "bbox_name": [
+        253,
+        229,
+        291,
+        255
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "3\\O\\E\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        253,
+        189,
+        316,
+        221
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "4Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        252,
+        156,
+        293,
+        183
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "4A",
+      "bbox_pin": null,
+      "bbox_name": [
+        253,
+        122,
+        296,
+        148
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "4O\\E\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        253,
+        80,
+        315,
+        111
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        255,
+        47,
+        306,
+        77
+      ]
+    }
+  ]
+}

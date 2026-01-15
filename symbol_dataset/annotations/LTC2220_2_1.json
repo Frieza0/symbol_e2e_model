@@ -1,0 +1,713 @@
+{
+  "image_id": "LTC2220_2_1",
+  "width": 666,
+  "height": 596,
+  "total_pins": 64,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "AIN+",
+      "bbox_pin": null,
+      "bbox_name": [
+        41,
+        129,
+        78,
+        153
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "AIN+",
+      "bbox_pin": null,
+      "bbox_name": [
+        43,
+        153,
+        76,
+        175
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "AIN–",
+      "bbox_pin": null,
+      "bbox_name": [
+        43,
+        176,
+        76,
+        198
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "AIN–",
+      "bbox_pin": null,
+      "bbox_name": [
+        43,
+        199,
+        77,
+        218
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "REFHA",
+      "bbox_pin": null,
+      "bbox_name": [
+        28,
+        219,
+        77,
+        238
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "REFHA",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        240,
+        78,
+        259
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "REFLB",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        261,
+        77,
+        281
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "REFLB",
+      "bbox_pin": null,
+      "bbox_name": [
+        30,
+        284,
+        77,
+        301
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "REFHB",
+      "bbox_pin": null,
+      "bbox_name": [
+        26,
+        306,
+        77,
+        322
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "REFHB",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        326,
+        68,
+        346
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "REFLA",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        348,
+        69,
+        367
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "REFLA",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        370,
+        69,
+        389
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        40,
+        390,
+        69,
+        413
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        38,
+        415,
+        69,
+        436
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        38,
+        437,
+        68,
+        456
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        34,
+        457,
+        69,
+        474
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "ENC+",
+      "bbox_pin": null,
+      "bbox_name": [
+        121,
+        527,
+        140,
+        566
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "ENC–",
+      "bbox_pin": null,
+      "bbox_name": [
+        143,
+        527,
+        162,
+        568
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "SHDN",
+      "bbox_pin": null,
+      "bbox_name": [
+        165,
+        528,
+        182,
+        570
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "O\\E\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        185,
+        526,
+        204,
+        550
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "DO–/DB0",
+      "bbox_pin": null,
+      "bbox_name": [
+        208,
+        527,
+        228,
+        592
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "DO+/DB1",
+      "bbox_pin": null,
+      "bbox_name": [
+        229,
+        529,
+        249,
+        592
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "D1–/DB2",
+      "bbox_pin": null,
+      "bbox_name": [
+        251,
+        526,
+        272,
+        589
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "D1+/DB3",
+      "bbox_pin": null,
+      "bbox_name": [
+        272,
+        529,
+        293,
+        591
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "OGND",
+      "bbox_pin": null,
+      "bbox_name": [
+        295,
+        528,
+        312,
+        571
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "OVDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        316,
+        527,
+        337,
+        568
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "D2–/DB4",
+      "bbox_pin": null,
+      "bbox_name": [
+        339,
+        527,
+        356,
+        591
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "D2+/DB5",
+      "bbox_pin": null,
+      "bbox_name": [
+        357,
+        528,
+        378,
+        590
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "D3–/DB6",
+      "bbox_pin": null,
+      "bbox_name": [
+        380,
+        527,
+        399,
+        592
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "D3+/DB7",
+      "bbox_pin": null,
+      "bbox_name": [
+        402,
+        526,
+        421,
+        589
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "D4–/DB8",
+      "bbox_pin": null,
+      "bbox_name": [
+        423,
+        525,
+        443,
+        589
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "D4+/DB9",
+      "bbox_pin": null,
+      "bbox_name": [
+        445,
+        528,
+        466,
+        591
+      ]
+    },
+    {
+      "pin_number": 33,
+      "name": "OGND",
+      "bbox_pin": null,
+      "bbox_name": [
+        514,
+        456,
+        558,
+        475
+      ]
+    },
+    {
+      "pin_number": 34,
+      "name": "OVDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        513,
+        435,
+        552,
+        456
+      ]
+    },
+    {
+      "pin_number": 35,
+      "name": "CLOCKOUT–/DB10",
+      "bbox_pin": null,
+      "bbox_name": [
+        512,
+        415,
+        646,
+        434
+      ]
+    },
+    {
+      "pin_number": 36,
+      "name": "CLOCKOUT+/DB11",
+      "bbox_pin": null,
+      "bbox_name": [
+        513,
+        392,
+        639,
+        412
+      ]
+    },
+    {
+      "pin_number": 37,
+      "name": "D5–/OFB",
+      "bbox_pin": null,
+      "bbox_name": [
+        513,
+        370,
+        573,
+        390
+      ]
+    },
+    {
+      "pin_number": 38,
+      "name": "D5+/CLOCKOUTB",
+      "bbox_pin": null,
+      "bbox_name": [
+        512,
+        348,
+        632,
+        368
+      ]
+    },
+    {
+      "pin_number": 39,
+      "name": "D6–/CLOCKOUTA",
+      "bbox_pin": null,
+      "bbox_name": [
+        513,
+        326,
+        630,
+        345
+      ]
+    },
+    {
+      "pin_number": 40,
+      "name": "D6+/DA0",
+      "bbox_pin": null,
+      "bbox_name": [
+        513,
+        305,
+        573,
+        324
+      ]
+    },
+    {
+      "pin_number": 41,
+      "name": "OGND",
+      "bbox_pin": null,
+      "bbox_name": [
+        512,
+        285,
+        557,
+        300
+      ]
+    },
+    {
+      "pin_number": 42,
+      "name": "OVDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        513,
+        263,
+        552,
+        282
+      ]
+    },
+    {
+      "pin_number": 43,
+      "name": "D7–/DA1",
+      "bbox_pin": null,
+      "bbox_name": [
+        512,
+        240,
+        573,
+        259
+      ]
+    },
+    {
+      "pin_number": 44,
+      "name": "D7+/DA2",
+      "bbox_pin": null,
+      "bbox_name": [
+        511,
+        219,
+        576,
+        238
+      ]
+    },
+    {
+      "pin_number": 45,
+      "name": "D8–/DA3",
+      "bbox_pin": null,
+      "bbox_name": [
+        512,
+        195,
+        576,
+        217
+      ]
+    },
+    {
+      "pin_number": 46,
+      "name": "D8+/DA4",
+      "bbox_pin": null,
+      "bbox_name": [
+        511,
+        175,
+        576,
+        194
+      ]
+    },
+    {
+      "pin_number": 47,
+      "name": "D9–/DA5",
+      "bbox_pin": null,
+      "bbox_name": [
+        513,
+        154,
+        573,
+        175
+      ]
+    },
+    {
+      "pin_number": 48,
+      "name": "D9+/DA6",
+      "bbox_pin": null,
+      "bbox_name": [
+        513,
+        132,
+        573,
+        151
+      ]
+    },
+    {
+      "pin_number": 49,
+      "name": "OVDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        446,
+        42,
+        467,
+        82
+      ]
+    },
+    {
+      "pin_number": 50,
+      "name": "OGND",
+      "bbox_pin": null,
+      "bbox_name": [
+        423,
+        38,
+        440,
+        81
+      ]
+    },
+    {
+      "pin_number": 51,
+      "name": "D10–/DA7",
+      "bbox_pin": null,
+      "bbox_name": [
+        400,
+        9,
+        418,
+        82
+      ]
+    },
+    {
+      "pin_number": 52,
+      "name": "D10+/DA8",
+      "bbox_pin": null,
+      "bbox_name": [
+        380,
+        11,
+        396,
+        82
+      ]
+    },
+    {
+      "pin_number": 53,
+      "name": "D11–/DA9",
+      "bbox_pin": null,
+      "bbox_name": [
+        359,
+        14,
+        376,
+        84
+      ]
+    },
+    {
+      "pin_number": 54,
+      "name": "D11+/DA10",
+      "bbox_pin": null,
+      "bbox_name": [
+        336,
+        4,
+        353,
+        82
+      ]
+    },
+    {
+      "pin_number": 55,
+      "name": "OF–/DA11",
+      "bbox_pin": null,
+      "bbox_name": [
+        316,
+        15,
+        332,
+        81
+      ]
+    },
+    {
+      "pin_number": 56,
+      "name": "OF+/OFA",
+      "bbox_pin": null,
+      "bbox_name": [
+        292,
+        22,
+        312,
+        84
+      ]
+    },
+    {
+      "pin_number": 57,
+      "name": "LVDS",
+      "bbox_pin": null,
+      "bbox_name": [
+        271,
+        40,
+        288,
+        84
+      ]
+    },
+    {
+      "pin_number": 58,
+      "name": "MODE",
+      "bbox_pin": null,
+      "bbox_name": [
+        251,
+        36,
+        268,
+        82
+      ]
+    },
+    {
+      "pin_number": 59,
+      "name": "SENSE",
+      "bbox_pin": null,
+      "bbox_name": [
+        229,
+        33,
+        246,
+        82
+      ]
+    },
+    {
+      "pin_number": 60,
+      "name": "VCM",
+      "bbox_pin": null,
+      "bbox_name": [
+        208,
+        52,
+        226,
+        83
+      ]
+    },
+    {
+      "pin_number": 61,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        187,
+        48,
+        203,
+        84
+      ]
+    },
+    {
+      "pin_number": 62,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        165,
+        54,
+        183,
+        81
+      ]
+    },
+    {
+      "pin_number": 63,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        142,
+        54,
+        161,
+        82
+      ]
+    },
+    {
+      "pin_number": 64,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        121,
+        48,
+        137,
+        81
+      ]
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "image_id": "chip_0217",
+  "width": 256,
+  "height": 256,
+  "total_pins": 16,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VMON",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        43,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "ACCEL_Z",
+      "bbox_pin": [
+        93,
+        58,
+        99,
+        68
+      ],
+      "bbox_name": [
+        13,
+        57,
+        60,
+        69
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "SYNC",
+      "bbox_pin": [
+        93,
+        84,
+        99,
+        94
+      ],
+      "bbox_name": [
+        13,
+        84,
+        41,
+        94
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "TDI",
+      "bbox_pin": [
+        93,
+        110,
+        99,
+        120
+      ],
+      "bbox_name": [
+        13,
+        110,
+        29,
+        120
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "SGND",
+      "bbox_pin": [
+        93,
+        135,
+        99,
+        145
+      ],
+      "bbox_name": [
+        13,
+        135,
+        42,
+        145
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "BCLK",
+      "bbox_pin": [
+        93,
+        161,
+        99,
+        171
+      ],
+      "bbox_name": [
+        13,
+        161,
+        40,
+        171
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "A0",
+      "bbox_pin": [
+        93,
+        187,
+        99,
+        197
+      ],
+      "bbox_name": [
+        13,
+        187,
+        27,
+        197
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "DATA4",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        46,
+        223
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "UNUSED",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        225,
+        43
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "CAN_H",
+      "bbox_pin": [
+        163,
+        58,
+        175,
+        68
+      ],
+      "bbox_name": [
+        183,
+        57,
+        217,
+        69
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "SDA",
+      "bbox_pin": [
+        163,
+        84,
+        175,
+        94
+      ],
+      "bbox_name": [
+        183,
+        84,
+        204,
+        94
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "ETH_RX-",
+      "bbox_pin": [
+        163,
+        110,
+        175,
+        120
+      ],
+      "bbox_name": [
+        183,
+        109,
+        227,
+        121
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "HCLK",
+      "bbox_pin": [
+        163,
+        135,
+        175,
+        145
+      ],
+      "bbox_name": [
+        183,
+        135,
+        210,
+        145
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "ETH_RX+",
+      "bbox_pin": [
+        163,
+        161,
+        175,
+        171
+      ],
+      "bbox_name": [
+        183,
+        160,
+        229,
+        172
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "DIM",
+      "bbox_pin": [
+        163,
+        187,
+        175,
+        197
+      ],
+      "bbox_name": [
+        183,
+        187,
+        201,
+        197
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "UB",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        197,
+        223
+      ]
+    }
+  ]
+}

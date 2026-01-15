@@ -1,0 +1,264 @@
+{
+  "image_id": "chip_0048",
+  "width": 256,
+  "height": 256,
+  "total_pins": 16,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "D9",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        26,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "DONE",
+      "bbox_pin": [
+        93,
+        58,
+        99,
+        68
+      ],
+      "bbox_name": [
+        13,
+        58,
+        42,
+        68
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "AD0",
+      "bbox_pin": [
+        93,
+        84,
+        99,
+        94
+      ],
+      "bbox_name": [
+        13,
+        84,
+        34,
+        94
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "nSTATUS",
+      "bbox_pin": [
+        93,
+        110,
+        99,
+        120
+      ],
+      "bbox_name": [
+        13,
+        110,
+        59,
+        120
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "O0",
+      "bbox_pin": [
+        93,
+        135,
+        99,
+        145
+      ],
+      "bbox_name": [
+        13,
+        135,
+        27,
+        145
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "MIC_IN",
+      "bbox_pin": [
+        93,
+        161,
+        99,
+        171
+      ],
+      "bbox_name": [
+        13,
+        160,
+        47,
+        172
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "SCI_TX",
+      "bbox_pin": [
+        93,
+        187,
+        99,
+        197
+      ],
+      "bbox_name": [
+        13,
+        186,
+        49,
+        198
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "PAD",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        34,
+        223
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "LCD_B0",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        32,
+        222,
+        44
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "EPAD",
+      "bbox_pin": [
+        163,
+        58,
+        175,
+        68
+      ],
+      "bbox_name": [
+        183,
+        58,
+        211,
+        68
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "PIN_B",
+      "bbox_pin": [
+        163,
+        84,
+        175,
+        94
+      ],
+      "bbox_name": [
+        183,
+        83,
+        213,
+        95
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "ACCEL_Z",
+      "bbox_pin": [
+        163,
+        110,
+        175,
+        120
+      ],
+      "bbox_name": [
+        183,
+        109,
+        230,
+        121
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "DQ",
+      "bbox_pin": [
+        163,
+        135,
+        175,
+        145
+      ],
+      "bbox_name": [
+        183,
+        135,
+        198,
+        145
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "CAM_D0",
+      "bbox_pin": [
+        163,
+        161,
+        175,
+        171
+      ],
+      "bbox_name": [
+        183,
+        160,
+        224,
+        172
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "VANA",
+      "bbox_pin": [
+        163,
+        187,
+        175,
+        197
+      ],
+      "bbox_name": [
+        183,
+        187,
+        211,
+        197
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "D13",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        202,
+        223
+      ]
+    }
+  ]
+}

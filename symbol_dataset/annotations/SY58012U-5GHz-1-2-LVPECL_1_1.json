@@ -1,0 +1,185 @@
+{
+  "image_id": "SY58012U-5GHz-1-2-LVPECL_1_1",
+  "width": 594,
+  "height": 552,
+  "total_pins": 16,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        106,
+        180,
+        141,
+        215
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VT",
+      "bbox_pin": null,
+      "bbox_name": [
+        101,
+        229,
+        136,
+        260
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VREF-AC",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        289,
+        140,
+        323
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "/IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        98,
+        341,
+        140,
+        369
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        234,
+        468,
+        260,
+        530
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        281,
+        471,
+        312,
+        534
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        342,
+        474,
+        375,
+        531
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        394,
+        468,
+        421,
+        533
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "Q1",
+      "bbox_pin": null,
+      "bbox_name": [
+        527,
+        339,
+        561,
+        372
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "/Q1",
+      "bbox_pin": null,
+      "bbox_name": [
+        523,
+        288,
+        568,
+        318
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "/Q0",
+      "bbox_pin": null,
+      "bbox_name": [
+        524,
+        235,
+        572,
+        267
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "Q0",
+      "bbox_pin": null,
+      "bbox_name": [
+        520,
+        183,
+        564,
+        211
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        394,
+        32,
+        426,
+        86
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        347,
+        28,
+        375,
+        89
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        287,
+        27,
+        316,
+        90
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        236,
+        30,
+        263,
+        84
+      ]
+    }
+  ]
+}

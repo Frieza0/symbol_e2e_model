@@ -1,0 +1,273 @@
+{
+  "image_id": "pca9555_4_1",
+  "width": 606,
+  "height": 564,
+  "total_pins": 24,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "I\\N\\T\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        62,
+        56,
+        82
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "A1",
+      "bbox_pin": null,
+      "bbox_name": [
+        30,
+        101,
+        54,
+        120
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "A2",
+      "bbox_pin": null,
+      "bbox_name": [
+        31,
+        138,
+        57,
+        158
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "P00",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        178,
+        59,
+        196
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "P01",
+      "bbox_pin": null,
+      "bbox_name": [
+        18,
+        216,
+        58,
+        235
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "P02",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        252,
+        56,
+        274
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "P03",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        288,
+        56,
+        310
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "P04",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        326,
+        57,
+        349
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "P05",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        366,
+        55,
+        387
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "P06",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        403,
+        54,
+        424
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "P07",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        440,
+        55,
+        461
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        478,
+        54,
+        500
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "P10",
+      "bbox_pin": null,
+      "bbox_name": [
+        543,
+        477,
+        581,
+        499
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "P11",
+      "bbox_pin": null,
+      "bbox_name": [
+        548,
+        439,
+        576,
+        462
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "P12",
+      "bbox_pin": null,
+      "bbox_name": [
+        545,
+        400,
+        578,
+        424
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "P13",
+      "bbox_pin": null,
+      "bbox_name": [
+        545,
+        363,
+        579,
+        385
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "P14",
+      "bbox_pin": null,
+      "bbox_name": [
+        547,
+        328,
+        577,
+        349
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "P15",
+      "bbox_pin": null,
+      "bbox_name": [
+        547,
+        290,
+        578,
+        311
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "P16",
+      "bbox_pin": null,
+      "bbox_name": [
+        547,
+        250,
+        578,
+        272
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "P17",
+      "bbox_pin": null,
+      "bbox_name": [
+        545,
+        215,
+        577,
+        233
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "A0",
+      "bbox_pin": null,
+      "bbox_name": [
+        546,
+        179,
+        568,
+        200
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "SCL",
+      "bbox_pin": null,
+      "bbox_name": [
+        546,
+        140,
+        580,
+        159
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "SDA",
+      "bbox_pin": null,
+      "bbox_name": [
+        546,
+        98,
+        579,
+        120
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        547,
+        62,
+        581,
+        82
+      ]
+    }
+  ]
+}

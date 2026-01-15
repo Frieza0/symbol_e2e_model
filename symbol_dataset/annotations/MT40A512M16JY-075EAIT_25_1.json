@@ -1,0 +1,586 @@
+{
+  "image_id": "MT40A512M16JY-075EAIT_25_1",
+  "width": 978,
+  "height": 1452,
+  "total_pins": 96,
+  "package_type": "circle",
+  "pins": [
+    {
+      "pin_number": "A1",
+      "name": "VDDQ",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A2",
+      "name": "VSSQ",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A3",
+      "name": "DQ8",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A7",
+      "name": "UDQS_c",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A8",
+      "name": "VSSQ",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A9",
+      "name": "VDDQ",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B1",
+      "name": "VPP",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B2",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B3",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B7",
+      "name": "UDQS_t",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B8",
+      "name": "DQ9",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B9",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C1",
+      "name": "VDDQ",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C2",
+      "name": "DQ12",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C3",
+      "name": "DQ10",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C7",
+      "name": "DQ11",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C8",
+      "name": "DQ13",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C9",
+      "name": "VSSQ",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D1",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D2",
+      "name": "VSSQ",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D3",
+      "name": "DQ14",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D7",
+      "name": "DQ15",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D8",
+      "name": "VSSQ",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D9",
+      "name": "VDDQ",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E1",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E2",
+      "name": "NF/UDM_n/UDBI_n",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E3",
+      "name": "VSSQ",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E7",
+      "name": "NF/LDM_n/LDBI_n",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E8",
+      "name": "VSSQ",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E9",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F1",
+      "name": "VSSQ",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F2",
+      "name": "VDDQ",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F3",
+      "name": "LDQS_c",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F7",
+      "name": "DQ1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F8",
+      "name": "VDDQ",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F9",
+      "name": "ZQ",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G1",
+      "name": "VDDQ",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G2",
+      "name": "DQ0",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G3",
+      "name": "LDQS_t",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G7",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G8",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G9",
+      "name": "VDDQ",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H1",
+      "name": "VSSQ",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H2",
+      "name": "DQ4",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H3",
+      "name": "DQ2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H7",
+      "name": "DQ3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H8",
+      "name": "DQ5",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H9",
+      "name": "VSSQ",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J1",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J2",
+      "name": "VDDQ",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J3",
+      "name": "DQ6",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J7",
+      "name": "DQ7",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J8",
+      "name": "VDDQ",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J9",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K1",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K2",
+      "name": "CKE",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K3",
+      "name": "ODT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K7",
+      "name": "CK_t",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K8",
+      "name": "CK_c",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K9",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L1",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L2",
+      "name": "WE_n/A14",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L3",
+      "name": "ACT_n",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L7",
+      "name": "CS_n",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L8",
+      "name": "RAS_n/A16",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L9",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M1",
+      "name": "VREFCA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M2",
+      "name": "BG0",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M3",
+      "name": "A10/AP",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M7",
+      "name": "A12/BC_n",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M8",
+      "name": "CAS_n/A15",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M9",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N1",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N2",
+      "name": "BA0",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N3",
+      "name": "A4",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N7",
+      "name": "A3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N8",
+      "name": "BA1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N9",
+      "name": "TEN",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P1",
+      "name": "RESET_n",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P2",
+      "name": "A6",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P3",
+      "name": "A0",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P7",
+      "name": "A1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P8",
+      "name": "A5",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P9",
+      "name": "ALERT_n",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R1",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R2",
+      "name": "A8",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R3",
+      "name": "A2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R7",
+      "name": "A9",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R8",
+      "name": "A7",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R9",
+      "name": "VPP",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T1",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T2",
+      "name": "A11",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T3",
+      "name": "PAR",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T7",
+      "name": "NF/NC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T8",
+      "name": "A13",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T9",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ],
+  "file_name": "MT40A512M16JY-075EAIT_25_1.jpg"
+}

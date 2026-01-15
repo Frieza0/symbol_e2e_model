@@ -1,0 +1,229 @@
+{
+  "image_id": "tps7a84a_3_1",
+  "width": 537,
+  "height": 520,
+  "total_pins": 20,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        30,
+        146,
+        75,
+        172
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "SNS",
+      "bbox_pin": null,
+      "bbox_name": [
+        36,
+        195,
+        79,
+        219
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "FB",
+      "bbox_pin": null,
+      "bbox_name": [
+        46,
+        242,
+        75,
+        269
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "PG",
+      "bbox_pin": null,
+      "bbox_name": [
+        49,
+        292,
+        75,
+        321
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "25mV",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        339,
+        77,
+        368
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "50mV",
+      "bbox_pin": null,
+      "bbox_name": [
+        154,
+        450,
+        177,
+        505
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "100mV",
+      "bbox_pin": null,
+      "bbox_name": [
+        202,
+        444,
+        227,
+        517
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        249,
+        447,
+        274,
+        494
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "200mV",
+      "bbox_pin": null,
+      "bbox_name": [
+        297,
+        450,
+        324,
+        513
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "400mV",
+      "bbox_pin": null,
+      "bbox_name": [
+        345,
+        446,
+        372,
+        516
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "800mV",
+      "bbox_pin": null,
+      "bbox_name": [
+        444,
+        336,
+        516,
+        367
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "BIAS",
+      "bbox_pin": null,
+      "bbox_name": [
+        449,
+        295,
+        493,
+        318
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "NR/SS",
+      "bbox_pin": null,
+      "bbox_name": [
+        445,
+        247,
+        505,
+        269
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "EN",
+      "bbox_pin": null,
+      "bbox_name": [
+        447,
+        201,
+        479,
+        221
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        449,
+        150,
+        473,
+        170
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        348,
+        42,
+        370,
+        68
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        299,
+        42,
+        322,
+        66
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        250,
+        20,
+        272,
+        68
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        201,
+        20,
+        223,
+        67
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        153,
+        21,
+        176,
+        68
+      ]
+    }
+  ]
+}

@@ -6,53 +6,92 @@
   "package_type": "2side",
   "pins": [
     {
-      "pin_number": "1",
+      "pin_number": 1,
       "name": "CS#",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        100,
+        23,
+        167,
+        59
+      ]
     },
     {
-      "pin_number": "2",
+      "pin_number": 2,
       "name": "DO(DQ1)",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        41,
+        81,
+        169,
+        127
+      ]
     },
     {
-      "pin_number": "3",
+      "pin_number": 3,
       "name": "WP#(DQ2)",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        17,
+        140,
+        168,
+        183
+      ]
     },
     {
-      "pin_number": "4",
+      "pin_number": 4,
       "name": "VSS",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        100,
+        195,
+        169,
+        234
+      ]
     },
     {
-      "pin_number": "5",
+      "pin_number": 5,
       "name": "DI(DQO)",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        551,
+        188,
+        660,
+        230
+      ]
     },
     {
-      "pin_number": "6",
+      "pin_number": 6,
       "name": "CLK",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        551,
+        144,
+        614,
+        175
+      ]
     },
     {
-      "pin_number": "7",
+      "pin_number": 7,
       "name": "HOLD#/RESET#(DQ3)",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        544,
+        85,
+        850,
+        122
+      ]
     },
     {
-      "pin_number": "8",
+      "pin_number": 8,
       "name": "VCC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        550,
+        27,
+        628,
+        64
+      ]
     }
-  ],
-  "file_name": "EFM25QU256-E8_8_1.jpg"
+  ]
 }

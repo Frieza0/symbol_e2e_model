@@ -6,77 +6,136 @@
   "package_type": "4side",
   "pins": [
     {
-      "pin_number": "1",
+      "pin_number": 1,
       "name": "SCL/SPC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        406,
+        190,
+        498,
+        222
+      ]
     },
     {
-      "pin_number": "2",
-      "name": "RES",
+      "pin_number": 2,
+      "name": "Res",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        404,
+        256,
+        450,
+        286
+      ]
     },
     {
-      "pin_number": "3",
+      "pin_number": 3,
       "name": "GND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        407,
+        314,
+        460,
+        348
+      ]
     },
     {
-      "pin_number": "4",
+      "pin_number": 4,
       "name": "C1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        403,
+        378,
+        438,
+        410
+      ]
     },
     {
-      "pin_number": "5",
-      "name": "VDD",
+      "pin_number": 5,
+      "name": "Vdd",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        284,
+        445,
+        316,
+        486
+      ]
     },
     {
-      "pin_number": "6",
-      "name": "VDD_IO",
+      "pin_number": 6,
+      "name": "Vdd_IO",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        204,
+        443,
+        241,
+        517
+      ]
     },
     {
-      "pin_number": "7",
+      "pin_number": 7,
       "name": "INT",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        69,
+        380,
+        108,
+        409
+      ]
     },
     {
-      "pin_number": "8",
+      "pin_number": 8,
       "name": "DRDY",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        45,
+        319,
+        118,
+        343
+      ]
     },
     {
-      "pin_number": "9",
+      "pin_number": 9,
       "name": "SD0/SA1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        22,
+        254,
+        116,
+        281
+      ]
     },
     {
-      "pin_number": "10",
+      "pin_number": 10,
       "name": "CS",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        71,
+        194,
+        109,
+        213
+      ]
     },
     {
-      "pin_number": "11",
+      "pin_number": 11,
       "name": "SDA/SDI/SDO",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        207,
+        23,
+        231,
+        157
+      ]
     },
     {
-      "pin_number": "12",
-      "name": "RES",
+      "pin_number": 12,
+      "name": "Res",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        288,
+        104,
+        310,
+        149
+      ]
     }
-  ],
-  "file_name": "ds9463-digital-output-magnetic-sensor-ultralow-power-high-performance-3-axis-magnetometer-stmicroelectronics-en_3_1.jpg"
+  ]
 }

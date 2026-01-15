@@ -1,0 +1,361 @@
+{
+  "image_id": "Infineon-CY29352_4_1",
+  "width": 522,
+  "height": 528,
+  "total_pins": 32,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VCO_SEL",
+      "bbox_pin": null,
+      "bbox_name": [
+        22,
+        157,
+        113,
+        179
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "SELC",
+      "bbox_pin": null,
+      "bbox_name": [
+        58,
+        182,
+        113,
+        201
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "SELB",
+      "bbox_pin": null,
+      "bbox_name": [
+        59,
+        206,
+        113,
+        226
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "SELA",
+      "bbox_pin": null,
+      "bbox_name": [
+        60,
+        230,
+        113,
+        251
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "MR/OE#",
+      "bbox_pin": null,
+      "bbox_name": [
+        34,
+        254,
+        113,
+        277
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "REFCLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        33,
+        279,
+        113,
+        299
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "AVSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        56,
+        304,
+        113,
+        323
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "FB_IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        53,
+        329,
+        113,
+        352
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "PLL_EN#",
+      "bbox_pin": null,
+      "bbox_name": [
+        169,
+        425,
+        192,
+        506
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "AVDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        195,
+        426,
+        217,
+        478
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        220,
+        425,
+        240,
+        468
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "QA0",
+      "bbox_pin": null,
+      "bbox_name": [
+        246,
+        424,
+        266,
+        465
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        272,
+        424,
+        292,
+        465
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "QA1",
+      "bbox_pin": null,
+      "bbox_name": [
+        302,
+        425,
+        320,
+        466
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "QA2",
+      "bbox_pin": null,
+      "bbox_name": [
+        327,
+        425,
+        345,
+        465
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "VDDQA",
+      "bbox_pin": null,
+      "bbox_name": [
+        352,
+        426,
+        374,
+        493
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        428,
+        330,
+        471,
+        348
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "QA3",
+      "bbox_pin": null,
+      "bbox_name": [
+        428,
+        305,
+        470,
+        322
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "QA4",
+      "bbox_pin": null,
+      "bbox_name": [
+        426,
+        282,
+        467,
+        299
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "VDDQA",
+      "bbox_pin": null,
+      "bbox_name": [
+        429,
+        258,
+        499,
+        277
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "VDDQB",
+      "bbox_pin": null,
+      "bbox_name": [
+        429,
+        231,
+        501,
+        251
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "QB0",
+      "bbox_pin": null,
+      "bbox_name": [
+        425,
+        207,
+        469,
+        227
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "QB1",
+      "bbox_pin": null,
+      "bbox_name": [
+        426,
+        183,
+        467,
+        203
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        430,
+        156,
+        469,
+        177
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "VDDQB",
+      "bbox_pin": null,
+      "bbox_name": [
+        351,
+        25,
+        372,
+        95
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "QB2",
+      "bbox_pin": null,
+      "bbox_name": [
+        328,
+        53,
+        344,
+        95
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "QB3",
+      "bbox_pin": null,
+      "bbox_name": [
+        301,
+        53,
+        320,
+        94
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        272,
+        52,
+        294,
+        93
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        247,
+        51,
+        267,
+        92
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "QC0",
+      "bbox_pin": null,
+      "bbox_name": [
+        224,
+        53,
+        240,
+        91
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "QC1",
+      "bbox_pin": null,
+      "bbox_name": [
+        199,
+        52,
+        216,
+        93
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "VDDQC",
+      "bbox_pin": null,
+      "bbox_name": [
+        169,
+        24,
+        188,
+        95
+      ]
+    }
+  ]
+}

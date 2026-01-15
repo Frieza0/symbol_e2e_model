@@ -1,0 +1,490 @@
+{
+  "image_id": "HTG8506A-MH-006SC-G_6_1",
+  "width": 849,
+  "height": 738,
+  "total_pins": 80,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": "A1",
+      "name": "SD1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A2",
+      "name": "SD2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A3",
+      "name": "SD3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A4",
+      "name": "SD4",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A5",
+      "name": "DNC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A6",
+      "name": "TXEN",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A7",
+      "name": "SDA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A8",
+      "name": "SCL",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A9",
+      "name": "FAULTL",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B1",
+      "name": "VCCR",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B2",
+      "name": "VCCR",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B3",
+      "name": "VCCR",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B4",
+      "name": "RXEN",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B5",
+      "name": "DNC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B6",
+      "name": "DNC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B7",
+      "name": "VCCT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B8",
+      "name": "VCCT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B9",
+      "name": "VCCT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C1",
+      "name": "VCCR",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C2",
+      "name": "VCCR",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C3",
+      "name": "VCCR",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C4",
+      "name": "VCCRSQEN",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C5",
+      "name": "DNC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C6",
+      "name": "DNC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C7",
+      "name": "VCCT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C8",
+      "name": "VCCT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C9",
+      "name": "VCCT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D1",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D2",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D3",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D4",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D5",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D6",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D7",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D8",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D9",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E1",
+      "name": "DO2P",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E2",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E3",
+      "name": "DO1P",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E4",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E5",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E6",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E7",
+      "name": "DIN1P",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E8",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E9",
+      "name": "DIN2P",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F1",
+      "name": "DO2N",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F2",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F3",
+      "name": "DO1N",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F4",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F5",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F6",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F7",
+      "name": "DIN1N",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F8",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F9",
+      "name": "DIN2N",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G1",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G2",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G3",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G4",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G5",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G6",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G7",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G8",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H1",
+      "name": "DO3N",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H2",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H3",
+      "name": "DO4N",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H4",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H5",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H6",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H7",
+      "name": "DIN4N",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H8",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H9",
+      "name": "DIN3N",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J1",
+      "name": "DO3P",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J2",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J3",
+      "name": "DO4P",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J4",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J5",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J6",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J7",
+      "name": "DIN4P",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J8",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J9",
+      "name": "DIN3P",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ],
+  "file_name": "HTG8506A-MH-006SC-G_6_1.jpg"
+}

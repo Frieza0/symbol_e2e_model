@@ -1,0 +1,53 @@
+{
+  "image_id": "MAX811-MAX812_1_1",
+  "width": 485,
+  "height": 253,
+  "total_pins": 4,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        97,
+        55,
+        142,
+        78
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "(\\R\\E\\S\\E\\T\\)\\ \\R\\E\\S\\E\\T\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        5,
+        171,
+        142,
+        204
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "M\\R\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        425,
+        171,
+        461,
+        200
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        427,
+        57,
+        469,
+        83
+      ]
+    }
+  ]
+}

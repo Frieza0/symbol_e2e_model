@@ -1,0 +1,185 @@
+{
+  "image_id": "LC5852M24B数据手册 - 副本_8_1",
+  "width": 624,
+  "height": 582,
+  "total_pins": 16,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VEE2",
+      "bbox_pin": null,
+      "bbox_name": [
+        26,
+        38,
+        105,
+        68
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "DESAT",
+      "bbox_pin": null,
+      "bbox_name": [
+        12,
+        108,
+        104,
+        138
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GND2",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        174,
+        101,
+        202
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "OUTH",
+      "bbox_pin": null,
+      "bbox_name": [
+        18,
+        246,
+        106,
+        279
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VCC2",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        312,
+        102,
+        340
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "OUTL",
+      "bbox_pin": null,
+      "bbox_name": [
+        26,
+        382,
+        109,
+        407
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "CLMPI",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        445,
+        101,
+        476
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VEE2",
+      "bbox_pin": null,
+      "bbox_name": [
+        30,
+        510,
+        102,
+        543
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "GND1",
+      "bbox_pin": null,
+      "bbox_name": [
+        534,
+        512,
+        611,
+        545
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "IN+",
+      "bbox_pin": null,
+      "bbox_name": [
+        531,
+        439,
+        583,
+        478
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "IN-",
+      "bbox_pin": null,
+      "bbox_name": [
+        532,
+        374,
+        577,
+        407
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "RDY",
+      "bbox_pin": null,
+      "bbox_name": [
+        533,
+        308,
+        594,
+        340
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "F\\L\\T\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        532,
+        235,
+        587,
+        274
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "R\\S\\T\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        530,
+        176,
+        591,
+        212
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "VCC1",
+      "bbox_pin": null,
+      "bbox_name": [
+        534,
+        104,
+        608,
+        137
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "GND1",
+      "bbox_pin": null,
+      "bbox_name": [
+        533,
+        34,
+        609,
+        67
+      ]
+    }
+  ]
+}

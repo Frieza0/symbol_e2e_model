@@ -1,0 +1,264 @@
+{
+  "image_id": "chip_0313",
+  "width": 256,
+  "height": 256,
+  "total_pins": 16,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "D0",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        26,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VIO",
+      "bbox_pin": [
+        93,
+        58,
+        99,
+        68
+      ],
+      "bbox_name": [
+        13,
+        58,
+        31,
+        68
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "BOOT",
+      "bbox_pin": [
+        93,
+        84,
+        99,
+        94
+      ],
+      "bbox_name": [
+        13,
+        84,
+        42,
+        94
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "FSYNC",
+      "bbox_pin": [
+        93,
+        110,
+        99,
+        120
+      ],
+      "bbox_name": [
+        13,
+        110,
+        47,
+        120
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "RTS",
+      "bbox_pin": [
+        93,
+        135,
+        99,
+        145
+      ],
+      "bbox_name": [
+        13,
+        135,
+        33,
+        145
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SWCLK",
+      "bbox_pin": [
+        93,
+        161,
+        99,
+        171
+      ],
+      "bbox_name": [
+        13,
+        161,
+        49,
+        171
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "VNEG",
+      "bbox_pin": [
+        93,
+        187,
+        99,
+        197
+      ],
+      "bbox_name": [
+        13,
+        187,
+        42,
+        197
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "A17",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        33,
+        223
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "A1",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        197,
+        43
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "GPIO1",
+      "bbox_pin": [
+        163,
+        58,
+        175,
+        68
+      ],
+      "bbox_name": [
+        183,
+        58,
+        215,
+        68
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "TX",
+      "bbox_pin": [
+        163,
+        84,
+        175,
+        94
+      ],
+      "bbox_name": [
+        183,
+        84,
+        196,
+        94
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "D9",
+      "bbox_pin": [
+        163,
+        110,
+        175,
+        120
+      ],
+      "bbox_name": [
+        183,
+        110,
+        196,
+        120
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "VIN",
+      "bbox_pin": [
+        163,
+        135,
+        175,
+        145
+      ],
+      "bbox_name": [
+        183,
+        135,
+        200,
+        145
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "D29",
+      "bbox_pin": [
+        163,
+        161,
+        175,
+        171
+      ],
+      "bbox_name": [
+        183,
+        161,
+        202,
+        171
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "RMII_TX_EN",
+      "bbox_pin": [
+        163,
+        187,
+        175,
+        197
+      ],
+      "bbox_name": [
+        183,
+        186,
+        243,
+        198
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "WAKE#",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        219,
+        223
+      ]
+    }
+  ]
+}

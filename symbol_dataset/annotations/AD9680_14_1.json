@@ -405,169 +405,309 @@
       "pin_number": 37,
       "name": "CSB",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        629,
+        432,
+        670,
+        453
+      ]
     },
     {
       "pin_number": 38,
       "name": "SPIVDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        626,
+        410,
+        698,
+        430
+      ]
     },
     {
       "pin_number": 39,
       "name": "AVDD2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        628,
+        385,
+        693,
+        406
+      ]
     },
     {
       "pin_number": 40,
       "name": "AVDD2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        629,
+        362,
+        692,
+        381
+      ]
     },
     {
       "pin_number": 41,
       "name": "AVDD2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        630,
+        338,
+        692,
+        357
+      ]
     },
     {
       "pin_number": 42,
       "name": "AVDD3",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        628,
+        316,
+        691,
+        335
+      ]
     },
     {
       "pin_number": 43,
       "name": "VIN+B",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        628,
+        292,
+        685,
+        311
+      ]
     },
     {
       "pin_number": 44,
       "name": "VIN–B",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        627,
+        269,
+        684,
+        288
+      ]
     },
     {
       "pin_number": 45,
       "name": "AVDD3",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        629,
+        248,
+        692,
+        265
+      ]
     },
     {
       "pin_number": 46,
       "name": "AVDD2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        628,
+        221,
+        694,
+        242
+      ]
     },
     {
       "pin_number": 47,
       "name": "AVDD1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        629,
+        197,
+        691,
+        217
+      ]
     },
     {
       "pin_number": 48,
       "name": "AVDD1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        628,
+        173,
+        690,
+        193
+      ]
     },
     {
       "pin_number": 49,
       "name": "AVDD1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        544,
+        49,
+        565,
+        114
+      ]
     },
     {
       "pin_number": 50,
       "name": "AVDD2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        521,
+        49,
+        539,
+        112
+      ]
     },
     {
       "pin_number": 51,
       "name": "AVDD2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        495,
+        49,
+        516,
+        113
+      ]
     },
     {
       "pin_number": 52,
       "name": "AVDD1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        473,
+        49,
+        492,
+        112
+      ]
     },
     {
       "pin_number": 53,
       "name": "CLK+",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        451,
+        59,
+        468,
+        114
+      ]
     },
     {
       "pin_number": 54,
       "name": "CLK–",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        429,
+        61,
+        445,
+        111
+      ]
     },
     {
       "pin_number": 55,
       "name": "AVDD1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        402,
+        51,
+        422,
+        111
+      ]
     },
     {
       "pin_number": 56,
       "name": "AGND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        380,
+        57,
+        397,
+        114
+      ]
     },
     {
       "pin_number": 57,
       "name": "AVDD1_SR",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        357,
+        15,
+        377,
+        113
+      ]
     },
     {
       "pin_number": 58,
       "name": "SYSREF+",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        333,
+        28,
+        351,
+        111
+      ]
     },
     {
       "pin_number": 59,
       "name": "SYSREF–",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        309,
+        24,
+        328,
+        111
+      ]
     },
     {
       "pin_number": 60,
       "name": "AGND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        287,
+        55,
+        306,
+        111
+      ]
     },
     {
       "pin_number": 61,
       "name": "AVDD1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        263,
+        48,
+        281,
+        114
+      ]
     },
     {
       "pin_number": 62,
       "name": "AVDD2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        240,
+        49,
+        257,
+        111
+      ]
     },
     {
       "pin_number": 63,
       "name": "AVDD2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        216,
+        47,
+        234,
+        111
+      ]
     },
     {
       "pin_number": 64,
       "name": "AVDD1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        191,
+        49,
+        211,
+        113
+      ]
     }
   ]
 }

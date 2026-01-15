@@ -1,0 +1,1084 @@
+{
+  "image_id": "TMS320F2810_2812_16_1",
+  "width": 1467,
+  "height": 1479,
+  "total_pins": 179,
+  "package_type": "circle",
+  "pins": [
+    {
+      "pin_number": "P1",
+      "name": "X\\Z\\C\\S\\0\\A\\N\\D\\1\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P2",
+      "name": "PWM8",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P3",
+      "name": "PWM10",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P4",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P5",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P6",
+      "name": "CAP6_QEPI2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P7",
+      "name": "XD[8]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P8",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P9",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P10",
+      "name": "T\\3\\C\\T\\R\\I\\P\\_\\P\\D\\P\\I\\N\\T\\B\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P11",
+      "name": "T\\4\\C\\T\\R\\I\\P\\/E\\V\\B\\S\\O\\C\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P12",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P13",
+      "name": "X\\Z\\C\\S\\2\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P14",
+      "name": "SCITXDB",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N1",
+      "name": "SPISOMIA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N2",
+      "name": "PWM7",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N3",
+      "name": "PWM9",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N4",
+      "name": "XR/W",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N5",
+      "name": "T4PWM_T4CMP",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N6",
+      "name": "C\\4\\T\\R\\I\\P\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N7",
+      "name": "TEST2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N8",
+      "name": "VDD3VFL",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N9",
+      "name": "XD[11]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N10",
+      "name": "XA[2]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N11",
+      "name": "XWE",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N12",
+      "name": "CANTXA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N13",
+      "name": "CANRXA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N14",
+      "name": "VDDIO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M1",
+      "name": "SPISIMOA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M2",
+      "name": "XA[1]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M3",
+      "name": "X\\R\\D\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M4",
+      "name": "PWM12",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M5",
+      "name": "CAP4_QEP3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M6",
+      "name": "CAP5_QEP4",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M7",
+      "name": "TEST1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M8",
+      "name": "XD[9]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M9",
+      "name": "X2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M10",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M11",
+      "name": "XA[3]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M12",
+      "name": "PWM1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M13",
+      "name": "SCIRXDB",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M14",
+      "name": "PWM2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L1",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L2",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L3",
+      "name": "XD[6]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L4",
+      "name": "PWM11",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L5",
+      "name": "XD[7]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L6",
+      "name": "C\\5\\T\\R\\I\\P\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L7",
+      "name": "VDDIO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L8",
+      "name": "TDIRB",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L9",
+      "name": "XD[10]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L10",
+      "name": "VDDIO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L11",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L12",
+      "name": "PWM3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L13",
+      "name": "PWM4",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L14",
+      "name": "XD[12]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K1",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K2",
+      "name": "SPICLKA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K3",
+      "name": "XD[4]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K4",
+      "name": "SPISTEA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K5",
+      "name": "T3PWM_T3CMP",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K6",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K7",
+      "name": "C\\6\\T\\R\\I\\P\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K8",
+      "name": "TCLKINB",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K9",
+      "name": "X1/XCLKIN",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K10",
+      "name": "X\\H\\O\\L\\D\\A\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K11",
+      "name": "PWM5",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K12",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K13",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K14",
+      "name": "PWM6",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J1",
+      "name": "MCLKXA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J2",
+      "name": "MFSRA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J3",
+      "name": "XD[3]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J4",
+      "name": "VDDIO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J5",
+      "name": "XD[5]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J10",
+      "name": "XD[13]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J11",
+      "name": "T1PWM_T1CMP",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J12",
+      "name": "XA[4]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J13",
+      "name": "T2PWM_T2CMP",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J14",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H1",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H2",
+      "name": "MCLKRA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H3",
+      "name": "XD[1]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H4",
+      "name": "MFSXA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H5",
+      "name": "XD[2]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H10",
+      "name": "CAP1_QEP1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H11",
+      "name": "CAP2_QEP2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H12",
+      "name": "CAP3_QEPI1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H13",
+      "name": "XA[5]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H14",
+      "name": "T\\1\\C\\T\\R\\I\\P\\_\\P\\D\\P\\I\\N\\T\\A\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G1",
+      "name": "MDXA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G2",
+      "name": "MDRA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G3",
+      "name": "XD[0]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G4",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G5",
+      "name": "XA[0]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G10",
+      "name": "T\\2\\C\\T\\R\\I\\P\\/E\\V\\A\\S\\O\\C\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G11",
+      "name": "VDDIO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G12",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G13",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G14",
+      "name": "XA[6]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F1",
+      "name": "XMP/M\\C\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F2",
+      "name": "ADC-RESEXT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F3",
+      "name": "VSSA1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F4",
+      "name": "VDDA1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F5",
+      "name": "ADCINB7",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F10",
+      "name": "C\\3\\T\\R\\I\\P\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F11",
+      "name": "XCLKOUT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F12",
+      "name": "XA[7]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F13",
+      "name": "TCLKINA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F14",
+      "name": "TDIRA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E1",
+      "name": "AVDD-REFBG",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E2",
+      "name": "ADCREFP",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E3",
+      "name": "AVSS-REFBG",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E4",
+      "name": "ADCREFM",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E5",
+      "name": "ADCINA5",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E6",
+      "name": "ADC-BGREFIN",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E7",
+      "name": "X\\H\\O\\L\\D\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E8",
+      "name": "XNMI_XINT13",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E9",
+      "name": "VDDIO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E10",
+      "name": "XA[13]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E11",
+      "name": "C\\2\\T\\R\\I\\P\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E12",
+      "name": "XA[8]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E13",
+      "name": "C\\1\\T\\R\\I\\P\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E14",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D1",
+      "name": "ADCINB6",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D2",
+      "name": "ADCINB5",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D3",
+      "name": "ADCINB4",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D4",
+      "name": "ADCINA1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D5",
+      "name": "ADCINA6",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D6",
+      "name": "X\\R\\S\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D7",
+      "name": "XA[18]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D8",
+      "name": "XINT2_ADCSOC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D9",
+      "name": "XINT1_\\X\\B\\I\\O\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D10",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D11",
+      "name": "EMU0",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D12",
+      "name": "TDO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D13",
+      "name": "TMS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D14",
+      "name": "XA[9]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C1",
+      "name": "ADCINB3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C2",
+      "name": "ADCINB0",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C3",
+      "name": "ADCINB1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C4",
+      "name": "ADCINA2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C5",
+      "name": "VSSA2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C6",
+      "name": "VSS1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C7",
+      "name": "SCITXDA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C8",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C9",
+      "name": "EMU1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C10",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C11",
+      "name": "XA[12]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C12",
+      "name": "XA[10]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C13",
+      "name": "TDI",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C14",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B1",
+      "name": "ADCINB2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B2",
+      "name": "VDDAIO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B3",
+      "name": "ADCLO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B4",
+      "name": "ADCINA3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B5",
+      "name": "ADCINA7",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B6",
+      "name": "XREADY",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B7",
+      "name": "XA[17]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B8",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B9",
+      "name": "XA[15]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B10",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B11",
+      "name": "XD[14]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B12",
+      "name": "TRST",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B13",
+      "name": "X\\Z\\C\\S\\6\\A\\N\\D\\7\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B14",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A2",
+      "name": "VSSAIO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A3",
+      "name": "ADCINA0",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A4",
+      "name": "ADCINA4",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A5",
+      "name": "VDDA2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A6",
+      "name": "VDD1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A7",
+      "name": "SCIRXDA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A8",
+      "name": "XA[16]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A9",
+      "name": "XD[15]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A10",
+      "name": "XA[14]",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A11",
+      "name": "XF_\\X\\P\\L\\L\\D\\I\\S\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A12",
+      "name": "TCK",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A13",
+      "name": "TESTSEL",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A14",
+      "name": "XA[11]",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ],
+  "file_name": "TMS320F2810_2812_16_1.jpg"
+}

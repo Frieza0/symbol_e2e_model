@@ -1,0 +1,273 @@
+{
+  "image_id": "MAX3160E-MAX3162E_25_2",
+  "width": 477,
+  "height": 564,
+  "total_pins": 24,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "C1+",
+      "bbox_pin": null,
+      "bbox_name": [
+        57,
+        37,
+        98,
+        66
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        61,
+        80,
+        95,
+        108
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "C1-",
+      "bbox_pin": null,
+      "bbox_name": [
+        63,
+        124,
+        97,
+        148
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        54,
+        164,
+        95,
+        189
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "T1OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        40,
+        206,
+        95,
+        233
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "Z(B)",
+      "bbox_pin": null,
+      "bbox_name": [
+        62,
+        247,
+        97,
+        275
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "Y(A)",
+      "bbox_pin": null,
+      "bbox_name": [
+        61,
+        289,
+        97,
+        317
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "T2OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        43,
+        332,
+        97,
+        359
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "R1OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        38,
+        371,
+        96,
+        400
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "RO/R2OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        12,
+        418,
+        96,
+        442
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "S\\H\\D\\N\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        46,
+        454,
+        98,
+        482
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "FAST",
+      "bbox_pin": null,
+      "bbox_name": [
+        53,
+        498,
+        94,
+        526
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "RS-485/R\\S\\-\\2\\3\\2\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        346,
+        499,
+        466,
+        528
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "HDPLX",
+      "bbox_pin": null,
+      "bbox_name": [
+        345,
+        457,
+        404,
+        485
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        344,
+        422,
+        365,
+        445
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "B",
+      "bbox_pin": null,
+      "bbox_name": [
+        344,
+        376,
+        365,
+        398
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "R2IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        344,
+        329,
+        389,
+        358
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "R1IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        345,
+        291,
+        388,
+        313
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "DE485/T2IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        344,
+        250,
+        438,
+        273
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "DI/T1IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        344,
+        209,
+        406,
+        233
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "V-",
+      "bbox_pin": null,
+      "bbox_name": [
+        345,
+        168,
+        370,
+        187
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "C2-",
+      "bbox_pin": null,
+      "bbox_name": [
+        346,
+        124,
+        379,
+        148
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "C2+",
+      "bbox_pin": null,
+      "bbox_name": [
+        346,
+        81,
+        383,
+        107
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "V+",
+      "bbox_pin": null,
+      "bbox_name": [
+        347,
+        39,
+        368,
+        61
+      ]
+    }
+  ]
+}

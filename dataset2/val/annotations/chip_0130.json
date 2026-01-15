@@ -1,0 +1,264 @@
+{
+  "image_id": "chip_0130",
+  "width": 256,
+  "height": 256,
+  "total_pins": 16,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "RF",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        26,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "IO1",
+      "bbox_pin": [
+        93,
+        58,
+        99,
+        68
+      ],
+      "bbox_name": [
+        13,
+        58,
+        30,
+        68
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "DIFFP",
+      "bbox_pin": [
+        93,
+        84,
+        99,
+        94
+      ],
+      "bbox_name": [
+        13,
+        84,
+        42,
+        94
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "DQ",
+      "bbox_pin": [
+        93,
+        110,
+        99,
+        120
+      ],
+      "bbox_name": [
+        13,
+        110,
+        28,
+        120
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "A5",
+      "bbox_pin": [
+        93,
+        135,
+        99,
+        145
+      ],
+      "bbox_name": [
+        13,
+        135,
+        27,
+        145
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "CANH",
+      "bbox_pin": [
+        93,
+        161,
+        99,
+        171
+      ],
+      "bbox_name": [
+        13,
+        161,
+        41,
+        171
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "IO6",
+      "bbox_pin": [
+        93,
+        187,
+        99,
+        197
+      ],
+      "bbox_name": [
+        13,
+        187,
+        30,
+        197
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "ISNS",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        37,
+        223
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "HP_OUT",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        32,
+        224,
+        44
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "PORTD",
+      "bbox_pin": [
+        163,
+        58,
+        175,
+        68
+      ],
+      "bbox_name": [
+        183,
+        58,
+        218,
+        68
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "D27",
+      "bbox_pin": [
+        163,
+        84,
+        175,
+        94
+      ],
+      "bbox_name": [
+        183,
+        84,
+        202,
+        94
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "SCI_TX",
+      "bbox_pin": [
+        163,
+        110,
+        175,
+        120
+      ],
+      "bbox_name": [
+        183,
+        109,
+        219,
+        121
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "WDT",
+      "bbox_pin": [
+        163,
+        135,
+        175,
+        145
+      ],
+      "bbox_name": [
+        183,
+        135,
+        205,
+        145
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "VIO",
+      "bbox_pin": [
+        163,
+        161,
+        175,
+        171
+      ],
+      "bbox_name": [
+        183,
+        161,
+        201,
+        171
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "TCK",
+      "bbox_pin": [
+        163,
+        187,
+        175,
+        197
+      ],
+      "bbox_name": [
+        183,
+        187,
+        203,
+        197
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "TX_SW",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        212,
+        219,
+        224
+      ]
+    }
+  ]
+}

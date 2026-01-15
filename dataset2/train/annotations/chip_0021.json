@@ -1,0 +1,264 @@
+{
+  "image_id": "chip_0021",
+  "width": 256,
+  "height": 256,
+  "total_pins": 16,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "CLK3",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        39,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "ITM",
+      "bbox_pin": [
+        93,
+        58,
+        99,
+        68
+      ],
+      "bbox_name": [
+        13,
+        58,
+        30,
+        68
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "PROG",
+      "bbox_pin": [
+        93,
+        84,
+        99,
+        94
+      ],
+      "bbox_name": [
+        13,
+        84,
+        43,
+        94
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "SELECT",
+      "bbox_pin": [
+        93,
+        110,
+        99,
+        120
+      ],
+      "bbox_name": [
+        13,
+        110,
+        53,
+        120
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "AIN7",
+      "bbox_pin": [
+        93,
+        135,
+        99,
+        145
+      ],
+      "bbox_name": [
+        13,
+        135,
+        37,
+        145
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "RF",
+      "bbox_pin": [
+        93,
+        161,
+        99,
+        171
+      ],
+      "bbox_name": [
+        13,
+        161,
+        26,
+        171
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "O0",
+      "bbox_pin": [
+        93,
+        187,
+        99,
+        197
+      ],
+      "bbox_name": [
+        13,
+        187,
+        27,
+        197
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "FLAG",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        40,
+        223
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "DBG",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        205,
+        43
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "ETH_TX-",
+      "bbox_pin": [
+        163,
+        58,
+        175,
+        68
+      ],
+      "bbox_name": [
+        183,
+        57,
+        226,
+        69
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "DB2",
+      "bbox_pin": [
+        163,
+        84,
+        175,
+        94
+      ],
+      "bbox_name": [
+        183,
+        84,
+        203,
+        94
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "USER_CLK",
+      "bbox_pin": [
+        163,
+        110,
+        175,
+        120
+      ],
+      "bbox_name": [
+        183,
+        109,
+        237,
+        121
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "DATA3",
+      "bbox_pin": [
+        163,
+        135,
+        175,
+        145
+      ],
+      "bbox_name": [
+        183,
+        135,
+        216,
+        145
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "D24",
+      "bbox_pin": [
+        163,
+        161,
+        175,
+        171
+      ],
+      "bbox_name": [
+        183,
+        161,
+        202,
+        171
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "GPIO3",
+      "bbox_pin": [
+        163,
+        187,
+        175,
+        197
+      ],
+      "bbox_name": [
+        183,
+        187,
+        215,
+        197
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "D28",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        202,
+        223
+      ]
+    }
+  ]
+}

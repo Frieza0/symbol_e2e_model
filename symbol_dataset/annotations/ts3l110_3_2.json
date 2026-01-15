@@ -1,0 +1,185 @@
+{
+  "image_id": "ts3l110_3_2",
+  "width": 558,
+  "height": 678,
+  "total_pins": 16,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "S",
+      "bbox_pin": null,
+      "bbox_name": [
+        189,
+        23,
+        212,
+        50
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "IA0",
+      "bbox_pin": null,
+      "bbox_name": [
+        9,
+        184,
+        48,
+        215
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "IA1",
+      "bbox_pin": null,
+      "bbox_name": [
+        2,
+        236,
+        50,
+        276
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "YA",
+      "bbox_pin": null,
+      "bbox_name": [
+        18,
+        287,
+        51,
+        322
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "IB0",
+      "bbox_pin": null,
+      "bbox_name": [
+        8,
+        351,
+        49,
+        384
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "IB1",
+      "bbox_pin": null,
+      "bbox_name": [
+        5,
+        403,
+        46,
+        433
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "YB",
+      "bbox_pin": null,
+      "bbox_name": [
+        15,
+        454,
+        48,
+        485
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        189,
+        611,
+        216,
+        672
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "YC",
+      "bbox_pin": null,
+      "bbox_name": [
+        355,
+        607,
+        380,
+        652
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "IC1",
+      "bbox_pin": null,
+      "bbox_name": [
+        508,
+        461,
+        545,
+        488
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "IC0",
+      "bbox_pin": null,
+      "bbox_name": [
+        506,
+        404,
+        548,
+        433
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "YD",
+      "bbox_pin": null,
+      "bbox_name": [
+        510,
+        346,
+        543,
+        373
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "ID1",
+      "bbox_pin": null,
+      "bbox_name": [
+        505,
+        296,
+        547,
+        324
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "ID0",
+      "bbox_pin": null,
+      "bbox_name": [
+        509,
+        241,
+        546,
+        267
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "E\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        507,
+        179,
+        529,
+        209
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        355,
+        2,
+        381,
+        48
+      ]
+    }
+  ]
+}

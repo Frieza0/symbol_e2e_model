@@ -1,0 +1,185 @@
+{
+  "image_id": "MT25QU128ABA_14_1",
+  "width": 600,
+  "height": 429,
+  "total_pins": 16,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "DQ3/HOLD#",
+      "bbox_pin": null,
+      "bbox_name": [
+        18,
+        27,
+        202,
+        66
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        135,
+        80,
+        198,
+        119
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "RESET#",
+      "bbox_pin": null,
+      "bbox_name": [
+        84,
+        127,
+        198,
+        163
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "DNU",
+      "bbox_pin": null,
+      "bbox_name": [
+        127,
+        173,
+        194,
+        204
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "DNU",
+      "bbox_pin": null,
+      "bbox_name": [
+        124,
+        221,
+        195,
+        256
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "DNU",
+      "bbox_pin": null,
+      "bbox_name": [
+        128,
+        265,
+        194,
+        299
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "S#",
+      "bbox_pin": null,
+      "bbox_name": [
+        158,
+        313,
+        195,
+        344
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "DQ1",
+      "bbox_pin": null,
+      "bbox_name": [
+        129,
+        359,
+        193,
+        396
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "W#/DQ2",
+      "bbox_pin": null,
+      "bbox_name": [
+        459,
+        362,
+        582,
+        394
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        461,
+        312,
+        510,
+        354
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "DNU",
+      "bbox_pin": null,
+      "bbox_name": [
+        456,
+        264,
+        527,
+        301
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "DNU",
+      "bbox_pin": null,
+      "bbox_name": [
+        457,
+        223,
+        526,
+        254
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "DNU",
+      "bbox_pin": null,
+      "bbox_name": [
+        460,
+        175,
+        524,
+        208
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "DNU",
+      "bbox_pin": null,
+      "bbox_name": [
+        456,
+        125,
+        529,
+        157
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "DQ0",
+      "bbox_pin": null,
+      "bbox_name": [
+        454,
+        77,
+        531,
+        112
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "C",
+      "bbox_pin": null,
+      "bbox_name": [
+        453,
+        34,
+        483,
+        62
+      ]
+    }
+  ]
+}

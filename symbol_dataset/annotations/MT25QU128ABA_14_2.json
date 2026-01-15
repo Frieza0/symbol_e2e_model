@@ -1,0 +1,97 @@
+{
+  "image_id": "MT25QU128ABA_14_2",
+  "width": 634,
+  "height": 247,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "S#",
+      "bbox_pin": null,
+      "bbox_name": [
+        111,
+        26,
+        155,
+        64
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "DQ1",
+      "bbox_pin": null,
+      "bbox_name": [
+        77,
+        80,
+        156,
+        119
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "W#/DQ2",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        137,
+        156,
+        174
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        101,
+        196,
+        164,
+        239
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "DQ0",
+      "bbox_pin": null,
+      "bbox_name": [
+        431,
+        194,
+        506,
+        228
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "C",
+      "bbox_pin": null,
+      "bbox_name": [
+        433,
+        142,
+        460,
+        171
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "DQ3/HOLD#",
+      "bbox_pin": null,
+      "bbox_name": [
+        427,
+        84,
+        624,
+        122
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        429,
+        29,
+        497,
+        72
+      ]
+    }
+  ]
+}

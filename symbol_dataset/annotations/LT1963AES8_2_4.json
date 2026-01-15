@@ -1,0 +1,64 @@
+{
+  "image_id": "LT1963AES8_2_4",
+  "width": 459,
+  "height": 207,
+  "total_pins": 5,
+  "package_type": "1side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "S\\H\\D\\N\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        339,
+        159,
+        395,
+        185
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        339,
+        127,
+        364,
+        148
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        341,
+        92,
+        381,
+        114
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        340,
+        56,
+        379,
+        77
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "SENSE/ADJ*",
+      "bbox_pin": null,
+      "bbox_name": [
+        340,
+        19,
+        448,
+        42
+      ]
+    }
+  ]
+}

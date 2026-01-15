@@ -1,0 +1,537 @@
+{
+  "image_id": "lmk00301_4_1",
+  "width": 1161,
+  "height": 1263,
+  "total_pins": 48,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "CLKoutA0",
+      "bbox_pin": null,
+      "bbox_name": [
+        26,
+        293,
+        134,
+        322
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "CLKoutA0*",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        349,
+        137,
+        379
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "CLKoutA1",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        405,
+        138,
+        436
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "CLKoutA1*",
+      "bbox_pin": null,
+      "bbox_name": [
+        17,
+        460,
+        133,
+        492
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VCCOA",
+      "bbox_pin": null,
+      "bbox_name": [
+        53,
+        523,
+        135,
+        558
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "CLKoutA2",
+      "bbox_pin": null,
+      "bbox_name": [
+        26,
+        574,
+        135,
+        609
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "CLKoutA2*",
+      "bbox_pin": null,
+      "bbox_name": [
+        11,
+        634,
+        133,
+        663
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCCOA",
+      "bbox_pin": null,
+      "bbox_name": [
+        58,
+        689,
+        134,
+        725
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "CLKoutA3",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        746,
+        135,
+        777
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "CLKoutA3*",
+      "bbox_pin": null,
+      "bbox_name": [
+        15,
+        803,
+        134,
+        833
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "CLKoutA4",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        859,
+        134,
+        892
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "CLKoutA4*",
+      "bbox_pin": null,
+      "bbox_name": [
+        15,
+        919,
+        132,
+        950
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        238,
+        1068,
+        279,
+        1126
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "CLKoutA_TYPE0",
+      "bbox_pin": null,
+      "bbox_name": [
+        303,
+        1067,
+        337,
+        1253
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        364,
+        1067,
+        399,
+        1120
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "OSCin",
+      "bbox_pin": null,
+      "bbox_name": [
+        418,
+        1065,
+        449,
+        1141
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "OSCout",
+      "bbox_pin": null,
+      "bbox_name": [
+        476,
+        1071,
+        507,
+        1153
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        533,
+        1065,
+        562,
+        1124
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "CLKin_SEL0",
+      "bbox_pin": null,
+      "bbox_name": [
+        586,
+        1069,
+        624,
+        1199
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "CLKin0",
+      "bbox_pin": null,
+      "bbox_name": [
+        647,
+        1063,
+        684,
+        1144
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "CLKin0*",
+      "bbox_pin": null,
+      "bbox_name": [
+        705,
+        1066,
+        743,
+        1160
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "CLKin_SEL1",
+      "bbox_pin": null,
+      "bbox_name": [
+        761,
+        1066,
+        796,
+        1201
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "CLKoutB_TYPE0",
+      "bbox_pin": null,
+      "bbox_name": [
+        817,
+        1067,
+        851,
+        1241
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        875,
+        1068,
+        906,
+        1121
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "CLKoutB4*",
+      "bbox_pin": null,
+      "bbox_name": [
+        1023,
+        924,
+        1141,
+        954
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "CLKoutB4",
+      "bbox_pin": null,
+      "bbox_name": [
+        1027,
+        864,
+        1128,
+        894
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "CLKoutB3*",
+      "bbox_pin": null,
+      "bbox_name": [
+        1023,
+        807,
+        1134,
+        838
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "CLKoutB3",
+      "bbox_pin": null,
+      "bbox_name": [
+        1026,
+        747,
+        1132,
+        780
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "VCCOB",
+      "bbox_pin": null,
+      "bbox_name": [
+        1021,
+        694,
+        1099,
+        727
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "CLKoutB2*",
+      "bbox_pin": null,
+      "bbox_name": [
+        1022,
+        635,
+        1136,
+        666
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "CLKoutB2",
+      "bbox_pin": null,
+      "bbox_name": [
+        1023,
+        579,
+        1126,
+        606
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "VCCOB",
+      "bbox_pin": null,
+      "bbox_name": [
+        1023,
+        524,
+        1097,
+        556
+      ]
+    },
+    {
+      "pin_number": 33,
+      "name": "CLKoutB1*",
+      "bbox_pin": null,
+      "bbox_name": [
+        1024,
+        464,
+        1138,
+        496
+      ]
+    },
+    {
+      "pin_number": 34,
+      "name": "CLKoutB1",
+      "bbox_pin": null,
+      "bbox_name": [
+        1022,
+        406,
+        1130,
+        437
+      ]
+    },
+    {
+      "pin_number": 35,
+      "name": "CLKoutB0*",
+      "bbox_pin": null,
+      "bbox_name": [
+        1025,
+        349,
+        1134,
+        384
+      ]
+    },
+    {
+      "pin_number": 36,
+      "name": "CLKoutB0",
+      "bbox_pin": null,
+      "bbox_name": [
+        1027,
+        291,
+        1126,
+        321
+      ]
+    },
+    {
+      "pin_number": 37,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        876,
+        122,
+        908,
+        185
+      ]
+    },
+    {
+      "pin_number": 38,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        823,
+        142,
+        846,
+        182
+      ]
+    },
+    {
+      "pin_number": 39,
+      "name": "CLKoutB_TYPE1",
+      "bbox_pin": null,
+      "bbox_name": [
+        765,
+        10,
+        793,
+        181
+      ]
+    },
+    {
+      "pin_number": 40,
+      "name": "CLKin1*",
+      "bbox_pin": null,
+      "bbox_name": [
+        709,
+        96,
+        735,
+        176
+      ]
+    },
+    {
+      "pin_number": 41,
+      "name": "CLKin1",
+      "bbox_pin": null,
+      "bbox_name": [
+        653,
+        104,
+        678,
+        184
+      ]
+    },
+    {
+      "pin_number": 42,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        594,
+        135,
+        628,
+        179
+      ]
+    },
+    {
+      "pin_number": 43,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        536,
+        123,
+        564,
+        181
+      ]
+    },
+    {
+      "pin_number": 44,
+      "name": "REFout",
+      "bbox_pin": null,
+      "bbox_name": [
+        478,
+        99,
+        507,
+        181
+      ]
+    },
+    {
+      "pin_number": 45,
+      "name": "VCCOC",
+      "bbox_pin": null,
+      "bbox_name": [
+        428,
+        99,
+        454,
+        182
+      ]
+    },
+    {
+      "pin_number": 46,
+      "name": "REFout_EN",
+      "bbox_pin": null,
+      "bbox_name": [
+        363,
+        55,
+        396,
+        182
+      ]
+    },
+    {
+      "pin_number": 47,
+      "name": "CLKoutA_TYPE1",
+      "bbox_pin": null,
+      "bbox_name": [
+        306,
+        7,
+        338,
+        186
+      ]
+    },
+    {
+      "pin_number": 48,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        252,
+        121,
+        281,
+        182
+      ]
+    }
+  ]
+}

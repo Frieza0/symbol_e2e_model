@@ -1,0 +1,229 @@
+{
+  "image_id": "tps7a88_3_1",
+  "width": 507,
+  "height": 627,
+  "total_pins": 20,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "IN1",
+      "bbox_pin": null,
+      "bbox_name": [
+        22,
+        199,
+        60,
+        224
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "IN1",
+      "bbox_pin": null,
+      "bbox_name": [
+        22,
+        247,
+        61,
+        274
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        10,
+        297,
+        63,
+        323
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "IN2",
+      "bbox_pin": null,
+      "bbox_name": [
+        22,
+        345,
+        61,
+        375
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "IN2",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        394,
+        62,
+        421
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "EN2",
+      "bbox_pin": null,
+      "bbox_name": [
+        135,
+        501,
+        163,
+        552
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "NR/SS2",
+      "bbox_pin": null,
+      "bbox_name": [
+        186,
+        501,
+        211,
+        586
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "SS_CTRL2",
+      "bbox_pin": null,
+      "bbox_name": [
+        233,
+        502,
+        260,
+        614
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "PG2",
+      "bbox_pin": null,
+      "bbox_name": [
+        282,
+        502,
+        304,
+        551
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "FB2",
+      "bbox_pin": null,
+      "bbox_name": [
+        326,
+        504,
+        356,
+        545
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "OUT2",
+      "bbox_pin": null,
+      "bbox_name": [
+        433,
+        396,
+        494,
+        420
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "OUT2",
+      "bbox_pin": null,
+      "bbox_name": [
+        432,
+        347,
+        491,
+        373
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        435,
+        297,
+        484,
+        321
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "OUT1",
+      "bbox_pin": null,
+      "bbox_name": [
+        432,
+        248,
+        497,
+        273
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "OUT1",
+      "bbox_pin": null,
+      "bbox_name": [
+        434,
+        202,
+        489,
+        226
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "FB1",
+      "bbox_pin": null,
+      "bbox_name": [
+        332,
+        79,
+        354,
+        124
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "PG1",
+      "bbox_pin": null,
+      "bbox_name": [
+        285,
+        78,
+        307,
+        121
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "SS_CTRL1",
+      "bbox_pin": null,
+      "bbox_name": [
+        235,
+        18,
+        260,
+        120
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "NR/SS1",
+      "bbox_pin": null,
+      "bbox_name": [
+        182,
+        43,
+        208,
+        123
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "EN1",
+      "bbox_pin": null,
+      "bbox_name": [
+        135,
+        75,
+        161,
+        121
+      ]
+    }
+  ]
+}

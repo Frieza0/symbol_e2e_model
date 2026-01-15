@@ -1,0 +1,185 @@
+{
+  "image_id": "MS2575_2_1",
+  "width": 699,
+  "height": 537,
+  "total_pins": 16,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "1B",
+      "bbox_pin": null,
+      "bbox_name": [
+        38,
+        46,
+        81,
+        80
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "1A",
+      "bbox_pin": null,
+      "bbox_name": [
+        38,
+        105,
+        85,
+        136
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "1Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        41,
+        167,
+        80,
+        197
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "EN",
+      "bbox_pin": null,
+      "bbox_name": [
+        36,
+        224,
+        80,
+        256
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "2Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        42,
+        285,
+        81,
+        319
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "2A",
+      "bbox_pin": null,
+      "bbox_name": [
+        43,
+        343,
+        82,
+        376
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "2B",
+      "bbox_pin": null,
+      "bbox_name": [
+        43,
+        402,
+        82,
+        433
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        459,
+        84,
+        492
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "3B",
+      "bbox_pin": null,
+      "bbox_name": [
+        620,
+        460,
+        660,
+        495
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "3A",
+      "bbox_pin": null,
+      "bbox_name": [
+        619,
+        402,
+        661,
+        433
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "3!Y!",
+      "bbox_pin": null,
+      "bbox_name": [
+        620,
+        343,
+        660,
+        376
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "EN*",
+      "bbox_pin": null,
+      "bbox_name": [
+        617,
+        278,
+        670,
+        316
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "4Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        621,
+        222,
+        659,
+        254
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "4A",
+      "bbox_pin": null,
+      "bbox_name": [
+        618,
+        164,
+        663,
+        199
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "4B",
+      "bbox_pin": null,
+      "bbox_name": [
+        614,
+        101,
+        666,
+        141
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        616,
+        44,
+        673,
+        75
+      ]
+    }
+  ]
+}

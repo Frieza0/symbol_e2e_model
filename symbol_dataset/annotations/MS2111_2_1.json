@@ -1,0 +1,97 @@
+{
+  "image_id": "MS2111_2_1",
+  "width": 654,
+  "height": 477,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "R",
+      "bbox_pin": null,
+      "bbox_name": [
+        36,
+        72,
+        64,
+        104
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "R\\E\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        160,
+        65,
+        207
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "DE",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        259,
+        63,
+        302
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "D",
+      "bbox_pin": null,
+      "bbox_name": [
+        43,
+        360,
+        69,
+        396
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        560,
+        360,
+        629,
+        399
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        567,
+        264,
+        598,
+        301
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "B",
+      "bbox_pin": null,
+      "bbox_name": [
+        560,
+        174,
+        593,
+        207
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        562,
+        70,
+        629,
+        106
+      ]
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "image_id": "chip_0231",
+  "width": 256,
+  "height": 256,
+  "total_pins": 12,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "AB0",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        34,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "NC",
+      "bbox_pin": [
+        93,
+        69,
+        99,
+        79
+      ],
+      "bbox_name": [
+        13,
+        69,
+        27,
+        79
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "AOUT",
+      "bbox_pin": [
+        93,
+        105,
+        99,
+        115
+      ],
+      "bbox_name": [
+        13,
+        105,
+        42,
+        115
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "SCL",
+      "bbox_pin": [
+        93,
+        141,
+        99,
+        151
+      ],
+      "bbox_name": [
+        13,
+        141,
+        33,
+        151
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "AB3",
+      "bbox_pin": [
+        93,
+        177,
+        99,
+        187
+      ],
+      "bbox_name": [
+        13,
+        177,
+        34,
+        187
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "USB_DM",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        212,
+        55,
+        224
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "D2",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        196,
+        43
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "IO3",
+      "bbox_pin": [
+        163,
+        69,
+        175,
+        79
+      ],
+      "bbox_name": [
+        183,
+        69,
+        200,
+        79
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "SS",
+      "bbox_pin": [
+        163,
+        105,
+        175,
+        115
+      ],
+      "bbox_name": [
+        183,
+        105,
+        197,
+        115
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "VUSB",
+      "bbox_pin": [
+        163,
+        141,
+        169,
+        151
+      ],
+      "bbox_name": [
+        183,
+        141,
+        211,
+        151
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "BOOT1",
+      "bbox_pin": [
+        163,
+        177,
+        169,
+        187
+      ],
+      "bbox_name": [
+        183,
+        177,
+        218,
+        187
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "AN1",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        204,
+        223
+      ]
+    }
+  ]
+}

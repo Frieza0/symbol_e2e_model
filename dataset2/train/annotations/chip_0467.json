@@ -1,0 +1,104 @@
+{
+  "image_id": "chip_0467",
+  "width": 256,
+  "height": 256,
+  "total_pins": 6,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VUSB",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        41,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "GPIO8",
+      "bbox_pin": [
+        93,
+        123,
+        99,
+        133
+      ],
+      "bbox_name": [
+        13,
+        123,
+        45,
+        133
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "PD",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        27,
+        223
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "DATA5",
+      "bbox_pin": [
+        163,
+        33,
+        169,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        216,
+        43
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VBUS",
+      "bbox_pin": [
+        163,
+        123,
+        169,
+        133
+      ],
+      "bbox_name": [
+        183,
+        123,
+        211,
+        133
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "STOP",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        211,
+        223
+      ]
+    }
+  ]
+}

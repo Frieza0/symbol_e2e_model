@@ -1,0 +1,58 @@
+{
+  "image_id": "pca9306_4_4",
+  "width": 342,
+  "height": 558,
+  "total_pins": 8,
+  "package_type": "circle",
+  "pins": [
+    {
+      "pin_number": "A1",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A2",
+      "name": "EN",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B1",
+      "name": "VREF1�",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B2",
+      "name": "VREF2�",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C1",
+      "name": "SCL1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C2",
+      "name": "SCL2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D1",
+      "name": "SDA1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D2",
+      "name": "SDA2",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ],
+  "file_name": "pca9306_4_4.jpg"
+}

@@ -1,0 +1,229 @@
+{
+  "image_id": "tps74401_5_2",
+  "width": 507,
+  "height": 504,
+  "total_pins": 20,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        338,
+        13,
+        364,
+        61
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        292,
+        26,
+        314,
+        63
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        245,
+        25,
+        266,
+        62
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        196,
+        25,
+        219,
+        63
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        148,
+        34,
+        170,
+        63
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        38,
+        138,
+        65,
+        163
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        36,
+        183,
+        68,
+        215
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        37,
+        232,
+        65,
+        262
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "PG",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        283,
+        66,
+        308
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "BIAS",
+      "bbox_pin": null,
+      "bbox_name": [
+        9,
+        331,
+        63,
+        356
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "EN",
+      "bbox_pin": null,
+      "bbox_name": [
+        148,
+        440,
+        172,
+        475
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        194,
+        442,
+        220,
+        493
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        244,
+        442,
+        268,
+        480
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        291,
+        440,
+        317,
+        480
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "SS",
+      "bbox_pin": null,
+      "bbox_name": [
+        341,
+        441,
+        364,
+        478
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "FB",
+      "bbox_pin": null,
+      "bbox_name": [
+        444,
+        330,
+        478,
+        354
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        446,
+        287,
+        482,
+        306
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        444,
+        235,
+        496,
+        259
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        446,
+        187,
+        494,
+        210
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        444,
+        136,
+        494,
+        162
+      ]
+    }
+  ]
+}

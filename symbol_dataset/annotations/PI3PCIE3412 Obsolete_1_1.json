@@ -1,0 +1,449 @@
+{
+  "image_id": "PI3PCIE3412 Obsolete_1_1",
+  "width": 573,
+  "height": 843,
+  "total_pins": 40,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "A0+",
+      "bbox_pin": null,
+      "bbox_name": [
+        29,
+        146,
+        82,
+        181
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "A0-",
+      "bbox_pin": null,
+      "bbox_name": [
+        41,
+        188,
+        85,
+        217
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        40,
+        225,
+        83,
+        262
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "A1+",
+      "bbox_pin": null,
+      "bbox_name": [
+        30,
+        267,
+        83,
+        294
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "A1-",
+      "bbox_pin": null,
+      "bbox_name": [
+        39,
+        300,
+        85,
+        330
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        34,
+        337,
+        85,
+        377
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "SEL",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        377,
+        85,
+        407
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        14,
+        413,
+        83,
+        445
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "A2+",
+      "bbox_pin": null,
+      "bbox_name": [
+        29,
+        452,
+        82,
+        481
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "A2-",
+      "bbox_pin": null,
+      "bbox_name": [
+        33,
+        491,
+        85,
+        520
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        38,
+        535,
+        84,
+        566
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        18,
+        571,
+        83,
+        598
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "A3+",
+      "bbox_pin": null,
+      "bbox_name": [
+        30,
+        606,
+        85,
+        634
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "A3-",
+      "bbox_pin": null,
+      "bbox_name": [
+        35,
+        641,
+        85,
+        673
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        165,
+        758,
+        194,
+        827
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        210,
+        758,
+        239,
+        827
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        246,
+        760,
+        284,
+        805
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        285,
+        762,
+        314,
+        826
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "C3-",
+      "bbox_pin": null,
+      "bbox_name": [
+        326,
+        759,
+        355,
+        807
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "C3+",
+      "bbox_pin": null,
+      "bbox_name": [
+        367,
+        760,
+        393,
+        816
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "C2-",
+      "bbox_pin": null,
+      "bbox_name": [
+        486,
+        647,
+        534,
+        674
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "C2+",
+      "bbox_pin": null,
+      "bbox_name": [
+        485,
+        610,
+        539,
+        636
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "B3-",
+      "bbox_pin": null,
+      "bbox_name": [
+        485,
+        571,
+        533,
+        599
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "B3+",
+      "bbox_pin": null,
+      "bbox_name": [
+        487,
+        536,
+        537,
+        560
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "B2-",
+      "bbox_pin": null,
+      "bbox_name": [
+        486,
+        495,
+        532,
+        524
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "B2+",
+      "bbox_pin": null,
+      "bbox_name": [
+        486,
+        459,
+        536,
+        484
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        485,
+        422,
+        552,
+        450
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        486,
+        382,
+        529,
+        415
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "C1-",
+      "bbox_pin": null,
+      "bbox_name": [
+        487,
+        346,
+        535,
+        371
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "C1+",
+      "bbox_pin": null,
+      "bbox_name": [
+        485,
+        308,
+        538,
+        336
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "C0-",
+      "bbox_pin": null,
+      "bbox_name": [
+        486,
+        270,
+        532,
+        298
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "C0+",
+      "bbox_pin": null,
+      "bbox_name": [
+        484,
+        230,
+        537,
+        257
+      ]
+    },
+    {
+      "pin_number": 33,
+      "name": "B1-",
+      "bbox_pin": null,
+      "bbox_name": [
+        485,
+        192,
+        530,
+        220
+      ]
+    },
+    {
+      "pin_number": 34,
+      "name": "B1+",
+      "bbox_pin": null,
+      "bbox_name": [
+        486,
+        152,
+        534,
+        181
+      ]
+    },
+    {
+      "pin_number": 35,
+      "name": "B0-",
+      "bbox_pin": null,
+      "bbox_name": [
+        363,
+        44,
+        388,
+        90
+      ]
+    },
+    {
+      "pin_number": 36,
+      "name": "B0+",
+      "bbox_pin": null,
+      "bbox_name": [
+        324,
+        40,
+        351,
+        92
+      ]
+    },
+    {
+      "pin_number": 37,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        288,
+        27,
+        314,
+        94
+      ]
+    },
+    {
+      "pin_number": 38,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        251,
+        42,
+        282,
+        91
+      ]
+    },
+    {
+      "pin_number": 39,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        210,
+        28,
+        239,
+        89
+      ]
+    },
+    {
+      "pin_number": 40,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        174,
+        28,
+        201,
+        92
+      ]
+    }
+  ]
+}

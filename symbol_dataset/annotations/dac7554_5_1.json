@@ -6,65 +6,114 @@
   "package_type": "2side",
   "pins": [
     {
-      "pin_number": "1",
+      "pin_number": 1,
       "name": "VOUTA",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        30,
+        32,
+        109,
+        66
+      ]
     },
     {
-      "pin_number": "2",
+      "pin_number": 2,
       "name": "VOUTB",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        26,
+        75,
+        110,
+        104
+      ]
     },
     {
-      "pin_number": "3",
+      "pin_number": 3,
       "name": "GND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        46,
+        112,
+        109,
+        138
+      ]
     },
     {
-      "pin_number": "4",
+      "pin_number": 4,
       "name": "VOUTC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        23,
+        150,
+        111,
+        181
+      ]
     },
     {
-      "pin_number": "5",
+      "pin_number": 5,
       "name": "VOUTD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        25,
+        189,
+        110,
+        221
+      ]
     },
     {
-      "pin_number": "6",
+      "pin_number": 6,
       "name": "SCLK",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        423,
+        189,
+        498,
+        215
+      ]
     },
     {
-      "pin_number": "7",
+      "pin_number": 7,
       "name": "DIN",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        422,
+        147,
+        472,
+        173
+      ]
     },
     {
-      "pin_number": "8",
+      "pin_number": 8,
       "name": "VDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        420,
+        114,
+        480,
+        137
+      ]
     },
     {
-      "pin_number": "9",
+      "pin_number": 9,
       "name": "S\\Y\\N\\C\\",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        421,
+        69,
+        499,
+        99
+      ]
     },
     {
-      "pin_number": "10",
+      "pin_number": 10,
       "name": "REFIN",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        422,
+        34,
+        504,
+        60
+      ]
     }
-  ],
-  "file_name": "dac7554_5_1.jpg"
+  ]
 }

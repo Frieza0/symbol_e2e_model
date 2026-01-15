@@ -1,0 +1,274 @@
+{
+  "image_id": "tms320f28235_17_1",
+  "width": 1218,
+  "height": 1137,
+  "total_pins": 44,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": "H1",
+      "name": "GPIO12/T\\Z\\1\\/\\CANTXB/MDXB",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H2",
+      "name": "GPIO13/T\\Z\\2\\/\\CANRXB/MDRB",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H3",
+      "name": "GPIO14//T\\Z\\3\\\\X\\H\\O\\L\\D\\/\\SCITXDB/MCLKXB",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H4",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H6",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H7",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J1",
+      "name": "GPIO15///SCIRXDB/MFSXBT\\Z\\4\\\\X\\H\\O\\L\\D\\A\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J2",
+      "name": "GPIO16/SPISIMOA/CANTXB/T\\Z\\5\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J3",
+      "name": "GPIO17/SPISOMIA/CANRXB/T\\Z\\6\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J4",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J6",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J7",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K1",
+      "name": "ADCINA7",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K2",
+      "name": "ADCINA6",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K3",
+      "name": "VDD1A18",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K4",
+      "name": "VDDA2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L1",
+      "name": "ADCINA5",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L2",
+      "name": "ADCINA4",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L3",
+      "name": "ADCINA3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L4",
+      "name": "VSS1AGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L5",
+      "name": "VDDAIO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L6",
+      "name": "VDD2A18",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L7",
+      "name": "TEST2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M1",
+      "name": "ADCINA2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M2",
+      "name": "ADCINA1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M3",
+      "name": "ADCINA0",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M4",
+      "name": "ADCINB2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M5",
+      "name": "ADCINB4",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M6",
+      "name": "ADCINB6",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M7",
+      "name": "TEST1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N1",
+      "name": "VSSAIO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N2",
+      "name": "ADCLO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N3",
+      "name": "ADCINB1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N4",
+      "name": "ADCINB3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N5",
+      "name": "ADCINB5",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N6",
+      "name": "ADCINB7",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N7",
+      "name": "EMU0",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P1",
+      "name": "VSSA2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P2",
+      "name": "VSS2AGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P3",
+      "name": "ADCINB0",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P4",
+      "name": "ADCREFM",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P5",
+      "name": "ADCREFP",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P6",
+      "name": "ADCRESEXT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P7",
+      "name": "ADCREFIN",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ],
+  "file_name": "tms320f28235_17_1.jpg"
+}

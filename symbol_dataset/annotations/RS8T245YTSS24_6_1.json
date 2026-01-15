@@ -1,0 +1,273 @@
+{
+  "image_id": "RS8T245YTSS24_6_1",
+  "width": 498,
+  "height": 574,
+  "total_pins": 24,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VCCA",
+      "bbox_pin": null,
+      "bbox_name": [
+        14,
+        24,
+        69,
+        52
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "DIR",
+      "bbox_pin": null,
+      "bbox_name": [
+        16,
+        71,
+        60,
+        95
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "A1",
+      "bbox_pin": null,
+      "bbox_name": [
+        29,
+        117,
+        62,
+        144
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "A2",
+      "bbox_pin": null,
+      "bbox_name": [
+        28,
+        165,
+        62,
+        193
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "A3",
+      "bbox_pin": null,
+      "bbox_name": [
+        30,
+        209,
+        61,
+        233
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "A4",
+      "bbox_pin": null,
+      "bbox_name": [
+        26,
+        259,
+        63,
+        282
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "A5",
+      "bbox_pin": null,
+      "bbox_name": [
+        31,
+        304,
+        62,
+        326
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "A6",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        353,
+        63,
+        374
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "A7",
+      "bbox_pin": null,
+      "bbox_name": [
+        33,
+        390,
+        61,
+        419
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "A8",
+      "bbox_pin": null,
+      "bbox_name": [
+        28,
+        439,
+        62,
+        463
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        14,
+        478,
+        62,
+        503
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        10,
+        522,
+        60,
+        545
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        436,
+        520,
+        486,
+        543
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "B8",
+      "bbox_pin": null,
+      "bbox_name": [
+        435,
+        479,
+        467,
+        505
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "B7",
+      "bbox_pin": null,
+      "bbox_name": [
+        437,
+        439,
+        467,
+        461
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "B6",
+      "bbox_pin": null,
+      "bbox_name": [
+        437,
+        394,
+        472,
+        417
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "B5",
+      "bbox_pin": null,
+      "bbox_name": [
+        436,
+        349,
+        472,
+        375
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "B4",
+      "bbox_pin": null,
+      "bbox_name": [
+        432,
+        298,
+        470,
+        327
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "B3",
+      "bbox_pin": null,
+      "bbox_name": [
+        435,
+        257,
+        470,
+        285
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "B2",
+      "bbox_pin": null,
+      "bbox_name": [
+        436,
+        211,
+        470,
+        237
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "B1",
+      "bbox_pin": null,
+      "bbox_name": [
+        437,
+        165,
+        472,
+        190
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "O\\E\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        438,
+        115,
+        476,
+        141
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "VCCB",
+      "bbox_pin": null,
+      "bbox_name": [
+        433,
+        68,
+        482,
+        96
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "VCCB",
+      "bbox_pin": null,
+      "bbox_name": [
+        434,
+        29,
+        479,
+        51
+      ]
+    }
+  ]
+}

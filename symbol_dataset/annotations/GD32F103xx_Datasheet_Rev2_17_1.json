@@ -1,0 +1,713 @@
+{
+  "image_id": "GD32F103xx_Datasheet_Rev2_17_1",
+  "width": 1122,
+  "height": 942,
+  "total_pins": 64,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VBAT",
+      "bbox_pin": null,
+      "bbox_name": [
+        175,
+        164,
+        248,
+        193
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "PC13-TAMPER-RTC",
+      "bbox_pin": null,
+      "bbox_name": [
+        10,
+        207,
+        240,
+        233
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "PC14-OSC32IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        58,
+        246,
+        235,
+        276
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "PC15-OSC32OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        31,
+        288,
+        237,
+        316
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "OSCIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        150,
+        327,
+        236,
+        351
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "OSCOUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        125,
+        365,
+        234,
+        392
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "NRST",
+      "bbox_pin": null,
+      "bbox_name": [
+        168,
+        406,
+        241,
+        433
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "PC0",
+      "bbox_pin": null,
+      "bbox_name": [
+        190,
+        442,
+        242,
+        468
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "PC1",
+      "bbox_pin": null,
+      "bbox_name": [
+        189,
+        482,
+        242,
+        511
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "PC2",
+      "bbox_pin": null,
+      "bbox_name": [
+        190,
+        522,
+        242,
+        551
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "PC3",
+      "bbox_pin": null,
+      "bbox_name": [
+        190,
+        559,
+        241,
+        586
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "VSSA",
+      "bbox_pin": null,
+      "bbox_name": [
+        174,
+        594,
+        244,
+        621
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "VDDA",
+      "bbox_pin": null,
+      "bbox_name": [
+        171,
+        633,
+        244,
+        660
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "PA0-WKUP",
+      "bbox_pin": null,
+      "bbox_name": [
+        106,
+        673,
+        237,
+        702
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "PA1",
+      "bbox_pin": null,
+      "bbox_name": [
+        189,
+        715,
+        237,
+        743
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "PA2",
+      "bbox_pin": null,
+      "bbox_name": [
+        188,
+        757,
+        241,
+        785
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "PA3",
+      "bbox_pin": null,
+      "bbox_name": [
+        305,
+        852,
+        334,
+        905
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "VSS_4",
+      "bbox_pin": null,
+      "bbox_name": [
+        350,
+        843,
+        376,
+        927
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "VDD_4",
+      "bbox_pin": null,
+      "bbox_name": [
+        389,
+        847,
+        416,
+        932
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "PA4",
+      "bbox_pin": null,
+      "bbox_name": [
+        431,
+        852,
+        456,
+        904
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "PA5",
+      "bbox_pin": null,
+      "bbox_name": [
+        471,
+        851,
+        499,
+        905
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "PA6",
+      "bbox_pin": null,
+      "bbox_name": [
+        514,
+        851,
+        540,
+        903
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "PA7",
+      "bbox_pin": null,
+      "bbox_name": [
+        556,
+        853,
+        583,
+        905
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "PC4",
+      "bbox_pin": null,
+      "bbox_name": [
+        597,
+        851,
+        623,
+        905
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "PC5",
+      "bbox_pin": null,
+      "bbox_name": [
+        639,
+        850,
+        667,
+        908
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "PB0",
+      "bbox_pin": null,
+      "bbox_name": [
+        683,
+        851,
+        707,
+        903
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "PB1",
+      "bbox_pin": null,
+      "bbox_name": [
+        723,
+        848,
+        746,
+        902
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "PB2",
+      "bbox_pin": null,
+      "bbox_name": [
+        763,
+        848,
+        791,
+        906
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "PB10",
+      "bbox_pin": null,
+      "bbox_name": [
+        809,
+        852,
+        833,
+        916
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "PB11",
+      "bbox_pin": null,
+      "bbox_name": [
+        849,
+        850,
+        874,
+        916
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "VSS_1",
+      "bbox_pin": null,
+      "bbox_name": [
+        890,
+        850,
+        917,
+        927
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "VDD_1",
+      "bbox_pin": null,
+      "bbox_name": [
+        928,
+        847,
+        958,
+        926
+      ]
+    },
+    {
+      "pin_number": 33,
+      "name": "PB12",
+      "bbox_pin": null,
+      "bbox_name": [
+        1037,
+        757,
+        1100,
+        784
+      ]
+    },
+    {
+      "pin_number": 34,
+      "name": "PB13",
+      "bbox_pin": null,
+      "bbox_name": [
+        1037,
+        715,
+        1097,
+        743
+      ]
+    },
+    {
+      "pin_number": 35,
+      "name": "PB14",
+      "bbox_pin": null,
+      "bbox_name": [
+        1034,
+        680,
+        1099,
+        707
+      ]
+    },
+    {
+      "pin_number": 36,
+      "name": "PB15",
+      "bbox_pin": null,
+      "bbox_name": [
+        1035,
+        638,
+        1098,
+        668
+      ]
+    },
+    {
+      "pin_number": 37,
+      "name": "PC6",
+      "bbox_pin": null,
+      "bbox_name": [
+        1037,
+        595,
+        1089,
+        625
+      ]
+    },
+    {
+      "pin_number": 38,
+      "name": "PC7",
+      "bbox_pin": null,
+      "bbox_name": [
+        1035,
+        558,
+        1089,
+        584
+      ]
+    },
+    {
+      "pin_number": 39,
+      "name": "PC8",
+      "bbox_pin": null,
+      "bbox_name": [
+        1037,
+        518,
+        1089,
+        548
+      ]
+    },
+    {
+      "pin_number": 40,
+      "name": "PC9",
+      "bbox_pin": null,
+      "bbox_name": [
+        1039,
+        484,
+        1089,
+        511
+      ]
+    },
+    {
+      "pin_number": 41,
+      "name": "PA8",
+      "bbox_pin": null,
+      "bbox_name": [
+        1036,
+        440,
+        1092,
+        470
+      ]
+    },
+    {
+      "pin_number": 42,
+      "name": "PA9",
+      "bbox_pin": null,
+      "bbox_name": [
+        1036,
+        402,
+        1089,
+        429
+      ]
+    },
+    {
+      "pin_number": 43,
+      "name": "PA10",
+      "bbox_pin": null,
+      "bbox_name": [
+        1033,
+        361,
+        1097,
+        392
+      ]
+    },
+    {
+      "pin_number": 44,
+      "name": "PA11",
+      "bbox_pin": null,
+      "bbox_name": [
+        1033,
+        324,
+        1095,
+        351
+      ]
+    },
+    {
+      "pin_number": 45,
+      "name": "PA12",
+      "bbox_pin": null,
+      "bbox_name": [
+        1034,
+        286,
+        1096,
+        314
+      ]
+    },
+    {
+      "pin_number": 46,
+      "name": "PA13",
+      "bbox_pin": null,
+      "bbox_name": [
+        1030,
+        247,
+        1098,
+        275
+      ]
+    },
+    {
+      "pin_number": 47,
+      "name": "VSS_2",
+      "bbox_pin": null,
+      "bbox_name": [
+        1027,
+        204,
+        1107,
+        234
+      ]
+    },
+    {
+      "pin_number": 48,
+      "name": "VDD_2",
+      "bbox_pin": null,
+      "bbox_name": [
+        1026,
+        167,
+        1107,
+        194
+      ]
+    },
+    {
+      "pin_number": 49,
+      "name": "PA14",
+      "bbox_pin": null,
+      "bbox_name": [
+        931,
+        33,
+        956,
+        98
+      ]
+    },
+    {
+      "pin_number": 50,
+      "name": "PA15",
+      "bbox_pin": null,
+      "bbox_name": [
+        890,
+        33,
+        913,
+        100
+      ]
+    },
+    {
+      "pin_number": 51,
+      "name": "PC10",
+      "bbox_pin": null,
+      "bbox_name": [
+        845,
+        34,
+        872,
+        99
+      ]
+    },
+    {
+      "pin_number": 52,
+      "name": "PC11",
+      "bbox_pin": null,
+      "bbox_name": [
+        807,
+        32,
+        830,
+        95
+      ]
+    },
+    {
+      "pin_number": 53,
+      "name": "PC12",
+      "bbox_pin": null,
+      "bbox_name": [
+        767,
+        33,
+        789,
+        99
+      ]
+    },
+    {
+      "pin_number": 54,
+      "name": "PD2",
+      "bbox_pin": null,
+      "bbox_name": [
+        723,
+        44,
+        750,
+        98
+      ]
+    },
+    {
+      "pin_number": 55,
+      "name": "PB3",
+      "bbox_pin": null,
+      "bbox_name": [
+        683,
+        47,
+        705,
+        100
+      ]
+    },
+    {
+      "pin_number": 56,
+      "name": "PB4",
+      "bbox_pin": null,
+      "bbox_name": [
+        638,
+        47,
+        664,
+        98
+      ]
+    },
+    {
+      "pin_number": 57,
+      "name": "PB5",
+      "bbox_pin": null,
+      "bbox_name": [
+        599,
+        48,
+        624,
+        98
+      ]
+    },
+    {
+      "pin_number": 58,
+      "name": "PB6",
+      "bbox_pin": null,
+      "bbox_name": [
+        558,
+        47,
+        584,
+        98
+      ]
+    },
+    {
+      "pin_number": 59,
+      "name": "PB7",
+      "bbox_pin": null,
+      "bbox_name": [
+        517,
+        46,
+        543,
+        98
+      ]
+    },
+    {
+      "pin_number": 60,
+      "name": "BOOT0",
+      "bbox_pin": null,
+      "bbox_name": [
+        473,
+        14,
+        499,
+        102
+      ]
+    },
+    {
+      "pin_number": 61,
+      "name": "PB8",
+      "bbox_pin": null,
+      "bbox_name": [
+        432,
+        47,
+        457,
+        99
+      ]
+    },
+    {
+      "pin_number": 62,
+      "name": "PB9",
+      "bbox_pin": null,
+      "bbox_name": [
+        389,
+        46,
+        415,
+        97
+      ]
+    },
+    {
+      "pin_number": 63,
+      "name": "VSS_3",
+      "bbox_pin": null,
+      "bbox_name": [
+        346,
+        23,
+        376,
+        100
+      ]
+    },
+    {
+      "pin_number": 64,
+      "name": "VDD_3",
+      "bbox_pin": null,
+      "bbox_name": [
+        303,
+        22,
+        334,
+        101
+      ]
+    }
+  ]
+}

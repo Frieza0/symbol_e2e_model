@@ -6,65 +6,114 @@
   "package_type": "2side",
   "pins": [
     {
-      "pin_number": "1",
+      "pin_number": 1,
       "name": "ADDR",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        75,
+        81,
+        140,
+        109
+      ]
     },
     {
-      "pin_number": "2",
+      "pin_number": 2,
       "name": "ALERT/RDY",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        21,
+        136,
+        140,
+        162
+      ]
     },
     {
-      "pin_number": "3",
+      "pin_number": 3,
       "name": "GND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        85,
+        191,
+        137,
+        213
+      ]
     },
     {
-      "pin_number": "4",
+      "pin_number": 4,
       "name": "AIN0",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        90,
+        243,
+        138,
+        270
+      ]
     },
     {
-      "pin_number": "5",
+      "pin_number": 5,
       "name": "AIN1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        88,
+        297,
+        135,
+        321
+      ]
     },
     {
-      "pin_number": "6",
+      "pin_number": 6,
       "name": "AIN2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        550,
+        300,
+        603,
+        322
+      ]
     },
     {
-      "pin_number": "7",
+      "pin_number": 7,
       "name": "AIN3",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        547,
+        241,
+        605,
+        266
+      ]
     },
     {
-      "pin_number": "8",
+      "pin_number": 8,
       "name": "VDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        553,
+        192,
+        599,
+        211
+      ]
     },
     {
-      "pin_number": "9",
+      "pin_number": 9,
       "name": "SDA",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        551,
+        140,
+        597,
+        159
+      ]
     },
     {
-      "pin_number": "10",
+      "pin_number": 10,
       "name": "SCL",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        551,
+        84,
+        597,
+        106
+      ]
     }
-  ],
-  "file_name": "ads1113_5_1.jpg"
+  ]
 }

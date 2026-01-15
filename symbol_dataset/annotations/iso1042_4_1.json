@@ -1,0 +1,97 @@
+{
+  "image_id": "iso1042_4_1",
+  "width": 684,
+  "height": 329,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VCC1",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        72,
+        76,
+        99
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "TXD",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        123,
+        75,
+        151
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "RXD",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        181,
+        78,
+        203
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GND1",
+      "bbox_pin": null,
+      "bbox_name": [
+        8,
+        235,
+        74,
+        260
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "GND2",
+      "bbox_pin": null,
+      "bbox_name": [
+        607,
+        233,
+        672,
+        259
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "CANL",
+      "bbox_pin": null,
+      "bbox_name": [
+        607,
+        176,
+        671,
+        205
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "CANH",
+      "bbox_pin": null,
+      "bbox_name": [
+        601,
+        118,
+        671,
+        152
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC2",
+      "bbox_pin": null,
+      "bbox_name": [
+        608,
+        72,
+        656,
+        98
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "image_id": "REN_83052I_1_1",
+  "width": 303,
+  "height": 170,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VDDO",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        36,
+        76,
+        55
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        64,
+        78,
+        85
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "CLK1",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        95,
+        73,
+        115
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        37,
+        125,
+        75,
+        145
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "OE",
+      "bbox_pin": null,
+      "bbox_name": [
+        224,
+        124,
+        260,
+        145
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "CLK0",
+      "bbox_pin": null,
+      "bbox_name": [
+        223,
+        95,
+        280,
+        116
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "SEL0",
+      "bbox_pin": null,
+      "bbox_name": [
+        225,
+        65,
+        278,
+        86
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "Q",
+      "bbox_pin": null,
+      "bbox_name": [
+        224,
+        35,
+        244,
+        56
+      ]
+    }
+  ]
+}

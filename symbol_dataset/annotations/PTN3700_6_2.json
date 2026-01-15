@@ -1,0 +1,346 @@
+{
+  "image_id": "PTN3700_6_2",
+  "width": 660,
+  "height": 393,
+  "total_pins": 56,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": "A1",
+      "name": "D2+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A2",
+      "name": "VDDA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A3",
+      "name": "B0",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A4",
+      "name": "B2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A5",
+      "name": "B4",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A6",
+      "name": "B6",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "A7",
+      "name": "G0",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B1",
+      "name": "D2−",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B2",
+      "name": "GNDA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B3",
+      "name": "B1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B4",
+      "name": "B3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B5",
+      "name": "B5",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B6",
+      "name": "B7",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "B7",
+      "name": "G1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C1",
+      "name": "D1+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C2",
+      "name": "T\\X\\/\\R\\X\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C3",
+      "name": "A1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C4",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C5",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C6",
+      "name": "G2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "C7",
+      "name": "G3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D1",
+      "name": "D1−",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D2",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D3",
+      "name": "PSEL0",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D4",
+      "name": "LS0",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D5",
+      "name": "FM",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D6",
+      "name": "G4",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "D7",
+      "name": "G5",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E1",
+      "name": "CLK+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E2",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E3",
+      "name": "PSEL1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E4",
+      "name": "LS1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E5",
+      "name": "FSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E6",
+      "name": "G6",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "E7",
+      "name": "G7",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F1",
+      "name": "CLK−",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F2",
+      "name": "F\\/\\X\\S\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F3",
+      "name": "A0",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F4",
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F5",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F6",
+      "name": "R0",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "F7",
+      "name": "R1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G1",
+      "name": "D0+",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G2",
+      "name": "X\\S\\D\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G3",
+      "name": "V\\S\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G4",
+      "name": "PCLK",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G5",
+      "name": "R6",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G6",
+      "name": "R4",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "G7",
+      "name": "R2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H1",
+      "name": "D0−",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H2",
+      "name": "CPO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H3",
+      "name": "DE",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H4",
+      "name": "H\\S\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H5",
+      "name": "R7",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H6",
+      "name": "R5",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H7",
+      "name": "R3",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ],
+  "file_name": "PTN3700_6_2.jpg"
+}

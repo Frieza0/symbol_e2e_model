@@ -1,0 +1,97 @@
+{
+  "image_id": "ua9638_3_1",
+  "width": 315,
+  "height": 231,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        32,
+        45,
+        87,
+        76
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "1A",
+      "bbox_pin": null,
+      "bbox_name": [
+        53,
+        84,
+        85,
+        109
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "2A",
+      "bbox_pin": null,
+      "bbox_name": [
+        50,
+        121,
+        85,
+        146
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        22,
+        159,
+        86,
+        182
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "2Z",
+      "bbox_pin": null,
+      "bbox_name": [
+        257,
+        157,
+        292,
+        185
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "2Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        256,
+        121,
+        292,
+        146
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "1Z",
+      "bbox_pin": null,
+      "bbox_name": [
+        257,
+        83,
+        293,
+        109
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "1Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        259,
+        45,
+        295,
+        69
+      ]
+    }
+  ]
+}

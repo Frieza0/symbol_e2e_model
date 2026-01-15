@@ -1,0 +1,168 @@
+{
+  "image_id": "chip_0370",
+  "width": 256,
+  "height": 256,
+  "total_pins": 10,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "BOOT1",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        48,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "RMII_RX_ER",
+      "bbox_pin": [
+        93,
+        78,
+        99,
+        88
+      ],
+      "bbox_name": [
+        13,
+        77,
+        75,
+        89
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "TEMP",
+      "bbox_pin": [
+        93,
+        123,
+        99,
+        133
+      ],
+      "bbox_name": [
+        13,
+        123,
+        41,
+        133
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "AB2",
+      "bbox_pin": [
+        93,
+        168,
+        99,
+        178
+      ],
+      "bbox_name": [
+        13,
+        168,
+        34,
+        178
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "PORTC",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        48,
+        223
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "GYRO_Y",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        32,
+        226,
+        44
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "D0",
+      "bbox_pin": [
+        163,
+        78,
+        169,
+        88
+      ],
+      "bbox_name": [
+        183,
+        78,
+        196,
+        88
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "SPI_CLK",
+      "bbox_pin": [
+        163,
+        123,
+        169,
+        133
+      ],
+      "bbox_name": [
+        183,
+        122,
+        226,
+        134
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "MSEL3",
+      "bbox_pin": [
+        163,
+        168,
+        169,
+        178
+      ],
+      "bbox_name": [
+        183,
+        168,
+        217,
+        178
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "ETM",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        204,
+        223
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "image_id": "TPL51200-DF8R_5_1",
+  "width": 549,
+  "height": 369,
+  "total_pins": 10,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "REFIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        63,
+        92,
+        89
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "LDOIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        22,
+        116,
+        91,
+        143
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        39,
+        173,
+        88,
+        198
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "PGND",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        227,
+        88,
+        254
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "SNS",
+      "bbox_pin": null,
+      "bbox_name": [
+        43,
+        280,
+        89,
+        308
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "REFOUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        436,
+        281,
+        528,
+        308
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "EN",
+      "bbox_pin": null,
+      "bbox_name": [
+        435,
+        228,
+        472,
+        254
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        436,
+        171,
+        489,
+        200
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "PG",
+      "bbox_pin": null,
+      "bbox_name": [
+        437,
+        122,
+        473,
+        143
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        436,
+        66,
+        463,
+        89
+      ]
+    }
+  ]
+}

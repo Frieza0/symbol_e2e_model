@@ -1,0 +1,185 @@
+{
+  "image_id": "sn74avc4t245_3_1",
+  "width": 474,
+  "height": 513,
+  "total_pins": 16,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VCCA",
+      "bbox_pin": null,
+      "bbox_name": [
+        162,
+        18,
+        198,
+        91
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "1DIR",
+      "bbox_pin": null,
+      "bbox_name": [
+        12,
+        151,
+        79,
+        178
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "2DIR",
+      "bbox_pin": null,
+      "bbox_name": [
+        14,
+        193,
+        77,
+        220
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "1A1",
+      "bbox_pin": null,
+      "bbox_name": [
+        32,
+        232,
+        79,
+        263
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "1A2",
+      "bbox_pin": null,
+      "bbox_name": [
+        29,
+        277,
+        78,
+        301
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "2A1",
+      "bbox_pin": null,
+      "bbox_name": [
+        31,
+        315,
+        80,
+        343
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "2A2",
+      "bbox_pin": null,
+      "bbox_name": [
+        29,
+        354,
+        77,
+        387
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        165,
+        439,
+        192,
+        506
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        288,
+        439,
+        312,
+        504
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "2B2",
+      "bbox_pin": null,
+      "bbox_name": [
+        400,
+        356,
+        454,
+        386
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "2B1",
+      "bbox_pin": null,
+      "bbox_name": [
+        399,
+        317,
+        449,
+        345
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "1B2",
+      "bbox_pin": null,
+      "bbox_name": [
+        399,
+        278,
+        453,
+        305
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "1B1",
+      "bbox_pin": null,
+      "bbox_name": [
+        403,
+        238,
+        451,
+        265
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "2O\\E\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        401,
+        194,
+        461,
+        223
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "1O\\E\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        402,
+        152,
+        459,
+        180
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "VCCB",
+      "bbox_pin": null,
+      "bbox_name": [
+        279,
+        20,
+        325,
+        90
+      ]
+    }
+  ]
+}

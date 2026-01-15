@@ -6,197 +6,356 @@
   "package_type": "4side",
   "pins": [
     {
-      "pin_number": "1",
+      "pin_number": 1,
       "name": "AVDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        94,
+        176,
+        171,
+        206
+      ]
     },
     {
-      "pin_number": "2",
+      "pin_number": 2,
       "name": "AGND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        87,
+        213,
+        171,
+        241
+      ]
     },
     {
-      "pin_number": "3",
+      "pin_number": 3,
       "name": "ROSC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        91,
+        250,
+        170,
+        276
+      ]
     },
     {
-      "pin_number": "4",
+      "pin_number": 4,
       "name": "COSC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        94,
+        288,
+        171,
+        314
+      ]
     },
     {
-      "pin_number": "5",
+      "pin_number": 5,
       "name": "AREF",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        98,
+        326,
+        171,
+        351
+      ]
     },
     {
-      "pin_number": "6",
+      "pin_number": 6,
       "name": "IN+",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        125,
+        363,
+        173,
+        390
+      ]
     },
     {
-      "pin_number": "7",
+      "pin_number": 7,
       "name": "IN−",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        122,
+        398,
+        172,
+        426
+      ]
     },
     {
-      "pin_number": "8",
+      "pin_number": 8,
       "name": "S\\H\\U\\T\\D\\O\\W\\N\\",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        9,
+        434,
+        173,
+        467
+      ]
     },
     {
-      "pin_number": "9",
+      "pin_number": 9,
       "name": "FAULT1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        239,
+        535,
+        267,
+        632
+      ]
     },
     {
-      "pin_number": "10",
+      "pin_number": 10,
       "name": "FAULT0",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        277,
+        530,
+        303,
+        630
+      ]
     },
     {
-      "pin_number": "11",
+      "pin_number": 11,
       "name": "PVDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        310,
+        528,
+        335,
+        607
+      ]
     },
     {
-      "pin_number": "12",
+      "pin_number": 12,
       "name": "PVDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        349,
+        530,
+        375,
+        608
+      ]
     },
     {
-      "pin_number": "13",
+      "pin_number": 13,
       "name": "PVDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        387,
+        528,
+        414,
+        607
+      ]
     },
     {
-      "pin_number": "14",
+      "pin_number": 14,
       "name": "H/C",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        426,
+        531,
+        451,
+        578
+      ]
     },
     {
-      "pin_number": "15",
+      "pin_number": 15,
       "name": "H/C",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        457,
+        528,
+        484,
+        579
+      ]
     },
     {
-      "pin_number": "16",
+      "pin_number": 16,
       "name": "H/C",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        497,
+        530,
+        521,
+        580
+      ]
     },
     {
-      "pin_number": "17",
+      "pin_number": 17,
       "name": "H/C",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        591,
+        438,
+        641,
+        463
+      ]
     },
     {
-      "pin_number": "18",
+      "pin_number": 18,
       "name": "PGND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        589,
+        401,
+        671,
+        427
+      ]
     },
     {
-      "pin_number": "19",
+      "pin_number": 19,
       "name": "PGND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        591,
+        362,
+        672,
+        389
+      ]
     },
     {
-      "pin_number": "20",
+      "pin_number": 20,
       "name": "PGND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        591,
+        324,
+        671,
+        352
+      ]
     },
     {
-      "pin_number": "21",
+      "pin_number": 21,
       "name": "PGND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        589,
+        286,
+        671,
+        316
+      ]
     },
     {
-      "pin_number": "22",
+      "pin_number": 22,
       "name": "PGND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        592,
+        248,
+        671,
+        279
+      ]
     },
     {
-      "pin_number": "23",
+      "pin_number": 23,
       "name": "PGND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        591,
+        214,
+        672,
+        242
+      ]
     },
     {
-      "pin_number": "24",
+      "pin_number": 24,
       "name": "PWM",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        590,
+        176,
+        660,
+        207
+      ]
     },
     {
-      "pin_number": "25",
+      "pin_number": 25,
       "name": "PWM",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        498,
+        44,
+        525,
+        114
+      ]
     },
     {
-      "pin_number": "26",
+      "pin_number": 26,
       "name": "PWM",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        461,
+        44,
+        486,
+        114
+      ]
     },
     {
-      "pin_number": "27",
+      "pin_number": 27,
       "name": "PWM",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        425,
+        44,
+        448,
+        112
+      ]
     },
     {
-      "pin_number": "28",
+      "pin_number": 28,
       "name": "PVDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        383,
+        35,
+        412,
+        112
+      ]
     },
     {
-      "pin_number": "29",
+      "pin_number": 29,
       "name": "PVDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        349,
+        32,
+        374,
+        113
+      ]
     },
     {
-      "pin_number": "30",
+      "pin_number": 30,
       "name": "PVDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        312,
+        34,
+        337,
+        111
+      ]
     },
     {
-      "pin_number": "31",
+      "pin_number": 31,
       "name": "INT/E\\X\\T\\",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        267,
+        6,
+        299,
+        114
+      ]
     },
     {
-      "pin_number": "32",
+      "pin_number": 32,
       "name": "FREQ",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        231,
+        33,
+        265,
+        116
+      ]
     }
-  ],
-  "file_name": "drv593_4_1.jpg"
+  ]
 }

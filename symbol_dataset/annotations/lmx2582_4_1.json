@@ -1,0 +1,449 @@
+{
+  "image_id": "lmx2582_4_1",
+  "width": 774,
+  "height": 786,
+  "total_pins": 40,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "CE",
+      "bbox_pin": null,
+      "bbox_name": [
+        79,
+        201,
+        115,
+        227
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        62,
+        243,
+        116,
+        269
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VbiasVCO",
+      "bbox_pin": null,
+      "bbox_name": [
+        9,
+        288,
+        116,
+        315
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        66,
+        331,
+        113,
+        354
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        80,
+        375,
+        116,
+        397
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        57,
+        415,
+        116,
+        440
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "VccDIG",
+      "bbox_pin": null,
+      "bbox_name": [
+        32,
+        459,
+        114,
+        482
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "OSCinP",
+      "bbox_pin": null,
+      "bbox_name": [
+        34,
+        499,
+        114,
+        527
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "OSCinM",
+      "bbox_pin": null,
+      "bbox_name": [
+        30,
+        545,
+        114,
+        574
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "VregIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        45,
+        584,
+        115,
+        614
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "VccCP",
+      "bbox_pin": null,
+      "bbox_name": [
+        173,
+        677,
+        202,
+        749
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "CPout",
+      "bbox_pin": null,
+      "bbox_name": [
+        218,
+        676,
+        242,
+        739
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        260,
+        677,
+        287,
+        729
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        298,
+        676,
+        328,
+        725
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "VccMASH",
+      "bbox_pin": null,
+      "bbox_name": [
+        344,
+        675,
+        371,
+        775
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "SCK",
+      "bbox_pin": null,
+      "bbox_name": [
+        386,
+        676,
+        412,
+        723
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "SDI",
+      "bbox_pin": null,
+      "bbox_name": [
+        425,
+        674,
+        460,
+        714
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "RFoutBM",
+      "bbox_pin": null,
+      "bbox_name": [
+        473,
+        674,
+        500,
+        772
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "RFoutBP",
+      "bbox_pin": null,
+      "bbox_name": [
+        517,
+        674,
+        543,
+        766
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "MUXout",
+      "bbox_pin": null,
+      "bbox_name": [
+        561,
+        673,
+        588,
+        756
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "VccBUF",
+      "bbox_pin": null,
+      "bbox_name": [
+        649,
+        585,
+        731,
+        613
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "RFoutAM",
+      "bbox_pin": null,
+      "bbox_name": [
+        648,
+        544,
+        742,
+        571
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "RFoutAP",
+      "bbox_pin": null,
+      "bbox_name": [
+        648,
+        502,
+        739,
+        525
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "CSB",
+      "bbox_pin": null,
+      "bbox_name": [
+        648,
+        462,
+        696,
+        484
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        647,
+        418,
+        696,
+        440
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "VccVCO2",
+      "bbox_pin": null,
+      "bbox_name": [
+        650,
+        372,
+        748,
+        399
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "VbiasVCO2",
+      "bbox_pin": null,
+      "bbox_name": [
+        646,
+        331,
+        759,
+        355
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        649,
+        292,
+        682,
+        313
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "VrefVCO2",
+      "bbox_pin": null,
+      "bbox_name": [
+        645,
+        244,
+        751,
+        270
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        648,
+        203,
+        684,
+        226
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        562,
+        93,
+        584,
+        141
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        520,
+        103,
+        540,
+        144
+      ]
+    },
+    {
+      "pin_number": 33,
+      "name": "VbiasVARAC",
+      "bbox_pin": null,
+      "bbox_name": [
+        473,
+        15,
+        501,
+        141
+      ]
+    },
+    {
+      "pin_number": 34,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        428,
+        93,
+        454,
+        141
+      ]
+    },
+    {
+      "pin_number": 35,
+      "name": "Vtune",
+      "bbox_pin": null,
+      "bbox_name": [
+        390,
+        83,
+        412,
+        143
+      ]
+    },
+    {
+      "pin_number": 36,
+      "name": "VrefVCO",
+      "bbox_pin": null,
+      "bbox_name": [
+        344,
+        56,
+        371,
+        145
+      ]
+    },
+    {
+      "pin_number": 37,
+      "name": "VccVCO",
+      "bbox_pin": null,
+      "bbox_name": [
+        304,
+        60,
+        327,
+        143
+      ]
+    },
+    {
+      "pin_number": 38,
+      "name": "VregVCO",
+      "bbox_pin": null,
+      "bbox_name": [
+        263,
+        50,
+        285,
+        143
+      ]
+    },
+    {
+      "pin_number": 39,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        222,
+        93,
+        242,
+        144
+      ]
+    },
+    {
+      "pin_number": 40,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        176,
+        93,
+        196,
+        144
+      ]
+    }
+  ]
+}

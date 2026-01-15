@@ -1,0 +1,185 @@
+{
+  "image_id": "MAX8556-MAX8557_7_1",
+  "width": 819,
+  "height": 729,
+  "total_pins": 16,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        347,
+        684,
+        384,
+        721
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        418,
+        684,
+        463,
+        727
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        496,
+        685,
+        537,
+        724
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        571,
+        681,
+        609,
+        725
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        739,
+        507,
+        777,
+        550
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        740,
+        435,
+        782,
+        483
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        738,
+        366,
+        811,
+        407
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        739,
+        292,
+        808,
+        334
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        569,
+        97,
+        609,
+        171
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        496,
+        102,
+        536,
+        173
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        420,
+        97,
+        461,
+        168
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "POK (POR)",
+      "bbox_pin": null,
+      "bbox_name": [
+        342,
+        14,
+        392,
+        176
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "FB",
+      "bbox_pin": null,
+      "bbox_name": [
+        153,
+        292,
+        207,
+        332
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        131,
+        368,
+        207,
+        402
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "N.C.",
+      "bbox_pin": null,
+      "bbox_name": [
+        136,
+        439,
+        207,
+        485
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "EN",
+      "bbox_pin": null,
+      "bbox_name": [
+        154,
+        506,
+        207,
+        549
+      ]
+    }
+  ]
+}

@@ -1,0 +1,537 @@
+{
+  "image_id": "JFM29LV641-E产品介绍_20_1",
+  "width": 996,
+  "height": 684,
+  "total_pins": 48,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "A15",
+      "bbox_pin": null,
+      "bbox_name": [
+        67,
+        38,
+        114,
+        62
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "A14",
+      "bbox_pin": null,
+      "bbox_name": [
+        69,
+        67,
+        112,
+        87
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "A13",
+      "bbox_pin": null,
+      "bbox_name": [
+        71,
+        89,
+        112,
+        112
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "A12",
+      "bbox_pin": null,
+      "bbox_name": [
+        70,
+        115,
+        114,
+        137
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "A11",
+      "bbox_pin": null,
+      "bbox_name": [
+        69,
+        142,
+        112,
+        162
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "A10",
+      "bbox_pin": null,
+      "bbox_name": [
+        68,
+        165,
+        112,
+        188
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "A9",
+      "bbox_pin": null,
+      "bbox_name": [
+        80,
+        191,
+        113,
+        214
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "A8",
+      "bbox_pin": null,
+      "bbox_name": [
+        82,
+        217,
+        112,
+        238
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "A21",
+      "bbox_pin": null,
+      "bbox_name": [
+        68,
+        239,
+        111,
+        263
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "A20",
+      "bbox_pin": null,
+      "bbox_name": [
+        71,
+        267,
+        112,
+        289
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "WE#",
+      "bbox_pin": null,
+      "bbox_name": [
+        59,
+        291,
+        114,
+        314
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "RESET#",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        316,
+        113,
+        339
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "ACC",
+      "bbox_pin": null,
+      "bbox_name": [
+        61,
+        336,
+        113,
+        361
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "WP#",
+      "bbox_pin": null,
+      "bbox_name": [
+        58,
+        364,
+        114,
+        389
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "A19",
+      "bbox_pin": null,
+      "bbox_name": [
+        70,
+        391,
+        113,
+        414
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "A18",
+      "bbox_pin": null,
+      "bbox_name": [
+        72,
+        416,
+        114,
+        437
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "A17",
+      "bbox_pin": null,
+      "bbox_name": [
+        68,
+        441,
+        112,
+        462
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "A7",
+      "bbox_pin": null,
+      "bbox_name": [
+        82,
+        463,
+        113,
+        486
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "A6",
+      "bbox_pin": null,
+      "bbox_name": [
+        84,
+        488,
+        111,
+        514
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "A5",
+      "bbox_pin": null,
+      "bbox_name": [
+        82,
+        516,
+        115,
+        538
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "A4",
+      "bbox_pin": null,
+      "bbox_name": [
+        82,
+        539,
+        114,
+        564
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "A3",
+      "bbox_pin": null,
+      "bbox_name": [
+        79,
+        564,
+        115,
+        587
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "A2",
+      "bbox_pin": null,
+      "bbox_name": [
+        78,
+        585,
+        114,
+        614
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "A1",
+      "bbox_pin": null,
+      "bbox_name": [
+        78,
+        612,
+        114,
+        637
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "A0",
+      "bbox_pin": null,
+      "bbox_name": [
+        912,
+        615,
+        946,
+        637
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "CE#",
+      "bbox_pin": null,
+      "bbox_name": [
+        910,
+        589,
+        960,
+        612
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        911,
+        563,
+        954,
+        588
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "OE#",
+      "bbox_pin": null,
+      "bbox_name": [
+        910,
+        539,
+        960,
+        562
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "DQ0",
+      "bbox_pin": null,
+      "bbox_name": [
+        912,
+        514,
+        961,
+        538
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "DQ8",
+      "bbox_pin": null,
+      "bbox_name": [
+        911,
+        490,
+        960,
+        513
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "DQ1",
+      "bbox_pin": null,
+      "bbox_name": [
+        911,
+        461,
+        959,
+        489
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "DQ9",
+      "bbox_pin": null,
+      "bbox_name": [
+        909,
+        439,
+        960,
+        465
+      ]
+    },
+    {
+      "pin_number": 33,
+      "name": "DQ2",
+      "bbox_pin": null,
+      "bbox_name": [
+        912,
+        412,
+        960,
+        437
+      ]
+    },
+    {
+      "pin_number": 34,
+      "name": "DQ10",
+      "bbox_pin": null,
+      "bbox_name": [
+        911,
+        389,
+        973,
+        415
+      ]
+    },
+    {
+      "pin_number": 35,
+      "name": "DQ3",
+      "bbox_pin": null,
+      "bbox_name": [
+        910,
+        364,
+        957,
+        387
+      ]
+    },
+    {
+      "pin_number": 36,
+      "name": "DQ11",
+      "bbox_pin": null,
+      "bbox_name": [
+        912,
+        339,
+        972,
+        363
+      ]
+    },
+    {
+      "pin_number": 37,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        912,
+        315,
+        956,
+        339
+      ]
+    },
+    {
+      "pin_number": 38,
+      "name": "DQ4",
+      "bbox_pin": null,
+      "bbox_name": [
+        910,
+        291,
+        960,
+        312
+      ]
+    },
+    {
+      "pin_number": 39,
+      "name": "DQ12",
+      "bbox_pin": null,
+      "bbox_name": [
+        911,
+        266,
+        973,
+        287
+      ]
+    },
+    {
+      "pin_number": 40,
+      "name": "DQ5",
+      "bbox_pin": null,
+      "bbox_name": [
+        912,
+        238,
+        961,
+        263
+      ]
+    },
+    {
+      "pin_number": 41,
+      "name": "DQ13",
+      "bbox_pin": null,
+      "bbox_name": [
+        909,
+        216,
+        972,
+        238
+      ]
+    },
+    {
+      "pin_number": 42,
+      "name": "DQ6",
+      "bbox_pin": null,
+      "bbox_name": [
+        910,
+        191,
+        960,
+        214
+      ]
+    },
+    {
+      "pin_number": 43,
+      "name": "DQ14",
+      "bbox_pin": null,
+      "bbox_name": [
+        911,
+        165,
+        973,
+        189
+      ]
+    },
+    {
+      "pin_number": 44,
+      "name": "DQ7",
+      "bbox_pin": null,
+      "bbox_name": [
+        909,
+        140,
+        960,
+        163
+      ]
+    },
+    {
+      "pin_number": 45,
+      "name": "DQ15",
+      "bbox_pin": null,
+      "bbox_name": [
+        911,
+        115,
+        976,
+        140
+      ]
+    },
+    {
+      "pin_number": 46,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        911,
+        92,
+        950,
+        114
+      ]
+    },
+    {
+      "pin_number": 47,
+      "name": "VID",
+      "bbox_pin": null,
+      "bbox_name": [
+        911,
+        64,
+        950,
+        91
+      ]
+    },
+    {
+      "pin_number": 48,
+      "name": "A16",
+      "bbox_pin": null,
+      "bbox_name": [
+        909,
+        41,
+        958,
+        61
+      ]
+    }
+  ]
+}

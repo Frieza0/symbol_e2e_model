@@ -1,0 +1,361 @@
+{
+  "image_id": "sy58025u_2_1",
+  "width": 528,
+  "height": 516,
+  "total_pins": 32,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "INB0",
+      "bbox_pin": null,
+      "bbox_name": [
+        87,
+        190,
+        137,
+        211
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VTB0",
+      "bbox_pin": null,
+      "bbox_name": [
+        80,
+        219,
+        136,
+        239
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VREF-ACB0",
+      "bbox_pin": null,
+      "bbox_name": [
+        15,
+        245,
+        138,
+        267
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "/INB0",
+      "bbox_pin": null,
+      "bbox_name": [
+        77,
+        275,
+        138,
+        294
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "INB1",
+      "bbox_pin": null,
+      "bbox_name": [
+        79,
+        299,
+        135,
+        321
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "VTB1",
+      "bbox_pin": null,
+      "bbox_name": [
+        81,
+        325,
+        134,
+        346
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "VREF-ACB1",
+      "bbox_pin": null,
+      "bbox_name": [
+        13,
+        352,
+        134,
+        374
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "/INB1",
+      "bbox_pin": null,
+      "bbox_name": [
+        79,
+        380,
+        133,
+        397
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        187,
+        451,
+        212,
+        500
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        216,
+        451,
+        237,
+        497
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "/QB",
+      "bbox_pin": null,
+      "bbox_name": [
+        244,
+        450,
+        264,
+        491
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "QB",
+      "bbox_pin": null,
+      "bbox_name": [
+        270,
+        450,
+        290,
+        482
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        299,
+        451,
+        319,
+        498
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        328,
+        451,
+        347,
+        481
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "SELB",
+      "bbox_pin": null,
+      "bbox_name": [
+        353,
+        451,
+        376,
+        504
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        383,
+        451,
+        404,
+        499
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        457,
+        379,
+        506,
+        399
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "SELA",
+      "bbox_pin": null,
+      "bbox_name": [
+        457,
+        352,
+        514,
+        374
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        456,
+        326,
+        496,
+        346
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        457,
+        300,
+        505,
+        321
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "/QA",
+      "bbox_pin": null,
+      "bbox_name": [
+        456,
+        274,
+        496,
+        296
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "QA",
+      "bbox_pin": null,
+      "bbox_name": [
+        456,
+        248,
+        490,
+        266
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        457,
+        221,
+        505,
+        241
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        456,
+        191,
+        506,
+        212
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "INA0",
+      "bbox_pin": null,
+      "bbox_name": [
+        383,
+        89,
+        405,
+        138
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "VTA0",
+      "bbox_pin": null,
+      "bbox_name": [
+        355,
+        82,
+        375,
+        140
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "VREF-ACA0",
+      "bbox_pin": null,
+      "bbox_name": [
+        328,
+        16,
+        351,
+        142
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "/INA0",
+      "bbox_pin": null,
+      "bbox_name": [
+        302,
+        82,
+        319,
+        140
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "INA1",
+      "bbox_pin": null,
+      "bbox_name": [
+        273,
+        90,
+        294,
+        138
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "VTA1",
+      "bbox_pin": null,
+      "bbox_name": [
+        246,
+        85,
+        267,
+        139
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "VREF-ACA1",
+      "bbox_pin": null,
+      "bbox_name": [
+        216,
+        19,
+        238,
+        138
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "INA1",
+      "bbox_pin": null,
+      "bbox_name": [
+        188,
+        86,
+        208,
+        138
+      ]
+    }
+  ]
+}

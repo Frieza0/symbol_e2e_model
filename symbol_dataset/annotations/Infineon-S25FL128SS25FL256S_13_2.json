@@ -1,0 +1,97 @@
+{
+  "image_id": "Infineon-S25FL128SS25FL256S_13_2",
+  "width": 558,
+  "height": 291,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "CS#",
+      "bbox_pin": null,
+      "bbox_name": [
+        77,
+        43,
+        134,
+        71
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "SO/IO1",
+      "bbox_pin": null,
+      "bbox_name": [
+        45,
+        102,
+        132,
+        131
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "WP#/IO2",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        163,
+        130,
+        191
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        71,
+        224,
+        128,
+        251
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "SI/IO0",
+      "bbox_pin": null,
+      "bbox_name": [
+        400,
+        226,
+        476,
+        253
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SCK",
+      "bbox_pin": null,
+      "bbox_name": [
+        400,
+        170,
+        458,
+        197
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "HOLD#/IO3",
+      "bbox_pin": null,
+      "bbox_name": [
+        403,
+        100,
+        539,
+        130
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        400,
+        43,
+        457,
+        68
+      ]
+    }
+  ]
+}

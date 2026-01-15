@@ -1,0 +1,200 @@
+{
+  "image_id": "chip_0322",
+  "width": 256,
+  "height": 256,
+  "total_pins": 12,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "3V3",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        32,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "DATA7",
+      "bbox_pin": [
+        93,
+        69,
+        99,
+        79
+      ],
+      "bbox_name": [
+        13,
+        69,
+        46,
+        79
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "AIN1",
+      "bbox_pin": [
+        93,
+        105,
+        99,
+        115
+      ],
+      "bbox_name": [
+        13,
+        105,
+        37,
+        115
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "RXD",
+      "bbox_pin": [
+        93,
+        141,
+        99,
+        151
+      ],
+      "bbox_name": [
+        13,
+        141,
+        34,
+        151
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "HSYNC",
+      "bbox_pin": [
+        93,
+        177,
+        99,
+        187
+      ],
+      "bbox_name": [
+        13,
+        177,
+        48,
+        187
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "DO",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        28,
+        223
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "GPS_ANT",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        32,
+        231,
+        44
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "CAS",
+      "bbox_pin": [
+        163,
+        69,
+        175,
+        79
+      ],
+      "bbox_name": [
+        183,
+        69,
+        204,
+        79
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "PORTA",
+      "bbox_pin": [
+        163,
+        105,
+        175,
+        115
+      ],
+      "bbox_name": [
+        183,
+        105,
+        218,
+        115
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "TDI",
+      "bbox_pin": [
+        163,
+        141,
+        169,
+        151
+      ],
+      "bbox_name": [
+        183,
+        141,
+        199,
+        151
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VUSB",
+      "bbox_pin": [
+        163,
+        177,
+        169,
+        187
+      ],
+      "bbox_name": [
+        183,
+        177,
+        211,
+        187
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "MIPI_D0N",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        212,
+        230,
+        224
+      ]
+    }
+  ]
+}

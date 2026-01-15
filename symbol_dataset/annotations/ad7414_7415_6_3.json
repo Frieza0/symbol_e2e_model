@@ -6,41 +6,70 @@
   "package_type": "2side",
   "pins": [
     {
-      "pin_number": "1",
+      "pin_number": 1,
       "name": "AS",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        35,
+        62,
+        66,
+        82
+      ]
     },
     {
-      "pin_number": "2",
+      "pin_number": 2,
       "name": "GND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        20,
+        126,
+        66,
+        146
+      ]
     },
     {
-      "pin_number": "3",
+      "pin_number": 3,
       "name": "VDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        23,
+        192,
+        65,
+        217
+      ]
     },
     {
-      "pin_number": "4",
+      "pin_number": 4,
       "name": "SCL",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        325,
+        190,
+        365,
+        212
+      ]
     },
     {
-      "pin_number": "5",
+      "pin_number": 5,
       "name": "ALERT",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        325,
+        127,
+        388,
+        149
+      ]
     },
     {
-      "pin_number": "6",
+      "pin_number": 6,
       "name": "SDA",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        324,
+        60,
+        366,
+        81
+      ]
     }
-  ],
-  "file_name": "ad7414_7415_6_3.jpg"
+  ]
 }

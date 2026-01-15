@@ -6,41 +6,70 @@
   "package_type": "2side",
   "pins": [
     {
-      "pin_number": "1",
-      "name": "VN+",
+      "pin_number": 1,
+      "name": "VIN+",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        90,
+        59,
+        130,
+        87
+      ]
     },
     {
-      "pin_number": "2",
+      "pin_number": 2,
       "name": "GND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        90,
+        108,
+        138,
+        134
+      ]
     },
     {
-      "pin_number": "3",
+      "pin_number": 3,
       "name": "SCL",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        89,
+        166,
+        132,
+        192
+      ]
     },
     {
-      "pin_number": "4",
-      "name": "3SCL",
+      "pin_number": 4,
+      "name": "SDA",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        169,
+        168,
+        218,
+        192
+      ]
     },
     {
-      "pin_number": "5",
+      "pin_number": 5,
       "name": "VDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        180,
+        110,
+        220,
+        141
+      ]
     },
     {
-      "pin_number": "6",
-      "name": "VIN",
+      "pin_number": 6,
+      "name": "VIN-",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        176,
+        57,
+        223,
+        88
+      ]
     }
-  ],
-  "file_name": "ads1110_13_1.jpg"
+  ]
 }

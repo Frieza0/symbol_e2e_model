@@ -1,0 +1,97 @@
+{
+  "image_id": "EPCS_ALTERA_35_2",
+  "width": 363,
+  "height": 189,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "nCS",
+      "bbox_pin": null,
+      "bbox_name": [
+        29,
+        25,
+        74,
+        50
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "DATA",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        70,
+        75,
+        92
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        33,
+        101,
+        76,
+        128
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        149,
+        75,
+        171
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "ASDI",
+      "bbox_pin": null,
+      "bbox_name": [
+        279,
+        149,
+        332,
+        171
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "DCLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        277,
+        107,
+        342,
+        130
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        279,
+        64,
+        323,
+        91
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        279,
+        22,
+        322,
+        47
+      ]
+    }
+  ]
+}

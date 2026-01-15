@@ -1,0 +1,232 @@
+{
+  "image_id": "chip_0132",
+  "width": 256,
+  "height": 256,
+  "total_pins": 14,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "CS1",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        33,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "PG",
+      "bbox_pin": [
+        93,
+        63,
+        99,
+        73
+      ],
+      "bbox_name": [
+        13,
+        63,
+        28,
+        73
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "DATA0",
+      "bbox_pin": [
+        93,
+        93,
+        99,
+        103
+      ],
+      "bbox_name": [
+        13,
+        93,
+        46,
+        103
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "DQ",
+      "bbox_pin": [
+        93,
+        123,
+        99,
+        133
+      ],
+      "bbox_name": [
+        13,
+        123,
+        28,
+        133
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "RSV",
+      "bbox_pin": [
+        93,
+        153,
+        99,
+        163
+      ],
+      "bbox_name": [
+        13,
+        153,
+        34,
+        163
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "OSC_OUT",
+      "bbox_pin": [
+        93,
+        183,
+        99,
+        193
+      ],
+      "bbox_name": [
+        13,
+        182,
+        62,
+        194
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "AB1",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        34,
+        223
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "D20",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        202,
+        43
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "LIN_IN",
+      "bbox_pin": [
+        163,
+        63,
+        175,
+        73
+      ],
+      "bbox_name": [
+        183,
+        62,
+        215,
+        74
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "TDI",
+      "bbox_pin": [
+        163,
+        93,
+        175,
+        103
+      ],
+      "bbox_name": [
+        183,
+        93,
+        199,
+        103
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "A16",
+      "bbox_pin": [
+        163,
+        123,
+        175,
+        133
+      ],
+      "bbox_name": [
+        183,
+        123,
+        203,
+        133
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "RMII_TX_EN",
+      "bbox_pin": [
+        163,
+        153,
+        175,
+        163
+      ],
+      "bbox_name": [
+        183,
+        152,
+        243,
+        164
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "A8",
+      "bbox_pin": [
+        163,
+        183,
+        169,
+        193
+      ],
+      "bbox_name": [
+        183,
+        183,
+        197,
+        193
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "HOLD",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        211,
+        223
+      ]
+    }
+  ]
+}

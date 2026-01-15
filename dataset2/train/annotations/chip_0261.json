@@ -1,0 +1,200 @@
+{
+  "image_id": "chip_0261",
+  "width": 256,
+  "height": 256,
+  "total_pins": 12,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "D21",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        32,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "A8",
+      "bbox_pin": [
+        93,
+        69,
+        99,
+        79
+      ],
+      "bbox_name": [
+        13,
+        69,
+        27,
+        79
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "POR",
+      "bbox_pin": [
+        93,
+        105,
+        99,
+        115
+      ],
+      "bbox_name": [
+        13,
+        105,
+        36,
+        115
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "LCD_G0",
+      "bbox_pin": [
+        93,
+        141,
+        99,
+        151
+      ],
+      "bbox_name": [
+        13,
+        140,
+        53,
+        152
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "PCM_CLK",
+      "bbox_pin": [
+        93,
+        177,
+        99,
+        187
+      ],
+      "bbox_name": [
+        13,
+        176,
+        61,
+        188
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "GOOD",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        44,
+        223
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "GYRO_Y",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        32,
+        226,
+        44
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "HOLD",
+      "bbox_pin": [
+        163,
+        69,
+        175,
+        79
+      ],
+      "bbox_name": [
+        183,
+        69,
+        211,
+        79
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "CLK_27M",
+      "bbox_pin": [
+        163,
+        105,
+        175,
+        115
+      ],
+      "bbox_name": [
+        183,
+        104,
+        229,
+        116
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "MIPI_D0N",
+      "bbox_pin": [
+        163,
+        141,
+        169,
+        151
+      ],
+      "bbox_name": [
+        183,
+        140,
+        230,
+        152
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "IF",
+      "bbox_pin": [
+        163,
+        177,
+        169,
+        187
+      ],
+      "bbox_name": [
+        183,
+        177,
+        192,
+        187
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "WIFI_ANT",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        212,
+        230,
+        224
+      ]
+    }
+  ]
+}

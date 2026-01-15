@@ -6,41 +6,70 @@
   "package_type": "2side",
   "pins": [
     {
-      "pin_number": "1",
+      "pin_number": 1,
       "name": "Q",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        34,
+        47,
+        58,
+        65
+      ]
     },
     {
-      "pin_number": "2",
+      "pin_number": 2,
       "name": "VEE",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        18,
+        98,
+        58,
+        121
+      ]
     },
     {
-      "pin_number": "3",
+      "pin_number": 3,
       "name": "VP",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        29,
+        149,
+        58,
+        172
+      ]
     },
     {
-      "pin_number": "4",
+      "pin_number": 4,
       "name": "VN",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        270,
+        148,
+        300,
+        172
+      ]
     },
     {
-      "pin_number": "5",
+      "pin_number": 5,
       "name": "VCCI/VCCO",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        270,
+        97,
+        365,
+        122
+      ]
     },
     {
-      "pin_number": "6",
+      "pin_number": 6,
       "name": "Q\\",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        269,
+        43,
+        291,
+        66
+      ]
     }
-  ],
-  "file_name": "ADCMP604_605_7_1.jpg"
+  ]
 }

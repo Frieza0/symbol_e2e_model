@@ -1,0 +1,64 @@
+{
+  "image_id": "LT1764A_2_3",
+  "width": 325,
+  "height": 169,
+  "total_pins": 5,
+  "package_type": "1side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "S\\H\\D\\N\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        224,
+        128,
+        267,
+        150
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        224,
+        106,
+        243,
+        121
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        224,
+        73,
+        256,
+        91
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        223,
+        44,
+        255,
+        60
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "SENSE/ADJ*",
+      "bbox_pin": null,
+      "bbox_name": [
+        224,
+        14,
+        310,
+        32
+      ]
+    }
+  ]
+}

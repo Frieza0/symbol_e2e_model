@@ -1,0 +1,75 @@
+{
+  "image_id": "NC7SZ32_D-2316741_2_2",
+  "width": 408,
+  "height": 297,
+  "total_pins": 6,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        56,
+        50,
+        82,
+        77
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "B",
+      "bbox_pin": null,
+      "bbox_name": [
+        58,
+        136,
+        80,
+        165
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        18,
+        221,
+        78,
+        248
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        333,
+        223,
+        358,
+        248
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        338,
+        137,
+        381,
+        167
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        336,
+        53,
+        384,
+        83
+      ]
+    }
+  ]
+}

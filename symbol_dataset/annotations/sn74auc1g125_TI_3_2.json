@@ -1,0 +1,64 @@
+{
+  "image_id": "sn74auc1g125_TI_3_2",
+  "width": 387,
+  "height": 222,
+  "total_pins": 5,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "O\\E\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        45,
+        34,
+        88,
+        61
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        65,
+        100,
+        87,
+        125
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        161,
+        88,
+        185
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        321,
+        162,
+        342,
+        187
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        320,
+        35,
+        373,
+        71
+      ]
+    }
+  ]
+}

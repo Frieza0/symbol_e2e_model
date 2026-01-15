@@ -6,197 +6,356 @@
   "package_type": "4side",
   "pins": [
     {
-      "pin_number": "1",
+      "pin_number": 1,
       "name": "REGCAPD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        88,
+        138,
+        157,
+        154
+      ]
     },
     {
-      "pin_number": "2",
+      "pin_number": 2,
       "name": "IOVDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        114,
+        157,
+        157,
+        173
+      ]
     },
     {
-      "pin_number": "3",
+      "pin_number": 3,
       "name": "DGND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        114,
+        174,
+        157,
+        188
+      ]
     },
     {
-      "pin_number": "4",
+      "pin_number": 4,
       "name": "AIN0/IOUT/VBIAS",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        44,
+        190,
+        157,
+        205
+      ]
     },
     {
-      "pin_number": "5",
+      "pin_number": 5,
       "name": "AIN1/IOUT/VBIAS",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        43,
+        209,
+        157,
+        222
+      ]
     },
     {
-      "pin_number": "6",
+      "pin_number": 6,
       "name": "AIN2/IOUT/VBIAS/P1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        25,
+        225,
+        156,
+        241
+      ]
     },
     {
-      "pin_number": "7",
+      "pin_number": 7,
       "name": "AIN3/IOUT/VBIAS/P2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        24,
+        242,
+        157,
+        258
+      ]
     },
     {
-      "pin_number": "8",
+      "pin_number": 8,
       "name": "AIN4/IOUT/VBIAS/P3",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        24,
+        260,
+        157,
+        274
+      ]
     },
     {
-      "pin_number": "9",
+      "pin_number": 9,
       "name": "AIN5/IOUT/VBIAS/P4",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        197,
+        313,
+        210,
+        452
+      ]
     },
     {
-      "pin_number": "10",
+      "pin_number": 10,
       "name": "AIN6/IOUT/VBIAS",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        217,
+        315,
+        229,
+        433
+      ]
     },
     {
-      "pin_number": "11",
+      "pin_number": 11,
       "name": "AIN7/IOUT/VBIAS",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        231,
+        317,
+        245,
+        432
+      ]
     },
     {
-      "pin_number": "12",
+      "pin_number": 12,
       "name": "REFIN1(+)",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        248,
+        317,
+        262,
+        386
+      ]
     },
     {
-      "pin_number": "13",
+      "pin_number": 13,
       "name": "REFIN1(–)",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        265,
+        315,
+        280,
+        384
+      ]
     },
     {
-      "pin_number": "14",
+      "pin_number": 14,
       "name": "AIN8/IOUT/VBIAS",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        283,
+        318,
+        297,
+        433
+      ]
     },
     {
-      "pin_number": "15",
+      "pin_number": 15,
       "name": "AIN9/IOUT/VBIAS",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        298,
+        317,
+        314,
+        434
+      ]
     },
     {
-      "pin_number": "16",
+      "pin_number": 16,
       "name": "AIN10/IOUT/VBIAS",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        317,
+        316,
+        333,
+        440
+      ]
     },
     {
-      "pin_number": "17",
+      "pin_number": 17,
       "name": "AIN11/IOUT/VBIAS",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        378,
+        260,
+        499,
+        275
+      ]
     },
     {
-      "pin_number": "18",
+      "pin_number": 18,
       "name": "AIN12/IOUT/VBIAS",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        378,
+        242,
+        498,
+        258
+      ]
     },
     {
-      "pin_number": "19",
+      "pin_number": 19,
       "name": "AIN13/IOUT/VBIAS",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        378,
+        225,
+        497,
+        239
+      ]
     },
     {
-      "pin_number": "20",
+      "pin_number": 20,
       "name": "AIN14/IOUT/VBIAS/REFIN2(+)",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        378,
+        206,
+        567,
+        224
+      ]
     },
     {
-      "pin_number": "21",
+      "pin_number": 21,
       "name": "AIN15/IOUT/VBIAS/REFIN2(–)",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        377,
+        189,
+        567,
+        207
+      ]
     },
     {
-      "pin_number": "22",
+      "pin_number": 22,
       "name": "REFOUT",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        379,
+        175,
+        434,
+        188
+      ]
     },
     {
-      "pin_number": "23",
+      "pin_number": 23,
       "name": "AVSS",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        375,
+        158,
+        414,
+        174
+      ]
     },
     {
-      "pin_number": "24",
+      "pin_number": 24,
       "name": "REGCAPA",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        376,
+        140,
+        445,
+        155
+      ]
     },
     {
-      "pin_number": "25",
+      "pin_number": 25,
       "name": "PSW",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        318,
+        62,
+        331,
+        97
+      ]
     },
     {
-      "pin_number": "26",
+      "pin_number": 26,
       "name": "AVDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        301,
+        59,
+        317,
+        96
+      ]
     },
     {
-      "pin_number": "27",
+      "pin_number": 27,
       "name": "S\\Y\\N\\C\\",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        280,
+        55,
+        295,
+        96
+      ]
     },
     {
-      "pin_number": "28",
+      "pin_number": 28,
       "name": "DOUT/R\\D\\Y\\",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        263,
+        22,
+        279,
+        95
+      ]
     },
     {
-      "pin_number": "29",
+      "pin_number": 29,
       "name": "DIN",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        249,
+        67,
+        262,
+        96
+      ]
     },
     {
-      "pin_number": "30",
+      "pin_number": 30,
       "name": "SCLK",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        229,
+        55,
+        244,
+        96
+      ]
     },
     {
-      "pin_number": "31",
+      "pin_number": 31,
       "name": "CLK",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        214,
+        65,
+        227,
+        96
+      ]
     },
     {
-      "pin_number": "32",
+      "pin_number": 32,
       "name": "C\\S\\",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        193,
+        74,
+        210,
+        96
+      ]
     }
-  ],
-  "file_name": "ad7124-8_15_1.jpg"
+  ]
 }

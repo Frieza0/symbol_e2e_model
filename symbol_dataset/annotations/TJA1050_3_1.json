@@ -1,0 +1,97 @@
+{
+  "image_id": "TJA1050_3_1",
+  "width": 399,
+  "height": 270,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "TXD",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        44,
+        71,
+        70
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        18,
+        99,
+        71,
+        123
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        16,
+        149,
+        68,
+        180
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "RXD",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        199,
+        68,
+        224
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "Vref",
+      "bbox_pin": null,
+      "bbox_name": [
+        308,
+        198,
+        357,
+        235
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "CANL",
+      "bbox_pin": null,
+      "bbox_name": [
+        310,
+        150,
+        378,
+        176
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "CANH",
+      "bbox_pin": null,
+      "bbox_name": [
+        311,
+        99,
+        379,
+        124
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "S",
+      "bbox_pin": null,
+      "bbox_name": [
+        311,
+        48,
+        329,
+        71
+      ]
+    }
+  ]
+}

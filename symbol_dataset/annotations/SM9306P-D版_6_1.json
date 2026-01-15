@@ -1,0 +1,97 @@
+{
+  "image_id": "SM9306P-D版_6_1",
+  "width": 813,
+  "height": 389,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        31,
+        75,
+        95,
+        109
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VREF1",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        142,
+        91,
+        184
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "SCL1",
+      "bbox_pin": null,
+      "bbox_name": [
+        32,
+        203,
+        97,
+        232
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "SDA1",
+      "bbox_pin": null,
+      "bbox_name": [
+        28,
+        271,
+        93,
+        303
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "SDA2",
+      "bbox_pin": null,
+      "bbox_name": [
+        726,
+        272,
+        786,
+        299
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SCL2",
+      "bbox_pin": null,
+      "bbox_name": [
+        724,
+        206,
+        786,
+        234
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "VREF2",
+      "bbox_pin": null,
+      "bbox_name": [
+        721,
+        141,
+        795,
+        179
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "EN",
+      "bbox_pin": null,
+      "bbox_name": [
+        721,
+        80,
+        769,
+        112
+      ]
+    }
+  ]
+}

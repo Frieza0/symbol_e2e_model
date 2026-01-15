@@ -1,0 +1,40 @@
+{
+  "image_id": "LT1963AES8_2_5",
+  "width": 459,
+  "height": 210,
+  "total_pins": 5,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": "1",
+      "name": "MISS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "2",
+      "name": "MISS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "3",
+      "name": "MISS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "4",
+      "name": "MISS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "5",
+      "name": "MISS",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ],
+  "file_name": "LT1963AES8_2_5.jpg"
+}

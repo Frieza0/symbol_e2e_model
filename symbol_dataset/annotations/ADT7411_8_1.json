@@ -6,101 +6,180 @@
   "package_type": "2side",
   "pins": [
     {
-      "pin_number": "1",
+      "pin_number": 1,
       "name": "AIN6",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        48,
+        42,
+        94,
+        59
+      ]
     },
     {
-      "pin_number": "2",
+      "pin_number": 2,
       "name": "AIN5",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        49,
+        77,
+        92,
+        96
+      ]
     },
     {
-      "pin_number": "3",
+      "pin_number": 3,
       "name": "NC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        64,
+        114,
+        93,
+        132
+      ]
     },
     {
-      "pin_number": "4",
+      "pin_number": 4,
       "name": "C\\S\\",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        65,
+        144,
+        94,
+        167
+      ]
     },
     {
-      "pin_number": "5",
+      "pin_number": 5,
       "name": "GND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        49,
+        185,
+        92,
+        203
+      ]
     },
     {
-      "pin_number": "6",
+      "pin_number": 6,
       "name": "VDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        55,
+        221,
+        91,
+        243
+      ]
     },
     {
-      "pin_number": "7",
+      "pin_number": 7,
       "name": "D+/AIN1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        20,
+        256,
+        91,
+        276
+      ]
     },
     {
-      "pin_number": "8",
+      "pin_number": 8,
       "name": "D–/AIN2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        20,
+        293,
+        91,
+        313
+      ]
     },
     {
-      "pin_number": "9",
+      "pin_number": 9,
       "name": "AIN3",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        313,
+        293,
+        355,
+        313
+      ]
     },
     {
-      "pin_number": "10",
+      "pin_number": 10,
       "name": "I\\N\\T\\/I\\N\\T\\",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        310,
+        253,
+        380,
+        276
+      ]
     },
     {
-      "pin_number": "11",
+      "pin_number": 11,
       "name": "DOUT/ADD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        313,
+        219,
+        408,
+        241
+      ]
     },
     {
-      "pin_number": "12",
+      "pin_number": 12,
       "name": "SDA/DIN",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        313,
+        184,
+        388,
+        203
+      ]
     },
     {
-      "pin_number": "13",
+      "pin_number": 13,
       "name": "SCL/SCLK",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        312,
+        148,
+        404,
+        168
+      ]
     },
     {
-      "pin_number": "14",
+      "pin_number": 14,
       "name": "AIN4",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        312,
+        114,
+        355,
+        132
+      ]
     },
     {
-      "pin_number": "15",
+      "pin_number": 15,
       "name": "AIN8",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        311,
+        77,
+        355,
+        97
+      ]
     },
     {
-      "pin_number": "16",
+      "pin_number": 16,
       "name": "AIN7",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        310,
+        40,
+        357,
+        60
+      ]
     }
-  ],
-  "file_name": "ADT7411_8_1.jpg"
+  ]
 }

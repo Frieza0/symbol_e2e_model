@@ -1,0 +1,200 @@
+{
+  "image_id": "chip_0424",
+  "width": 256,
+  "height": 256,
+  "total_pins": 12,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "FB",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        26,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "LVDS_P",
+      "bbox_pin": [
+        93,
+        69,
+        99,
+        79
+      ],
+      "bbox_name": [
+        13,
+        68,
+        53,
+        80
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "D30",
+      "bbox_pin": [
+        93,
+        105,
+        99,
+        115
+      ],
+      "bbox_name": [
+        13,
+        105,
+        32,
+        115
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "I1",
+      "bbox_pin": [
+        93,
+        141,
+        99,
+        151
+      ],
+      "bbox_name": [
+        13,
+        141,
+        22,
+        151
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "WP",
+      "bbox_pin": [
+        93,
+        177,
+        99,
+        187
+      ],
+      "bbox_name": [
+        13,
+        177,
+        29,
+        187
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "WS",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        29,
+        223
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "CAS",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        204,
+        43
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "CS",
+      "bbox_pin": [
+        163,
+        69,
+        175,
+        79
+      ],
+      "bbox_name": [
+        183,
+        69,
+        197,
+        79
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "CLKIN",
+      "bbox_pin": [
+        163,
+        105,
+        175,
+        115
+      ],
+      "bbox_name": [
+        183,
+        105,
+        213,
+        115
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "TRACECLK",
+      "bbox_pin": [
+        163,
+        141,
+        169,
+        151
+      ],
+      "bbox_name": [
+        183,
+        141,
+        237,
+        151
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "ETH_RX+",
+      "bbox_pin": [
+        163,
+        177,
+        169,
+        187
+      ],
+      "bbox_name": [
+        183,
+        176,
+        229,
+        188
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "PCM_DOUT",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        212,
+        239,
+        224
+      ]
+    }
+  ]
+}

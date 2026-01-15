@@ -1,0 +1,185 @@
+{
+  "image_id": "MAX1668-MAX1989_1_1",
+  "width": 498,
+  "height": 435,
+  "total_pins": 16,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "DXP1",
+      "bbox_pin": null,
+      "bbox_name": [
+        81,
+        61,
+        126,
+        85
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "DXN1",
+      "bbox_pin": null,
+      "bbox_name": [
+        83,
+        102,
+        127,
+        132
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "DXP2",
+      "bbox_pin": null,
+      "bbox_name": [
+        81,
+        147,
+        128,
+        174
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "DXN2",
+      "bbox_pin": null,
+      "bbox_name": [
+        79,
+        191,
+        128,
+        218
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "(N.C.) DXP3",
+      "bbox_pin": null,
+      "bbox_name": [
+        26,
+        232,
+        129,
+        266
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "(N.C.) DXN3",
+      "bbox_pin": null,
+      "bbox_name": [
+        29,
+        280,
+        129,
+        311
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "(N.C.) DXP4",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        322,
+        129,
+        350
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "(N.C.) DXN4",
+      "bbox_pin": null,
+      "bbox_name": [
+        30,
+        365,
+        128,
+        394
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        391,
+        366,
+        429,
+        396
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "ADD1",
+      "bbox_pin": null,
+      "bbox_name": [
+        391,
+        319,
+        437,
+        344
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "ADD0",
+      "bbox_pin": null,
+      "bbox_name": [
+        390,
+        279,
+        439,
+        307
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "A\\L\\E\\R\\T\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        391,
+        231,
+        449,
+        263
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "SMBDATA",
+      "bbox_pin": null,
+      "bbox_name": [
+        391,
+        191,
+        474,
+        217
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "SMBCLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        393,
+        149,
+        464,
+        174
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "S\\T\\B\\Y\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        389,
+        103,
+        438,
+        132
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        389,
+        57,
+        433,
+        89
+      ]
+    }
+  ]
+}

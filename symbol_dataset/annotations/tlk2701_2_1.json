@@ -1,0 +1,713 @@
+{
+  "image_id": "tlk2701_2_1",
+  "width": 972,
+  "height": 1112,
+  "total_pins": 64,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        91,
+        191,
+        152,
+        227
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "TXD3",
+      "bbox_pin": null,
+      "bbox_name": [
+        76,
+        231,
+        150,
+        258
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "TXD4",
+      "bbox_pin": null,
+      "bbox_name": [
+        76,
+        267,
+        150,
+        296
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "TXD5",
+      "bbox_pin": null,
+      "bbox_name": [
+        80,
+        305,
+        150,
+        335
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        90,
+        343,
+        149,
+        370
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "TXD6",
+      "bbox_pin": null,
+      "bbox_name": [
+        77,
+        381,
+        150,
+        408
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "TXD7",
+      "bbox_pin": null,
+      "bbox_name": [
+        76,
+        419,
+        150,
+        443
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GTX_CLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        26,
+        452,
+        151,
+        490
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        95,
+        494,
+        150,
+        526
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "TXD8",
+      "bbox_pin": null,
+      "bbox_name": [
+        76,
+        530,
+        150,
+        558
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "TXD9",
+      "bbox_pin": null,
+      "bbox_name": [
+        76,
+        568,
+        149,
+        595
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "TXD10",
+      "bbox_pin": null,
+      "bbox_name": [
+        63,
+        606,
+        151,
+        632
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        88,
+        644,
+        150,
+        671
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "TXD11",
+      "bbox_pin": null,
+      "bbox_name": [
+        66,
+        680,
+        147,
+        710
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "TXD12",
+      "bbox_pin": null,
+      "bbox_name": [
+        65,
+        714,
+        150,
+        748
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "TXD13",
+      "bbox_pin": null,
+      "bbox_name": [
+        60,
+        756,
+        153,
+        783
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "TXD14",
+      "bbox_pin": null,
+      "bbox_name": [
+        203,
+        832,
+        232,
+        922
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        244,
+        833,
+        270,
+        896
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "TXD15",
+      "bbox_pin": null,
+      "bbox_name": [
+        281,
+        832,
+        305,
+        924
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "TKMSB",
+      "bbox_pin": null,
+      "bbox_name": [
+        312,
+        834,
+        343,
+        931
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "LOOPEN",
+      "bbox_pin": null,
+      "bbox_name": [
+        352,
+        834,
+        381,
+        948
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "TKLSB",
+      "bbox_pin": null,
+      "bbox_name": [
+        388,
+        834,
+        417,
+        925
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        426,
+        832,
+        464,
+        899
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "ENABLE",
+      "bbox_pin": null,
+      "bbox_name": [
+        465,
+        832,
+        490,
+        944
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "LCKREFN",
+      "bbox_pin": null,
+      "bbox_name": [
+        500,
+        834,
+        528,
+        962
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "PRBSEN",
+      "bbox_pin": null,
+      "bbox_name": [
+        534,
+        834,
+        562,
+        950
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "TESTEN",
+      "bbox_pin": null,
+      "bbox_name": [
+        571,
+        835,
+        601,
+        943
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        611,
+        834,
+        638,
+        897
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "RKLSB/PRBS_PASS",
+      "bbox_pin": null,
+      "bbox_name": [
+        645,
+        831,
+        683,
+        1094
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "RKMSB",
+      "bbox_pin": null,
+      "bbox_name": [
+        684,
+        830,
+        714,
+        934
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "RXD15",
+      "bbox_pin": null,
+      "bbox_name": [
+        720,
+        834,
+        751,
+        926
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "RXD14",
+      "bbox_pin": null,
+      "bbox_name": [
+        756,
+        834,
+        792,
+        923
+      ]
+    },
+    {
+      "pin_number": 33,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        842,
+        756,
+        904,
+        783
+      ]
+    },
+    {
+      "pin_number": 34,
+      "name": "RXD13",
+      "bbox_pin": null,
+      "bbox_name": [
+        842,
+        718,
+        931,
+        743
+      ]
+    },
+    {
+      "pin_number": 35,
+      "name": "RXD12",
+      "bbox_pin": null,
+      "bbox_name": [
+        841,
+        680,
+        931,
+        709
+      ]
+    },
+    {
+      "pin_number": 36,
+      "name": "RXD11",
+      "bbox_pin": null,
+      "bbox_name": [
+        839,
+        644,
+        924,
+        669
+      ]
+    },
+    {
+      "pin_number": 37,
+      "name": "RXD10",
+      "bbox_pin": null,
+      "bbox_name": [
+        839,
+        606,
+        927,
+        633
+      ]
+    },
+    {
+      "pin_number": 38,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        839,
+        570,
+        892,
+        601
+      ]
+    },
+    {
+      "pin_number": 39,
+      "name": "RXD9",
+      "bbox_pin": null,
+      "bbox_name": [
+        840,
+        529,
+        913,
+        556
+      ]
+    },
+    {
+      "pin_number": 40,
+      "name": "RXD8",
+      "bbox_pin": null,
+      "bbox_name": [
+        840,
+        493,
+        913,
+        518
+      ]
+    },
+    {
+      "pin_number": 41,
+      "name": "RX_CLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        840,
+        457,
+        948,
+        486
+      ]
+    },
+    {
+      "pin_number": 42,
+      "name": "RXD7",
+      "bbox_pin": null,
+      "bbox_name": [
+        841,
+        418,
+        914,
+        446
+      ]
+    },
+    {
+      "pin_number": 43,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        837,
+        382,
+        901,
+        407
+      ]
+    },
+    {
+      "pin_number": 44,
+      "name": "RXD6",
+      "bbox_pin": null,
+      "bbox_name": [
+        837,
+        341,
+        919,
+        371
+      ]
+    },
+    {
+      "pin_number": 45,
+      "name": "RXD5",
+      "bbox_pin": null,
+      "bbox_name": [
+        833,
+        305,
+        919,
+        333
+      ]
+    },
+    {
+      "pin_number": 46,
+      "name": "RXD4",
+      "bbox_pin": null,
+      "bbox_name": [
+        838,
+        269,
+        913,
+        297
+      ]
+    },
+    {
+      "pin_number": 47,
+      "name": "RXD3",
+      "bbox_pin": null,
+      "bbox_name": [
+        834,
+        234,
+        915,
+        259
+      ]
+    },
+    {
+      "pin_number": 48,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        841,
+        194,
+        897,
+        227
+      ]
+    },
+    {
+      "pin_number": 49,
+      "name": "RXD2",
+      "bbox_pin": null,
+      "bbox_name": [
+        757,
+        69,
+        785,
+        144
+      ]
+    },
+    {
+      "pin_number": 50,
+      "name": "RXD1",
+      "bbox_pin": null,
+      "bbox_name": [
+        725,
+        70,
+        752,
+        145
+      ]
+    },
+    {
+      "pin_number": 51,
+      "name": "RXD0",
+      "bbox_pin": null,
+      "bbox_name": [
+        685,
+        66,
+        712,
+        144
+      ]
+    },
+    {
+      "pin_number": 52,
+      "name": "GNDA",
+      "bbox_pin": null,
+      "bbox_name": [
+        648,
+        59,
+        675,
+        146
+      ]
+    },
+    {
+      "pin_number": 53,
+      "name": "DINRXN",
+      "bbox_pin": null,
+      "bbox_name": [
+        609,
+        38,
+        638,
+        145
+      ]
+    },
+    {
+      "pin_number": 54,
+      "name": "DINRXP",
+      "bbox_pin": null,
+      "bbox_name": [
+        573,
+        38,
+        600,
+        144
+      ]
+    },
+    {
+      "pin_number": 55,
+      "name": "VDDA",
+      "bbox_pin": null,
+      "bbox_name": [
+        535,
+        63,
+        569,
+        145
+      ]
+    },
+    {
+      "pin_number": 56,
+      "name": "RREF",
+      "bbox_pin": null,
+      "bbox_name": [
+        498,
+        65,
+        528,
+        145
+      ]
+    },
+    {
+      "pin_number": 57,
+      "name": "VDDA",
+      "bbox_pin": null,
+      "bbox_name": [
+        460,
+        59,
+        495,
+        139
+      ]
+    },
+    {
+      "pin_number": 58,
+      "name": "GNDA",
+      "bbox_pin": null,
+      "bbox_name": [
+        423,
+        57,
+        451,
+        143
+      ]
+    },
+    {
+      "pin_number": 59,
+      "name": "DOUTTXN",
+      "bbox_pin": null,
+      "bbox_name": [
+        382,
+        12,
+        413,
+        142
+      ]
+    },
+    {
+      "pin_number": 60,
+      "name": "DOUTTXP",
+      "bbox_pin": null,
+      "bbox_name": [
+        347,
+        10,
+        379,
+        147
+      ]
+    },
+    {
+      "pin_number": 61,
+      "name": "GNDA",
+      "bbox_pin": null,
+      "bbox_name": [
+        311,
+        62,
+        341,
+        147
+      ]
+    },
+    {
+      "pin_number": 62,
+      "name": "TXD0",
+      "bbox_pin": null,
+      "bbox_name": [
+        275,
+        69,
+        306,
+        145
+      ]
+    },
+    {
+      "pin_number": 63,
+      "name": "TXD1",
+      "bbox_pin": null,
+      "bbox_name": [
+        238,
+        71,
+        268,
+        144
+      ]
+    },
+    {
+      "pin_number": 64,
+      "name": "TXD2",
+      "bbox_pin": null,
+      "bbox_name": [
+        202,
+        65,
+        231,
+        144
+      ]
+    }
+  ]
+}

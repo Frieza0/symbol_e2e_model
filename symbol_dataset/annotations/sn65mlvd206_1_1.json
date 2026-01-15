@@ -1,0 +1,52 @@
+{
+  "image_id": "sn65mlvd206_1_1",
+  "width": 315,
+  "height": 282,
+  "total_pins": 7,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": "1",
+      "name": "MISS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "2",
+      "name": "R",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "3",
+      "name": "R\\E\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "4",
+      "name": "DE",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "5",
+      "name": "D",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "6",
+      "name": "MISS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "7",
+      "name": "Y",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ],
+  "file_name": "sn65mlvd206_1_1.jpg"
+}

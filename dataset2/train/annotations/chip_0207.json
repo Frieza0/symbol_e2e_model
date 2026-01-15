@@ -1,0 +1,232 @@
+{
+  "image_id": "chip_0207",
+  "width": 256,
+  "height": 256,
+  "total_pins": 14,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "AB2",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        34,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "A6",
+      "bbox_pin": [
+        93,
+        63,
+        99,
+        73
+      ],
+      "bbox_name": [
+        13,
+        63,
+        27,
+        73
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "BUSY",
+      "bbox_pin": [
+        93,
+        93,
+        99,
+        103
+      ],
+      "bbox_name": [
+        13,
+        93,
+        41,
+        103
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "SCLK",
+      "bbox_pin": [
+        93,
+        123,
+        99,
+        133
+      ],
+      "bbox_name": [
+        13,
+        123,
+        40,
+        133
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "DCLK",
+      "bbox_pin": [
+        93,
+        153,
+        99,
+        163
+      ],
+      "bbox_name": [
+        13,
+        153,
+        40,
+        163
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "DATA0",
+      "bbox_pin": [
+        93,
+        183,
+        99,
+        193
+      ],
+      "bbox_name": [
+        13,
+        183,
+        46,
+        193
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "PWM_DIM",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        212,
+        61,
+        224
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "RS485",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        215,
+        43
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "FB",
+      "bbox_pin": [
+        163,
+        63,
+        175,
+        73
+      ],
+      "bbox_name": [
+        183,
+        63,
+        196,
+        73
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "SCI_TX",
+      "bbox_pin": [
+        163,
+        93,
+        175,
+        103
+      ],
+      "bbox_name": [
+        183,
+        92,
+        219,
+        104
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "ADJ",
+      "bbox_pin": [
+        163,
+        123,
+        175,
+        133
+      ],
+      "bbox_name": [
+        183,
+        123,
+        203,
+        133
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "AN3",
+      "bbox_pin": [
+        163,
+        153,
+        175,
+        163
+      ],
+      "bbox_name": [
+        183,
+        153,
+        204,
+        163
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "RSV",
+      "bbox_pin": [
+        163,
+        183,
+        169,
+        193
+      ],
+      "bbox_name": [
+        183,
+        183,
+        204,
+        193
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "PWM",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        207,
+        223
+      ]
+    }
+  ]
+}

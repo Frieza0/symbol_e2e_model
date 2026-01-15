@@ -1,0 +1,97 @@
+{
+  "image_id": "MIC49150_1_1",
+  "width": 498,
+  "height": 261,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "EN/ADJ.",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        33,
+        130,
+        64
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VBIAS",
+      "bbox_pin": null,
+      "bbox_name": [
+        40,
+        82,
+        128,
+        110
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        72,
+        138,
+        125,
+        167
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VOUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        47,
+        195,
+        128,
+        224
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        413,
+        188,
+        475,
+        219
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        411,
+        134,
+        475,
+        164
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        409,
+        79,
+        475,
+        109
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        409,
+        27,
+        475,
+        55
+      ]
+    }
+  ]
+}

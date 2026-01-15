@@ -1,0 +1,100 @@
+{
+  "image_id": "SM25QU256MK-B版_47_1",
+  "width": 1074,
+  "height": 630,
+  "total_pins": 15,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": "1",
+      "name": "HOLD#/RESET#(DQ3)",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "2",
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "3",
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "4",
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "5",
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "6",
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "7",
+      "name": "CS#",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "8",
+      "name": "DO(DQ1)",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "9",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "10",
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "11",
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "12",
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "13",
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "14",
+      "name": "DI(DQ0)",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "15",
+      "name": "CLK",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ],
+  "file_name": "SM25QU256MK-B版_47_1.jpg"
+}

@@ -1,0 +1,75 @@
+{
+  "image_id": "tps3808_TI_1_2",
+  "width": 366,
+  "height": 157,
+  "total_pins": 6,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        54,
+        26,
+        98,
+        51
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "SENSE",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        61,
+        96,
+        83
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "CT",
+      "bbox_pin": null,
+      "bbox_name": [
+        66,
+        98,
+        97,
+        126
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "M\\R\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        269,
+        93,
+        311,
+        119
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        271,
+        61,
+        327,
+        83
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "R\\E\\S\\E\\T\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        268,
+        19,
+        350,
+        47
+      ]
+    }
+  ]
+}

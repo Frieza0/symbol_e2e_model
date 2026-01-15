@@ -11,7 +11,7 @@ from modules import *
 # ----------------------------
 # 字符映射（必须与训练一致）
 # ----------------------------
-CHARS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+CHARS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789_+-#/."
 CHAR_TO_IDX = {"<PAD>": 0}
 for i, c in enumerate(CHARS):
     CHAR_TO_IDX[c] = i + 1
@@ -22,13 +22,13 @@ EOS_IDX = CHAR_TO_IDX["<EOS>"]
 PAD_IDX = CHAR_TO_IDX["<PAD>"]
 
 MAX_PINS = 16      # 最大引脚数
-MAX_NAME_LEN = 6   # 名称最大长度（含<EOS>）
+MAX_NAME_LEN = 20   # 名称最大长度（含<EOS>）
 
 # ----------------------------
 # 1. 数据集类：读取 dataset/images 和 dataset/annotations
 # ----------------------------
 class SymbolPinDataset(Dataset):
-    def __init__(self, root_dir='dataset1', img_size=224):
+    def __init__(self, root_dir='dataset2', img_size=224):
         self.root_dir = root_dir
         self.img_size = img_size
         self.image_dir = os.path.join(root_dir, 'images')
@@ -65,7 +65,7 @@ class SymbolPinDataset(Dataset):
         for pin in ann['pins']:
             pin_num = pin['pin_number']
             pin_info[pin_num] = {
-                'name': pin['name'].upper(),
+                'name': pin['name'],
                 'bbox_pin': pin['bbox_pin'],
                 'bbox_name': pin['bbox_name']
             }
@@ -110,7 +110,7 @@ class SymbolPinDataset(Dataset):
         bbox_pins = torch.tensor(bbox_pins_list, dtype=torch.float) # [16, 4]
         bbox_names = torch.tensor(bbox_names_list, dtype=torch.float) # [16, 4]
 
-        return image, pin_ids, name_seq
+        return image, pin_ids, name_seq, bbox_names
 
 # ----------------------------
 # 2. MM-PinNet 模型
@@ -124,15 +124,8 @@ class MM_PinNet(nn.Module):
 
         self.dropout = nn.Dropout(0.3)
 
-
+        self.bbox_head = nn.Linear(d_model, 4)
         # ----------------------------
-        # 使用预训练 ResNet18 作为特征提取器
-        # resnet = models.resnet18(pretrained=True)
-        # modules = list(resnet.children())[:-2]  # 输出 [B, 512, H/32, W/32]
-        # # self.cnn = nn.Sequential(*modules)
-        # self.cnn = nn.Sequential(*modules, CBAM(512))  # ResNet18输出通道512
-        # self.feat_proj = nn.Linear(512, d_model)  # 投影每个空间位置
-
         # 优化：使用 FPN 融合多层特征
         self.resnet = models.resnet50(weights=models.ResNet50_Weights.IMAGENET1K_V1)
         self.layer1 = self.resnet.layer1
@@ -171,14 +164,8 @@ class MM_PinNet(nn.Module):
         B = images.shape[0]
         device = images.device
 
-        # ----------------------------
-        # 提取图像特征
-        # feats = self.cnn(images)
-        # H, W = feats.shape[2], feats.shape[3]
-        # feats = feats.flatten(2).transpose(1, 2)  # [B, H*W, 512]
-        # memory = self.dropout(self.feat_proj(feats))  # [B, H*W, d_model]
-
-        # 优化：FPN融合提取图像特征 
+        # ---------------------------
+        # FPN融合提取图像特征 
         x = self.resnet.conv1(images)
         x = self.resnet.bn1(x)
         x = self.resnet.relu(x)
@@ -197,8 +184,6 @@ class MM_PinNet(nn.Module):
         # 准备解码器查询
         pin_ids = torch.arange(self.max_pins, device=device).unsqueeze(1).repeat(1, self.max_name_len).flatten()
         char_ids = torch.arange(self.max_name_len, device=device).repeat(self.max_pins)
-        # pin_embed = self.pin_pos_embed(pin_ids)
-        # char_embed = self.char_pos_embed(char_ids)
         pin_embed = self.pin_pos_embed(pin_ids) * self.layer_weight[0]
         char_embed = self.char_pos_embed(char_ids) * self.layer_weight[1]
         query = torch.cat([pin_embed, char_embed], dim=-1).unsqueeze(0).repeat(B, 1, 1)
@@ -219,8 +204,9 @@ class MM_PinNet(nn.Module):
         pin_feat, _ = self.pin_lstm(pin_feat)
         pin_exists_logits = self.exist_head(pin_feat).squeeze(-1)
         char_logits = self.char_head(decoded)
+        bbox_pred = self.bbox_head(pin_feat)
         # ----------------------------
-        return pin_exists_logits, char_logits
+        return pin_exists_logits, bbox_pred, char_logits
 
 
 # ----------------------------
@@ -230,16 +216,17 @@ def train():
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
     # 数据集路径
-    train_dataset = SymbolPinDataset(root_dir='./dataset1/train', img_size=224)
-    val_dataset = SymbolPinDataset(root_dir='./dataset1/val', img_size=224)
+    train_dataset = SymbolPinDataset(root_dir='./dataset2/train', img_size=224)
+    val_dataset = SymbolPinDataset(root_dir='./dataset2/val', img_size=224)
 
-    train_loader = DataLoader(train_dataset, batch_size=16, shuffle=True, num_workers=0)
+    train_loader = DataLoader(train_dataset, batch_size=8, shuffle=True, num_workers=0)
     val_loader = DataLoader(val_dataset, batch_size=64, shuffle=False, num_workers=0)
 
     model = MM_PinNet().to(device)
     optimizer = optim.AdamW(model.parameters(), lr=1e-4, weight_decay=1e-4)
     char_criterion = nn.CrossEntropyLoss(ignore_index=PAD_IDX)
     exist_criterion = nn.BCEWithLogitsLoss()
+    bbox_criterion = nn.SmoothL1Loss()
 
     best_val_acc = 0.0
 
@@ -250,12 +237,13 @@ def train():
         correct_name_exact = 0    # 名称完全正确的数量（仅对真实存在的引脚）
 
         with torch.no_grad():
-            for images, pin_ids, name_seqs in dataloader:
+            for images, pin_ids, name_seqs, bbox_names in dataloader:
                 images = images.to(device)
                 pin_ids = pin_ids.to(device)      # [B, 16]
                 name_seqs = name_seqs.to(device)  # [B, 96]
+                bbox_names = bbox_names.to(device)  # [B, 16, 4]
 
-                pin_exists_logits, char_logits = model(images)
+                pin_exists_logits, bbox_pred, char_logits = model(images)
                 pred_exists = (torch.sigmoid(pin_exists_logits) > 0.5)  # [B, 16]
                 char_preds = torch.argmax(char_logits, dim=-1)          # [B, 96]
 
@@ -306,23 +294,27 @@ def train():
         name_exact_acc = correct_name_exact / total_pins_exist if total_pins_exist > 0 else 0.0
         return exist_acc, name_exact_acc
 
-    for epoch in range(100):
+    for epoch in range(150):
         # ---------- 训练 ----------
         model.train()
         total_loss = 0
-        for images, pin_ids, name_seqs in train_loader:
+        for images, pin_ids, name_seqs, bbox_names in train_loader:
             images = images.to(device)
             pin_ids = pin_ids.to(device)
             name_seqs = name_seqs.to(device)
+            bbox_names = bbox_names.to(device)
 
             optimizer.zero_grad()
-            pin_exists_logits, char_logits = model(images)
+            pin_exists_logits, bbox_pred, char_logits = model(images)
 
             char_loss = char_criterion(char_logits.transpose(1, 2), name_seqs)
             pin_exists_target = (pin_ids != 0).float()
             exist_loss = exist_criterion(pin_exists_logits, pin_exists_target)
+            existing_mask = (pin_ids != 0).unsqueeze(-1).expand_as(bbox_names).float()
+            bbox_loss = bbox_criterion(bbox_pred * existing_mask, bbox_names * existing_mask)
+            print(f"Char Loss: {char_loss.item():.4f}, Exist Loss: {exist_loss.item():.4f}, BBox Loss: {bbox_loss.item():.4f}")
 
-            loss = 1.0 * char_loss + 0.5 * exist_loss
+            loss = 1.0 * char_loss + 0.3 * exist_loss + 0.02 * bbox_loss
             loss.backward()
             optimizer.step()
             total_loss += loss.item()
@@ -367,7 +359,7 @@ def inference(image_path, model_path='mm_pinnnet_final.pth'):
     input_img = transform(image).unsqueeze(0).to(device)
 
     with torch.no_grad():
-        pin_exists_logits, char_logits = model(input_img)
+        pin_exists_logits, bbox_pred, char_logits = model(input_img)
         pin_exists = torch.sigmoid(pin_exists_logits).cpu().numpy()[0]
         preds = torch.argmax(char_logits, dim=-1).cpu().numpy().flatten()
 
@@ -393,7 +385,7 @@ if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser()
     parser.add_argument('--mode', type=str, default='infer', choices=['train', 'infer'])
-    parser.add_argument('--image', type=str, default='./dataset1/val/images/chip_0000.png')
+    parser.add_argument('--image', type=str, default='./dataset2/val/images/chip_0000.png')
     args = parser.parse_args()
 
     if args.mode == 'train':

@@ -1,0 +1,136 @@
+{
+  "image_id": "chip_0161",
+  "width": 256,
+  "height": 256,
+  "total_pins": 8,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "D23",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        32,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "AB1",
+      "bbox_pin": [
+        93,
+        93,
+        99,
+        103
+      ],
+      "bbox_name": [
+        13,
+        93,
+        34,
+        103
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "FEM_CTRL",
+      "bbox_pin": [
+        93,
+        153,
+        99,
+        163
+      ],
+      "bbox_name": [
+        13,
+        152,
+        66,
+        164
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GPIO1",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        45,
+        223
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "TDO",
+      "bbox_pin": [
+        163,
+        33,
+        169,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        204,
+        43
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "A13",
+      "bbox_pin": [
+        163,
+        93,
+        169,
+        103
+      ],
+      "bbox_name": [
+        183,
+        93,
+        203,
+        103
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "BCLK",
+      "bbox_pin": [
+        163,
+        153,
+        169,
+        163
+      ],
+      "bbox_name": [
+        183,
+        153,
+        210,
+        163
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "AGND",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        213,
+        223
+      ]
+    }
+  ]
+}

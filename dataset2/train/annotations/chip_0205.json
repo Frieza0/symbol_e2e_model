@@ -1,0 +1,232 @@
+{
+  "image_id": "chip_0205",
+  "width": 256,
+  "height": 256,
+  "total_pins": 14,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "AIN5",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        37,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "RXD",
+      "bbox_pin": [
+        93,
+        63,
+        99,
+        73
+      ],
+      "bbox_name": [
+        13,
+        63,
+        34,
+        73
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "TMS",
+      "bbox_pin": [
+        93,
+        93,
+        99,
+        103
+      ],
+      "bbox_name": [
+        13,
+        93,
+        34,
+        103
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "AGND",
+      "bbox_pin": [
+        93,
+        123,
+        99,
+        133
+      ],
+      "bbox_name": [
+        13,
+        123,
+        43,
+        133
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "PCM_CLK",
+      "bbox_pin": [
+        93,
+        153,
+        99,
+        163
+      ],
+      "bbox_name": [
+        13,
+        152,
+        61,
+        164
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "DCLK",
+      "bbox_pin": [
+        93,
+        183,
+        99,
+        193
+      ],
+      "bbox_name": [
+        13,
+        183,
+        40,
+        193
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "AIN6",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        37,
+        223
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "VUSB",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        211,
+        43
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "SPI_MISO",
+      "bbox_pin": [
+        163,
+        63,
+        175,
+        73
+      ],
+      "bbox_name": [
+        183,
+        62,
+        232,
+        74
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "AN4",
+      "bbox_pin": [
+        163,
+        93,
+        175,
+        103
+      ],
+      "bbox_name": [
+        183,
+        93,
+        204,
+        103
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "TCK",
+      "bbox_pin": [
+        163,
+        123,
+        175,
+        133
+      ],
+      "bbox_name": [
+        183,
+        123,
+        203,
+        133
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "VIN",
+      "bbox_pin": [
+        163,
+        153,
+        175,
+        163
+      ],
+      "bbox_name": [
+        183,
+        153,
+        200,
+        163
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "AIN0",
+      "bbox_pin": [
+        163,
+        183,
+        169,
+        193
+      ],
+      "bbox_name": [
+        183,
+        183,
+        207,
+        193
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "LIN_IN",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        212,
+        215,
+        224
+      ]
+    }
+  ]
+}

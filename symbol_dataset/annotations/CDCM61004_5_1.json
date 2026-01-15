@@ -6,197 +6,356 @@
   "package_type": "4side",
   "pins": [
     {
-      "pin_number": "1",
+      "pin_number": 1,
       "name": "VCC_OUT",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        17,
+        189,
+        117,
+        225
+      ]
     },
     {
-      "pin_number": "2",
+      "pin_number": 2,
       "name": "OUTN1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        37,
+        242,
+        120,
+        269
+      ]
     },
     {
-      "pin_number": "3",
+      "pin_number": 3,
       "name": "OUTP1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        31,
+        285,
+        118,
+        316
+      ]
     },
     {
-      "pin_number": "4",
+      "pin_number": 4,
       "name": "VCC_OUT",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        19,
+        332,
+        117,
+        365
+      ]
     },
     {
-      "pin_number": "5",
+      "pin_number": 5,
       "name": "OUTN0",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        33,
+        380,
+        119,
+        409
+      ]
     },
     {
-      "pin_number": "6",
+      "pin_number": 6,
       "name": "OUTP0",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        43,
+        434,
+        118,
+        462
+      ]
     },
     {
-      "pin_number": "7",
+      "pin_number": 7,
       "name": "CE",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        80,
+        479,
+        121,
+        512
+      ]
     },
     {
-      "pin_number": "8",
+      "pin_number": 8,
       "name": "NC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        78,
+        522,
+        120,
+        558
+      ]
     },
     {
-      "pin_number": "9",
+      "pin_number": 9,
       "name": "VCC_VCO",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        198,
+        647,
+        236,
+        754
+      ]
     },
     {
-      "pin_number": "10",
+      "pin_number": 10,
       "name": "OS1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        253,
+        642,
+        281,
+        689
+      ]
     },
     {
-      "pin_number": "11",
+      "pin_number": 11,
       "name": "OS0",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        299,
+        642,
+        326,
+        694
+      ]
     },
     {
-      "pin_number": "12",
+      "pin_number": 12,
       "name": "R\\S\\T\\N\\",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        347,
+        644,
+        380,
+        715
+      ]
     },
     {
-      "pin_number": "13",
+      "pin_number": 13,
       "name": "OD0",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        398,
+        642,
+        426,
+        697
+      ]
     },
     {
-      "pin_number": "14",
+      "pin_number": 14,
       "name": "OD1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        446,
+        644,
+        473,
+        692
+      ]
     },
     {
-      "pin_number": "15",
+      "pin_number": 15,
       "name": "OD2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        494,
+        645,
+        523,
+        695
+      ]
     },
     {
-      "pin_number": "16",
+      "pin_number": 16,
       "name": "VCC_PLL2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        537,
+        645,
+        570,
+        752
+      ]
     },
     {
-      "pin_number": "17",
+      "pin_number": 17,
       "name": "REG_CAP2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        657,
+        529,
+        773,
+        558
+      ]
     },
     {
-      "pin_number": "18",
+      "pin_number": 18,
       "name": "VCC_PLL1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        657,
+        476,
+        755,
+        512
+      ]
     },
     {
-      "pin_number": "19",
+      "pin_number": 19,
       "name": "REG_CAP1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        657,
+        430,
+        770,
+        464
+      ]
     },
     {
-      "pin_number": "20",
+      "pin_number": 20,
       "name": "VCC_IN",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        655,
+        382,
+        730,
+        412
+      ]
     },
     {
-      "pin_number": "21",
+      "pin_number": 21,
       "name": "XIN",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        657,
+        337,
+        698,
+        362
+      ]
     },
     {
-      "pin_number": "22",
+      "pin_number": 22,
       "name": "GND1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        652,
+        286,
+        720,
+        316
+      ]
     },
     {
-      "pin_number": "23",
+      "pin_number": 23,
       "name": "OSC_OUT",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        654,
+        239,
+        764,
+        268
+      ]
     },
     {
-      "pin_number": "24",
+      "pin_number": 24,
       "name": "NC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        657,
+        196,
+        694,
+        221
+      ]
     },
     {
-      "pin_number": "25",
+      "pin_number": 25,
       "name": "PR0",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        541,
+        54,
+        567,
+        103
+      ]
     },
     {
-      "pin_number": "26",
+      "pin_number": 26,
       "name": "PR1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        494,
+        59,
+        520,
+        106
+      ]
     },
     {
-      "pin_number": "27",
+      "pin_number": 27,
       "name": "VCC_OUT",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        443,
+        5,
+        473,
+        103
+      ]
     },
     {
-      "pin_number": "28",
+      "pin_number": 28,
       "name": "OUTN3",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        400,
+        25,
+        425,
+        99
+      ]
     },
     {
-      "pin_number": "29",
+      "pin_number": 29,
       "name": "OUTP3",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        347,
+        26,
+        376,
+        101
+      ]
     },
     {
-      "pin_number": "30",
+      "pin_number": 30,
       "name": "VCC_OUT",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        300,
+        3,
+        333,
+        102
+      ]
     },
     {
-      "pin_number": "31",
+      "pin_number": 31,
       "name": "OUTN2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        256,
+        20,
+        280,
+        99
+      ]
     },
     {
-      "pin_number": "32",
+      "pin_number": 32,
       "name": "OUTP2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        202,
+        22,
+        233,
+        105
+      ]
     }
-  ],
-  "file_name": "CDCM61004_5_1.jpg"
+  ]
 }

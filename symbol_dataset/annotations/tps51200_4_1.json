@@ -1,0 +1,119 @@
+{
+  "image_id": "tps51200_4_1",
+  "width": 576,
+  "height": 372,
+  "total_pins": 10,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "REFIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        58,
+        102,
+        84
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VLDOIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        8,
+        116,
+        102,
+        144
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VO",
+      "bbox_pin": null,
+      "bbox_name": [
+        62,
+        168,
+        100,
+        200
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "PGND",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        231,
+        101,
+        255
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VOSNS",
+      "bbox_pin": null,
+      "bbox_name": [
+        11,
+        284,
+        100,
+        312
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "REFOUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        461,
+        284,
+        566,
+        311
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "EN",
+      "bbox_pin": null,
+      "bbox_name": [
+        461,
+        230,
+        499,
+        257
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        461,
+        172,
+        518,
+        197
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "PGOOD",
+      "bbox_pin": null,
+      "bbox_name": [
+        463,
+        114,
+        557,
+        144
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "VIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        463,
+        57,
+        511,
+        81
+      ]
+    }
+  ]
+}

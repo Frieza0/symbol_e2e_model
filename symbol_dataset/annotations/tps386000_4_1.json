@@ -1,0 +1,229 @@
+{
+  "image_id": "tps386000_4_1",
+  "width": 534,
+  "height": 597,
+  "total_pins": 20,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "M\\R\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        9,
+        183,
+        57,
+        214
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "CT4",
+      "bbox_pin": null,
+      "bbox_name": [
+        6,
+        234,
+        52,
+        258
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "CT3",
+      "bbox_pin": null,
+      "bbox_name": [
+        7,
+        278,
+        51,
+        300
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "CT2",
+      "bbox_pin": null,
+      "bbox_name": [
+        7,
+        322,
+        50,
+        348
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "CT1",
+      "bbox_pin": null,
+      "bbox_name": [
+        9,
+        367,
+        51,
+        397
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SENSE4H",
+      "bbox_pin": null,
+      "bbox_name": [
+        141,
+        485,
+        164,
+        583
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "SENSE4L",
+      "bbox_pin": null,
+      "bbox_name": [
+        187,
+        484,
+        212,
+        581
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "SENSE3",
+      "bbox_pin": null,
+      "bbox_name": [
+        232,
+        487,
+        255,
+        571
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "SENSE2",
+      "bbox_pin": null,
+      "bbox_name": [
+        274,
+        485,
+        301,
+        567
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "SENSE1",
+      "bbox_pin": null,
+      "bbox_name": [
+        323,
+        483,
+        348,
+        571
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        436,
+        369,
+        477,
+        394
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        439,
+        323,
+        489,
+        348
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "VREF",
+      "bbox_pin": null,
+      "bbox_name": [
+        442,
+        279,
+        497,
+        299
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        439,
+        238,
+        483,
+        261
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "R\\E\\S\\E\\T\\1\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        439,
+        184,
+        526,
+        210
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "R\\E\\S\\E\\T\\2\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        322,
+        14,
+        346,
+        97
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "R\\E\\S\\E\\T\\3\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        275,
+        12,
+        300,
+        97
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "R\\E\\S\\E\\T\\4\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        229,
+        11,
+        254,
+        99
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "W\\D\\O\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        186,
+        41,
+        208,
+        99
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "WDI",
+      "bbox_pin": null,
+      "bbox_name": [
+        144,
+        52,
+        163,
+        99
+      ]
+    }
+  ]
+}

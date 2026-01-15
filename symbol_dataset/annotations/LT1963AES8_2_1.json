@@ -1,0 +1,185 @@
+{
+  "image_id": "LT1963AES8_2_1",
+  "width": 435,
+  "height": 339,
+  "total_pins": 16,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        91,
+        23,
+        132,
+        48
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        102,
+        62,
+        133,
+        86
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        93,
+        102,
+        135,
+        124
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        86,
+        140,
+        132,
+        160
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        92,
+        178,
+        133,
+        200
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SENSE/ADJ*",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        217,
+        131,
+        239
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        91,
+        256,
+        134,
+        274
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        92,
+        290,
+        132,
+        316
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        359,
+        290,
+        399,
+        316
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "S\\H\\D\\N\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        356,
+        252,
+        413,
+        279
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        356,
+        216,
+        388,
+        238
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        356,
+        178,
+        380,
+        198
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        357,
+        141,
+        380,
+        162
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        357,
+        101,
+        380,
+        123
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        357,
+        64,
+        386,
+        87
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        358,
+        25,
+        398,
+        48
+      ]
+    }
+  ]
+}

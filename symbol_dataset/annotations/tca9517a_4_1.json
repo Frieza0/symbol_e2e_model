@@ -1,0 +1,97 @@
+{
+  "image_id": "tca9517a_4_1",
+  "width": 540,
+  "height": 337,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VCCA",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        80,
+        84,
+        103
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "SCLA",
+      "bbox_pin": null,
+      "bbox_name": [
+        28,
+        135,
+        84,
+        160
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "SDAA",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        191,
+        84,
+        214
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        33,
+        244,
+        84,
+        265
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "EN",
+      "bbox_pin": null,
+      "bbox_name": [
+        452,
+        243,
+        489,
+        266
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SDAB",
+      "bbox_pin": null,
+      "bbox_name": [
+        452,
+        181,
+        520,
+        213
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "SCLB",
+      "bbox_pin": null,
+      "bbox_name": [
+        455,
+        138,
+        515,
+        158
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCCB",
+      "bbox_pin": null,
+      "bbox_name": [
+        457,
+        83,
+        515,
+        105
+      ]
+    }
+  ]
+}

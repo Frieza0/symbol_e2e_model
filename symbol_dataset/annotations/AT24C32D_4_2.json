@@ -6,35 +6,59 @@
   "package_type": "2side",
   "pins": [
     {
-      "pin_number": "1",
+      "pin_number": 1,
       "name": "SCL",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        18,
+        43,
+        95,
+        76
+      ]
     },
     {
-      "pin_number": "2",
+      "pin_number": 2,
       "name": "GND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        12,
+        146,
+        93,
+        181
+      ]
     },
     {
-      "pin_number": "3",
+      "pin_number": 3,
       "name": "SDA",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        13,
+        246,
+        94,
+        278
+      ]
     },
     {
-      "pin_number": "4",
+      "pin_number": 4,
       "name": "VCC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        511,
+        242,
+        579,
+        279
+      ]
     },
     {
-      "pin_number": "5",
+      "pin_number": 5,
       "name": "WP",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        513,
+        38,
+        578,
+        73
+      ]
     }
-  ],
-  "file_name": "AT24C32D_4_2.jpg"
+  ]
 }

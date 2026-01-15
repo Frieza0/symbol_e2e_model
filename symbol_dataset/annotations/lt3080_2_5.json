@@ -1,0 +1,64 @@
+{
+  "image_id": "lt3080_2_5",
+  "width": 346,
+  "height": 184,
+  "total_pins": 5,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        248,
+        147,
+        271,
+        168
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "SET",
+      "bbox_pin": null,
+      "bbox_name": [
+        249,
+        113,
+        279,
+        134
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        247,
+        82,
+        281,
+        99
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VCONTROL",
+      "bbox_pin": null,
+      "bbox_name": [
+        248,
+        49,
+        326,
+        73
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        247,
+        16,
+        268,
+        35
+      ]
+    }
+  ]
+}

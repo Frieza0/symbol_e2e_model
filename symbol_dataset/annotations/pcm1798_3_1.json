@@ -1,0 +1,317 @@
+{
+  "image_id": "pcm1798_3_1",
+  "width": 570,
+  "height": 483,
+  "total_pins": 28,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "MONO",
+      "bbox_pin": null,
+      "bbox_name": [
+        6,
+        25,
+        90,
+        51
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "CHSL",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        57,
+        91,
+        82
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "DEM",
+      "bbox_pin": null,
+      "bbox_name": [
+        29,
+        88,
+        93,
+        113
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "LRCK",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        121,
+        90,
+        144
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "DATA",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        152,
+        94,
+        177
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "BCK",
+      "bbox_pin": null,
+      "bbox_name": [
+        34,
+        181,
+        93,
+        208
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "SCK",
+      "bbox_pin": null,
+      "bbox_name": [
+        34,
+        212,
+        92,
+        239
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": [
+        14,
+        248,
+        92,
+        270
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        39,
+        277,
+        90,
+        307
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "MUTE",
+      "bbox_pin": null,
+      "bbox_name": [
+        15,
+        310,
+        91,
+        333
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "FMT0",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        339,
+        90,
+        363
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "FMT1",
+      "bbox_pin": null,
+      "bbox_name": [
+        26,
+        369,
+        88,
+        398
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "ZERO",
+      "bbox_pin": null,
+      "bbox_name": [
+        16,
+        402,
+        92,
+        425
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "R\\S\\T\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        36,
+        428,
+        89,
+        454
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "VCC2R",
+      "bbox_pin": null,
+      "bbox_name": [
+        448,
+        437,
+        537,
+        464
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "AGND3R",
+      "bbox_pin": null,
+      "bbox_name": [
+        450,
+        404,
+        556,
+        430
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "IOUTR+",
+      "bbox_pin": null,
+      "bbox_name": [
+        448,
+        374,
+        540,
+        402
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "IOUTR–",
+      "bbox_pin": null,
+      "bbox_name": [
+        447,
+        339,
+        540,
+        370
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "AGND1",
+      "bbox_pin": null,
+      "bbox_name": [
+        450,
+        309,
+        537,
+        332
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "IREF",
+      "bbox_pin": null,
+      "bbox_name": [
+        447,
+        280,
+        507,
+        306
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "VCOMR",
+      "bbox_pin": null,
+      "bbox_name": [
+        446,
+        247,
+        539,
+        275
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "VCOML",
+      "bbox_pin": null,
+      "bbox_name": [
+        450,
+        216,
+        531,
+        244
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "VCC1",
+      "bbox_pin": null,
+      "bbox_name": [
+        453,
+        184,
+        513,
+        213
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "AGND2",
+      "bbox_pin": null,
+      "bbox_name": [
+        450,
+        152,
+        539,
+        177
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "IOUTL+",
+      "bbox_pin": null,
+      "bbox_name": [
+        448,
+        124,
+        534,
+        149
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "IOUTL–",
+      "bbox_pin": null,
+      "bbox_name": [
+        452,
+        92,
+        534,
+        119
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "AGND3L",
+      "bbox_pin": null,
+      "bbox_name": [
+        449,
+        58,
+        551,
+        84
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "VCC2L",
+      "bbox_pin": null,
+      "bbox_name": [
+        448,
+        26,
+        526,
+        55
+      ]
+    }
+  ]
+}

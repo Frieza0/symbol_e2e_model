@@ -1,0 +1,168 @@
+{
+  "image_id": "chip_0317",
+  "width": 256,
+  "height": 256,
+  "total_pins": 10,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "DCLK",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        40,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "FLAG",
+      "bbox_pin": [
+        93,
+        78,
+        99,
+        88
+      ],
+      "bbox_name": [
+        13,
+        78,
+        40,
+        88
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "SYNC",
+      "bbox_pin": [
+        93,
+        123,
+        99,
+        133
+      ],
+      "bbox_name": [
+        13,
+        123,
+        41,
+        133
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "OFF",
+      "bbox_pin": [
+        93,
+        168,
+        99,
+        178
+      ],
+      "bbox_name": [
+        13,
+        168,
+        33,
+        178
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "nCEO",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        41,
+        223
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "VIO",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        201,
+        43
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "VDDA",
+      "bbox_pin": [
+        163,
+        78,
+        169,
+        88
+      ],
+      "bbox_name": [
+        183,
+        78,
+        211,
+        88
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "LCD_R0",
+      "bbox_pin": [
+        163,
+        123,
+        169,
+        133
+      ],
+      "bbox_name": [
+        183,
+        122,
+        222,
+        134
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "SERIAL_RX",
+      "bbox_pin": [
+        163,
+        168,
+        169,
+        178
+      ],
+      "bbox_name": [
+        183,
+        167,
+        240,
+        179
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "TDO",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        204,
+        223
+      ]
+    }
+  ]
+}

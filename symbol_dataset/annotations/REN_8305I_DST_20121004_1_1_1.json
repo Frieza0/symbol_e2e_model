@@ -1,0 +1,185 @@
+{
+  "image_id": "REN_8305I_DST_20121004_1_1_1",
+  "width": 393,
+  "height": 288,
+  "total_pins": 16,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        116,
+        34,
+        168,
+        55
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "OE",
+      "bbox_pin": null,
+      "bbox_name": [
+        136,
+        66,
+        169,
+        86
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        132,
+        92,
+        169,
+        112
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "CLK_EN",
+      "bbox_pin": null,
+      "bbox_name": [
+        80,
+        119,
+        170,
+        144
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "CLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        126,
+        148,
+        170,
+        169
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "nCLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        113,
+        177,
+        169,
+        199
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "CLK_SEL",
+      "bbox_pin": null,
+      "bbox_name": [
+        71,
+        204,
+        169,
+        229
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "LVCMOS_CLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        232,
+        171,
+        258
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        318,
+        233,
+        369,
+        254
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "Q3",
+      "bbox_pin": null,
+      "bbox_name": [
+        318,
+        204,
+        350,
+        228
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "VDDO",
+      "bbox_pin": null,
+      "bbox_name": [
+        315,
+        178,
+        370,
+        199
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "Q2",
+      "bbox_pin": null,
+      "bbox_name": [
+        318,
+        148,
+        351,
+        169
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        317,
+        120,
+        369,
+        141
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "Q1",
+      "bbox_pin": null,
+      "bbox_name": [
+        317,
+        92,
+        348,
+        114
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "VDDO",
+      "bbox_pin": null,
+      "bbox_name": [
+        319,
+        66,
+        368,
+        85
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "Q0",
+      "bbox_pin": null,
+      "bbox_name": [
+        318,
+        36,
+        348,
+        55
+      ]
+    }
+  ]
+}

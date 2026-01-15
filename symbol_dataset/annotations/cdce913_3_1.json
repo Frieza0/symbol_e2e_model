@@ -6,89 +6,158 @@
   "package_type": "2side",
   "pins": [
     {
-      "pin_number": "1",
-      "name": "XIN/CLK",
+      "pin_number": 1,
+      "name": "XiN/CLK",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        22,
+        24,
+        115,
+        49
+      ]
     },
     {
-      "pin_number": "2",
+      "pin_number": 2,
       "name": "S0",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        83,
+        54,
+        116,
+        75
+      ]
     },
     {
-      "pin_number": "3",
+      "pin_number": 3,
       "name": "VDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        66,
+        83,
+        116,
+        111
+      ]
     },
     {
-      "pin_number": "4",
-      "name": "VCTR",
+      "pin_number": 4,
+      "name": "Vctr",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        72,
+        112,
+        115,
+        142
+      ]
     },
     {
-      "pin_number": "5",
+      "pin_number": 5,
       "name": "GND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        60,
+        143,
+        115,
+        165
+      ]
     },
     {
-      "pin_number": "6",
+      "pin_number": 6,
       "name": "VDDOUT",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        21,
+        165,
+        115,
+        194
+      ]
     },
     {
-      "pin_number": "7",
+      "pin_number": 7,
       "name": "VDDOUT",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        22,
+        194,
+        115,
+        224
+      ]
     },
     {
-      "pin_number": "8",
+      "pin_number": 8,
       "name": "Y3",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        295,
+        194,
+        332,
+        218
+      ]
     },
     {
-      "pin_number": "9",
+      "pin_number": 9,
       "name": "Y2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        297,
+        167,
+        329,
+        189
+      ]
     },
     {
-      "pin_number": "10",
+      "pin_number": 10,
       "name": "GND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        292,
+        139,
+        351,
+        161
+      ]
     },
     {
-      "pin_number": "11",
+      "pin_number": 11,
       "name": "Y1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        297,
+        111,
+        327,
+        133
+      ]
     },
     {
-      "pin_number": "12",
+      "pin_number": 12,
       "name": "S2/SCL",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        296,
+        83,
+        382,
+        105
+      ]
     },
     {
-      "pin_number": "13",
+      "pin_number": 13,
       "name": "S1/SDA",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        297,
+        53,
+        385,
+        77
+      ]
     },
     {
-      "pin_number": "14",
-      "name": "XOUT",
+      "pin_number": 14,
+      "name": "Xout",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        297,
+        24,
+        350,
+        48
+      ]
     }
-  ],
-  "file_name": "cdce913_3_1.jpg"
+  ]
 }

@@ -1,0 +1,119 @@
+{
+  "image_id": "MAG3110_4_1",
+  "width": 408,
+  "height": 405,
+  "total_pins": 10,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "Cap-A",
+      "bbox_pin": null,
+      "bbox_name": [
+        93,
+        54,
+        159,
+        83
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        95,
+        121,
+        147,
+        152
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        96,
+        184,
+        133,
+        214
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "Cap-R",
+      "bbox_pin": null,
+      "bbox_name": [
+        93,
+        249,
+        170,
+        284
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        95,
+        320,
+        152,
+        348
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SDA",
+      "bbox_pin": null,
+      "bbox_name": [
+        260,
+        316,
+        323,
+        352
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "SCL",
+      "bbox_pin": null,
+      "bbox_name": [
+        268,
+        247,
+        320,
+        281
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VDDIO",
+      "bbox_pin": null,
+      "bbox_name": [
+        235,
+        184,
+        320,
+        213
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "INT1",
+      "bbox_pin": null,
+      "bbox_name": [
+        267,
+        123,
+        319,
+        150
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        260,
+        54,
+        322,
+        78
+      ]
+    }
+  ]
+}

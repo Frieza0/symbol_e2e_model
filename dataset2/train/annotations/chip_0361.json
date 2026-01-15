@@ -1,0 +1,104 @@
+{
+  "image_id": "chip_0361",
+  "width": 256,
+  "height": 256,
+  "total_pins": 6,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "I2C_SCL",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        32,
+        55,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "O1",
+      "bbox_pin": [
+        93,
+        123,
+        99,
+        133
+      ],
+      "bbox_name": [
+        13,
+        123,
+        27,
+        133
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "AB7",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        34,
+        223
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "RESERVED",
+      "bbox_pin": [
+        163,
+        33,
+        169,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        239,
+        43
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "TXD",
+      "bbox_pin": [
+        163,
+        123,
+        169,
+        133
+      ],
+      "bbox_name": [
+        183,
+        123,
+        203,
+        133
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "EPAD",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        211,
+        223
+      ]
+    }
+  ]
+}

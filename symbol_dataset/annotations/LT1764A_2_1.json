@@ -1,0 +1,185 @@
+{
+  "image_id": "LT1764A_2_1",
+  "width": 339,
+  "height": 282,
+  "total_pins": 16,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        65,
+        22,
+        100,
+        39
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        76,
+        53,
+        101,
+        71
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        67,
+        82,
+        101,
+        102
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        66,
+        115,
+        102,
+        132
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        70,
+        144,
+        102,
+        162
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SENSE/ADJ*",
+      "bbox_pin": null,
+      "bbox_name": [
+        11,
+        177,
+        101,
+        196
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        64,
+        208,
+        100,
+        227
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        66,
+        239,
+        102,
+        257
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        283,
+        240,
+        317,
+        257
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "S\\H\\D\\N\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        282,
+        203,
+        328,
+        227
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        282,
+        177,
+        307,
+        195
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        283,
+        146,
+        303,
+        164
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        282,
+        115,
+        304,
+        133
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        281,
+        84,
+        303,
+        100
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        282,
+        51,
+        307,
+        70
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        282,
+        22,
+        317,
+        39
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "image_id": "chip_0362",
+  "width": 256,
+  "height": 256,
+  "total_pins": 8,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "A9",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        27,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "DNU",
+      "bbox_pin": [
+        93,
+        93,
+        99,
+        103
+      ],
+      "bbox_name": [
+        13,
+        93,
+        34,
+        103
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "RMII_TX_EN",
+      "bbox_pin": [
+        93,
+        153,
+        99,
+        163
+      ],
+      "bbox_name": [
+        13,
+        152,
+        73,
+        164
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GPIO15",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        51,
+        223
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "MAG_Y",
+      "bbox_pin": [
+        163,
+        33,
+        169,
+        43
+      ],
+      "bbox_name": [
+        183,
+        32,
+        219,
+        44
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "PCM_DOUT",
+      "bbox_pin": [
+        163,
+        93,
+        169,
+        103
+      ],
+      "bbox_name": [
+        183,
+        92,
+        239,
+        104
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "CLKOUT",
+      "bbox_pin": [
+        163,
+        153,
+        169,
+        163
+      ],
+      "bbox_name": [
+        183,
+        153,
+        224,
+        163
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "BOOT1",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        218,
+        223
+      ]
+    }
+  ]
+}

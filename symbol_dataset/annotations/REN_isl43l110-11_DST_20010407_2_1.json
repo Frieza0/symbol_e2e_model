@@ -1,0 +1,64 @@
+{
+  "image_id": "REN_isl43l110-11_DST_20010407_2_1",
+  "width": 357,
+  "height": 186,
+  "total_pins": 5,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "COM",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        43,
+        72,
+        63
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "NO",
+      "bbox_pin": null,
+      "bbox_name": [
+        40,
+        81,
+        73,
+        104
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        126,
+        73,
+        149
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        308,
+        128,
+        335,
+        153
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "V+",
+      "bbox_pin": null,
+      "bbox_name": [
+        308,
+        41,
+        338,
+        64
+      ]
+    }
+  ]
+}

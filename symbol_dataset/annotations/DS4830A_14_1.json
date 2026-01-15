@@ -6,245 +6,444 @@
   "package_type": "4side",
   "pins": [
     {
-      "pin_number": "1",
+      "pin_number": 1,
       "name": "R\\S\\T\\",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        165,
+        567,
+        194,
+        606
+      ]
     },
     {
-      "pin_number": "2",
+      "pin_number": 2,
       "name": "SCL",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        209,
+        568,
+        235,
+        606
+      ]
     },
     {
-      "pin_number": "3",
+      "pin_number": 3,
       "name": "SDA",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        250,
+        565,
+        272,
+        607
+      ]
     },
     {
-      "pin_number": "4",
+      "pin_number": 4,
       "name": "GP0",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        291,
+        563,
+        311,
+        609
+      ]
     },
     {
-      "pin_number": "5",
+      "pin_number": 5,
       "name": "REG274",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        331,
+        567,
+        352,
+        637
+      ]
     },
     {
-      "pin_number": "6",
+      "pin_number": 6,
       "name": "GP1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        374,
+        569,
+        394,
+        612
+      ]
     },
     {
-      "pin_number": "7",
+      "pin_number": 7,
       "name": "VDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        413,
+        568,
+        436,
+        606
+      ]
     },
     {
-      "pin_number": "8",
+      "pin_number": 8,
       "name": "GP2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        450,
+        568,
+        472,
+        607
+      ]
     },
     {
-      "pin_number": "9",
+      "pin_number": 9,
       "name": "GP3",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        492,
+        568,
+        513,
+        608
+      ]
     },
     {
-      "pin_number": "10",
+      "pin_number": 10,
       "name": "GP4",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        526,
+        566,
+        549,
+        605
+      ]
     },
     {
-      "pin_number": "11",
+      "pin_number": 11,
       "name": "GP5",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        605,
+        487,
+        643,
+        512
+      ]
     },
     {
-      "pin_number": "12",
+      "pin_number": 12,
       "name": "GP6",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        604,
+        449,
+        641,
+        474
+      ]
     },
     {
-      "pin_number": "13",
+      "pin_number": 13,
       "name": "GP7",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        605,
+        408,
+        642,
+        434
+      ]
     },
     {
-      "pin_number": "14",
+      "pin_number": 14,
       "name": "GP8",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        606,
+        371,
+        643,
+        395
+      ]
     },
     {
-      "pin_number": "15",
+      "pin_number": 15,
       "name": "GP9",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        606,
+        331,
+        642,
+        353
+      ]
     },
     {
-      "pin_number": "16",
+      "pin_number": 16,
       "name": "REG18",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        607,
+        290,
+        663,
+        317
+      ]
     },
     {
-      "pin_number": "17",
+      "pin_number": 17,
       "name": "GP10",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        605,
+        250,
+        654,
+        276
+      ]
     },
     {
-      "pin_number": "18",
+      "pin_number": 18,
       "name": "GP11",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        606,
+        211,
+        652,
+        236
+      ]
     },
     {
-      "pin_number": "19",
+      "pin_number": 19,
       "name": "GP12",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        607,
+        174,
+        652,
+        195
+      ]
     },
     {
-      "pin_number": "20",
+      "pin_number": 20,
       "name": "GP13",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        606,
+        133,
+        651,
+        154
+      ]
     },
     {
-      "pin_number": "21",
+      "pin_number": 21,
       "name": "GP14",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        529,
+        27,
+        550,
+        78
+      ]
     },
     {
-      "pin_number": "22",
+      "pin_number": 22,
       "name": "GP15",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        485,
+        24,
+        508,
+        77
+      ]
     },
     {
-      "pin_number": "23",
+      "pin_number": 23,
       "name": "SHEN",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        449,
+        20,
+        469,
+        76
+      ]
     },
     {
-      "pin_number": "24",
+      "pin_number": 24,
       "name": "MSDIO",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        408,
+        16,
+        433,
+        76
+      ]
     },
     {
-      "pin_number": "25",
+      "pin_number": 25,
       "name": "MSDI",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        369,
+        27,
+        393,
+        79
+      ]
     },
     {
-      "pin_number": "26",
+      "pin_number": 26,
       "name": "MSCL",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        332,
+        26,
+        352,
+        78
+      ]
     },
     {
-      "pin_number": "27",
+      "pin_number": 27,
       "name": "MCS",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        293,
+        31,
+        311,
+        77
+      ]
     },
     {
-      "pin_number": "28",
+      "pin_number": 28,
       "name": "VDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        250,
+        40,
+        276,
+        76
+      ]
     },
     {
-      "pin_number": "29",
+      "pin_number": 29,
       "name": "PWM9",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        214,
+        22,
+        236,
+        76
+      ]
     },
     {
-      "pin_number": "30",
+      "pin_number": 30,
       "name": "PWM8",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        171,
+        22,
+        194,
+        79
+      ]
     },
     {
-      "pin_number": "31",
+      "pin_number": 31,
       "name": "REFINA",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        51,
+        134,
+        115,
+        158
+      ]
     },
     {
-      "pin_number": "32",
+      "pin_number": 32,
       "name": "DACPW0",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        37,
+        169,
+        115,
+        198
+      ]
     },
     {
-      "pin_number": "33",
+      "pin_number": 33,
       "name": "DACPW1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        42,
+        210,
+        115,
+        236
+      ]
     },
     {
-      "pin_number": "34",
+      "pin_number": 34,
       "name": "DACPW2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        38,
+        254,
+        119,
+        277
+      ]
     },
     {
-      "pin_number": "35",
+      "pin_number": 35,
       "name": "DACPW3",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        34,
+        292,
+        117,
+        316
+      ]
     },
     {
-      "pin_number": "36",
+      "pin_number": 36,
       "name": "DACPW4",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        39,
+        333,
+        118,
+        357
+      ]
     },
     {
-      "pin_number": "37",
+      "pin_number": 37,
       "name": "DACPW5",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        32,
+        373,
+        119,
+        394
+      ]
     },
     {
-      "pin_number": "38",
+      "pin_number": 38,
       "name": "DACPW6",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        39,
+        414,
+        117,
+        434
+      ]
     },
     {
-      "pin_number": "39",
+      "pin_number": 39,
       "name": "REFINB",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        50,
+        452,
+        116,
+        474
+      ]
     },
     {
-      "pin_number": "40",
+      "pin_number": 40,
       "name": "DACPW7",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        37,
+        490,
+        116,
+        511
+      ]
     }
-  ],
-  "file_name": "DS4830A_14_1.jpg"
+  ]
 }

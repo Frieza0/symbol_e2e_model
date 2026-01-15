@@ -1,0 +1,168 @@
+{
+  "image_id": "chip_0063",
+  "width": 256,
+  "height": 256,
+  "total_pins": 10,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "PORTB",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        48,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "D15",
+      "bbox_pin": [
+        93,
+        78,
+        99,
+        88
+      ],
+      "bbox_name": [
+        13,
+        78,
+        32,
+        88
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "D17",
+      "bbox_pin": [
+        93,
+        123,
+        99,
+        133
+      ],
+      "bbox_name": [
+        13,
+        123,
+        32,
+        133
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "CS3",
+      "bbox_pin": [
+        93,
+        168,
+        99,
+        178
+      ],
+      "bbox_name": [
+        13,
+        168,
+        33,
+        178
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "LB",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        26,
+        223
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "PWR",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        207,
+        43
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "DQ",
+      "bbox_pin": [
+        163,
+        78,
+        169,
+        88
+      ],
+      "bbox_name": [
+        183,
+        78,
+        198,
+        88
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "SPI_CLK",
+      "bbox_pin": [
+        163,
+        123,
+        169,
+        133
+      ],
+      "bbox_name": [
+        183,
+        122,
+        226,
+        134
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "VBIAS",
+      "bbox_pin": [
+        163,
+        168,
+        169,
+        178
+      ],
+      "bbox_name": [
+        183,
+        168,
+        214,
+        178
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "D11",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        202,
+        223
+      ]
+    }
+  ]
+}

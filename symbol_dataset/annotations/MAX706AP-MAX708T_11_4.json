@@ -1,0 +1,97 @@
+{
+  "image_id": "MAX706AP-MAX708T_11_4",
+  "width": 381,
+  "height": 243,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "M\\R\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        15,
+        48,
+        52,
+        77
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        14,
+        89,
+        48,
+        116
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        12,
+        137,
+        50,
+        164
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "PFI",
+      "bbox_pin": null,
+      "bbox_name": [
+        22,
+        180,
+        52,
+        201
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "P\\F\\O\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        313,
+        176,
+        356,
+        205
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "N.C.",
+      "bbox_pin": null,
+      "bbox_name": [
+        314,
+        137,
+        348,
+        161
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "R\\E\\S\\E\\T\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        314,
+        89,
+        373,
+        116
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "RESET",
+      "bbox_pin": null,
+      "bbox_name": [
+        312,
+        51,
+        368,
+        72
+      ]
+    }
+  ]
+}

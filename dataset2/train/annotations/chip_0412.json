@@ -1,0 +1,200 @@
+{
+  "image_id": "chip_0412",
+  "width": 256,
+  "height": 256,
+  "total_pins": 12,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "ETH_TX-",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        32,
+        56,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "DATA",
+      "bbox_pin": [
+        93,
+        69,
+        99,
+        79
+      ],
+      "bbox_name": [
+        13,
+        69,
+        40,
+        79
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "SWDIO",
+      "bbox_pin": [
+        93,
+        105,
+        99,
+        115
+      ],
+      "bbox_name": [
+        13,
+        105,
+        47,
+        115
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "A10",
+      "bbox_pin": [
+        93,
+        141,
+        99,
+        151
+      ],
+      "bbox_name": [
+        13,
+        141,
+        33,
+        151
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "RX_SW",
+      "bbox_pin": [
+        93,
+        177,
+        99,
+        187
+      ],
+      "bbox_name": [
+        13,
+        176,
+        50,
+        188
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "XTAL2",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        45,
+        223
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "VPP",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        204,
+        43
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "LIN_IN",
+      "bbox_pin": [
+        163,
+        69,
+        175,
+        79
+      ],
+      "bbox_name": [
+        183,
+        68,
+        215,
+        80
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "nSTATUS",
+      "bbox_pin": [
+        163,
+        105,
+        175,
+        115
+      ],
+      "bbox_name": [
+        183,
+        105,
+        229,
+        115
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "SWCLK",
+      "bbox_pin": [
+        163,
+        141,
+        169,
+        151
+      ],
+      "bbox_name": [
+        183,
+        141,
+        219,
+        151
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "USB_DM",
+      "bbox_pin": [
+        163,
+        177,
+        169,
+        187
+      ],
+      "bbox_name": [
+        183,
+        176,
+        225,
+        188
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "BCLK",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        210,
+        223
+      ]
+    }
+  ]
+}

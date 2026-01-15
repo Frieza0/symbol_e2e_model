@@ -1,0 +1,97 @@
+{
+  "image_id": "JFM25F32产品说明书_44_1",
+  "width": 477,
+  "height": 206,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "CS#",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        21,
+        91,
+        53
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "DO",
+      "bbox_pin": null,
+      "bbox_name": [
+        29,
+        64,
+        79,
+        89
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "WP#",
+      "bbox_pin": null,
+      "bbox_name": [
+        18,
+        114,
+        88,
+        141
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        28,
+        154,
+        92,
+        188
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "DI",
+      "bbox_pin": null,
+      "bbox_name": [
+        353,
+        155,
+        390,
+        188
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "CLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        350,
+        110,
+        416,
+        144
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "HOLD#",
+      "bbox_pin": null,
+      "bbox_name": [
+        352,
+        66,
+        455,
+        96
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        350,
+        18,
+        416,
+        48
+      ]
+    }
+  ]
+}

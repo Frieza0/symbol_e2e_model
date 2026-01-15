@@ -1,0 +1,97 @@
+{
+  "image_id": "txs0102_3_1",
+  "width": 450,
+  "height": 263,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "B2",
+      "bbox_pin": null,
+      "bbox_name": [
+        44,
+        42,
+        85,
+        68
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        22,
+        93,
+        90,
+        124
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VCCA",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        150,
+        84,
+        188
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "A2",
+      "bbox_pin": null,
+      "bbox_name": [
+        50,
+        206,
+        85,
+        233
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "A1",
+      "bbox_pin": null,
+      "bbox_name": [
+        369,
+        205,
+        404,
+        235
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "OE",
+      "bbox_pin": null,
+      "bbox_name": [
+        367,
+        149,
+        420,
+        179
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "VCCB",
+      "bbox_pin": null,
+      "bbox_name": [
+        369,
+        96,
+        431,
+        133
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "B1",
+      "bbox_pin": null,
+      "bbox_name": [
+        367,
+        38,
+        405,
+        68
+      ]
+    }
+  ]
+}

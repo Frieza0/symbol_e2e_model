@@ -1,0 +1,64 @@
+{
+  "image_id": "stwd100_3_1",
+  "width": 483,
+  "height": 243,
+  "total_pins": 5,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "WDO",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        54,
+        99,
+        83
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        31,
+        107,
+        103,
+        142
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "E\\N\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        53,
+        165,
+        107,
+        203
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "WDI",
+      "bbox_pin": null,
+      "bbox_name": [
+        396,
+        167,
+        460,
+        203
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        399,
+        47,
+        463,
+        85
+      ]
+    }
+  ]
+}

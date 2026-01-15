@@ -6,53 +6,92 @@
   "package_type": "2side",
   "pins": [
     {
-      "pin_number": "1",
+      "pin_number": 1,
       "name": "A0",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        12,
+        49,
+        44,
+        74
+      ]
     },
     {
-      "pin_number": "2",
+      "pin_number": 2,
       "name": "A1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        13,
+        99,
+        43,
+        122
+      ]
     },
     {
-      "pin_number": "3",
+      "pin_number": 3,
       "name": "A2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        15,
+        146,
+        43,
+        168
+      ]
     },
     {
-      "pin_number": "4",
+      "pin_number": 4,
       "name": "GND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        11,
+        193,
+        46,
+        217
+      ]
     },
     {
-      "pin_number": "5",
+      "pin_number": 5,
       "name": "SDA",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        297,
+        194,
+        334,
+        215
+      ]
     },
     {
-      "pin_number": "6",
+      "pin_number": 6,
       "name": "SCL",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        295,
+        147,
+        335,
+        169
+      ]
     },
     {
-      "pin_number": "7",
+      "pin_number": 7,
       "name": "WP",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        301,
+        98,
+        330,
+        121
+      ]
     },
     {
-      "pin_number": "8",
+      "pin_number": 8,
       "name": "VCC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        297,
+        50,
+        334,
+        72
+      ]
     }
-  ],
-  "file_name": "BL24C512A_1_3.jpg"
+  ]
 }

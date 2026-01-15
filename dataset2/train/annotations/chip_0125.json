@@ -1,0 +1,232 @@
+{
+  "image_id": "chip_0125",
+  "width": 256,
+  "height": 256,
+  "total_pins": 14,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "TEMP",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        41,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "DNU",
+      "bbox_pin": [
+        93,
+        63,
+        99,
+        73
+      ],
+      "bbox_name": [
+        13,
+        63,
+        34,
+        73
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "HOLD",
+      "bbox_pin": [
+        93,
+        93,
+        99,
+        103
+      ],
+      "bbox_name": [
+        13,
+        93,
+        41,
+        103
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "XOUT",
+      "bbox_pin": [
+        93,
+        123,
+        99,
+        133
+      ],
+      "bbox_name": [
+        13,
+        123,
+        41,
+        133
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "DIFFP",
+      "bbox_pin": [
+        93,
+        153,
+        99,
+        163
+      ],
+      "bbox_name": [
+        13,
+        153,
+        42,
+        163
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "PORTC",
+      "bbox_pin": [
+        93,
+        183,
+        99,
+        193
+      ],
+      "bbox_name": [
+        13,
+        183,
+        48,
+        193
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "METAL",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        47,
+        223
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "CS2",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        203,
+        43
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "PCM_DIN",
+      "bbox_pin": [
+        163,
+        63,
+        175,
+        73
+      ],
+      "bbox_name": [
+        183,
+        62,
+        228,
+        74
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "I2S_CLK",
+      "bbox_pin": [
+        163,
+        93,
+        175,
+        103
+      ],
+      "bbox_name": [
+        183,
+        92,
+        225,
+        104
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "GPIO10",
+      "bbox_pin": [
+        163,
+        123,
+        175,
+        133
+      ],
+      "bbox_name": [
+        183,
+        123,
+        221,
+        133
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "DB4",
+      "bbox_pin": [
+        163,
+        153,
+        175,
+        163
+      ],
+      "bbox_name": [
+        183,
+        153,
+        203,
+        163
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "I2C_SCL",
+      "bbox_pin": [
+        163,
+        183,
+        169,
+        193
+      ],
+      "bbox_name": [
+        183,
+        182,
+        225,
+        194
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "DB0",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        203,
+        223
+      ]
+    }
+  ]
+}

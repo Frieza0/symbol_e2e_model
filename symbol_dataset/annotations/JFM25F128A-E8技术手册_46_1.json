@@ -1,0 +1,97 @@
+{
+  "image_id": "JFM25F128A-E8技术手册_46_1",
+  "width": 639,
+  "height": 215,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "CS#",
+      "bbox_pin": null,
+      "bbox_name": [
+        87,
+        23,
+        143,
+        47
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "DO(DQ1)",
+      "bbox_pin": null,
+      "bbox_name": [
+        39,
+        68,
+        141,
+        100
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "WP#(DQ2)",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        116,
+        145,
+        146
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        91,
+        162,
+        144,
+        189
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "DI(DQ0)",
+      "bbox_pin": null,
+      "bbox_name": [
+        474,
+        162,
+        563,
+        193
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "CLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        472,
+        118,
+        526,
+        143
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "HOLD#(DQ3)",
+      "bbox_pin": null,
+      "bbox_name": [
+        469,
+        66,
+        620,
+        101
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        471,
+        18,
+        529,
+        46
+      ]
+    }
+  ]
+}

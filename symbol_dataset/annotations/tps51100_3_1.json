@@ -1,0 +1,119 @@
+{
+  "image_id": "tps51100_3_1",
+  "width": 645,
+  "height": 261,
+  "total_pins": 10,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VDDQSNS",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        39,
+        147,
+        67
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VLDOIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        49,
+        78,
+        148,
+        102
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VTT",
+      "bbox_pin": null,
+      "bbox_name": [
+        90,
+        115,
+        142,
+        139
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "PGND",
+      "bbox_pin": null,
+      "bbox_name": [
+        66,
+        154,
+        145,
+        179
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VTTSNS",
+      "bbox_pin": null,
+      "bbox_name": [
+        44,
+        189,
+        143,
+        215
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "VTTREF",
+      "bbox_pin": null,
+      "bbox_name": [
+        524,
+        186,
+        628,
+        217
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "S3",
+      "bbox_pin": null,
+      "bbox_name": [
+        526,
+        152,
+        563,
+        178
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        521,
+        113,
+        583,
+        141
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "S5",
+      "bbox_pin": null,
+      "bbox_name": [
+        523,
+        75,
+        565,
+        102
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "VIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        519,
+        37,
+        570,
+        63
+      ]
+    }
+  ]
+}

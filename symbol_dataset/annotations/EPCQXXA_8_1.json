@@ -1,0 +1,185 @@
+{
+  "image_id": "EPCQXXA_8_1",
+  "width": 423,
+  "height": 438,
+  "total_pins": 16,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "DATA3",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        33,
+        91,
+        62
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        60,
+        82,
+        98,
+        121
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "nRESET",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        129,
+        98,
+        160
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "N.C",
+      "bbox_pin": null,
+      "bbox_name": [
+        54,
+        176,
+        97,
+        206
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "N.C",
+      "bbox_pin": null,
+      "bbox_name": [
+        54,
+        224,
+        98,
+        253
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "N.C",
+      "bbox_pin": null,
+      "bbox_name": [
+        55,
+        270,
+        96,
+        300
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "nCS",
+      "bbox_pin": null,
+      "bbox_name": [
+        50,
+        318,
+        93,
+        347
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "DATA1",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        363,
+        89,
+        396
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "DATA2",
+      "bbox_pin": null,
+      "bbox_name": [
+        332,
+        361,
+        398,
+        395
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        328,
+        319,
+        379,
+        349
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "N.C",
+      "bbox_pin": null,
+      "bbox_name": [
+        329,
+        271,
+        371,
+        301
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "N.C",
+      "bbox_pin": null,
+      "bbox_name": [
+        327,
+        222,
+        374,
+        256
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "N.C",
+      "bbox_pin": null,
+      "bbox_name": [
+        328,
+        176,
+        370,
+        205
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "N.C.",
+      "bbox_pin": null,
+      "bbox_name": [
+        327,
+        129,
+        374,
+        159
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "DATA0",
+      "bbox_pin": null,
+      "bbox_name": [
+        330,
+        81,
+        397,
+        111
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "DCLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        329,
+        35,
+        387,
+        63
+      ]
+    }
+  ]
+}

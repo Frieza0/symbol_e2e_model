@@ -1,0 +1,97 @@
+{
+  "image_id": "NCA9306-DTSHR_3_1",
+  "width": 462,
+  "height": 270,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        38,
+        50,
+        93,
+        79
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VREF1",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        96,
+        94,
+        119
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "SCLI",
+      "bbox_pin": null,
+      "bbox_name": [
+        35,
+        150,
+        94,
+        172
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "SDAI",
+      "bbox_pin": null,
+      "bbox_name": [
+        35,
+        202,
+        91,
+        227
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "SDA2",
+      "bbox_pin": null,
+      "bbox_name": [
+        363,
+        204,
+        424,
+        223
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SCL2",
+      "bbox_pin": null,
+      "bbox_name": [
+        368,
+        149,
+        421,
+        168
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "VREF2",
+      "bbox_pin": null,
+      "bbox_name": [
+        365,
+        99,
+        439,
+        119
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "EN",
+      "bbox_pin": null,
+      "bbox_name": [
+        364,
+        46,
+        400,
+        73
+      ]
+    }
+  ]
+}

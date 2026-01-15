@@ -6,101 +6,180 @@
   "package_type": "4side",
   "pins": [
     {
-      "pin_number": "1",
+      "pin_number": 1,
       "name": "NC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        36,
+        115,
+        67,
+        138
+      ]
     },
     {
-      "pin_number": "2",
+      "pin_number": 2,
       "name": "ST",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        39,
+        159,
+        68,
+        182
+      ]
     },
     {
-      "pin_number": "3",
+      "pin_number": 3,
       "name": "COM",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        23,
+        204,
+        68,
+        227
+      ]
     },
     {
-      "pin_number": "4",
+      "pin_number": 4,
       "name": "NC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        38,
+        251,
+        69,
+        273
+      ]
     },
     {
-      "pin_number": "5",
+      "pin_number": 5,
       "name": "COM",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        122,
+        319,
+        143,
+        364
+      ]
     },
     {
-      "pin_number": "6",
+      "pin_number": 6,
       "name": "COM",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        169,
+        319,
+        188,
+        365
+      ]
     },
     {
-      "pin_number": "7",
+      "pin_number": 7,
       "name": "COM",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        215,
+        319,
+        232,
+        365
+      ]
     },
     {
-      "pin_number": "8",
+      "pin_number": 8,
       "name": "ZOUT",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        258,
+        318,
+        281,
+        368
+      ]
     },
     {
-      "pin_number": "9",
+      "pin_number": 9,
       "name": "NC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        336,
+        249,
+        368,
+        271
+      ]
     },
     {
-      "pin_number": "10",
+      "pin_number": 10,
       "name": "YOUT",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        337,
+        204,
+        383,
+        227
+      ]
     },
     {
-      "pin_number": "11",
+      "pin_number": 11,
       "name": "NC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        336,
+        159,
+        368,
+        181
+      ]
     },
     {
-      "pin_number": "12",
+      "pin_number": 12,
       "name": "XOUT",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        336,
+        115,
+        385,
+        141
+      ]
     },
     {
-      "pin_number": "13",
+      "pin_number": 13,
       "name": "NC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        256,
+        22,
+        277,
+        52
+      ]
     },
     {
-      "pin_number": "14",
+      "pin_number": 14,
       "name": "VS",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        211,
+        26,
+        234,
+        54
+      ]
     },
     {
-      "pin_number": "15",
+      "pin_number": 15,
       "name": "VS",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        165,
+        27,
+        188,
+        52
+      ]
     },
     {
-      "pin_number": "16",
+      "pin_number": 16,
       "name": "NC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        122,
+        22,
+        141,
+        51
+      ]
     }
-  ],
-  "file_name": "ADXL335_5_1.jpg"
+  ]
 }

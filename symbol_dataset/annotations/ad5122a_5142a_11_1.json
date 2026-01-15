@@ -6,101 +6,180 @@
   "package_type": "2side",
   "pins": [
     {
-      "pin_number": "1",
+      "pin_number": 1,
       "name": "INDEP",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        23,
+        43,
+        86,
+        63
+      ]
     },
     {
-      "pin_number": "2",
-      "name": "!R!E!S!E!T",
+      "pin_number": 2,
+      "name": "R\\E\\S\\E\\T\\",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        16,
+        76,
+        88,
+        104
+      ]
     },
     {
-      "pin_number": "3",
+      "pin_number": 3,
       "name": "GND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        41,
+        115,
+        84,
+        138
+      ]
     },
     {
-      "pin_number": "4",
+      "pin_number": 4,
       "name": "A1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        59,
+        152,
+        84,
+        173
+      ]
     },
     {
-      "pin_number": "5",
+      "pin_number": 5,
       "name": "W1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        53,
+        190,
+        82,
+        209
+      ]
     },
     {
-      "pin_number": "6",
+      "pin_number": 6,
       "name": "B1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        58,
+        228,
+        85,
+        246
+      ]
     },
     {
-      "pin_number": "7",
+      "pin_number": 7,
       "name": "VSS",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        51,
+        261,
+        85,
+        287
+      ]
     },
     {
-      "pin_number": "8",
+      "pin_number": 8,
       "name": "A2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        61,
+        298,
+        84,
+        323
+      ]
     },
     {
-      "pin_number": "9",
+      "pin_number": 9,
       "name": "W2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        309,
+        302,
+        338,
+        321
+      ]
     },
     {
-      "pin_number": "10",
+      "pin_number": 10,
       "name": "B2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        307,
+        267,
+        336,
+        286
+      ]
     },
     {
-      "pin_number": "11",
+      "pin_number": 11,
       "name": "VDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        309,
+        229,
+        347,
+        254
+      ]
     },
     {
-      "pin_number": "12",
+      "pin_number": 12,
       "name": "VLOGIC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        306,
+        190,
+        373,
+        218
+      ]
     },
     {
-      "pin_number": "13",
+      "pin_number": 13,
       "name": "SCL",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        309,
+        155,
+        346,
+        176
+      ]
     },
     {
-      "pin_number": "14",
+      "pin_number": 14,
       "name": "SDA",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        308,
+        120,
+        349,
+        142
+      ]
     },
     {
-      "pin_number": "15",
+      "pin_number": 15,
       "name": "ADDR1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        309,
+        81,
+        375,
+        102
+      ]
     },
     {
-      "pin_number": "16",
+      "pin_number": 16,
       "name": "ADDR0",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        306,
+        48,
+        375,
+        67
+      ]
     }
-  ],
-  "file_name": "ad5122a_5142a_11_1.jpg"
+  ]
 }

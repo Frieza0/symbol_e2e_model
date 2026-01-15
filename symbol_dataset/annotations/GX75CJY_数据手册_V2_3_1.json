@@ -1,0 +1,97 @@
+{
+  "image_id": "GX75CJY_数据手册_V2_3_1",
+  "width": 645,
+  "height": 384,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "SDA",
+      "bbox_pin": null,
+      "bbox_name": [
+        6,
+        42,
+        72,
+        74
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "SCL",
+      "bbox_pin": null,
+      "bbox_name": [
+        7,
+        129,
+        70,
+        161
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "ALT",
+      "bbox_pin": null,
+      "bbox_name": [
+        11,
+        219,
+        69,
+        253
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        11,
+        310,
+        71,
+        343
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "A2",
+      "bbox_pin": null,
+      "bbox_name": [
+        581,
+        312,
+        624,
+        342
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "A1",
+      "bbox_pin": null,
+      "bbox_name": [
+        574,
+        214,
+        624,
+        255
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "A0",
+      "bbox_pin": null,
+      "bbox_name": [
+        583,
+        133,
+        621,
+        161
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        574,
+        42,
+        637,
+        70
+      ]
+    }
+  ]
+}

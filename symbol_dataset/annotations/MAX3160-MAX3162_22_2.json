@@ -1,0 +1,229 @@
+{
+  "image_id": "MAX3160-MAX3162_22_2",
+  "width": 507,
+  "height": 507,
+  "total_pins": 20,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "C1+",
+      "bbox_pin": null,
+      "bbox_name": [
+        70,
+        40,
+        110,
+        70
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        67,
+        85,
+        111,
+        114
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "C1-",
+      "bbox_pin": null,
+      "bbox_name": [
+        74,
+        130,
+        111,
+        157
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        65,
+        171,
+        109,
+        201
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "Z(B)/T1OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        8,
+        218,
+        108,
+        244
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "Y(A)/T2OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        10,
+        262,
+        109,
+        291
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "R1OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        49,
+        301,
+        108,
+        331
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "RO/R2OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        348,
+        109,
+        376
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "S\\H\\D\\N\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        53,
+        391,
+        111,
+        418
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "FAST",
+      "bbox_pin": null,
+      "bbox_name": [
+        62,
+        434,
+        106,
+        465
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "RS-485/R\\S\\-\\2\\3\\2\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        370,
+        438,
+        500,
+        470
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "HDPLX",
+      "bbox_pin": null,
+      "bbox_name": [
+        370,
+        392,
+        431,
+        419
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "A/R2IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        370,
+        351,
+        430,
+        375
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "B/R1IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        370,
+        309,
+        430,
+        334
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "DE485/T2IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        370,
+        261,
+        467,
+        288
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "DI/T1IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        372,
+        218,
+        436,
+        243
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "V-",
+      "bbox_pin": null,
+      "bbox_name": [
+        370,
+        176,
+        399,
+        198
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "C2-",
+      "bbox_pin": null,
+      "bbox_name": [
+        370,
+        132,
+        404,
+        155
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "C2+",
+      "bbox_pin": null,
+      "bbox_name": [
+        373,
+        85,
+        407,
+        108
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "V+",
+      "bbox_pin": null,
+      "bbox_name": [
+        369,
+        43,
+        397,
+        64
+      ]
+    }
+  ]
+}

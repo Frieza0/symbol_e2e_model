@@ -1,0 +1,185 @@
+{
+  "image_id": "MS90C032_2_1",
+  "width": 633,
+  "height": 567,
+  "total_pins": 16,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "RIN1-",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        41,
+        106,
+        73
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "RIN1+",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        101,
+        106,
+        135
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "ROUT1",
+      "bbox_pin": null,
+      "bbox_name": [
+        9,
+        170,
+        103,
+        207
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "EN",
+      "bbox_pin": null,
+      "bbox_name": [
+        57,
+        234,
+        101,
+        267
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "ROUT2",
+      "bbox_pin": null,
+      "bbox_name": [
+        13,
+        298,
+        105,
+        336
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "RIN2+",
+      "bbox_pin": null,
+      "bbox_name": [
+        22,
+        365,
+        102,
+        400
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "RIN2-",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        432,
+        102,
+        466
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        36,
+        492,
+        102,
+        528
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "RIN3-",
+      "bbox_pin": null,
+      "bbox_name": [
+        523,
+        492,
+        602,
+        532
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "RIN3+",
+      "bbox_pin": null,
+      "bbox_name": [
+        525,
+        433,
+        608,
+        466
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "ROUT3",
+      "bbox_pin": null,
+      "bbox_name": [
+        522,
+        368,
+        623,
+        402
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "EN*",
+      "bbox_pin": null,
+      "bbox_name": [
+        528,
+        296,
+        581,
+        331
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "ROUT4",
+      "bbox_pin": null,
+      "bbox_name": [
+        526,
+        232,
+        624,
+        267
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "RIN4+",
+      "bbox_pin": null,
+      "bbox_name": [
+        525,
+        170,
+        611,
+        203
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "RIN4-",
+      "bbox_pin": null,
+      "bbox_name": [
+        526,
+        108,
+        605,
+        137
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        528,
+        38,
+        589,
+        73
+      ]
+    }
+  ]
+}

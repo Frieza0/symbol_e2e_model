@@ -1,0 +1,185 @@
+{
+  "image_id": "MAX3095-MAX3096_7_1",
+  "width": 579,
+  "height": 636,
+  "total_pins": 16,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "B1",
+      "bbox_pin": null,
+      "bbox_name": [
+        32,
+        62,
+        76,
+        98
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "A1",
+      "bbox_pin": null,
+      "bbox_name": [
+        38,
+        127,
+        78,
+        175
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "Y1",
+      "bbox_pin": null,
+      "bbox_name": [
+        34,
+        201,
+        79,
+        240
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "G",
+      "bbox_pin": null,
+      "bbox_name": [
+        39,
+        274,
+        79,
+        314
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "Y2",
+      "bbox_pin": null,
+      "bbox_name": [
+        39,
+        341,
+        79,
+        389
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "A2",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        412,
+        79,
+        454
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "B2",
+      "bbox_pin": null,
+      "bbox_name": [
+        32,
+        482,
+        79,
+        522
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        11,
+        548,
+        77,
+        601
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "B3",
+      "bbox_pin": null,
+      "bbox_name": [
+        504,
+        552,
+        551,
+        597
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "A3",
+      "bbox_pin": null,
+      "bbox_name": [
+        504,
+        482,
+        551,
+        528
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "Y3",
+      "bbox_pin": null,
+      "bbox_name": [
+        502,
+        413,
+        549,
+        452
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "G\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        497,
+        331,
+        538,
+        382
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "Y4",
+      "bbox_pin": null,
+      "bbox_name": [
+        502,
+        263,
+        551,
+        311
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "A4",
+      "bbox_pin": null,
+      "bbox_name": [
+        509,
+        207,
+        547,
+        245
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "B4",
+      "bbox_pin": null,
+      "bbox_name": [
+        506,
+        132,
+        546,
+        173
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        508,
+        61,
+        567,
+        103
+      ]
+    }
+  ]
+}

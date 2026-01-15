@@ -1,0 +1,232 @@
+{
+  "image_id": "chip_0403",
+  "width": 256,
+  "height": 256,
+  "total_pins": 14,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "OSC",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        35,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "D1",
+      "bbox_pin": [
+        93,
+        63,
+        99,
+        73
+      ],
+      "bbox_name": [
+        13,
+        63,
+        26,
+        73
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GPS_ANT",
+      "bbox_pin": [
+        93,
+        93,
+        99,
+        103
+      ],
+      "bbox_name": [
+        13,
+        92,
+        61,
+        104
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VIN",
+      "bbox_pin": [
+        93,
+        123,
+        99,
+        133
+      ],
+      "bbox_name": [
+        13,
+        123,
+        30,
+        133
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "DRDY",
+      "bbox_pin": [
+        93,
+        153,
+        99,
+        163
+      ],
+      "bbox_name": [
+        13,
+        153,
+        41,
+        163
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "AD1",
+      "bbox_pin": [
+        93,
+        183,
+        99,
+        193
+      ],
+      "bbox_name": [
+        13,
+        183,
+        34,
+        193
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "I0",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        22,
+        223
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "A12",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        203,
+        43
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "SDA2",
+      "bbox_pin": [
+        163,
+        63,
+        175,
+        73
+      ],
+      "bbox_name": [
+        183,
+        63,
+        210,
+        73
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "A18",
+      "bbox_pin": [
+        163,
+        93,
+        175,
+        103
+      ],
+      "bbox_name": [
+        183,
+        93,
+        203,
+        103
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "FLAG",
+      "bbox_pin": [
+        163,
+        123,
+        175,
+        133
+      ],
+      "bbox_name": [
+        183,
+        123,
+        210,
+        133
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "TMS",
+      "bbox_pin": [
+        163,
+        153,
+        175,
+        163
+      ],
+      "bbox_name": [
+        183,
+        153,
+        204,
+        163
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "GPIO9",
+      "bbox_pin": [
+        163,
+        183,
+        169,
+        193
+      ],
+      "bbox_name": [
+        183,
+        183,
+        215,
+        193
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "I2S_SCK",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        212,
+        226,
+        224
+      ]
+    }
+  ]
+}

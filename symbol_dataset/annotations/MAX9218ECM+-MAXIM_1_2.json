@@ -1,0 +1,537 @@
+{
+  "image_id": "MAX9218ECM+-MAXIM_1_2",
+  "width": 684,
+  "height": 609,
+  "total_pins": 48,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "R/F",
+      "bbox_pin": null,
+      "bbox_name": [
+        144,
+        150,
+        172,
+        177
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "RNG1",
+      "bbox_pin": null,
+      "bbox_name": [
+        128,
+        182,
+        171,
+        204
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VCCLVDS",
+      "bbox_pin": null,
+      "bbox_name": [
+        114,
+        207,
+        171,
+        231
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "IN+",
+      "bbox_pin": null,
+      "bbox_name": [
+        143,
+        232,
+        170,
+        251
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "IN-",
+      "bbox_pin": null,
+      "bbox_name": [
+        144,
+        257,
+        171,
+        275
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "LVDS GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        99,
+        281,
+        169,
+        302
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "PLL GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        107,
+        309,
+        172,
+        327
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCCPLL",
+      "bbox_pin": null,
+      "bbox_name": [
+        122,
+        332,
+        169,
+        354
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "RNG0",
+      "bbox_pin": null,
+      "bbox_name": [
+        128,
+        361,
+        170,
+        377
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        134,
+        386,
+        171,
+        403
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        140,
+        408,
+        170,
+        429
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "REFCLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        114,
+        436,
+        171,
+        455
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "P\\W\\R\\D\\W\\N\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        226,
+        514,
+        251,
+        585
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "OUTEN",
+      "bbox_pin": null,
+      "bbox_name": [
+        257,
+        517,
+        276,
+        566
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "CNTL_OUT0",
+      "bbox_pin": null,
+      "bbox_name": [
+        282,
+        520,
+        304,
+        600
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "CNTL_OUT1",
+      "bbox_pin": null,
+      "bbox_name": [
+        309,
+        520,
+        329,
+        599
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "CNTL_OUT2",
+      "bbox_pin": null,
+      "bbox_name": [
+        331,
+        516,
+        353,
+        598
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "CNTL_OUT3",
+      "bbox_pin": null,
+      "bbox_name": [
+        357,
+        518,
+        380,
+        598
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "CNTL_OUT4",
+      "bbox_pin": null,
+      "bbox_name": [
+        385,
+        519,
+        405,
+        599
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "CNTL_OUT5",
+      "bbox_pin": null,
+      "bbox_name": [
+        410,
+        518,
+        430,
+        600
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "CNTL_OUT6",
+      "bbox_pin": null,
+      "bbox_name": [
+        433,
+        519,
+        458,
+        598
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "CNTL_OUT7",
+      "bbox_pin": null,
+      "bbox_name": [
+        459,
+        520,
+        482,
+        597
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "CNTL_OUT8",
+      "bbox_pin": null,
+      "bbox_name": [
+        483,
+        521,
+        506,
+        598
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "DE_OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        510,
+        519,
+        531,
+        576
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "VCCOGND",
+      "bbox_pin": null,
+      "bbox_name": [
+        598,
+        435,
+        661,
+        460
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "VCCO",
+      "bbox_pin": null,
+      "bbox_name": [
+        597,
+        410,
+        633,
+        431
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "L\\O\\C\\K\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        597,
+        382,
+        634,
+        404
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "PCLK_OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        596,
+        357,
+        667,
+        379
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "RGB_OUT0",
+      "bbox_pin": null,
+      "bbox_name": [
+        596,
+        332,
+        668,
+        353
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "RGB_OUT1",
+      "bbox_pin": null,
+      "bbox_name": [
+        597,
+        306,
+        668,
+        329
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "RGB_OUT2",
+      "bbox_pin": null,
+      "bbox_name": [
+        596,
+        282,
+        668,
+        303
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "RGB_OUT3",
+      "bbox_pin": null,
+      "bbox_name": [
+        597,
+        256,
+        668,
+        278
+      ]
+    },
+    {
+      "pin_number": 33,
+      "name": "RGB_OUT4",
+      "bbox_pin": null,
+      "bbox_name": [
+        598,
+        230,
+        668,
+        253
+      ]
+    },
+    {
+      "pin_number": 34,
+      "name": "RGB_OUT5",
+      "bbox_pin": null,
+      "bbox_name": [
+        597,
+        205,
+        669,
+        228
+      ]
+    },
+    {
+      "pin_number": 35,
+      "name": "RGB_OUT6",
+      "bbox_pin": null,
+      "bbox_name": [
+        597,
+        178,
+        669,
+        201
+      ]
+    },
+    {
+      "pin_number": 36,
+      "name": "RGB_OUT7",
+      "bbox_pin": null,
+      "bbox_name": [
+        597,
+        155,
+        667,
+        177
+      ]
+    },
+    {
+      "pin_number": 37,
+      "name": "VCCOGND",
+      "bbox_pin": null,
+      "bbox_name": [
+        509,
+        30,
+        535,
+        97
+      ]
+    },
+    {
+      "pin_number": 38,
+      "name": "VCCO",
+      "bbox_pin": null,
+      "bbox_name": [
+        485,
+        54,
+        506,
+        97
+      ]
+    },
+    {
+      "pin_number": 39,
+      "name": "RGB_OUT8",
+      "bbox_pin": null,
+      "bbox_name": [
+        461,
+        22,
+        480,
+        97
+      ]
+    },
+    {
+      "pin_number": 40,
+      "name": "RGB_OUT9",
+      "bbox_pin": null,
+      "bbox_name": [
+        434,
+        23,
+        456,
+        96
+      ]
+    },
+    {
+      "pin_number": 41,
+      "name": "RGB_OUT10",
+      "bbox_pin": null,
+      "bbox_name": [
+        410,
+        13,
+        431,
+        95
+      ]
+    },
+    {
+      "pin_number": 42,
+      "name": "RGB_OUT11",
+      "bbox_pin": null,
+      "bbox_name": [
+        383,
+        16,
+        406,
+        97
+      ]
+    },
+    {
+      "pin_number": 43,
+      "name": "RGB_OUT12",
+      "bbox_pin": null,
+      "bbox_name": [
+        360,
+        14,
+        382,
+        95
+      ]
+    },
+    {
+      "pin_number": 44,
+      "name": "RGB_OUT13",
+      "bbox_pin": null,
+      "bbox_name": [
+        334,
+        14,
+        355,
+        95
+      ]
+    },
+    {
+      "pin_number": 45,
+      "name": "RGB_OUT14",
+      "bbox_pin": null,
+      "bbox_name": [
+        309,
+        13,
+        331,
+        95
+      ]
+    },
+    {
+      "pin_number": 46,
+      "name": "RGB_OUT15",
+      "bbox_pin": null,
+      "bbox_name": [
+        283,
+        16,
+        306,
+        94
+      ]
+    },
+    {
+      "pin_number": 47,
+      "name": "RGB_OUT16",
+      "bbox_pin": null,
+      "bbox_name": [
+        256,
+        15,
+        279,
+        96
+      ]
+    },
+    {
+      "pin_number": 48,
+      "name": "RGB_OUT17",
+      "bbox_pin": null,
+      "bbox_name": [
+        233,
+        14,
+        253,
+        94
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "image_id": "LTC3600_2_1",
+  "width": 453,
+  "height": 234,
+  "total_pins": 13,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "ISET",
+      "bbox_pin": null,
+      "bbox_name": [
+        86,
+        22,
+        132,
+        45
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "ITH",
+      "bbox_pin": null,
+      "bbox_name": [
+        100,
+        57,
+        132,
+        81
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "RT",
+      "bbox_pin": null,
+      "bbox_name": [
+        103,
+        91,
+        131,
+        114
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "PGFB",
+      "bbox_pin": null,
+      "bbox_name": [
+        79,
+        126,
+        132,
+        148
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "RUN",
+      "bbox_pin": null,
+      "bbox_name": [
+        87,
+        159,
+        132,
+        182
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "MODE/SYNC",
+      "bbox_pin": null,
+      "bbox_name": [
+        18,
+        194,
+        131,
+        216
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "SW",
+      "bbox_pin": null,
+      "bbox_name": [
+        363,
+        192,
+        395,
+        216
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        364,
+        158,
+        395,
+        185
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "BOOST",
+      "bbox_pin": null,
+      "bbox_name": [
+        363,
+        124,
+        428,
+        147
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "INTVCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        363,
+        91,
+        428,
+        119
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "VOUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        362,
+        56,
+        410,
+        82
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "PGOOD",
+      "bbox_pin": null,
+      "bbox_name": [
+        363,
+        20,
+        430,
+        45
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ]
+}

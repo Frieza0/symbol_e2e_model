@@ -1,0 +1,185 @@
+{
+  "image_id": "MS90C031_2_1",
+  "width": 678,
+  "height": 564,
+  "total_pins": 16,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "DIN1",
+      "bbox_pin": null,
+      "bbox_name": [
+        50,
+        37,
+        128,
+        73
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "DOUT1+",
+      "bbox_pin": null,
+      "bbox_name": [
+        14,
+        100,
+        126,
+        136
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "DOUT1-",
+      "bbox_pin": null,
+      "bbox_name": [
+        7,
+        167,
+        124,
+        204
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "EN",
+      "bbox_pin": null,
+      "bbox_name": [
+        80,
+        232,
+        127,
+        268
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "DOUT2-",
+      "bbox_pin": null,
+      "bbox_name": [
+        14,
+        298,
+        126,
+        334
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "DOUT2+",
+      "bbox_pin": null,
+      "bbox_name": [
+        6,
+        364,
+        123,
+        397
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "DIN2",
+      "bbox_pin": null,
+      "bbox_name": [
+        50,
+        428,
+        127,
+        462
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        64,
+        488,
+        126,
+        528
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "DIN3",
+      "bbox_pin": null,
+      "bbox_name": [
+        552,
+        490,
+        622,
+        530
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "DOUT3+",
+      "bbox_pin": null,
+      "bbox_name": [
+        550,
+        428,
+        670,
+        460
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "DOUT3-",
+      "bbox_pin": null,
+      "bbox_name": [
+        552,
+        362,
+        661,
+        398
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "EN*",
+      "bbox_pin": null,
+      "bbox_name": [
+        554,
+        292,
+        610,
+        331
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "DOUT4-",
+      "bbox_pin": null,
+      "bbox_name": [
+        552,
+        229,
+        662,
+        268
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "DOUT4+",
+      "bbox_pin": null,
+      "bbox_name": [
+        553,
+        165,
+        663,
+        201
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "DIN4",
+      "bbox_pin": null,
+      "bbox_name": [
+        550,
+        103,
+        620,
+        135
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        553,
+        32,
+        610,
+        70
+      ]
+    }
+  ]
+}

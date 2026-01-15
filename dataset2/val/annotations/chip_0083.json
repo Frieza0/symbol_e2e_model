@@ -1,0 +1,136 @@
+{
+  "image_id": "chip_0083",
+  "width": 256,
+  "height": 256,
+  "total_pins": 8,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "DTR",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        34,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "INT",
+      "bbox_pin": [
+        93,
+        93,
+        99,
+        103
+      ],
+      "bbox_name": [
+        13,
+        93,
+        29,
+        103
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "PA_EN",
+      "bbox_pin": [
+        93,
+        153,
+        99,
+        163
+      ],
+      "bbox_name": [
+        13,
+        152,
+        47,
+        164
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "SWDIO",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        47,
+        223
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "DB2",
+      "bbox_pin": [
+        163,
+        33,
+        169,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        203,
+        43
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "DB1",
+      "bbox_pin": [
+        163,
+        93,
+        169,
+        103
+      ],
+      "bbox_name": [
+        183,
+        93,
+        203,
+        103
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "IO5",
+      "bbox_pin": [
+        163,
+        153,
+        169,
+        163
+      ],
+      "bbox_name": [
+        183,
+        153,
+        200,
+        163
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VDDIO",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        215,
+        223
+      ]
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "image_id": "txs0108e_3_2",
+  "width": 477,
+  "height": 437,
+  "total_pins": 20,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "A1",
+      "bbox_pin": null,
+      "bbox_name": [
+        170,
+        22,
+        200,
+        55
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VCCA",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        92,
+        96,
+        120
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "A2",
+      "bbox_pin": null,
+      "bbox_name": [
+        63,
+        127,
+        97,
+        151
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "A3",
+      "bbox_pin": null,
+      "bbox_name": [
+        61,
+        155,
+        98,
+        181
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "A4",
+      "bbox_pin": null,
+      "bbox_name": [
+        63,
+        184,
+        98,
+        210
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "A5",
+      "bbox_pin": null,
+      "bbox_name": [
+        61,
+        213,
+        95,
+        241
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "A6",
+      "bbox_pin": null,
+      "bbox_name": [
+        61,
+        246,
+        95,
+        273
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "A7",
+      "bbox_pin": null,
+      "bbox_name": [
+        62,
+        277,
+        95,
+        300
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "A8",
+      "bbox_pin": null,
+      "bbox_name": [
+        59,
+        305,
+        95,
+        333
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "OE",
+      "bbox_pin": null,
+      "bbox_name": [
+        171,
+        375,
+        197,
+        416
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        286,
+        372,
+        312,
+        432
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "B8",
+      "bbox_pin": null,
+      "bbox_name": [
+        381,
+        307,
+        417,
+        330
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "B7",
+      "bbox_pin": null,
+      "bbox_name": [
+        381,
+        277,
+        416,
+        301
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "B6",
+      "bbox_pin": null,
+      "bbox_name": [
+        382,
+        246,
+        415,
+        270
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "B5",
+      "bbox_pin": null,
+      "bbox_name": [
+        381,
+        217,
+        415,
+        241
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "B4",
+      "bbox_pin": null,
+      "bbox_name": [
+        381,
+        185,
+        413,
+        209
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "B3",
+      "bbox_pin": null,
+      "bbox_name": [
+        381,
+        155,
+        414,
+        179
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "B2",
+      "bbox_pin": null,
+      "bbox_name": [
+        383,
+        127,
+        414,
+        149
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "VCCB",
+      "bbox_pin": null,
+      "bbox_name": [
+        381,
+        92,
+        452,
+        117
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "B1",
+      "bbox_pin": null,
+      "bbox_name": [
+        290,
+        24,
+        311,
+        54
+      ]
+    }
+  ]
+}

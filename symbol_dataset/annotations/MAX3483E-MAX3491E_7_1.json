@@ -1,0 +1,97 @@
+{
+  "image_id": "MAX3483E-MAX3491E_7_1",
+  "width": 372,
+  "height": 245,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "RO",
+      "bbox_pin": null,
+      "bbox_name": [
+        18,
+        59,
+        48,
+        83
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "R\\E\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        22,
+        98,
+        49,
+        126
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "DE",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        148,
+        47,
+        169
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "DI",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        188,
+        48,
+        212
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        308,
+        189,
+        350,
+        213
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        308,
+        148,
+        327,
+        170
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "B",
+      "bbox_pin": null,
+      "bbox_name": [
+        309,
+        104,
+        329,
+        126
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        307,
+        62,
+        343,
+        86
+      ]
+    }
+  ]
+}

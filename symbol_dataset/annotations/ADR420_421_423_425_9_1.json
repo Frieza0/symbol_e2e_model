@@ -6,53 +6,92 @@
   "package_type": "2side",
   "pins": [
     {
-      "pin_number": "1",
-      "name": "VIN",
-      "bbox_pin": null,
-      "bbox_name": null
-    },
-    {
-      "pin_number": "2",
-      "name": "NIC",
-      "bbox_pin": null,
-      "bbox_name": null
-    },
-    {
-      "pin_number": "3",
-      "name": "GND",
-      "bbox_pin": null,
-      "bbox_name": null
-    },
-    {
-      "pin_number": "4",
+      "pin_number": 1,
       "name": "TP",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        37,
+        37,
+        67,
+        58
+      ]
     },
     {
-      "pin_number": "5",
-      "name": "MISS",
+      "pin_number": 2,
+      "name": "VIN",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        32,
+        75,
+        68,
+        97
+      ]
     },
     {
-      "pin_number": "6",
-      "name": "TRIM",
-      "bbox_pin": null,
-      "bbox_name": null
-    },
-    {
-      "pin_number": "7",
-      "name": "VOUT",
-      "bbox_pin": null,
-      "bbox_name": null
-    },
-    {
-      "pin_number": "8",
+      "pin_number": 3,
       "name": "NIC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        28,
+        117,
+        66,
+        137
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        155,
+        66,
+        174
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "TRIM",
+      "bbox_pin": null,
+      "bbox_name": [
+        263,
+        155,
+        312,
+        176
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "VOUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        264,
+        115,
+        310,
+        140
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "NIC",
+      "bbox_pin": null,
+      "bbox_name": [
+        263,
+        75,
+        297,
+        96
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "TP",
+      "bbox_pin": null,
+      "bbox_name": [
+        263,
+        34,
+        292,
+        56
+      ]
     }
-  ],
-  "file_name": "ADR420_421_423_425_9_1.jpg"
+  ]
 }

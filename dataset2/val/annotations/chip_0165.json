@@ -1,0 +1,232 @@
+{
+  "image_id": "chip_0165",
+  "width": 256,
+  "height": 256,
+  "total_pins": 14,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "MCLK",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        41,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "PROG",
+      "bbox_pin": [
+        93,
+        63,
+        99,
+        73
+      ],
+      "bbox_name": [
+        13,
+        63,
+        43,
+        73
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "MISO",
+      "bbox_pin": [
+        93,
+        93,
+        99,
+        103
+      ],
+      "bbox_name": [
+        13,
+        93,
+        39,
+        103
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "FB",
+      "bbox_pin": [
+        93,
+        123,
+        99,
+        133
+      ],
+      "bbox_name": [
+        13,
+        123,
+        26,
+        133
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "PWM_DIM",
+      "bbox_pin": [
+        93,
+        153,
+        99,
+        163
+      ],
+      "bbox_name": [
+        13,
+        152,
+        61,
+        164
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SDA",
+      "bbox_pin": [
+        93,
+        183,
+        99,
+        193
+      ],
+      "bbox_name": [
+        13,
+        183,
+        34,
+        193
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "VPOS",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        42,
+        223
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "DIFFP",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        212,
+        43
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "DCD",
+      "bbox_pin": [
+        163,
+        63,
+        175,
+        73
+      ],
+      "bbox_name": [
+        183,
+        63,
+        204,
+        73
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "DBG",
+      "bbox_pin": [
+        163,
+        93,
+        175,
+        103
+      ],
+      "bbox_name": [
+        183,
+        93,
+        205,
+        103
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "POK",
+      "bbox_pin": [
+        163,
+        123,
+        175,
+        133
+      ],
+      "bbox_name": [
+        183,
+        123,
+        205,
+        133
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "POR",
+      "bbox_pin": [
+        163,
+        153,
+        175,
+        163
+      ],
+      "bbox_name": [
+        183,
+        153,
+        206,
+        163
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "DE",
+      "bbox_pin": [
+        163,
+        183,
+        169,
+        193
+      ],
+      "bbox_name": [
+        183,
+        183,
+        197,
+        193
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "MIC_IN",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        212,
+        217,
+        224
+      ]
+    }
+  ]
+}

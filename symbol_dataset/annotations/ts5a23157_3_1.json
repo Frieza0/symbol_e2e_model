@@ -1,0 +1,119 @@
+{
+  "image_id": "ts5a23157_3_1",
+  "width": 693,
+  "height": 402,
+  "total_pins": 10,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "IN1",
+      "bbox_pin": null,
+      "bbox_name": [
+        34,
+        50,
+        98,
+        90
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "NO1",
+      "bbox_pin": null,
+      "bbox_name": [
+        12,
+        117,
+        101,
+        158
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        11,
+        184,
+        107,
+        228
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "NO2",
+      "bbox_pin": null,
+      "bbox_name": [
+        11,
+        250,
+        102,
+        291
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "IN2",
+      "bbox_pin": null,
+      "bbox_name": [
+        35,
+        313,
+        104,
+        364
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "COM2",
+      "bbox_pin": null,
+      "bbox_name": [
+        558,
+        317,
+        685,
+        359
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "NC2",
+      "bbox_pin": null,
+      "bbox_name": [
+        560,
+        254,
+        642,
+        293
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "V+",
+      "bbox_pin": null,
+      "bbox_name": [
+        557,
+        190,
+        611,
+        234
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "NC1",
+      "bbox_pin": null,
+      "bbox_name": [
+        556,
+        124,
+        641,
+        161
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "COM1",
+      "bbox_pin": null,
+      "bbox_name": [
+        556,
+        55,
+        673,
+        95
+      ]
+    }
+  ]
+}

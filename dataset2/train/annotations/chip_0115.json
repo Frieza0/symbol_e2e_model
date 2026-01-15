@@ -1,0 +1,232 @@
+{
+  "image_id": "chip_0115",
+  "width": 256,
+  "height": 256,
+  "total_pins": 14,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "AB1",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        34,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "INIT_DONE",
+      "bbox_pin": [
+        93,
+        63,
+        99,
+        73
+      ],
+      "bbox_name": [
+        13,
+        62,
+        67,
+        74
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "OSC_IN",
+      "bbox_pin": [
+        93,
+        93,
+        99,
+        103
+      ],
+      "bbox_name": [
+        13,
+        92,
+        51,
+        104
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "AB6",
+      "bbox_pin": [
+        93,
+        123,
+        99,
+        133
+      ],
+      "bbox_name": [
+        13,
+        123,
+        34,
+        133
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "MAG_Y",
+      "bbox_pin": [
+        93,
+        153,
+        99,
+        163
+      ],
+      "bbox_name": [
+        13,
+        152,
+        49,
+        164
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "IO",
+      "bbox_pin": [
+        93,
+        183,
+        99,
+        193
+      ],
+      "bbox_name": [
+        13,
+        183,
+        24,
+        193
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "VBIAS",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        44,
+        223
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "D17",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        202,
+        43
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "MSEL0",
+      "bbox_pin": [
+        163,
+        63,
+        175,
+        73
+      ],
+      "bbox_name": [
+        183,
+        63,
+        217,
+        73
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "I3",
+      "bbox_pin": [
+        163,
+        93,
+        175,
+        103
+      ],
+      "bbox_name": [
+        183,
+        93,
+        192,
+        103
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "VCO",
+      "bbox_pin": [
+        163,
+        123,
+        175,
+        133
+      ],
+      "bbox_name": [
+        183,
+        123,
+        205,
+        133
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "RUN",
+      "bbox_pin": [
+        163,
+        153,
+        175,
+        163
+      ],
+      "bbox_name": [
+        183,
+        153,
+        204,
+        163
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "COM",
+      "bbox_pin": [
+        163,
+        183,
+        169,
+        193
+      ],
+      "bbox_name": [
+        183,
+        183,
+        206,
+        193
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "EOC",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        205,
+        223
+      ]
+    }
+  ]
+}

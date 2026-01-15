@@ -1,0 +1,64 @@
+{
+  "image_id": "reg113_2_2",
+  "width": 414,
+  "height": 233,
+  "total_pins": 5,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        58,
+        40,
+        91,
+        68
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        37,
+        97,
+        91,
+        126
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "Enable",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        158,
+        88,
+        185
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "NR",
+      "bbox_pin": null,
+      "bbox_name": [
+        346,
+        160,
+        380,
+        186
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VOUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        343,
+        41,
+        394,
+        70
+      ]
+    }
+  ]
+}

@@ -6,101 +6,180 @@
   "package_type": "2side",
   "pins": [
     {
-      "pin_number": "1",
-      "name": "PIN1-",
+      "pin_number": 1,
+      "name": "RIN1-",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        11,
+        39,
+        59,
+        65
+      ]
     },
     {
-      "pin_number": "2",
-      "name": "MISS",
+      "pin_number": 2,
+      "name": "RIN1+",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        11,
+        72,
+        59,
+        98
+      ]
     },
     {
-      "pin_number": "3",
-      "name": "MISS",
+      "pin_number": 3,
+      "name": "ROUT1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        11,
+        104,
+        59,
+        129
+      ]
     },
     {
-      "pin_number": "4",
+      "pin_number": 4,
       "name": "EN",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        35,
+        137,
+        60,
+        155
+      ]
     },
     {
-      "pin_number": "5",
-      "name": "OUT2",
+      "pin_number": 5,
+      "name": "ROUT2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        9,
+        169,
+        59,
+        194
+      ]
     },
     {
-      "pin_number": "6",
-      "name": "PW2+",
+      "pin_number": 6,
+      "name": "RIN2+",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        14,
+        202,
+        57,
+        229
+      ]
     },
     {
-      "pin_number": "7",
+      "pin_number": 7,
       "name": "RIN2-",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        13,
+        235,
+        58,
+        260
+      ]
     },
     {
-      "pin_number": "8",
+      "pin_number": 8,
       "name": "GND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        25,
+        267,
+        58,
+        285
+      ]
     },
     {
-      "pin_number": "9",
-      "name": "PRIN3-",
+      "pin_number": 9,
+      "name": "RIN3-",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        281,
+        267,
+        328,
+        292
+      ]
     },
     {
-      "pin_number": "10",
-      "name": "RN3+",
+      "pin_number": 10,
+      "name": "RIN3+",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        281,
+        236,
+        324,
+        260
+      ]
     },
     {
-      "pin_number": "11",
-      "name": "ROUT",
+      "pin_number": 11,
+      "name": "ROUT3",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        280,
+        204,
+        329,
+        228
+      ]
     },
     {
-      "pin_number": "12",
+      "pin_number": 12,
       "name": "EN*",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        281,
+        169,
+        312,
+        188
+      ]
     },
     {
-      "pin_number": "13",
+      "pin_number": 13,
       "name": "ROUT4",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        281,
+        138,
+        328,
+        161
+      ]
     },
     {
-      "pin_number": "14",
-      "name": "RN4+",
+      "pin_number": 14,
+      "name": "RIN4+",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        281,
+        105,
+        323,
+        128
+      ]
     },
     {
-      "pin_number": "15",
-      "name": "PIN4-",
+      "pin_number": 15,
+      "name": "RIN4-",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        282,
+        72,
+        324,
+        97
+      ]
     },
     {
-      "pin_number": "16",
+      "pin_number": 16,
       "name": "VCC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        283,
+        41,
+        312,
+        63
+      ]
     }
-  ],
-  "file_name": "ds90lv032a_3_1.jpg"
+  ]
 }

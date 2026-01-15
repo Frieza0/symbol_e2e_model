@@ -1,0 +1,185 @@
+{
+  "image_id": "MMA8452Q_1_1",
+  "width": 558,
+  "height": 513,
+  "total_pins": 16,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VDDIO",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        129,
+        99,
+        158
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "BYP",
+      "bbox_pin": null,
+      "bbox_name": [
+        43,
+        181,
+        99,
+        208
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "DNC",
+      "bbox_pin": null,
+      "bbox_name": [
+        44,
+        238,
+        100,
+        266
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "SCL",
+      "bbox_pin": null,
+      "bbox_name": [
+        50,
+        291,
+        101,
+        321
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        40,
+        346,
+        100,
+        378
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SDA",
+      "bbox_pin": null,
+      "bbox_name": [
+        216,
+        439,
+        242,
+        493
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "SA0",
+      "bbox_pin": null,
+      "bbox_name": [
+        271,
+        439,
+        296,
+        488
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        325,
+        438,
+        351,
+        477
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "INT2",
+      "bbox_pin": null,
+      "bbox_name": [
+        474,
+        347,
+        533,
+        377
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        477,
+        288,
+        532,
+        320
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "INT1",
+      "bbox_pin": null,
+      "bbox_name": [
+        476,
+        232,
+        533,
+        262
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        477,
+        182,
+        532,
+        206
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        477,
+        130,
+        516,
+        157
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        325,
+        11,
+        352,
+        65
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        274,
+        21,
+        297,
+        65
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        217,
+        19,
+        247,
+        63
+      ]
+    }
+  ]
+}

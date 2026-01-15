@@ -1,0 +1,185 @@
+{
+  "image_id": "sn65lvds105_3_2",
+  "width": 309,
+  "height": 378,
+  "total_pins": 16,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "EN1",
+      "bbox_pin": null,
+      "bbox_name": [
+        28,
+        40,
+        82,
+        69
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "EN2",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        81,
+        87,
+        109
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "EN3",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        117,
+        84,
+        143
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        26,
+        154,
+        86,
+        188
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        15,
+        193,
+        87,
+        221
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        58,
+        230,
+        87,
+        257
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "B",
+      "bbox_pin": null,
+      "bbox_name": [
+        63,
+        267,
+        88,
+        293
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "EN4",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        304,
+        85,
+        330
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "4Z",
+      "bbox_pin": null,
+      "bbox_name": [
+        250,
+        307,
+        290,
+        332
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "4Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        251,
+        270,
+        289,
+        293
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "3Z",
+      "bbox_pin": null,
+      "bbox_name": [
+        250,
+        230,
+        288,
+        254
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "3Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        251,
+        192,
+        286,
+        220
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "2Z",
+      "bbox_pin": null,
+      "bbox_name": [
+        252,
+        153,
+        289,
+        183
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "2Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        252,
+        118,
+        285,
+        147
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "1Z",
+      "bbox_pin": null,
+      "bbox_name": [
+        253,
+        83,
+        287,
+        109
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "1Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        254,
+        43,
+        287,
+        70
+      ]
+    }
+  ]
+}

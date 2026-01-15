@@ -1,0 +1,200 @@
+{
+  "image_id": "chip_0318",
+  "width": 256,
+  "height": 256,
+  "total_pins": 12,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "RTC_CLK",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        32,
+        59,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "TEMP",
+      "bbox_pin": [
+        93,
+        69,
+        99,
+        79
+      ],
+      "bbox_name": [
+        13,
+        69,
+        41,
+        79
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "LCD_G0",
+      "bbox_pin": [
+        93,
+        105,
+        99,
+        115
+      ],
+      "bbox_name": [
+        13,
+        104,
+        53,
+        116
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VSENSE",
+      "bbox_pin": [
+        93,
+        141,
+        99,
+        151
+      ],
+      "bbox_name": [
+        13,
+        141,
+        55,
+        151
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "IO7",
+      "bbox_pin": [
+        93,
+        177,
+        99,
+        187
+      ],
+      "bbox_name": [
+        13,
+        177,
+        30,
+        187
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "IO4",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        30,
+        223
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "RF",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        196,
+        43
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "TMS",
+      "bbox_pin": [
+        163,
+        69,
+        175,
+        79
+      ],
+      "bbox_name": [
+        183,
+        69,
+        204,
+        79
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "CONVST",
+      "bbox_pin": [
+        163,
+        105,
+        175,
+        115
+      ],
+      "bbox_name": [
+        183,
+        105,
+        225,
+        115
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "PIN_D",
+      "bbox_pin": [
+        163,
+        141,
+        169,
+        151
+      ],
+      "bbox_name": [
+        183,
+        140,
+        213,
+        152
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "RSSI",
+      "bbox_pin": [
+        163,
+        177,
+        169,
+        187
+      ],
+      "bbox_name": [
+        183,
+        177,
+        207,
+        187
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "VDDIO",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        215,
+        223
+      ]
+    }
+  ]
+}

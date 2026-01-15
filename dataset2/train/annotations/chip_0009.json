@@ -1,0 +1,200 @@
+{
+  "image_id": "chip_0009",
+  "width": 256,
+  "height": 256,
+  "total_pins": 12,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "SENSE",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        48,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "SWD",
+      "bbox_pin": [
+        93,
+        69,
+        99,
+        79
+      ],
+      "bbox_name": [
+        13,
+        69,
+        36,
+        79
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "SHUTDOWN",
+      "bbox_pin": [
+        93,
+        105,
+        99,
+        115
+      ],
+      "bbox_name": [
+        13,
+        105,
+        71,
+        115
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "PGND",
+      "bbox_pin": [
+        93,
+        141,
+        99,
+        151
+      ],
+      "bbox_name": [
+        13,
+        141,
+        42,
+        151
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "CAM_PCLK",
+      "bbox_pin": [
+        93,
+        177,
+        99,
+        187
+      ],
+      "bbox_name": [
+        13,
+        176,
+        68,
+        188
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "NO",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        28,
+        223
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "AIN1",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        207,
+        43
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "PCIE_RST",
+      "bbox_pin": [
+        163,
+        69,
+        175,
+        79
+      ],
+      "bbox_name": [
+        183,
+        68,
+        233,
+        80
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "SCLK",
+      "bbox_pin": [
+        163,
+        105,
+        175,
+        115
+      ],
+      "bbox_name": [
+        183,
+        105,
+        210,
+        115
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "AB5",
+      "bbox_pin": [
+        163,
+        141,
+        169,
+        151
+      ],
+      "bbox_name": [
+        183,
+        141,
+        204,
+        151
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "CTS",
+      "bbox_pin": [
+        163,
+        177,
+        169,
+        187
+      ],
+      "bbox_name": [
+        183,
+        177,
+        203,
+        187
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "VDDQ",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        212,
+        223
+      ]
+    }
+  ]
+}

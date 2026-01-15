@@ -1,0 +1,97 @@
+{
+  "image_id": "LT1963AES8_2_2",
+  "width": 432,
+  "height": 194,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        90,
+        22,
+        132,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "SENSE/ADJ*",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        63,
+        130,
+        87
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        90,
+        103,
+        130,
+        125
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        104,
+        145,
+        130,
+        165
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "S\\H\\D\\N\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        353,
+        140,
+        408,
+        166
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        356,
+        102,
+        394,
+        125
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        355,
+        63,
+        394,
+        84
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        355,
+        23,
+        376,
+        41
+      ]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "image_id": "sn74aup1g07_3_3",
+  "width": 228,
+  "height": 146,
+  "total_pins": 6,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "N.C",
+      "bbox_pin": null,
+      "bbox_name": [
+        17,
+        14,
+        59,
+        38
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        45,
+        59,
+        62,
+        81
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        11,
+        103,
+        64,
+        125
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        169,
+        103,
+        190,
+        125
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "N.C.",
+      "bbox_pin": null,
+      "bbox_name": [
+        172,
+        59,
+        215,
+        82
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        172,
+        16,
+        209,
+        43
+      ]
+    }
+  ]
+}

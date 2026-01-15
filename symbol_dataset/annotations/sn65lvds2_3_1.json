@@ -1,0 +1,97 @@
+{
+  "image_id": "sn65lvds2_3_1",
+  "width": 411,
+  "height": 215,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        36,
+        85,
+        64
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "D",
+      "bbox_pin": null,
+      "bbox_name": [
+        58,
+        73,
+        85,
+        98
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        42,
+        109,
+        84,
+        137
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        22,
+        149,
+        86,
+        173
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        341,
+        145,
+        385,
+        169
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        340,
+        104,
+        387,
+        131
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        344,
+        69,
+        367,
+        97
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "Z",
+      "bbox_pin": null,
+      "bbox_name": [
+        342,
+        32,
+        366,
+        60
+      ]
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "image_id": "chip_0130",
+  "width": 256,
+  "height": 256,
+  "total_pins": 14,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "OFF",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        33,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "CS0",
+      "bbox_pin": [
+        93,
+        63,
+        99,
+        73
+      ],
+      "bbox_name": [
+        13,
+        63,
+        33,
+        73
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "DATA",
+      "bbox_pin": [
+        93,
+        93,
+        99,
+        103
+      ],
+      "bbox_name": [
+        13,
+        93,
+        40,
+        103
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "SDA1",
+      "bbox_pin": [
+        93,
+        123,
+        99,
+        133
+      ],
+      "bbox_name": [
+        13,
+        123,
+        40,
+        133
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "GPIO1",
+      "bbox_pin": [
+        93,
+        153,
+        99,
+        163
+      ],
+      "bbox_name": [
+        13,
+        153,
+        45,
+        163
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SDA2",
+      "bbox_pin": [
+        93,
+        183,
+        99,
+        193
+      ],
+      "bbox_name": [
+        13,
+        183,
+        40,
+        193
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "TRACECLK",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        67,
+        223
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "SERIAL_TX",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        32,
+        239,
+        44
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "RMII_TXD0",
+      "bbox_pin": [
+        163,
+        63,
+        175,
+        73
+      ],
+      "bbox_name": [
+        183,
+        62,
+        236,
+        74
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "SD",
+      "bbox_pin": [
+        163,
+        93,
+        175,
+        103
+      ],
+      "bbox_name": [
+        183,
+        93,
+        197,
+        103
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "IF",
+      "bbox_pin": [
+        163,
+        123,
+        175,
+        133
+      ],
+      "bbox_name": [
+        183,
+        123,
+        192,
+        133
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "GPIO11",
+      "bbox_pin": [
+        163,
+        153,
+        175,
+        163
+      ],
+      "bbox_name": [
+        183,
+        153,
+        221,
+        163
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "A4",
+      "bbox_pin": [
+        163,
+        183,
+        169,
+        193
+      ],
+      "bbox_name": [
+        183,
+        183,
+        197,
+        193
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "PORTD",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        218,
+        223
+      ]
+    }
+  ]
+}

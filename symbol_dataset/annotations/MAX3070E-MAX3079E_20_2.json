@@ -1,0 +1,97 @@
+{
+  "image_id": "MAX3070E-MAX3079E_20_2",
+  "width": 351,
+  "height": 255,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        48,
+        64,
+        74
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "RO",
+      "bbox_pin": null,
+      "bbox_name": [
+        30,
+        94,
+        60,
+        114
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "DI",
+      "bbox_pin": null,
+      "bbox_name": [
+        40,
+        135,
+        60,
+        159
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        17,
+        181,
+        63,
+        200
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        315,
+        182,
+        333,
+        201
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "Z",
+      "bbox_pin": null,
+      "bbox_name": [
+        315,
+        136,
+        334,
+        160
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "B",
+      "bbox_pin": null,
+      "bbox_name": [
+        316,
+        96,
+        334,
+        116
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        314,
+        52,
+        332,
+        73
+      ]
+    }
+  ]
+}

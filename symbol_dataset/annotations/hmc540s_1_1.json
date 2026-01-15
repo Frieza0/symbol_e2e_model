@@ -1,0 +1,185 @@
+{
+  "image_id": "hmc540s_1_1",
+  "width": 654,
+  "height": 597,
+  "total_pins": 16,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "Vdd",
+      "bbox_pin": null,
+      "bbox_name": [
+        36,
+        160,
+        84,
+        189
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "RF1",
+      "bbox_pin": null,
+      "bbox_name": [
+        37,
+        235,
+        82,
+        271
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "N/C",
+      "bbox_pin": null,
+      "bbox_name": [
+        26,
+        308,
+        81,
+        342
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "ACG1",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        373,
+        78,
+        411
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "ACG2",
+      "bbox_pin": null,
+      "bbox_name": [
+        197,
+        513,
+        228,
+        578
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "ACG3",
+      "bbox_pin": null,
+      "bbox_name": [
+        270,
+        511,
+        293,
+        580
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "N/C",
+      "bbox_pin": null,
+      "bbox_name": [
+        345,
+        510,
+        372,
+        568
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "ACG4",
+      "bbox_pin": null,
+      "bbox_name": [
+        415,
+        510,
+        442,
+        576
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "N/C",
+      "bbox_pin": null,
+      "bbox_name": [
+        548,
+        385,
+        596,
+        416
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "N/C",
+      "bbox_pin": null,
+      "bbox_name": [
+        546,
+        308,
+        596,
+        341
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "RF2",
+      "bbox_pin": null,
+      "bbox_name": [
+        545,
+        238,
+        587,
+        266
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "N/C",
+      "bbox_pin": null,
+      "bbox_name": [
+        546,
+        171,
+        592,
+        200
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "V1",
+      "bbox_pin": null,
+      "bbox_name": [
+        412,
+        28,
+        438,
+        57
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "V2",
+      "bbox_pin": null,
+      "bbox_name": [
+        337,
+        26,
+        362,
+        57
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "V3",
+      "bbox_pin": null,
+      "bbox_name": [
+        264,
+        25,
+        291,
+        56
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "V4",
+      "bbox_pin": null,
+      "bbox_name": [
+        192,
+        22,
+        220,
+        55
+      ]
+    }
+  ]
+}

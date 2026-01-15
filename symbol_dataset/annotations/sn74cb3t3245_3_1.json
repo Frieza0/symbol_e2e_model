@@ -1,0 +1,229 @@
+{
+  "image_id": "sn74cb3t3245_3_1",
+  "width": 750,
+  "height": 663,
+  "total_pins": 20,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        67,
+        69,
+        95
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "A1",
+      "bbox_pin": null,
+      "bbox_name": [
+        28,
+        123,
+        63,
+        149
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "A2",
+      "bbox_pin": null,
+      "bbox_name": [
+        32,
+        174,
+        64,
+        204
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "A3",
+      "bbox_pin": null,
+      "bbox_name": [
+        29,
+        233,
+        65,
+        259
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "A4",
+      "bbox_pin": null,
+      "bbox_name": [
+        28,
+        288,
+        64,
+        314
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "A5",
+      "bbox_pin": null,
+      "bbox_name": [
+        32,
+        342,
+        63,
+        369
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "A6",
+      "bbox_pin": null,
+      "bbox_name": [
+        31,
+        398,
+        65,
+        422
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "A7",
+      "bbox_pin": null,
+      "bbox_name": [
+        34,
+        449,
+        65,
+        480
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "A8",
+      "bbox_pin": null,
+      "bbox_name": [
+        32,
+        503,
+        65,
+        530
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        13,
+        560,
+        65,
+        590
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "B8",
+      "bbox_pin": null,
+      "bbox_name": [
+        688,
+        555,
+        721,
+        586
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "B7",
+      "bbox_pin": null,
+      "bbox_name": [
+        689,
+        509,
+        721,
+        531
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "B6",
+      "bbox_pin": null,
+      "bbox_name": [
+        689,
+        453,
+        722,
+        480
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "B5",
+      "bbox_pin": null,
+      "bbox_name": [
+        689,
+        395,
+        724,
+        422
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "B4",
+      "bbox_pin": null,
+      "bbox_name": [
+        689,
+        343,
+        721,
+        366
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "B3",
+      "bbox_pin": null,
+      "bbox_name": [
+        689,
+        287,
+        726,
+        311
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "B2",
+      "bbox_pin": null,
+      "bbox_name": [
+        688,
+        234,
+        720,
+        258
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "B1",
+      "bbox_pin": null,
+      "bbox_name": [
+        688,
+        174,
+        721,
+        204
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "O\\E\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        689,
+        122,
+        730,
+        150
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        690,
+        73,
+        738,
+        91
+      ]
+    }
+  ]
+}

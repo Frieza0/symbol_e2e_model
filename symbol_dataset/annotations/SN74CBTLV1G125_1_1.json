@@ -1,0 +1,64 @@
+{
+  "image_id": "SN74CBTLV1G125_1_1",
+  "width": 411,
+  "height": 285,
+  "total_pins": 5,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "O\\E\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        26,
+        44,
+        77,
+        76
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        49,
+        135,
+        75,
+        165
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        10,
+        222,
+        73,
+        253
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "B",
+      "bbox_pin": null,
+      "bbox_name": [
+        350,
+        223,
+        382,
+        250
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        353,
+        49,
+        407,
+        85
+      ]
+    }
+  ]
+}

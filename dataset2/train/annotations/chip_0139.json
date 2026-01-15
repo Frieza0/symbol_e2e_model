@@ -1,0 +1,264 @@
+{
+  "image_id": "chip_0139",
+  "width": 256,
+  "height": 256,
+  "total_pins": 16,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VDDD",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        41,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "WAKE",
+      "bbox_pin": [
+        93,
+        58,
+        99,
+        68
+      ],
+      "bbox_name": [
+        13,
+        58,
+        43,
+        68
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "RF_IN",
+      "bbox_pin": [
+        93,
+        84,
+        99,
+        94
+      ],
+      "bbox_name": [
+        13,
+        83,
+        42,
+        95
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "CRS",
+      "bbox_pin": [
+        93,
+        110,
+        99,
+        120
+      ],
+      "bbox_name": [
+        13,
+        110,
+        34,
+        120
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "TDO",
+      "bbox_pin": [
+        93,
+        135,
+        99,
+        145
+      ],
+      "bbox_name": [
+        13,
+        135,
+        34,
+        145
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "RMII_CRS_DV",
+      "bbox_pin": [
+        93,
+        161,
+        99,
+        171
+      ],
+      "bbox_name": [
+        13,
+        160,
+        81,
+        172
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "D30",
+      "bbox_pin": [
+        93,
+        187,
+        99,
+        197
+      ],
+      "bbox_name": [
+        13,
+        187,
+        32,
+        197
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "A18",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        33,
+        223
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "GPIO2",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        215,
+        43
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "TEST",
+      "bbox_pin": [
+        163,
+        58,
+        175,
+        68
+      ],
+      "bbox_name": [
+        183,
+        58,
+        209,
+        68
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "5V",
+      "bbox_pin": [
+        163,
+        84,
+        175,
+        94
+      ],
+      "bbox_name": [
+        183,
+        84,
+        196,
+        94
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "CLK3",
+      "bbox_pin": [
+        163,
+        110,
+        175,
+        120
+      ],
+      "bbox_name": [
+        183,
+        110,
+        209,
+        120
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "D23",
+      "bbox_pin": [
+        163,
+        135,
+        175,
+        145
+      ],
+      "bbox_name": [
+        183,
+        135,
+        202,
+        145
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "D19",
+      "bbox_pin": [
+        163,
+        161,
+        175,
+        171
+      ],
+      "bbox_name": [
+        183,
+        161,
+        202,
+        171
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "SCL1",
+      "bbox_pin": [
+        163,
+        187,
+        175,
+        197
+      ],
+      "bbox_name": [
+        183,
+        187,
+        209,
+        197
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "1V2",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        202,
+        223
+      ]
+    }
+  ]
+}

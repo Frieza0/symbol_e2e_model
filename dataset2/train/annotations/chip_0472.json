@@ -1,0 +1,264 @@
+{
+  "image_id": "chip_0472",
+  "width": 256,
+  "height": 256,
+  "total_pins": 16,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "D3",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        26,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "DATA6",
+      "bbox_pin": [
+        93,
+        58,
+        99,
+        68
+      ],
+      "bbox_name": [
+        13,
+        58,
+        46,
+        68
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "SDA",
+      "bbox_pin": [
+        93,
+        84,
+        99,
+        94
+      ],
+      "bbox_name": [
+        13,
+        84,
+        34,
+        94
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "MAG_Z",
+      "bbox_pin": [
+        93,
+        110,
+        99,
+        120
+      ],
+      "bbox_name": [
+        13,
+        109,
+        48,
+        121
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VCC",
+      "bbox_pin": [
+        93,
+        135,
+        99,
+        145
+      ],
+      "bbox_name": [
+        13,
+        135,
+        34,
+        145
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "TRACK",
+      "bbox_pin": [
+        93,
+        161,
+        99,
+        171
+      ],
+      "bbox_name": [
+        13,
+        161,
+        47,
+        171
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "USB_VBUS",
+      "bbox_pin": [
+        93,
+        187,
+        99,
+        197
+      ],
+      "bbox_name": [
+        13,
+        186,
+        68,
+        198
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "AN3",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        34,
+        223
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "JTAG",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        209,
+        43
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "A6",
+      "bbox_pin": [
+        163,
+        58,
+        175,
+        68
+      ],
+      "bbox_name": [
+        183,
+        58,
+        197,
+        68
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "A5",
+      "bbox_pin": [
+        163,
+        84,
+        175,
+        94
+      ],
+      "bbox_name": [
+        183,
+        84,
+        197,
+        94
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "AB1",
+      "bbox_pin": [
+        163,
+        110,
+        175,
+        120
+      ],
+      "bbox_name": [
+        183,
+        110,
+        204,
+        120
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "GPIO14",
+      "bbox_pin": [
+        163,
+        135,
+        175,
+        145
+      ],
+      "bbox_name": [
+        183,
+        135,
+        221,
+        145
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "ETM",
+      "bbox_pin": [
+        163,
+        161,
+        175,
+        171
+      ],
+      "bbox_name": [
+        183,
+        161,
+        204,
+        171
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "AB5",
+      "bbox_pin": [
+        163,
+        187,
+        175,
+        197
+      ],
+      "bbox_name": [
+        183,
+        187,
+        204,
+        197
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "ISENSE",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        221,
+        223
+      ]
+    }
+  ]
+}

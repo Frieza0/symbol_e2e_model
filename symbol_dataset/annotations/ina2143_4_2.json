@@ -1,0 +1,97 @@
+{
+  "image_id": "ina2143_4_2",
+  "width": 555,
+  "height": 418,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "Ref",
+      "bbox_pin": null,
+      "bbox_name": [
+        16,
+        65,
+        60,
+        93
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "–In",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        153,
+        61,
+        179
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "+In",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        235,
+        59,
+        263
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "V–",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        314,
+        60,
+        345
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "Sense",
+      "bbox_pin": null,
+      "bbox_name": [
+        461,
+        315,
+        529,
+        344
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "Output",
+      "bbox_pin": null,
+      "bbox_name": [
+        461,
+        229,
+        532,
+        263
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "V+",
+      "bbox_pin": null,
+      "bbox_name": [
+        461,
+        149,
+        495,
+        176
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        458,
+        67,
+        500,
+        97
+      ]
+    }
+  ]
+}

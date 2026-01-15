@@ -6,53 +6,92 @@
   "package_type": "2side",
   "pins": [
     {
-      "pin_number": "1",
+      "pin_number": 1,
       "name": "D",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        71,
+        55,
+        96,
+        87
+      ]
     },
     {
-      "pin_number": "2",
+      "pin_number": 2,
       "name": "GND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        22,
+        102,
+        96,
+        133
+      ]
     },
     {
-      "pin_number": "3",
+      "pin_number": 3,
       "name": "VCC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        34,
+        147,
+        99,
+        186
+      ]
     },
     {
-      "pin_number": "4",
+      "pin_number": 4,
       "name": "R",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        66,
+        195,
+        98,
+        225
+      ]
     },
     {
-      "pin_number": "5",
-      "name": "VREF",
+      "pin_number": 5,
+      "name": "Vref",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        312,
+        196,
+        368,
+        232
+      ]
     },
     {
-      "pin_number": "6",
+      "pin_number": 6,
       "name": "CANL",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        311,
+        150,
+        403,
+        185
+      ]
     },
     {
-      "pin_number": "7",
+      "pin_number": 7,
       "name": "CANH",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        312,
+        100,
+        409,
+        136
+      ]
     },
     {
-      "pin_number": "8",
+      "pin_number": 8,
       "name": "RS",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        310,
+        32,
+        358,
+        66
+      ]
     }
-  ],
-  "file_name": "AT5230-AT5232_23_1.jpg"
+  ]
 }

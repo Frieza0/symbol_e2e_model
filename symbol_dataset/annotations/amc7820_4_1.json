@@ -6,293 +6,532 @@
   "package_type": "4side",
   "pins": [
     {
-      "pin_number": "1",
+      "pin_number": 1,
       "name": "SW2_OUT",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        294,
+        901,
+        328,
+        1013
+      ]
     },
     {
-      "pin_number": "2",
+      "pin_number": 2,
       "name": "T_SENSOR_VOLTAGE",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        342,
+        903,
+        374,
+        1132
+      ]
     },
     {
-      "pin_number": "3",
+      "pin_number": 3,
       "name": "OPA6_IN–",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        392,
+        901,
+        424,
+        1011
+      ]
     },
     {
-      "pin_number": "4",
+      "pin_number": 4,
       "name": "OPA6_OUT",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        437,
+        900,
+        472,
+        1021
+      ]
     },
     {
-      "pin_number": "5",
+      "pin_number": 5,
       "name": "OPA6_IN+",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        484,
+        904,
+        518,
+        1007
+      ]
     },
     {
-      "pin_number": "6",
+      "pin_number": 6,
       "name": "DAC0_OUT",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        532,
+        897,
+        569,
+        1020
+      ]
     },
     {
-      "pin_number": "7",
+      "pin_number": 7,
       "name": "DAC0_OUT_SET",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        583,
+        900,
+        615,
+        1069
+      ]
     },
     {
-      "pin_number": "8",
+      "pin_number": 8,
       "name": "OPA2_IN–",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        631,
+        896,
+        660,
+        1006
+      ]
     },
     {
-      "pin_number": "9",
+      "pin_number": 9,
       "name": "OPA2_OUT",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        677,
+        898,
+        711,
+        1022
+      ]
     },
     {
-      "pin_number": "10",
+      "pin_number": 10,
       "name": "OPA2_IN+",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        730,
+        900,
+        757,
+        1009
+      ]
     },
     {
-      "pin_number": "11",
+      "pin_number": 11,
       "name": "OPA5_IN–",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        775,
+        899,
+        808,
+        1011
+      ]
     },
     {
-      "pin_number": "12",
+      "pin_number": 12,
       "name": "OPA5_OUT",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        824,
+        898,
+        857,
+        1022
+      ]
     },
     {
-      "pin_number": "13",
+      "pin_number": 13,
       "name": "OPA5_IN+",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        930,
+        793,
+        1037,
+        824
+      ]
     },
     {
-      "pin_number": "14",
+      "pin_number": 14,
       "name": "OPA4_IN–",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        930,
+        742,
+        1037,
+        776
+      ]
     },
     {
-      "pin_number": "15",
+      "pin_number": 15,
       "name": "OPA4_OUT",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        930,
+        693,
+        1045,
+        725
+      ]
     },
     {
-      "pin_number": "16",
+      "pin_number": 16,
       "name": "OPA4_IN+",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        929,
+        645,
+        1031,
+        681
+      ]
     },
     {
-      "pin_number": "17",
+      "pin_number": 17,
       "name": "DAC2_OUT",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        925,
+        602,
+        1048,
+        629
+      ]
     },
     {
-      "pin_number": "18",
+      "pin_number": 18,
       "name": "AGND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        930,
+        553,
+        991,
+        580
+      ]
     },
     {
-      "pin_number": "19",
+      "pin_number": 19,
       "name": "AVDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        930,
+        507,
+        984,
+        536
+      ]
     },
     {
-      "pin_number": "20",
+      "pin_number": 20,
       "name": "DAC2_OUT_SET",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        928,
+        456,
+        1099,
+        487
+      ]
     },
     {
-      "pin_number": "21",
+      "pin_number": 21,
       "name": "DAC1_OUT_SET",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        923,
+        406,
+        1098,
+        440
+      ]
     },
     {
-      "pin_number": "22",
+      "pin_number": 22,
       "name": "DAC1_OUT",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        931,
+        361,
+        1040,
+        389
+      ]
     },
     {
-      "pin_number": "23",
+      "pin_number": 23,
       "name": "OPA3_IN–",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        930,
+        313,
+        1040,
+        343
+      ]
     },
     {
-      "pin_number": "24",
+      "pin_number": 24,
       "name": "OPA3_OUT",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        930,
+        260,
+        1047,
+        297
+      ]
     },
     {
-      "pin_number": "25",
+      "pin_number": 25,
       "name": "OPA3_IN+",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        823,
+        81,
+        855,
+        190
+      ]
     },
     {
-      "pin_number": "26",
+      "pin_number": 26,
       "name": "REF_OUT_+2.5V",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        773,
+        22,
+        807,
+        193
+      ]
     },
     {
-      "pin_number": "27",
+      "pin_number": 27,
       "name": "EXT_REF_IN",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        727,
+        54,
+        757,
+        190
+      ]
     },
     {
-      "pin_number": "28",
+      "pin_number": 28,
       "name": "SW1_OUT",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        680,
+        83,
+        710,
+        190
+      ]
     },
     {
-      "pin_number": "29",
+      "pin_number": 29,
       "name": "OPA1_IN+",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        638,
+        85,
+        662,
+        190
+      ]
     },
     {
-      "pin_number": "30",
+      "pin_number": 30,
       "name": "OPA1_OUT",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        584,
+        72,
+        616,
+        189
+      ]
     },
     {
-      "pin_number": "31",
+      "pin_number": 31,
       "name": "OPA1_IN–",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        537,
+        82,
+        564,
+        190
+      ]
     },
     {
-      "pin_number": "32",
+      "pin_number": 32,
       "name": "CH5",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        491,
+        142,
+        515,
+        190
+      ]
     },
     {
-      "pin_number": "33",
+      "pin_number": 33,
       "name": "CH4",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        442,
+        143,
+        468,
+        190
+      ]
     },
     {
-      "pin_number": "34",
+      "pin_number": 34,
       "name": "CH3",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        399,
+        141,
+        418,
+        194
+      ]
     },
     {
-      "pin_number": "35",
+      "pin_number": 35,
       "name": "CH2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        349,
+        142,
+        370,
+        190
+      ]
     },
     {
-      "pin_number": "36",
+      "pin_number": 36,
       "name": "R\\E\\S\\E\\T\\",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        287,
+        113,
+        323,
+        193
+      ]
     },
     {
-      "pin_number": "37",
+      "pin_number": 37,
       "name": "SCLK",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        156,
+        260,
+        218,
+        294
+      ]
     },
     {
-      "pin_number": "38",
+      "pin_number": 38,
       "name": "MOSI",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        155,
+        313,
+        220,
+        344
+      ]
     },
     {
-      "pin_number": "39",
+      "pin_number": 39,
       "name": "MISO",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        155,
+        357,
+        217,
+        391
+      ]
     },
     {
-      "pin_number": "40",
+      "pin_number": 40,
       "name": "S\\S\\",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        181,
+        404,
+        219,
+        440
+      ]
     },
     {
-      "pin_number": "41",
+      "pin_number": 41,
       "name": "BVDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        157,
+        458,
+        216,
+        491
+      ]
     },
     {
-      "pin_number": "42",
+      "pin_number": 42,
       "name": "DVDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        162,
+        505,
+        218,
+        540
+      ]
     },
     {
-      "pin_number": "43",
+      "pin_number": 43,
       "name": "DGND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        147,
+        551,
+        215,
+        583
+      ]
     },
     {
-      "pin_number": "44",
+      "pin_number": 44,
       "name": "THERM_I_OUTPUT",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        26,
+        600,
+        217,
+        635
+      ]
     },
     {
-      "pin_number": "45",
+      "pin_number": 45,
       "name": "ISET_RESISTOR",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        43,
+        650,
+        220,
+        680
+      ]
     },
     {
-      "pin_number": "46",
+      "pin_number": 46,
       "name": "OPA7_IN–",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        103,
+        692,
+        219,
+        729
+      ]
     },
     {
-      "pin_number": "47",
+      "pin_number": 47,
       "name": "OPA7_OUT",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        96,
+        744,
+        217,
+        776
+      ]
     },
     {
-      "pin_number": "48",
+      "pin_number": 48,
       "name": "OPA7_IN+",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        109,
+        792,
+        221,
+        824
+      ]
     }
-  ],
-  "file_name": "amc7820_4_1.jpg"
+  ]
 }

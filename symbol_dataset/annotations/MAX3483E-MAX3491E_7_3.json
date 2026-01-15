@@ -1,0 +1,163 @@
+{
+  "image_id": "MAX3483E-MAX3491E_7_3",
+  "width": 384,
+  "height": 360,
+  "total_pins": 14,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "N.C.",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        59,
+        62,
+        83
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "RO",
+      "bbox_pin": null,
+      "bbox_name": [
+        36,
+        99,
+        63,
+        124
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "R\\E\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        36,
+        133,
+        62,
+        163
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "DE",
+      "bbox_pin": null,
+      "bbox_name": [
+        36,
+        177,
+        62,
+        202
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "DI",
+      "bbox_pin": null,
+      "bbox_name": [
+        43,
+        218,
+        64,
+        245
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        259,
+        65,
+        285
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        300,
+        62,
+        323
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "N.C.",
+      "bbox_pin": null,
+      "bbox_name": [
+        325,
+        300,
+        361,
+        323
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        324,
+        260,
+        342,
+        285
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "Z",
+      "bbox_pin": null,
+      "bbox_name": [
+        323,
+        219,
+        340,
+        245
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "B",
+      "bbox_pin": null,
+      "bbox_name": [
+        325,
+        179,
+        339,
+        202
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        325,
+        142,
+        341,
+        165
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        325,
+        97,
+        359,
+        123
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        324,
+        59,
+        362,
+        84
+      ]
+    }
+  ]
+}

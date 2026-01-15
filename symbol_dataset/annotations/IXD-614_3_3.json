@@ -1,0 +1,107 @@
+{
+  "image_id": "IXD-614_3_3",
+  "width": 312,
+  "height": 237,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VCC",
+      "bbox_pin": [
+        78,
+        42,
+        87,
+        57
+      ],
+      "bbox_name": [
+        33,
+        39,
+        63,
+        62
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "IN",
+      "bbox_pin": [
+        77,
+        89,
+        88,
+        104
+      ],
+      "bbox_name": [
+        42,
+        84,
+        62,
+        104
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        35,
+        130,
+        62,
+        148
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        179,
+        62,
+        197
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        248,
+        179,
+        286,
+        196
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        247,
+        131,
+        285,
+        149
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        247,
+        84,
+        285,
+        102
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        246,
+        39,
+        276,
+        62
+      ]
+    }
+  ]
+}

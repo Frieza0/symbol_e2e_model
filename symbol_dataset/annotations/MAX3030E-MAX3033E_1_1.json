@@ -1,0 +1,185 @@
+{
+  "image_id": "MAX3030E-MAX3033E_1_1",
+  "width": 318,
+  "height": 339,
+  "total_pins": 16,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "DI1",
+      "bbox_pin": null,
+      "bbox_name": [
+        22,
+        34,
+        50,
+        57
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "DO1+",
+      "bbox_pin": null,
+      "bbox_name": [
+        11,
+        73,
+        52,
+        99
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "DO1-",
+      "bbox_pin": null,
+      "bbox_name": [
+        13,
+        112,
+        50,
+        134
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "EN",
+      "bbox_pin": null,
+      "bbox_name": [
+        29,
+        147,
+        50,
+        169
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "DO2-",
+      "bbox_pin": null,
+      "bbox_name": [
+        13,
+        183,
+        48,
+        204
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "DO2+",
+      "bbox_pin": null,
+      "bbox_name": [
+        11,
+        220,
+        50,
+        242
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "DI2",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        257,
+        50,
+        275
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        16,
+        291,
+        48,
+        311
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "DI3",
+      "bbox_pin": null,
+      "bbox_name": [
+        270,
+        290,
+        294,
+        312
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "DO3+",
+      "bbox_pin": null,
+      "bbox_name": [
+        268,
+        257,
+        308,
+        276
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "DO3-",
+      "bbox_pin": null,
+      "bbox_name": [
+        268,
+        218,
+        306,
+        240
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "E\\N\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        264,
+        177,
+        290,
+        202
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "DO4-",
+      "bbox_pin": null,
+      "bbox_name": [
+        267,
+        146,
+        305,
+        168
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "DO4+",
+      "bbox_pin": null,
+      "bbox_name": [
+        269,
+        112,
+        307,
+        129
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "DI4",
+      "bbox_pin": null,
+      "bbox_name": [
+        269,
+        77,
+        292,
+        97
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        266,
+        41,
+        297,
+        62
+      ]
+    }
+  ]
+}

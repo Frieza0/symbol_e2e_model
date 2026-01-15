@@ -1,0 +1,625 @@
+{
+  "image_id": "JFM25FL064RH技术手册_20_1",
+  "width": 789,
+  "height": 712,
+  "total_pins": 56,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        46,
+        11,
+        75,
+        34
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        48,
+        37,
+        74,
+        57
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        48,
+        65,
+        75,
+        82
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        46,
+        88,
+        75,
+        106
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        46,
+        111,
+        74,
+        129
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        46,
+        138,
+        75,
+        156
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        48,
+        161,
+        73,
+        182
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        45,
+        188,
+        74,
+        204
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        47,
+        211,
+        74,
+        229
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        47,
+        237,
+        75,
+        253
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "HOLD#",
+      "bbox_pin": null,
+      "bbox_name": [
+        13,
+        259,
+        74,
+        278
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        48,
+        285,
+        73,
+        302
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        39,
+        308,
+        74,
+        326
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "RESET#",
+      "bbox_pin": null,
+      "bbox_name": [
+        10,
+        333,
+        73,
+        351
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        46,
+        358,
+        73,
+        376
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "CS#",
+      "bbox_pin": null,
+      "bbox_name": [
+        42,
+        382,
+        75,
+        401
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        46,
+        406,
+        74,
+        424
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "DO",
+      "bbox_pin": null,
+      "bbox_name": [
+        45,
+        428,
+        73,
+        450
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        47,
+        455,
+        73,
+        474
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "W2#",
+      "bbox_pin": null,
+      "bbox_name": [
+        29,
+        477,
+        71,
+        497
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        46,
+        504,
+        74,
+        523
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        48,
+        529,
+        74,
+        547
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        45,
+        553,
+        73,
+        571
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        46,
+        577,
+        74,
+        598
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        48,
+        602,
+        75,
+        622
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        46,
+        625,
+        74,
+        646
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        45,
+        650,
+        74,
+        669
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        45,
+        671,
+        73,
+        695
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        734,
+        673,
+        762,
+        698
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        732,
+        649,
+        761,
+        668
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        732,
+        628,
+        760,
+        644
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        732,
+        601,
+        762,
+        620
+      ]
+    },
+    {
+      "pin_number": 33,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        732,
+        577,
+        761,
+        595
+      ]
+    },
+    {
+      "pin_number": 34,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        732,
+        551,
+        760,
+        571
+      ]
+    },
+    {
+      "pin_number": 35,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        732,
+        528,
+        761,
+        546
+      ]
+    },
+    {
+      "pin_number": 36,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        730,
+        503,
+        761,
+        522
+      ]
+    },
+    {
+      "pin_number": 37,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        730,
+        479,
+        760,
+        498
+      ]
+    },
+    {
+      "pin_number": 38,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        733,
+        455,
+        759,
+        475
+      ]
+    },
+    {
+      "pin_number": 39,
+      "name": "WP#",
+      "bbox_pin": null,
+      "bbox_name": [
+        732,
+        433,
+        775,
+        451
+      ]
+    },
+    {
+      "pin_number": 40,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        732,
+        407,
+        761,
+        426
+      ]
+    },
+    {
+      "pin_number": 41,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        732,
+        383,
+        765,
+        400
+      ]
+    },
+    {
+      "pin_number": 42,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        732,
+        360,
+        759,
+        377
+      ]
+    },
+    {
+      "pin_number": 43,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        733,
+        334,
+        760,
+        353
+      ]
+    },
+    {
+      "pin_number": 44,
+      "name": "DI",
+      "bbox_pin": null,
+      "bbox_name": [
+        732,
+        308,
+        753,
+        326
+      ]
+    },
+    {
+      "pin_number": 45,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        732,
+        285,
+        760,
+        304
+      ]
+    },
+    {
+      "pin_number": 46,
+      "name": "CLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        733,
+        261,
+        765,
+        278
+      ]
+    },
+    {
+      "pin_number": 47,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        733,
+        236,
+        760,
+        255
+      ]
+    },
+    {
+      "pin_number": 48,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        733,
+        212,
+        758,
+        228
+      ]
+    },
+    {
+      "pin_number": 49,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        734,
+        188,
+        760,
+        206
+      ]
+    },
+    {
+      "pin_number": 50,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        732,
+        162,
+        761,
+        181
+      ]
+    },
+    {
+      "pin_number": 51,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        732,
+        135,
+        759,
+        157
+      ]
+    },
+    {
+      "pin_number": 52,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        732,
+        112,
+        760,
+        131
+      ]
+    },
+    {
+      "pin_number": 53,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        733,
+        89,
+        760,
+        107
+      ]
+    },
+    {
+      "pin_number": 54,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        732,
+        64,
+        760,
+        84
+      ]
+    },
+    {
+      "pin_number": 55,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        732,
+        41,
+        759,
+        57
+      ]
+    },
+    {
+      "pin_number": 56,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        732,
+        14,
+        759,
+        33
+      ]
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "image_id": "sy89547l_2_1",
+  "width": 480,
+  "height": 459,
+  "total_pins": 32,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        17,
+        122,
+        71,
+        143
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "/IN0",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        151,
+        73,
+        174
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VT0",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        180,
+        73,
+        202
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "IN0",
+      "bbox_pin": null,
+      "bbox_name": [
+        29,
+        208,
+        74,
+        233
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        18,
+        238,
+        72,
+        260
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SEL0",
+      "bbox_pin": null,
+      "bbox_name": [
+        13,
+        267,
+        72,
+        289
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        294,
+        71,
+        314
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        17,
+        322,
+        73,
+        344
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        128,
+        397,
+        148,
+        452
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "Q0",
+      "bbox_pin": null,
+      "bbox_name": [
+        156,
+        398,
+        180,
+        429
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "/Q0",
+      "bbox_pin": null,
+      "bbox_name": [
+        185,
+        397,
+        207,
+        438
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        212,
+        398,
+        233,
+        452
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        243,
+        397,
+        265,
+        449
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "Q1",
+      "bbox_pin": null,
+      "bbox_name": [
+        275,
+        396,
+        296,
+        429
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "/Q1",
+      "bbox_pin": null,
+      "bbox_name": [
+        302,
+        398,
+        326,
+        441
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        334,
+        399,
+        358,
+        450
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        412,
+        320,
+        464,
+        343
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        412,
+        294,
+        464,
+        314
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "SEL1",
+      "bbox_pin": null,
+      "bbox_name": [
+        411,
+        266,
+        466,
+        288
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        409,
+        239,
+        465,
+        263
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "/IN3",
+      "bbox_pin": null,
+      "bbox_name": [
+        408,
+        211,
+        454,
+        233
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "VT3",
+      "bbox_pin": null,
+      "bbox_name": [
+        409,
+        180,
+        457,
+        203
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "IN3",
+      "bbox_pin": null,
+      "bbox_name": [
+        408,
+        154,
+        451,
+        176
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        410,
+        122,
+        460,
+        144
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "/IN2",
+      "bbox_pin": null,
+      "bbox_name": [
+        332,
+        19,
+        354,
+        68
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "VT2",
+      "bbox_pin": null,
+      "bbox_name": [
+        301,
+        18,
+        324,
+        65
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "IN2",
+      "bbox_pin": null,
+      "bbox_name": [
+        275,
+        24,
+        295,
+        65
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        244,
+        16,
+        267,
+        69
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        218,
+        16,
+        237,
+        65
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "/IN1",
+      "bbox_pin": null,
+      "bbox_name": [
+        187,
+        24,
+        207,
+        66
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "VT1",
+      "bbox_pin": null,
+      "bbox_name": [
+        156,
+        24,
+        179,
+        65
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "IN1",
+      "bbox_pin": null,
+      "bbox_name": [
+        123,
+        30,
+        146,
+        65
+      ]
+    }
+  ]
+}

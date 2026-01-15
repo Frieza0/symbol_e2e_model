@@ -1,0 +1,119 @@
+{
+  "image_id": "TPS74801-2024_3_1",
+  "width": 423,
+  "height": 271,
+  "total_pins": 10,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        54,
+        45,
+        88,
+        70
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        56,
+        84,
+        88,
+        113
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "PG",
+      "bbox_pin": null,
+      "bbox_name": [
+        45,
+        125,
+        86,
+        155
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "BIAS",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        167,
+        87,
+        195
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "EN",
+      "bbox_pin": null,
+      "bbox_name": [
+        44,
+        208,
+        88,
+        235
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        339,
+        210,
+        401,
+        235
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "SS",
+      "bbox_pin": null,
+      "bbox_name": [
+        341,
+        168,
+        380,
+        195
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "FB",
+      "bbox_pin": null,
+      "bbox_name": [
+        337,
+        128,
+        377,
+        154
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        338,
+        88,
+        398,
+        115
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        339,
+        46,
+        398,
+        70
+      ]
+    }
+  ]
+}

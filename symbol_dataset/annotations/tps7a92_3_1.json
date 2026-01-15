@@ -1,0 +1,119 @@
+{
+  "image_id": "tps7a92_3_1",
+  "width": 531,
+  "height": 429,
+  "total_pins": 10,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        12,
+        90,
+        60,
+        119
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        7,
+        148,
+        59,
+        174
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "FB",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        199,
+        60,
+        226
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        9,
+        261,
+        61,
+        282
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "PG",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        312,
+        59,
+        337
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SS_CTRL",
+      "bbox_pin": null,
+      "bbox_name": [
+        423,
+        311,
+        521,
+        342
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "EN",
+      "bbox_pin": null,
+      "bbox_name": [
+        420,
+        255,
+        455,
+        282
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "NR/SS",
+      "bbox_pin": null,
+      "bbox_name": [
+        420,
+        202,
+        494,
+        231
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        420,
+        150,
+        446,
+        174
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        421,
+        88,
+        449,
+        117
+      ]
+    }
+  ]
+}

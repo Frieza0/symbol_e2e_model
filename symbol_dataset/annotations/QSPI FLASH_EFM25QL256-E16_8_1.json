@@ -1,0 +1,97 @@
+{
+  "image_id": "QSPI FLASH_EFM25QL256-E16_8_1",
+  "width": 870,
+  "height": 270,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "CS#",
+      "bbox_pin": null,
+      "bbox_name": [
+        103,
+        22,
+        174,
+        59
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "DO(DQ1)",
+      "bbox_pin": null,
+      "bbox_name": [
+        46,
+        80,
+        168,
+        124
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "WP#(DQ2)",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        141,
+        167,
+        177
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        93,
+        193,
+        171,
+        232
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "DI(DQo)",
+      "bbox_pin": null,
+      "bbox_name": [
+        552,
+        187,
+        669,
+        226
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "CLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        552,
+        149,
+        621,
+        179
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "HOLD#/RESET#(DQ3)",
+      "bbox_pin": null,
+      "bbox_name": [
+        544,
+        87,
+        850,
+        122
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        550,
+        27,
+        623,
+        58
+      ]
+    }
+  ]
+}

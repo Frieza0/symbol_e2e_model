@@ -1,0 +1,200 @@
+{
+  "image_id": "chip_0171",
+  "width": 256,
+  "height": 256,
+  "total_pins": 12,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "WP",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        29,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "SCK",
+      "bbox_pin": [
+        93,
+        69,
+        99,
+        79
+      ],
+      "bbox_name": [
+        13,
+        69,
+        34,
+        79
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "CS1",
+      "bbox_pin": [
+        93,
+        105,
+        99,
+        115
+      ],
+      "bbox_name": [
+        13,
+        105,
+        33,
+        115
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "MAG_Y",
+      "bbox_pin": [
+        93,
+        141,
+        99,
+        151
+      ],
+      "bbox_name": [
+        13,
+        140,
+        49,
+        152
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "IN",
+      "bbox_pin": [
+        93,
+        177,
+        99,
+        187
+      ],
+      "bbox_name": [
+        13,
+        177,
+        23,
+        187
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "POK",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        35,
+        223
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "I2",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        192,
+        43
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "LVDS_P",
+      "bbox_pin": [
+        163,
+        69,
+        175,
+        79
+      ],
+      "bbox_name": [
+        183,
+        68,
+        223,
+        80
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "DRDY",
+      "bbox_pin": [
+        163,
+        105,
+        175,
+        115
+      ],
+      "bbox_name": [
+        183,
+        105,
+        211,
+        115
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "D16",
+      "bbox_pin": [
+        163,
+        141,
+        169,
+        151
+      ],
+      "bbox_name": [
+        183,
+        141,
+        202,
+        151
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "ETH_RX-",
+      "bbox_pin": [
+        163,
+        177,
+        169,
+        187
+      ],
+      "bbox_name": [
+        183,
+        176,
+        227,
+        188
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "CE",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        197,
+        223
+      ]
+    }
+  ]
+}

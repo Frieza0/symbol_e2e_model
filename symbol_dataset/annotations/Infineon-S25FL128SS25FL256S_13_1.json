@@ -1,0 +1,185 @@
+{
+  "image_id": "Infineon-S25FL128SS25FL256S_13_1",
+  "width": 546,
+  "height": 522,
+  "total_pins": 16,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "HOLD#/IO3",
+      "bbox_pin": null,
+      "bbox_name": [
+        42,
+        46,
+        163,
+        76
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        108,
+        108,
+        164,
+        138
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "RESET#/RFU",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        177,
+        164,
+        206
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "DNU",
+      "bbox_pin": null,
+      "bbox_name": [
+        106,
+        235,
+        165,
+        261
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "DNU",
+      "bbox_pin": null,
+      "bbox_name": [
+        113,
+        286,
+        163,
+        314
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "RFU",
+      "bbox_pin": null,
+      "bbox_name": [
+        109,
+        342,
+        161,
+        368
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "CS#",
+      "bbox_pin": null,
+      "bbox_name": [
+        109,
+        407,
+        159,
+        437
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "SO/IO1",
+      "bbox_pin": null,
+      "bbox_name": [
+        84,
+        466,
+        161,
+        494
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "WP#/IO2",
+      "bbox_pin": null,
+      "bbox_name": [
+        432,
+        467,
+        524,
+        496
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        431,
+        408,
+        477,
+        431
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "DNU",
+      "bbox_pin": null,
+      "bbox_name": [
+        431,
+        344,
+        482,
+        371
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "DNU",
+      "bbox_pin": null,
+      "bbox_name": [
+        435,
+        287,
+        482,
+        314
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        432,
+        235,
+        467,
+        256
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "VIO/RFU",
+      "bbox_pin": null,
+      "bbox_name": [
+        432,
+        174,
+        526,
+        200
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "SI/IO0",
+      "bbox_pin": null,
+      "bbox_name": [
+        432,
+        112,
+        498,
+        134
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "SCK",
+      "bbox_pin": null,
+      "bbox_name": [
+        433,
+        48,
+        481,
+        72
+      ]
+    }
+  ]
+}

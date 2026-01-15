@@ -1,0 +1,537 @@
+{
+  "image_id": "MAX1978_MAX1979_1_1",
+  "width": 558,
+  "height": 555,
+  "total_pins": 48,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "OS2",
+      "bbox_pin": null,
+      "bbox_name": [
+        31,
+        123,
+        61,
+        142
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "N.C.",
+      "bbox_pin": null,
+      "bbox_name": [
+        28,
+        150,
+        60,
+        171
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "PGND2",
+      "bbox_pin": null,
+      "bbox_name": [
+        12,
+        173,
+        61,
+        195
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "LX2",
+      "bbox_pin": null,
+      "bbox_name": [
+        31,
+        201,
+        60,
+        221
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "PGND2",
+      "bbox_pin": null,
+      "bbox_name": [
+        10,
+        226,
+        60,
+        247
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "LX2",
+      "bbox_pin": null,
+      "bbox_name": [
+        28,
+        255,
+        61,
+        271
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "PVDD2",
+      "bbox_pin": null,
+      "bbox_name": [
+        16,
+        277,
+        59,
+        302
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "N.C.",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        306,
+        62,
+        326
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "LX2",
+      "bbox_pin": null,
+      "bbox_name": [
+        32,
+        331,
+        61,
+        353
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "PVDD2",
+      "bbox_pin": null,
+      "bbox_name": [
+        15,
+        355,
+        60,
+        378
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "S\\H\\D\\N\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        16,
+        378,
+        61,
+        402
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "O\\T\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        39,
+        406,
+        59,
+        431
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "U\\T\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        120,
+        490,
+        143,
+        519
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "NTOUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        148,
+        491,
+        170,
+        547
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "INT-",
+      "bbox_pin": null,
+      "bbox_name": [
+        178,
+        488,
+        195,
+        524
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        201,
+        490,
+        222,
+        527
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "DIFOUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        228,
+        490,
+        248,
+        547
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "FB-",
+      "bbox_pin": null,
+      "bbox_name": [
+        257,
+        492,
+        273,
+        519
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "FB+",
+      "bbox_pin": null,
+      "bbox_name": [
+        280,
+        488,
+        299,
+        522
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "BFB-",
+      "bbox_pin": null,
+      "bbox_name": [
+        308,
+        491,
+        328,
+        526
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "BFB+",
+      "bbox_pin": null,
+      "bbox_name": [
+        334,
+        491,
+        352,
+        530
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "AIN+",
+      "bbox_pin": null,
+      "bbox_name": [
+        358,
+        490,
+        378,
+        528
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "AIN-",
+      "bbox_pin": null,
+      "bbox_name": [
+        383,
+        493,
+        403,
+        526
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "AOUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        407,
+        493,
+        429,
+        534
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        495,
+        407,
+        529,
+        429
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        495,
+        382,
+        527,
+        402
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "PVDD1",
+      "bbox_pin": null,
+      "bbox_name": [
+        493,
+        355,
+        539,
+        378
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "LX1",
+      "bbox_pin": null,
+      "bbox_name": [
+        494,
+        330,
+        527,
+        351
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "N.C.",
+      "bbox_pin": null,
+      "bbox_name": [
+        492,
+        305,
+        526,
+        322
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "PVDD1",
+      "bbox_pin": null,
+      "bbox_name": [
+        493,
+        279,
+        537,
+        302
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "LX1",
+      "bbox_pin": null,
+      "bbox_name": [
+        496,
+        255,
+        523,
+        275
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "PGND1",
+      "bbox_pin": null,
+      "bbox_name": [
+        495,
+        227,
+        543,
+        250
+      ]
+    },
+    {
+      "pin_number": 33,
+      "name": "LX1",
+      "bbox_pin": null,
+      "bbox_name": [
+        493,
+        203,
+        524,
+        223
+      ]
+    },
+    {
+      "pin_number": 34,
+      "name": "PGND1",
+      "bbox_pin": null,
+      "bbox_name": [
+        495,
+        175,
+        542,
+        196
+      ]
+    },
+    {
+      "pin_number": 35,
+      "name": "N.C",
+      "bbox_pin": null,
+      "bbox_name": [
+        494,
+        152,
+        522,
+        170
+      ]
+    },
+    {
+      "pin_number": 36,
+      "name": "FREQ",
+      "bbox_pin": null,
+      "bbox_name": [
+        491,
+        120,
+        532,
+        143
+      ]
+    },
+    {
+      "pin_number": 37,
+      "name": "ITEC",
+      "bbox_pin": null,
+      "bbox_name": [
+        410,
+        28,
+        430,
+        62
+      ]
+    },
+    {
+      "pin_number": 38,
+      "name": "COMP",
+      "bbox_pin": null,
+      "bbox_name": [
+        384,
+        18,
+        403,
+        63
+      ]
+    },
+    {
+      "pin_number": 39,
+      "name": "MAXIP",
+      "bbox_pin": null,
+      "bbox_name": [
+        359,
+        17,
+        379,
+        63
+      ]
+    },
+    {
+      "pin_number": 40,
+      "name": "MAXIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        332,
+        17,
+        353,
+        63
+      ]
+    },
+    {
+      "pin_number": 41,
+      "name": "MAXV",
+      "bbox_pin": null,
+      "bbox_name": [
+        306,
+        19,
+        328,
+        64
+      ]
+    },
+    {
+      "pin_number": 42,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        283,
+        27,
+        301,
+        63
+      ]
+    },
+    {
+      "pin_number": 43,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        254,
+        30,
+        273,
+        64
+      ]
+    },
+    {
+      "pin_number": 44,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        231,
+        33,
+        250,
+        64
+      ]
+    },
+    {
+      "pin_number": 45,
+      "name": "CTLI",
+      "bbox_pin": null,
+      "bbox_name": [
+        203,
+        30,
+        221,
+        61
+      ]
+    },
+    {
+      "pin_number": 46,
+      "name": "REF",
+      "bbox_pin": null,
+      "bbox_name": [
+        174,
+        34,
+        194,
+        64
+      ]
+    },
+    {
+      "pin_number": 47,
+      "name": "CS",
+      "bbox_pin": null,
+      "bbox_name": [
+        152,
+        41,
+        169,
+        63
+      ]
+    },
+    {
+      "pin_number": 48,
+      "name": "OS1",
+      "bbox_pin": null,
+      "bbox_name": [
+        124,
+        33,
+        144,
+        62
+      ]
+    }
+  ]
+}

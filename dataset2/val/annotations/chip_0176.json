@@ -1,0 +1,264 @@
+{
+  "image_id": "chip_0176",
+  "width": 256,
+  "height": 256,
+  "total_pins": 16,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "SENSE",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        48,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "PGND",
+      "bbox_pin": [
+        93,
+        58,
+        99,
+        68
+      ],
+      "bbox_name": [
+        13,
+        58,
+        42,
+        68
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "DVDD",
+      "bbox_pin": [
+        93,
+        84,
+        99,
+        94
+      ],
+      "bbox_name": [
+        13,
+        84,
+        41,
+        94
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "RMII_RXD1",
+      "bbox_pin": [
+        93,
+        110,
+        99,
+        120
+      ],
+      "bbox_name": [
+        13,
+        109,
+        67,
+        121
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "ON",
+      "bbox_pin": [
+        93,
+        135,
+        99,
+        145
+      ],
+      "bbox_name": [
+        13,
+        135,
+        28,
+        145
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "MIPI_CLKN",
+      "bbox_pin": [
+        93,
+        161,
+        99,
+        171
+      ],
+      "bbox_name": [
+        13,
+        160,
+        67,
+        172
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "1V2",
+      "bbox_pin": [
+        93,
+        187,
+        99,
+        197
+      ],
+      "bbox_name": [
+        13,
+        187,
+        32,
+        197
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "REFCLK",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        53,
+        223
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "TST",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        202,
+        43
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "D5",
+      "bbox_pin": [
+        163,
+        58,
+        175,
+        68
+      ],
+      "bbox_name": [
+        183,
+        58,
+        196,
+        68
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "USB_DP",
+      "bbox_pin": [
+        163,
+        84,
+        175,
+        94
+      ],
+      "bbox_name": [
+        183,
+        83,
+        224,
+        95
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "WE",
+      "bbox_pin": [
+        163,
+        110,
+        175,
+        120
+      ],
+      "bbox_name": [
+        183,
+        110,
+        199,
+        120
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "AD0",
+      "bbox_pin": [
+        163,
+        135,
+        175,
+        145
+      ],
+      "bbox_name": [
+        183,
+        135,
+        204,
+        145
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "AB1",
+      "bbox_pin": [
+        163,
+        161,
+        175,
+        171
+      ],
+      "bbox_name": [
+        183,
+        161,
+        204,
+        171
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "PCM_DOUT",
+      "bbox_pin": [
+        163,
+        187,
+        175,
+        197
+      ],
+      "bbox_name": [
+        183,
+        186,
+        239,
+        198
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "AN0",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        204,
+        223
+      ]
+    }
+  ]
+}

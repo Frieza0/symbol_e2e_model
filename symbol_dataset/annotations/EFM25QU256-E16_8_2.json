@@ -6,101 +6,180 @@
   "package_type": "2side",
   "pins": [
     {
-      "pin_number": "1",
+      "pin_number": 1,
       "name": "HOLD#/RESET#(DQ3)",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        17,
+        39,
+        224,
+        68
+      ]
     },
     {
-      "pin_number": "2",
+      "pin_number": 2,
       "name": "VCC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        151,
+        86,
+        209,
+        116
+      ]
     },
     {
-      "pin_number": "3",
+      "pin_number": 3,
       "name": "NC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        168,
+        131,
+        211,
+        159
+      ]
     },
     {
-      "pin_number": "4",
+      "pin_number": 4,
       "name": "NC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        168,
+        177,
+        210,
+        209
+      ]
     },
     {
-      "pin_number": "5",
+      "pin_number": 5,
       "name": "NC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        167,
+        225,
+        210,
+        254
+      ]
     },
     {
-      "pin_number": "6",
+      "pin_number": 6,
       "name": "NC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        168,
+        269,
+        208,
+        299
+      ]
     },
     {
-      "pin_number": "7",
+      "pin_number": 7,
       "name": "CS#",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        155,
+        319,
+        205,
+        347
+      ]
     },
     {
-      "pin_number": "8",
+      "pin_number": 8,
       "name": "DO(DQ1)",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        109,
+        364,
+        224,
+        390
+      ]
     },
     {
-      "pin_number": "9",
+      "pin_number": 9,
       "name": "WP#(DQ2)",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        517,
+        361,
+        648,
+        393
+      ]
     },
     {
-      "pin_number": "10",
+      "pin_number": 10,
       "name": "VSS",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        529,
+        319,
+        577,
+        346
+      ]
     },
     {
-      "pin_number": "11",
+      "pin_number": 11,
       "name": "NC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        528,
+        267,
+        571,
+        297
+      ]
     },
     {
-      "pin_number": "12",
+      "pin_number": 12,
       "name": "NC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        532,
+        222,
+        573,
+        250
+      ]
     },
     {
-      "pin_number": "13",
+      "pin_number": 13,
       "name": "NC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        530,
+        177,
+        573,
+        206
+      ]
     },
     {
-      "pin_number": "14",
+      "pin_number": 14,
       "name": "NC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        529,
+        133,
+        572,
+        161
+      ]
     },
     {
-      "pin_number": "15",
+      "pin_number": 15,
       "name": "DI(DQO)",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        522,
+        89,
+        623,
+        124
+      ]
     },
     {
-      "pin_number": "16",
+      "pin_number": 16,
       "name": "CLK",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        527,
+        39,
+        573,
+        66
+      ]
     }
-  ],
-  "file_name": "EFM25QU256-E16_8_2.jpg"
+  ]
 }

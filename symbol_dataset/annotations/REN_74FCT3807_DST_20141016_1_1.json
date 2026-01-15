@@ -1,0 +1,229 @@
+{
+  "image_id": "REN_74FCT3807_DST_20141016_1_1",
+  "width": 522,
+  "height": 573,
+  "total_pins": 20,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        35,
+        37,
+        73,
+        68
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        8,
+        89,
+        67,
+        118
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "O1",
+      "bbox_pin": null,
+      "bbox_name": [
+        31,
+        143,
+        68,
+        172
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        199,
+        74,
+        229
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "O2",
+      "bbox_pin": null,
+      "bbox_name": [
+        33,
+        244,
+        70,
+        273
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        9,
+        297,
+        69,
+        332
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "O3",
+      "bbox_pin": null,
+      "bbox_name": [
+        32,
+        350,
+        71,
+        380
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        22,
+        400,
+        73,
+        433
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "O4",
+      "bbox_pin": null,
+      "bbox_name": [
+        30,
+        448,
+        68,
+        487
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        7,
+        508,
+        71,
+        545
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "O5",
+      "bbox_pin": null,
+      "bbox_name": [
+        450,
+        515,
+        488,
+        542
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "O6",
+      "bbox_pin": null,
+      "bbox_name": [
+        450,
+        459,
+        491,
+        487
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        449,
+        405,
+        508,
+        435
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "O7",
+      "bbox_pin": null,
+      "bbox_name": [
+        452,
+        358,
+        486,
+        383
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        452,
+        301,
+        501,
+        331
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "O8",
+      "bbox_pin": null,
+      "bbox_name": [
+        451,
+        254,
+        485,
+        278
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        451,
+        200,
+        513,
+        223
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "O9",
+      "bbox_pin": null,
+      "bbox_name": [
+        450,
+        148,
+        488,
+        176
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "O10",
+      "bbox_pin": null,
+      "bbox_name": [
+        455,
+        92,
+        497,
+        118
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        455,
+        41,
+        500,
+        63
+      ]
+    }
+  ]
+}

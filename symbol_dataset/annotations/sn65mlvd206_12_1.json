@@ -1,0 +1,163 @@
+{
+  "image_id": "sn65mlvd206_12_1",
+  "width": 396,
+  "height": 327,
+  "total_pins": 14,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        38,
+        42,
+        84,
+        71
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "R",
+      "bbox_pin": null,
+      "bbox_name": [
+        58,
+        78,
+        84,
+        106
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "R\\E\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        37,
+        114,
+        82,
+        141
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "DE",
+      "bbox_pin": null,
+      "bbox_name": [
+        42,
+        155,
+        84,
+        183
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "D",
+      "bbox_pin": null,
+      "bbox_name": [
+        63,
+        197,
+        85,
+        219
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        228,
+        83,
+        255
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        15,
+        266,
+        83,
+        292
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        321,
+        267,
+        366,
+        294
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        318,
+        225,
+        347,
+        257
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "Z",
+      "bbox_pin": null,
+      "bbox_name": [
+        319,
+        193,
+        345,
+        219
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "B",
+      "bbox_pin": null,
+      "bbox_name": [
+        321,
+        155,
+        348,
+        183
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        321,
+        120,
+        347,
+        143
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        321,
+        81,
+        376,
+        113
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        322,
+        43,
+        374,
+        76
+      ]
+    }
+  ]
+}

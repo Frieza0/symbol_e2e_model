@@ -1,0 +1,200 @@
+{
+  "image_id": "chip_0109",
+  "width": 256,
+  "height": 256,
+  "total_pins": 12,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "MDC",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        35,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "TXD",
+      "bbox_pin": [
+        93,
+        69,
+        99,
+        79
+      ],
+      "bbox_name": [
+        13,
+        69,
+        33,
+        79
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "TDI",
+      "bbox_pin": [
+        93,
+        105,
+        99,
+        115
+      ],
+      "bbox_name": [
+        13,
+        105,
+        29,
+        115
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "CANH",
+      "bbox_pin": [
+        93,
+        141,
+        99,
+        151
+      ],
+      "bbox_name": [
+        13,
+        141,
+        41,
+        151
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "WP",
+      "bbox_pin": [
+        93,
+        177,
+        99,
+        187
+      ],
+      "bbox_name": [
+        13,
+        177,
+        29,
+        187
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "VSS",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        34,
+        223
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "RF_OUT",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        32,
+        223,
+        44
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "IO1",
+      "bbox_pin": [
+        163,
+        69,
+        175,
+        79
+      ],
+      "bbox_name": [
+        183,
+        69,
+        200,
+        79
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "SCL2",
+      "bbox_pin": [
+        163,
+        105,
+        175,
+        115
+      ],
+      "bbox_name": [
+        183,
+        105,
+        209,
+        115
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "VREF",
+      "bbox_pin": [
+        163,
+        141,
+        169,
+        151
+      ],
+      "bbox_name": [
+        183,
+        141,
+        210,
+        151
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "O0",
+      "bbox_pin": [
+        163,
+        177,
+        169,
+        187
+      ],
+      "bbox_name": [
+        183,
+        177,
+        197,
+        187
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "RS485",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        215,
+        223
+      ]
+    }
+  ]
+}

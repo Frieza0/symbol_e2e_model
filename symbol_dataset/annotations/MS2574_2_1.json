@@ -1,0 +1,185 @@
+{
+  "image_id": "MS2574_2_1",
+  "width": 603,
+  "height": 468,
+  "total_pins": 16,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "1A",
+      "bbox_pin": null,
+      "bbox_name": [
+        33,
+        44,
+        73,
+        73
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "1Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        36,
+        92,
+        69,
+        117
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "1Z",
+      "bbox_pin": null,
+      "bbox_name": [
+        36,
+        145,
+        70,
+        171
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "G",
+      "bbox_pin": null,
+      "bbox_name": [
+        38,
+        196,
+        64,
+        223
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "2Z",
+      "bbox_pin": null,
+      "bbox_name": [
+        34,
+        249,
+        74,
+        275
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "2Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        37,
+        297,
+        69,
+        323
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "2A",
+      "bbox_pin": null,
+      "bbox_name": [
+        35,
+        348,
+        70,
+        375
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        22,
+        393,
+        73,
+        425
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "3A",
+      "bbox_pin": null,
+      "bbox_name": [
+        535,
+        398,
+        572,
+        427
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "3Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        536,
+        345,
+        567,
+        375
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "3Z",
+      "bbox_pin": null,
+      "bbox_name": [
+        537,
+        299,
+        570,
+        326
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "GN",
+      "bbox_pin": null,
+      "bbox_name": [
+        535,
+        246,
+        573,
+        270
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "4Z",
+      "bbox_pin": null,
+      "bbox_name": [
+        536,
+        195,
+        566,
+        218
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "4Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        537,
+        143,
+        565,
+        167
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "4A",
+      "bbox_pin": null,
+      "bbox_name": [
+        534,
+        96,
+        569,
+        121
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        533,
+        41,
+        579,
+        66
+      ]
+    }
+  ]
+}

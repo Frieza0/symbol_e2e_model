@@ -1,0 +1,75 @@
+{
+  "image_id": "NBXDBA017_2_2",
+  "width": 330,
+  "height": 264,
+  "total_pins": 6,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "OE",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        32,
+        72,
+        60
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        28,
+        116,
+        69,
+        147
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        12,
+        208,
+        68,
+        237
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "CLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        264,
+        208,
+        319,
+        237
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "C\\L\\K\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        265,
+        117,
+        323,
+        148
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        266,
+        33,
+        313,
+        66
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "image_id": "chip_0380",
+  "width": 256,
+  "height": 256,
+  "total_pins": 10,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "AB5",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        34,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "A11",
+      "bbox_pin": [
+        93,
+        78,
+        99,
+        88
+      ],
+      "bbox_name": [
+        13,
+        78,
+        33,
+        88
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "A19",
+      "bbox_pin": [
+        93,
+        123,
+        99,
+        133
+      ],
+      "bbox_name": [
+        13,
+        123,
+        33,
+        133
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "D9",
+      "bbox_pin": [
+        93,
+        168,
+        99,
+        178
+      ],
+      "bbox_name": [
+        13,
+        168,
+        26,
+        178
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "CLK3",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        39,
+        223
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "PGND",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        212,
+        43
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "nCONFIG",
+      "bbox_pin": [
+        163,
+        78,
+        169,
+        88
+      ],
+      "bbox_name": [
+        183,
+        78,
+        228,
+        88
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "MAG_X",
+      "bbox_pin": [
+        163,
+        123,
+        169,
+        133
+      ],
+      "bbox_name": [
+        183,
+        122,
+        219,
+        134
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "MISO",
+      "bbox_pin": [
+        163,
+        168,
+        169,
+        178
+      ],
+      "bbox_name": [
+        183,
+        168,
+        209,
+        178
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "PERST#",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        223,
+        223
+      ]
+    }
+  ]
+}

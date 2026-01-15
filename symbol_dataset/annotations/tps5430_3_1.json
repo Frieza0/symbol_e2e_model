@@ -1,0 +1,97 @@
+{
+  "image_id": "tps5430_3_1",
+  "width": 894,
+  "height": 426,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "BOOT",
+      "bbox_pin": null,
+      "bbox_name": [
+        49,
+        64,
+        172,
+        107
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        103,
+        151,
+        172,
+        189
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        107,
+        242,
+        168,
+        285
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VSENSE",
+      "bbox_pin": null,
+      "bbox_name": [
+        9,
+        333,
+        173,
+        376
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "ENA",
+      "bbox_pin": null,
+      "bbox_name": [
+        791,
+        325,
+        881,
+        366
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        796,
+        236,
+        883,
+        277
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "VIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        792,
+        147,
+        861,
+        185
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "PH",
+      "bbox_pin": null,
+      "bbox_name": [
+        793,
+        59,
+        857,
+        105
+      ]
+    }
+  ]
+}

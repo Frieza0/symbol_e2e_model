@@ -6,53 +6,92 @@
   "package_type": "2side",
   "pins": [
     {
-      "pin_number": "1",
+      "pin_number": 1,
       "name": "VCCI",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        18,
+        34,
+        60,
+        57
+      ]
     },
     {
-      "pin_number": "2",
+      "pin_number": 2,
       "name": "VP",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        35,
+        65,
+        60,
+        87
+      ]
     },
     {
-      "pin_number": "3",
+      "pin_number": 3,
       "name": "VN",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        34,
+        97,
+        61,
+        117
+      ]
     },
     {
-      "pin_number": "4",
+      "pin_number": 4,
       "name": "SDN",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        22,
+        128,
+        61,
+        149
+      ]
     },
     {
-      "pin_number": "5",
+      "pin_number": 5,
       "name": "LE/HYS",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        276,
+        126,
+        345,
+        144
+      ]
     },
     {
-      "pin_number": "6",
+      "pin_number": 6,
       "name": "GND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        277,
+        96,
+        320,
+        115
+      ]
     },
     {
-      "pin_number": "7",
+      "pin_number": 7,
       "name": "Q",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        276,
+        65,
+        296,
+        83
+      ]
     },
     {
-      "pin_number": "8",
+      "pin_number": 8,
       "name": "VCCO",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        275,
+        32,
+        323,
+        57
+      ]
     }
-  ],
-  "file_name": "ADCMP600_601_602_7_3.jpg"
+  ]
 }

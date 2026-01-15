@@ -1,0 +1,493 @@
+{
+  "image_id": "max7000_epm7032_s_59_2",
+  "width": 534,
+  "height": 558,
+  "total_pins": 44,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "INPUT/GCLRn",
+      "bbox_pin": null,
+      "bbox_name": [
+        258,
+        74,
+        273,
+        167
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "INPUT/OE2/(GCLK2) (1)",
+      "bbox_pin": null,
+      "bbox_name": [
+        234,
+        13,
+        254,
+        166
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        214,
+        134,
+        229,
+        167
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "I/O",
+      "bbox_pin": null,
+      "bbox_name": [
+        191,
+        145,
+        205,
+        167
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "I/O",
+      "bbox_pin": null,
+      "bbox_name": [
+        170,
+        145,
+        186,
+        167
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "I/O",
+      "bbox_pin": null,
+      "bbox_name": [
+        148,
+        144,
+        165,
+        167
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "(2) I/O/(TDI)",
+      "bbox_pin": null,
+      "bbox_name": [
+        14,
+        225,
+        94,
+        243
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "I/O",
+      "bbox_pin": null,
+      "bbox_name": [
+        70,
+        247,
+        94,
+        264
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "I/O",
+      "bbox_pin": null,
+      "bbox_name": [
+        72,
+        268,
+        95,
+        285
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        58,
+        290,
+        93,
+        305
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "I/O",
+      "bbox_pin": null,
+      "bbox_name": [
+        70,
+        312,
+        93,
+        326
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "I/O",
+      "bbox_pin": null,
+      "bbox_name": [
+        73,
+        333,
+        94,
+        349
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "(2) I/O/(TMS)",
+      "bbox_pin": null,
+      "bbox_name": [
+        15,
+        354,
+        94,
+        372
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "I/O",
+      "bbox_pin": null,
+      "bbox_name": [
+        73,
+        376,
+        93,
+        392
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        63,
+        394,
+        93,
+        413
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "I/O",
+      "bbox_pin": null,
+      "bbox_name": [
+        69,
+        418,
+        95,
+        436
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "I/O",
+      "bbox_pin": null,
+      "bbox_name": [
+        73,
+        441,
+        97,
+        459
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "I/O",
+      "bbox_pin": null,
+      "bbox_name": [
+        149,
+        517,
+        164,
+        540
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "I/O",
+      "bbox_pin": null,
+      "bbox_name": [
+        170,
+        516,
+        187,
+        540
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "I/O",
+      "bbox_pin": null,
+      "bbox_name": [
+        193,
+        516,
+        207,
+        538
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "I/O",
+      "bbox_pin": null,
+      "bbox_name": [
+        213,
+        518,
+        230,
+        538
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        234,
+        516,
+        249,
+        551
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        256,
+        514,
+        272,
+        550
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "I/O",
+      "bbox_pin": null,
+      "bbox_name": [
+        278,
+        517,
+        293,
+        539
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "I/O",
+      "bbox_pin": null,
+      "bbox_name": [
+        300,
+        518,
+        314,
+        538
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "I/O",
+      "bbox_pin": null,
+      "bbox_name": [
+        316,
+        517,
+        330,
+        539
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "I/O",
+      "bbox_pin": null,
+      "bbox_name": [
+        339,
+        516,
+        351,
+        539
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "I/O",
+      "bbox_pin": null,
+      "bbox_name": [
+        360,
+        517,
+        374,
+        538
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "I/O",
+      "bbox_pin": null,
+      "bbox_name": [
+        439,
+        442,
+        460,
+        456
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        438,
+        421,
+        469,
+        435
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "I/O",
+      "bbox_pin": null,
+      "bbox_name": [
+        437,
+        398,
+        456,
+        413
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "I/O/(TCK) (2)",
+      "bbox_pin": null,
+      "bbox_name": [
+        435,
+        374,
+        520,
+        393
+      ]
+    },
+    {
+      "pin_number": 33,
+      "name": "I/O",
+      "bbox_pin": null,
+      "bbox_name": [
+        437,
+        354,
+        458,
+        370
+      ]
+    },
+    {
+      "pin_number": 34,
+      "name": "I/O",
+      "bbox_pin": null,
+      "bbox_name": [
+        435,
+        333,
+        458,
+        346
+      ]
+    },
+    {
+      "pin_number": 35,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        437,
+        313,
+        467,
+        326
+      ]
+    },
+    {
+      "pin_number": 36,
+      "name": "I/O",
+      "bbox_pin": null,
+      "bbox_name": [
+        436,
+        291,
+        456,
+        304
+      ]
+    },
+    {
+      "pin_number": 37,
+      "name": "I/O",
+      "bbox_pin": null,
+      "bbox_name": [
+        437,
+        268,
+        458,
+        284
+      ]
+    },
+    {
+      "pin_number": 38,
+      "name": "I/O/(TDO) (2)",
+      "bbox_pin": null,
+      "bbox_name": [
+        437,
+        247,
+        520,
+        264
+      ]
+    },
+    {
+      "pin_number": 39,
+      "name": "I/O",
+      "bbox_pin": null,
+      "bbox_name": [
+        435,
+        227,
+        458,
+        241
+      ]
+    },
+    {
+      "pin_number": 40,
+      "name": "I/O",
+      "bbox_pin": null,
+      "bbox_name": [
+        367,
+        145,
+        382,
+        170
+      ]
+    },
+    {
+      "pin_number": 41,
+      "name": "I/O",
+      "bbox_pin": null,
+      "bbox_name": [
+        347,
+        145,
+        360,
+        168
+      ]
+    },
+    {
+      "pin_number": 42,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        324,
+        134,
+        339,
+        168
+      ]
+    },
+    {
+      "pin_number": 43,
+      "name": "INPUT/GCLK1",
+      "bbox_pin": null,
+      "bbox_name": [
+        303,
+        76,
+        316,
+        167
+      ]
+    },
+    {
+      "pin_number": 44,
+      "name": "INPUT/OE1",
+      "bbox_pin": null,
+      "bbox_name": [
+        280,
+        94,
+        294,
+        168
+      ]
+    }
+  ]
+}

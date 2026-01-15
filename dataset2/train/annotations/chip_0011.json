@@ -1,0 +1,264 @@
+{
+  "image_id": "chip_0011",
+  "width": 256,
+  "height": 256,
+  "total_pins": 16,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "REF_OSC",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        32,
+        61,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "TMS",
+      "bbox_pin": [
+        93,
+        58,
+        99,
+        68
+      ],
+      "bbox_name": [
+        13,
+        58,
+        34,
+        68
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VDDIO",
+      "bbox_pin": [
+        93,
+        84,
+        99,
+        94
+      ],
+      "bbox_name": [
+        13,
+        84,
+        45,
+        94
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "SYSCLK",
+      "bbox_pin": [
+        93,
+        110,
+        99,
+        120
+      ],
+      "bbox_name": [
+        13,
+        110,
+        54,
+        120
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "AN1",
+      "bbox_pin": [
+        93,
+        135,
+        99,
+        145
+      ],
+      "bbox_name": [
+        13,
+        135,
+        34,
+        145
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "TDO",
+      "bbox_pin": [
+        93,
+        161,
+        99,
+        171
+      ],
+      "bbox_name": [
+        13,
+        161,
+        34,
+        171
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "RST#",
+      "bbox_pin": [
+        93,
+        187,
+        99,
+        197
+      ],
+      "bbox_name": [
+        13,
+        187,
+        39,
+        197
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "TCK",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        33,
+        223
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "INT2",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        205,
+        43
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "ITM",
+      "bbox_pin": [
+        163,
+        58,
+        175,
+        68
+      ],
+      "bbox_name": [
+        183,
+        58,
+        200,
+        68
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "DB0",
+      "bbox_pin": [
+        163,
+        84,
+        175,
+        94
+      ],
+      "bbox_name": [
+        183,
+        84,
+        203,
+        94
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "PIN_D",
+      "bbox_pin": [
+        163,
+        110,
+        175,
+        120
+      ],
+      "bbox_name": [
+        183,
+        109,
+        213,
+        121
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "LB",
+      "bbox_pin": [
+        163,
+        135,
+        175,
+        145
+      ],
+      "bbox_name": [
+        183,
+        135,
+        196,
+        145
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "VREG",
+      "bbox_pin": [
+        163,
+        161,
+        175,
+        171
+      ],
+      "bbox_name": [
+        183,
+        161,
+        212,
+        171
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "WE",
+      "bbox_pin": [
+        163,
+        187,
+        175,
+        197
+      ],
+      "bbox_name": [
+        183,
+        187,
+        199,
+        197
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "RF_OUT",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        212,
+        223,
+        224
+      ]
+    }
+  ]
+}

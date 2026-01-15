@@ -1,0 +1,185 @@
+{
+  "image_id": "SY89832U_1_1",
+  "width": 597,
+  "height": 558,
+  "total_pins": 16,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "Q1",
+      "bbox_pin": null,
+      "bbox_name": [
+        26,
+        179,
+        70,
+        212
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "/Q1",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        230,
+        69,
+        264
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "Q2",
+      "bbox_pin": null,
+      "bbox_name": [
+        29,
+        286,
+        70,
+        323
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "/Q2",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        339,
+        70,
+        368
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "Q3",
+      "bbox_pin": null,
+      "bbox_name": [
+        165,
+        470,
+        196,
+        511
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "/Q3",
+      "bbox_pin": null,
+      "bbox_name": [
+        211,
+        468,
+        245,
+        522
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        268,
+        469,
+        304,
+        536
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "EN",
+      "bbox_pin": null,
+      "bbox_name": [
+        326,
+        467,
+        355,
+        515
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "/IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        458,
+        336,
+        499,
+        369
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "VREF-AC",
+      "bbox_pin": null,
+      "bbox_name": [
+        461,
+        288,
+        578,
+        318
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "VT",
+      "bbox_pin": null,
+      "bbox_name": [
+        451,
+        233,
+        499,
+        265
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        450,
+        183,
+        490,
+        213
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        318,
+        24,
+        354,
+        86
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        276,
+        27,
+        301,
+        88
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "Q0",
+      "bbox_pin": null,
+      "bbox_name": [
+        215,
+        50,
+        247,
+        88
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "/Q0",
+      "bbox_pin": null,
+      "bbox_name": [
+        164,
+        38,
+        194,
+        87
+      ]
+    }
+  ]
+}

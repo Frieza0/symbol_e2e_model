@@ -1,0 +1,373 @@
+{
+  "image_id": "LTC2947_3_1",
+  "width": 510,
+  "height": 597,
+  "total_pins": 34,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "IM",
+      "bbox_pin": null,
+      "bbox_name": [
+        59,
+        105,
+        89,
+        132
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "IM",
+      "bbox_pin": null,
+      "bbox_name": [
+        62,
+        144,
+        88,
+        168
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "IM",
+      "bbox_pin": null,
+      "bbox_name": [
+        62,
+        181,
+        90,
+        205
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "IM",
+      "bbox_pin": null,
+      "bbox_name": [
+        62,
+        219,
+        90,
+        242
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "IM",
+      "bbox_pin": null,
+      "bbox_name": [
+        61,
+        255,
+        88,
+        279
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "IM",
+      "bbox_pin": null,
+      "bbox_name": [
+        62,
+        290,
+        89,
+        314
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": [
+        35,
+        327,
+        88,
+        353
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": [
+        30,
+        366,
+        89,
+        389
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "AD0",
+      "bbox_pin": null,
+      "bbox_name": [
+        52,
+        398,
+        89,
+        425
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "A\\D\\1\\/\\C\\S\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        438,
+        90,
+        465
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "GPIO",
+      "bbox_pin": null,
+      "bbox_name": [
+        156,
+        516,
+        181,
+        567
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "A\\L\\E\\R\\T\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        192,
+        515,
+        217,
+        578
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "SCL",
+      "bbox_pin": null,
+      "bbox_name": [
+        232,
+        516,
+        252,
+        558
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "SDO",
+      "bbox_pin": null,
+      "bbox_name": [
+        265,
+        515,
+        289,
+        562
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "SDI",
+      "bbox_pin": null,
+      "bbox_name": [
+        303,
+        514,
+        325,
+        550
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "OVDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        336,
+        513,
+        360,
+        569
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "BYP",
+      "bbox_pin": null,
+      "bbox_name": [
+        434,
+        439,
+        479,
+        461
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "DVCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        438,
+        401,
+        488,
+        428
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "DNC",
+      "bbox_pin": null,
+      "bbox_name": [
+        437,
+        362,
+        478,
+        386
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "AVCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        439,
+        328,
+        487,
+        352
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "IP",
+      "bbox_pin": null,
+      "bbox_name": [
+        435,
+        288,
+        459,
+        316
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "IP",
+      "bbox_pin": null,
+      "bbox_name": [
+        433,
+        255,
+        456,
+        278
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "IP",
+      "bbox_pin": null,
+      "bbox_name": [
+        434,
+        221,
+        459,
+        240
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "IP",
+      "bbox_pin": null,
+      "bbox_name": [
+        436,
+        182,
+        459,
+        205
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "IP",
+      "bbox_pin": null,
+      "bbox_name": [
+        435,
+        145,
+        460,
+        169
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "IP",
+      "bbox_pin": null,
+      "bbox_name": [
+        435,
+        106,
+        456,
+        131
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "VP",
+      "bbox_pin": null,
+      "bbox_name": [
+        337,
+        38,
+        361,
+        63
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "VM",
+      "bbox_pin": null,
+      "bbox_name": [
+        303,
+        30,
+        325,
+        63
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "CFP",
+      "bbox_pin": null,
+      "bbox_name": [
+        264,
+        24,
+        290,
+        65
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "CFM",
+      "bbox_pin": null,
+      "bbox_name": [
+        231,
+        22,
+        253,
+        63
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "CLKI",
+      "bbox_pin": null,
+      "bbox_name": [
+        194,
+        20,
+        216,
+        64
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "CLKO",
+      "bbox_pin": null,
+      "bbox_name": [
+        157,
+        13,
+        179,
+        64
+      ]
+    },
+    {
+      "pin_number": 33,
+      "name": "MISS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": 34,
+      "name": "DGND",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ]
+}

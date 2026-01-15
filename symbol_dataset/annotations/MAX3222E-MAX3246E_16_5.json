@@ -1,0 +1,317 @@
+{
+  "image_id": "MAX3222E-MAX3246E_16_5",
+  "width": 393,
+  "height": 624,
+  "total_pins": 28,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "C2+",
+      "bbox_pin": null,
+      "bbox_name": [
+        31,
+        49,
+        69,
+        73
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        86,
+        67,
+        114
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "C2-",
+      "bbox_pin": null,
+      "bbox_name": [
+        36,
+        123,
+        70,
+        153
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "V-",
+      "bbox_pin": null,
+      "bbox_name": [
+        45,
+        164,
+        70,
+        190
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "T1OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        14,
+        205,
+        70,
+        233
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "T2OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        9,
+        249,
+        67,
+        275
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "T3OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        10,
+        285,
+        70,
+        314
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "R1IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        331,
+        70,
+        356
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "R2IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        370,
+        69,
+        397
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "T4OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        7,
+        411,
+        68,
+        437
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "R3IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        26,
+        449,
+        68,
+        475
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "T5OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        13,
+        492,
+        70,
+        518
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "E\\N\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        42,
+        527,
+        68,
+        558
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "S\\H\\D\\N\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        13,
+        574,
+        69,
+        603
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "MBAUD",
+      "bbox_pin": null,
+      "bbox_name": [
+        313,
+        575,
+        375,
+        599
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "R1OUTB",
+      "bbox_pin": null,
+      "bbox_name": [
+        309,
+        533,
+        383,
+        555
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "T5IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        313,
+        491,
+        353,
+        517
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "R3OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        308,
+        448,
+        372,
+        478
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "T4IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        313,
+        413,
+        353,
+        436
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "R2OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        312,
+        371,
+        373,
+        402
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "R1OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        309,
+        329,
+        373,
+        356
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "T3IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        309,
+        290,
+        352,
+        317
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "T2IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        310,
+        250,
+        351,
+        277
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "T1IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        312,
+        207,
+        355,
+        234
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "C1-",
+      "bbox_pin": null,
+      "bbox_name": [
+        310,
+        171,
+        345,
+        195
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        311,
+        128,
+        351,
+        154
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "V+",
+      "bbox_pin": null,
+      "bbox_name": [
+        311,
+        91,
+        340,
+        112
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "C1+",
+      "bbox_pin": null,
+      "bbox_name": [
+        311,
+        53,
+        352,
+        74
+      ]
+    }
+  ]
+}

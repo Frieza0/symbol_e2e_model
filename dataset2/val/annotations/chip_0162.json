@@ -1,0 +1,104 @@
+{
+  "image_id": "chip_0162",
+  "width": 256,
+  "height": 256,
+  "total_pins": 6,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "AN7",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        34,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "METAL",
+      "bbox_pin": [
+        93,
+        123,
+        99,
+        133
+      ],
+      "bbox_name": [
+        13,
+        123,
+        47,
+        133
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VBUS",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        41,
+        223
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "VIN",
+      "bbox_pin": [
+        163,
+        33,
+        169,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        200,
+        43
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "IO4",
+      "bbox_pin": [
+        163,
+        123,
+        169,
+        133
+      ],
+      "bbox_name": [
+        183,
+        123,
+        200,
+        133
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "EXPOSED_PAD",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        212,
+        260,
+        224
+      ]
+    }
+  ]
+}

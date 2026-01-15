@@ -1,0 +1,97 @@
+{
+  "image_id": "M24M01-R_7_1",
+  "width": 453,
+  "height": 297,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "DU",
+      "bbox_pin": null,
+      "bbox_name": [
+        39,
+        36,
+        85,
+        67
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "E1",
+      "bbox_pin": null,
+      "bbox_name": [
+        42,
+        106,
+        80,
+        138
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "E2",
+      "bbox_pin": null,
+      "bbox_name": [
+        43,
+        166,
+        82,
+        195
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        231,
+        82,
+        262
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "SDA",
+      "bbox_pin": null,
+      "bbox_name": [
+        367,
+        226,
+        432,
+        258
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SCL",
+      "bbox_pin": null,
+      "bbox_name": [
+        369,
+        166,
+        423,
+        196
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "!W!C",
+      "bbox_pin": null,
+      "bbox_name": [
+        365,
+        99,
+        418,
+        131
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        362,
+        42,
+        435,
+        69
+      ]
+    }
+  ]
+}

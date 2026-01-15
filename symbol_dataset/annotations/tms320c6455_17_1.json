@@ -1,0 +1,1054 @@
+{
+  "image_id": "tms320c6455_17_1",
+  "width": 1422,
+  "height": 1524,
+  "total_pins": 174,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": "AA23",
+      "name": "DVDD33",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AA24",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AA25",
+      "name": "A\\B\\E\\1\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AA26",
+      "name": "A\\B\\E\\0\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AA27",
+      "name": "AED31",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AA28",
+      "name": "A\\B\\E\\2\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AA29",
+      "name": "A\\B\\E\\3\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AB23",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AB24",
+      "name": "DVDD33",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AB25",
+      "name": "A\\A\\W\\E\\/\\A\\S\\W\\E\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AB26",
+      "name": "AED23",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AB27",
+      "name": "AED25",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AB28",
+      "name": "AED27",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AB29",
+      "name": "AED29",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AC16",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AC17",
+      "name": "AVDDA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AC18",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AC19",
+      "name": "DVDD33",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AC20",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AC21",
+      "name": "DVDD33",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AC22",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AC23",
+      "name": "DVDD33",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AC24",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AC25",
+      "name": "AED24",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AC26",
+      "name": "AED26",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AC27",
+      "name": "AED28",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AC28",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AC29",
+      "name": "DVDD33",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AD16",
+      "name": "AVDDA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AD17",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AD18",
+      "name": "DVDD33",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AD19",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AD20",
+      "name": "DVDDR",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AD21",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AD22",
+      "name": "DVDD33",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AD23",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AD24",
+      "name": "DVDD33",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AD25",
+      "name": "AED0",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AD26",
+      "name": "AED11",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AD27",
+      "name": "AED8",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AD28",
+      "name": "AED22",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AD29",
+      "name": "AED21",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AE16",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AE17",
+      "name": "AVDDT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AE18",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AE19",
+      "name": "AVDDT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AE20",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AE21",
+      "name": "RSV17",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AE22",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AE23",
+      "name": "AVDDT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AE24",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AE25",
+      "name": "AED7",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AE26",
+      "name": "AED12",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AE27",
+      "name": "AED4",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AE28",
+      "name": "AED13",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AE29",
+      "name": "AED17",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AF16",
+      "name": "DVDD33",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AF17",
+      "name": "RIOTX3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AF18",
+      "name": "R\\I\\O\\T\\X\\3\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AF19",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AF20",
+      "name": "AVDDT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AF21",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AF22",
+      "name": "R\\I\\O\\T\\X\\0\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AF23",
+      "name": "RIOTX0",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AF24",
+      "name": "DVDD33",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AF25",
+      "name": "AED1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AF26",
+      "name": "SDA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AF27",
+      "name": "AED10",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AF28",
+      "name": "AED15",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AF29",
+      "name": "AED19",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AG16",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AG17",
+      "name": "DVDD33",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AG18",
+      "name": "RIOTX2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AG19",
+      "name": "R\\I\\O\\T\\X\\2\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AG20",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AG21",
+      "name": "R\\I\\O\\T\\X\\1\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AG22",
+      "name": "RIOTX1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AG23",
+      "name": "DVDD33",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AG24",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AG25",
+      "name": "AED3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AG26",
+      "name": "SCL",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AG27",
+      "name": "AED9",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AG28",
+      "name": "AED16",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AG29",
+      "name": "AED30",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AH16",
+      "name": "DVDD33",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AH17",
+      "name": "R\\I\\O\\R\\X\\3\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AH18",
+      "name": "RIORX3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AH19",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AH20",
+      "name": "AVDDT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AH21",
+      "name": "VSSVSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AH22",
+      "name": "RIORX0",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AH23",
+      "name": "R\\I\\O\\R\\X\\0\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AH24",
+      "name": "DVDD33",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AH25",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AH26",
+      "name": "AED14",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AH27",
+      "name": "AED2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AH28",
+      "name": "AED18",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AH29",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AJ16",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AJ17",
+      "name": "AVDDT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AJ18",
+      "name": "RIORX2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AJ19",
+      "name": "R\\I\\O\\R\\X\\2\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AJ20",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AJ21",
+      "name": "R\\I\\O\\R\\X\\1\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AJ22",
+      "name": "RIORX1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AJ23",
+      "name": "AVDDT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AJ24",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AJ25",
+      "name": "DVDD33",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AJ26",
+      "name": "AED5",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AJ27",
+      "name": "AED6",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AJ28",
+      "name": "AED20",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "AJ29",
+      "name": "DVDD33",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R16",
+      "name": "CVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R17",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R18",
+      "name": "CVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R19",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R23",
+      "name": "DVDD33",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R24",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R25",
+      "name": "AEA14/HPI_WIDTH",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R26",
+      "name": "A\\S\\A\\D\\S\\/\\A\\S\\R\\E\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R27",
+      "name": "AEA13/LENDIAN",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R28",
+      "name": "AEA12/UTOPIA_EN",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "R29",
+      "name": "A\\H\\O\\L\\D\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T16",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T17",
+      "name": "CVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T18",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T19",
+      "name": "CVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T23",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T24",
+      "name": "DVDD33",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T25",
+      "name": "AEA11",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T26",
+      "name": "AEA2/CFGGP2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T27",
+      "name": "AEA3",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T28",
+      "name": "AEA4/SYSCLKOUT_EN",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "T29",
+      "name": "PLLV1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U16",
+      "name": "DVDDRM",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U17",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U18",
+      "name": "CVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U19",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U23",
+      "name": "DVDD33",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U24",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U25",
+      "name": "AEA0/CFGGP0",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U26",
+      "name": "AEA1/CFGGP1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U27",
+      "name": "AEA6/PCI66",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U28",
+      "name": "AEA5/MCBSP1_EN",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "U29",
+      "name": "RSV20",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V16",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V17",
+      "name": "DVDDRM",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V18",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V19",
+      "name": "CVDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V23",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V24",
+      "name": "DVDD33",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V25",
+      "name": "ABA1/EMIFA_EN",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V26",
+      "name": "ABA0/DDR2_EN",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V27",
+      "name": "A\\C\\E\\5\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V28",
+      "name": "A\\C\\E\\4\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "V29",
+      "name": "AECLKOUT",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "W16",
+      "name": "DVDD12",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "W17",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "W18",
+      "name": "DVDD12",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "W19",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "W23",
+      "name": "DVDD33",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "W24",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "W25",
+      "name": "AR/W",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "W26",
+      "name": "A\\C\\E\\3\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "W27",
+      "name": "A\\C\\E\\2\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "W28",
+      "name": "RSV41",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "W29",
+      "name": "A\\B\\E\\7\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "Y23",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "Y24",
+      "name": "DVDD33",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "Y25",
+      "name": "RSV43",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "Y26",
+      "name": "RSV42",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "Y27",
+      "name": "RSV44",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "Y28",
+      "name": "A\\A\\O\\E\\/\\A\\S\\O\\E\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "Y29",
+      "name": "PCI_EN",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ],
+  "file_name": "tms320c6455_17_1.jpg"
+}

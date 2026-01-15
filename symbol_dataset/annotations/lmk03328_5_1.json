@@ -1,0 +1,537 @@
+{
+  "image_id": "lmk03328_5_1",
+  "width": 1041,
+  "height": 993,
+  "total_pins": 48,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "STATUS0",
+      "bbox_pin": null,
+      "bbox_name": [
+        65,
+        194,
+        183,
+        224
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "STATUS1",
+      "bbox_pin": null,
+      "bbox_name": [
+        65,
+        243,
+        184,
+        276
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "CAP_DIG",
+      "bbox_pin": null,
+      "bbox_name": [
+        72,
+        291,
+        186,
+        329
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VDD_DIG",
+      "bbox_pin": null,
+      "bbox_name": [
+        68,
+        340,
+        187,
+        381
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VDD_IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        81,
+        394,
+        187,
+        431
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "PRIREF_P",
+      "bbox_pin": null,
+      "bbox_name": [
+        57,
+        449,
+        186,
+        483
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "PRIREF_N",
+      "bbox_pin": null,
+      "bbox_name": [
+        56,
+        500,
+        184,
+        540
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "REFSEL",
+      "bbox_pin": null,
+      "bbox_name": [
+        82,
+        548,
+        191,
+        589
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "HW_SW_CTRL",
+      "bbox_pin": null,
+      "bbox_name": [
+        4,
+        605,
+        185,
+        641
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "SECREF_P",
+      "bbox_pin": null,
+      "bbox_name": [
+        50,
+        652,
+        185,
+        692
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "SECREF_N",
+      "bbox_pin": null,
+      "bbox_name": [
+        43,
+        714,
+        186,
+        749
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "GPIO0",
+      "bbox_pin": null,
+      "bbox_name": [
+        99,
+        762,
+        184,
+        796
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "PDN",
+      "bbox_pin": null,
+      "bbox_name": [
+        249,
+        868,
+        278,
+        925
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "OUT0_P",
+      "bbox_pin": null,
+      "bbox_name": [
+        301,
+        866,
+        331,
+        968
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "OUT0_N",
+      "bbox_pin": null,
+      "bbox_name": [
+        345,
+        870,
+        382,
+        970
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "OUT1_N",
+      "bbox_pin": null,
+      "bbox_name": [
+        396,
+        868,
+        431,
+        971
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "OUT1_P",
+      "bbox_pin": null,
+      "bbox_name": [
+        447,
+        869,
+        479,
+        973
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "VDDO_01",
+      "bbox_pin": null,
+      "bbox_name": [
+        495,
+        872,
+        526,
+        988
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "VDDO_23",
+      "bbox_pin": null,
+      "bbox_name": [
+        541,
+        871,
+        580,
+        983
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "OUT2_P",
+      "bbox_pin": null,
+      "bbox_name": [
+        590,
+        868,
+        627,
+        967
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "OUT2_N",
+      "bbox_pin": null,
+      "bbox_name": [
+        640,
+        865,
+        679,
+        972
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "OUT3_N",
+      "bbox_pin": null,
+      "bbox_name": [
+        694,
+        868,
+        728,
+        971
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "OUT3_P",
+      "bbox_pin": null,
+      "bbox_name": [
+        748,
+        865,
+        784,
+        970
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "GPIO1",
+      "bbox_pin": null,
+      "bbox_name": [
+        807,
+        867,
+        837,
+        951
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "SDA",
+      "bbox_pin": null,
+      "bbox_name": [
+        904,
+        763,
+        964,
+        794
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "SCL",
+      "bbox_pin": null,
+      "bbox_name": [
+        906,
+        716,
+        958,
+        744
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "VDD_PLL2",
+      "bbox_pin": null,
+      "bbox_name": [
+        903,
+        664,
+        1034,
+        696
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "CAP_PLL2",
+      "bbox_pin": null,
+      "bbox_name": [
+        906,
+        604,
+        1031,
+        638
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "LF2",
+      "bbox_pin": null,
+      "bbox_name": [
+        903,
+        553,
+        950,
+        585
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "GPIO2",
+      "bbox_pin": null,
+      "bbox_name": [
+        898,
+        503,
+        987,
+        536
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "GPIO3",
+      "bbox_pin": null,
+      "bbox_name": [
+        906,
+        453,
+        983,
+        482
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "GPIO4",
+      "bbox_pin": null,
+      "bbox_name": [
+        903,
+        403,
+        982,
+        436
+      ]
+    },
+    {
+      "pin_number": 33,
+      "name": "GPIO5",
+      "bbox_pin": null,
+      "bbox_name": [
+        903,
+        348,
+        982,
+        376
+      ]
+    },
+    {
+      "pin_number": 34,
+      "name": "LF1",
+      "bbox_pin": null,
+      "bbox_name": [
+        903,
+        293,
+        948,
+        324
+      ]
+    },
+    {
+      "pin_number": 35,
+      "name": "CAP_PLL1",
+      "bbox_pin": null,
+      "bbox_name": [
+        902,
+        241,
+        1032,
+        277
+      ]
+    },
+    {
+      "pin_number": 36,
+      "name": "VDD_PLL1",
+      "bbox_pin": null,
+      "bbox_name": [
+        906,
+        189,
+        1029,
+        227
+      ]
+    },
+    {
+      "pin_number": 37,
+      "name": "VDDO_4",
+      "bbox_pin": null,
+      "bbox_name": [
+        810,
+        13,
+        840,
+        119
+      ]
+    },
+    {
+      "pin_number": 38,
+      "name": "OUT4_N",
+      "bbox_pin": null,
+      "bbox_name": [
+        764,
+        14,
+        793,
+        117
+      ]
+    },
+    {
+      "pin_number": 39,
+      "name": "OUT4_P",
+      "bbox_pin": null,
+      "bbox_name": [
+        704,
+        19,
+        737,
+        119
+      ]
+    },
+    {
+      "pin_number": 40,
+      "name": "VDDO_5",
+      "bbox_pin": null,
+      "bbox_name": [
+        657,
+        14,
+        687,
+        117
+      ]
+    },
+    {
+      "pin_number": 41,
+      "name": "OUT5_N",
+      "bbox_pin": null,
+      "bbox_name": [
+        604,
+        16,
+        636,
+        117
+      ]
+    },
+    {
+      "pin_number": 42,
+      "name": "OUT5_P",
+      "bbox_pin": null,
+      "bbox_name": [
+        550,
+        10,
+        584,
+        116
+      ]
+    },
+    {
+      "pin_number": 43,
+      "name": "VDDO_6",
+      "bbox_pin": null,
+      "bbox_name": [
+        502,
+        12,
+        532,
+        118
+      ]
+    },
+    {
+      "pin_number": 44,
+      "name": "OUT6_N",
+      "bbox_pin": null,
+      "bbox_name": [
+        450,
+        14,
+        484,
+        118
+      ]
+    },
+    {
+      "pin_number": 45,
+      "name": "OUT6_P",
+      "bbox_pin": null,
+      "bbox_name": [
+        400,
+        15,
+        431,
+        119
+      ]
+    },
+    {
+      "pin_number": 46,
+      "name": "VDDO_7",
+      "bbox_pin": null,
+      "bbox_name": [
+        350,
+        14,
+        378,
+        116
+      ]
+    },
+    {
+      "pin_number": 47,
+      "name": "OUT7_N",
+      "bbox_pin": null,
+      "bbox_name": [
+        300,
+        18,
+        331,
+        115
+      ]
+    },
+    {
+      "pin_number": 48,
+      "name": "OUT7_P",
+      "bbox_pin": null,
+      "bbox_name": [
+        244,
+        14,
+        279,
+        118
+      ]
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "image_id": "sn74lvt244b_1_2",
+  "width": 438,
+  "height": 550,
+  "total_pins": 20,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "1O\\E\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        139,
+        10,
+        177,
+        67
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "1A1",
+      "bbox_pin": null,
+      "bbox_name": [
+        26,
+        121,
+        76,
+        148
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "2Y4",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        158,
+        78,
+        189
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "1A2",
+      "bbox_pin": null,
+      "bbox_name": [
+        28,
+        195,
+        77,
+        222
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "2Y3",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        229,
+        80,
+        259
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "1A3",
+      "bbox_pin": null,
+      "bbox_name": [
+        26,
+        267,
+        77,
+        296
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "2Y2",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        305,
+        77,
+        333
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "1A4",
+      "bbox_pin": null,
+      "bbox_name": [
+        29,
+        341,
+        78,
+        370
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "2Y1",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        378,
+        76,
+        404
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        150,
+        463,
+        179,
+        526
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "2A1",
+      "bbox_pin": null,
+      "bbox_name": [
+        260,
+        465,
+        291,
+        514
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "1Y4",
+      "bbox_pin": null,
+      "bbox_name": [
+        362,
+        376,
+        411,
+        402
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "2A2",
+      "bbox_pin": null,
+      "bbox_name": [
+        359,
+        342,
+        411,
+        365
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "1Y3",
+      "bbox_pin": null,
+      "bbox_name": [
+        360,
+        304,
+        410,
+        331
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "2A3",
+      "bbox_pin": null,
+      "bbox_name": [
+        357,
+        269,
+        410,
+        295
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "1Y2",
+      "bbox_pin": null,
+      "bbox_name": [
+        359,
+        235,
+        410,
+        258
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "2A4",
+      "bbox_pin": null,
+      "bbox_name": [
+        359,
+        198,
+        410,
+        223
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "1Y1",
+      "bbox_pin": null,
+      "bbox_name": [
+        361,
+        161,
+        406,
+        187
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "2O\\E\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        359,
+        121,
+        416,
+        152
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        256,
+        12,
+        287,
+        70
+      ]
+    }
+  ]
+}

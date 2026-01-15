@@ -1,0 +1,200 @@
+{
+  "image_id": "chip_0072",
+  "width": 256,
+  "height": 256,
+  "total_pins": 12,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "SWV",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        36,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VIN",
+      "bbox_pin": [
+        93,
+        69,
+        99,
+        79
+      ],
+      "bbox_name": [
+        13,
+        69,
+        30,
+        79
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "D14",
+      "bbox_pin": [
+        93,
+        105,
+        99,
+        115
+      ],
+      "bbox_name": [
+        13,
+        105,
+        32,
+        115
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "D26",
+      "bbox_pin": [
+        93,
+        141,
+        99,
+        151
+      ],
+      "bbox_name": [
+        13,
+        141,
+        32,
+        151
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "A9",
+      "bbox_pin": [
+        93,
+        177,
+        99,
+        187
+      ],
+      "bbox_name": [
+        13,
+        177,
+        27,
+        187
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "WE",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        29,
+        223
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "AB6",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        204,
+        43
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "RX_SW",
+      "bbox_pin": [
+        163,
+        69,
+        175,
+        79
+      ],
+      "bbox_name": [
+        183,
+        68,
+        220,
+        80
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "VSENSE",
+      "bbox_pin": [
+        163,
+        105,
+        175,
+        115
+      ],
+      "bbox_name": [
+        183,
+        105,
+        225,
+        115
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "DATA7",
+      "bbox_pin": [
+        163,
+        141,
+        169,
+        151
+      ],
+      "bbox_name": [
+        183,
+        141,
+        216,
+        151
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "2V5",
+      "bbox_pin": [
+        163,
+        177,
+        169,
+        187
+      ],
+      "bbox_name": [
+        183,
+        177,
+        202,
+        187
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "IO",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        194,
+        223
+      ]
+    }
+  ]
+}

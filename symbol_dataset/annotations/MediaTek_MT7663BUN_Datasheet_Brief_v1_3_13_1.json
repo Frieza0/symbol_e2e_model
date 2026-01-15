@@ -1,0 +1,845 @@
+{
+  "image_id": "MediaTek_MT7663BUN_Datasheet_Brief_v1_3_13_1",
+  "width": 1527,
+  "height": 1422,
+  "total_pins": 76,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "GPIO0",
+      "bbox_pin": null,
+      "bbox_name": [
+        123,
+        205,
+        196,
+        235
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "BGF_INT_B",
+      "bbox_pin": null,
+      "bbox_name": [
+        68,
+        257,
+        192,
+        286
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        150,
+        303,
+        189,
+        336
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        152,
+        357,
+        193,
+        387
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "AVDD18_SSUSB",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        408,
+        192,
+        442
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SSUSB_TXP",
+      "bbox_pin": null,
+      "bbox_name": [
+        60,
+        460,
+        192,
+        490
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "SSUSB_TXN",
+      "bbox_pin": null,
+      "bbox_name": [
+        61,
+        509,
+        190,
+        545
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        133,
+        560,
+        190,
+        588
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "AVDD10_SSUSB",
+      "bbox_pin": null,
+      "bbox_name": [
+        16,
+        610,
+        192,
+        645
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "SSUSB_RXP",
+      "bbox_pin": null,
+      "bbox_name": [
+        60,
+        661,
+        193,
+        695
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "SSUSB_RXN",
+      "bbox_pin": null,
+      "bbox_name": [
+        56,
+        714,
+        189,
+        747
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "AVDD18_USB",
+      "bbox_pin": null,
+      "bbox_name": [
+        49,
+        764,
+        189,
+        798
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "USB_DP",
+      "bbox_pin": null,
+      "bbox_name": [
+        103,
+        815,
+        189,
+        847
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "USB_DM",
+      "bbox_pin": null,
+      "bbox_name": [
+        93,
+        869,
+        190,
+        899
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "AVDD33_USB",
+      "bbox_pin": null,
+      "bbox_name": [
+        54,
+        918,
+        189,
+        952
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "DVDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        128,
+        966,
+        190,
+        998
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "AVDD20NA",
+      "bbox_pin": null,
+      "bbox_name": [
+        75,
+        1021,
+        190,
+        1053
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "AVDD33_BUCK",
+      "bbox_pin": null,
+      "bbox_name": [
+        33,
+        1065,
+        192,
+        1105
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "LX",
+      "bbox_pin": null,
+      "bbox_name": [
+        150,
+        1122,
+        192,
+        1154
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "AVSS33_BUCK",
+      "bbox_pin": null,
+      "bbox_name": [
+        263,
+        1214,
+        296,
+        1381
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "AVDD14_CLDO",
+      "bbox_pin": null,
+      "bbox_name": [
+        322,
+        1214,
+        358,
+        1380
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "CLDO",
+      "bbox_pin": null,
+      "bbox_name": [
+        380,
+        1215,
+        406,
+        1285
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "TMOUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        426,
+        1218,
+        462,
+        1305
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "VREF",
+      "bbox_pin": null,
+      "bbox_name": [
+        482,
+        1213,
+        510,
+        1282
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "PHYLDO",
+      "bbox_pin": null,
+      "bbox_name": [
+        537,
+        1221,
+        564,
+        1311
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "AVDD33_MISC",
+      "bbox_pin": null,
+      "bbox_name": [
+        590,
+        1218,
+        624,
+        1372
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "DVDDIO_ANTSEL",
+      "bbox_pin": null,
+      "bbox_name": [
+        640,
+        1219,
+        674,
+        1400
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "DVDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        694,
+        1219,
+        723,
+        1289
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "ANTSEL0",
+      "bbox_pin": null,
+      "bbox_name": [
+        744,
+        1213,
+        777,
+        1321
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "ANTSEL1",
+      "bbox_pin": null,
+      "bbox_name": [
+        796,
+        1220,
+        829,
+        1320
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "AVDD18",
+      "bbox_pin": null,
+      "bbox_name": [
+        852,
+        1214,
+        877,
+        1312
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "AVDD14",
+      "bbox_pin": null,
+      "bbox_name": [
+        897,
+        1218,
+        928,
+        1307
+      ]
+    },
+    {
+      "pin_number": 33,
+      "name": "ANTSEL2",
+      "bbox_pin": null,
+      "bbox_name": [
+        950,
+        1216,
+        979,
+        1323
+      ]
+    },
+    {
+      "pin_number": 34,
+      "name": "ANTSEL3",
+      "bbox_pin": null,
+      "bbox_name": [
+        1000,
+        1218,
+        1031,
+        1328
+      ]
+    },
+    {
+      "pin_number": 35,
+      "name": "XO_OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        1050,
+        1219,
+        1084,
+        1312
+      ]
+    },
+    {
+      "pin_number": 36,
+      "name": "XO",
+      "bbox_pin": null,
+      "bbox_name": [
+        1106,
+        1216,
+        1132,
+        1258
+      ]
+    },
+    {
+      "pin_number": 37,
+      "name": "AVDD33",
+      "bbox_pin": null,
+      "bbox_name": [
+        1160,
+        1219,
+        1189,
+        1308
+      ]
+    },
+    {
+      "pin_number": 38,
+      "name": "PDET3",
+      "bbox_pin": null,
+      "bbox_name": [
+        1204,
+        1219,
+        1240,
+        1294
+      ]
+    },
+    {
+      "pin_number": 39,
+      "name": "PDET2",
+      "bbox_pin": null,
+      "bbox_name": [
+        1314,
+        1121,
+        1398,
+        1154
+      ]
+    },
+    {
+      "pin_number": 40,
+      "name": "AVDD14",
+      "bbox_pin": null,
+      "bbox_name": [
+        1314,
+        1072,
+        1403,
+        1104
+      ]
+    },
+    {
+      "pin_number": 41,
+      "name": "PDET1",
+      "bbox_pin": null,
+      "bbox_name": [
+        1317,
+        1016,
+        1390,
+        1053
+      ]
+    },
+    {
+      "pin_number": 42,
+      "name": "PDET0",
+      "bbox_pin": null,
+      "bbox_name": [
+        1317,
+        966,
+        1389,
+        1000
+      ]
+    },
+    {
+      "pin_number": 43,
+      "name": "AVDD33",
+      "bbox_pin": null,
+      "bbox_name": [
+        1317,
+        920,
+        1403,
+        952
+      ]
+    },
+    {
+      "pin_number": 44,
+      "name": "WF1_RFIO_A",
+      "bbox_pin": null,
+      "bbox_name": [
+        1318,
+        863,
+        1458,
+        905
+      ]
+    },
+    {
+      "pin_number": 45,
+      "name": "AVDD33",
+      "bbox_pin": null,
+      "bbox_name": [
+        1314,
+        814,
+        1403,
+        847
+      ]
+    },
+    {
+      "pin_number": 46,
+      "name": "WF1_LNA_EXT_A",
+      "bbox_pin": null,
+      "bbox_name": [
+        1318,
+        767,
+        1499,
+        803
+      ]
+    },
+    {
+      "pin_number": 47,
+      "name": "WF1_LNA_EXT_G",
+      "bbox_pin": null,
+      "bbox_name": [
+        1319,
+        715,
+        1503,
+        750
+      ]
+    },
+    {
+      "pin_number": 48,
+      "name": "AVDD33",
+      "bbox_pin": null,
+      "bbox_name": [
+        1315,
+        662,
+        1403,
+        693
+      ]
+    },
+    {
+      "pin_number": 49,
+      "name": "WF1_RFIO_G",
+      "bbox_pin": null,
+      "bbox_name": [
+        1315,
+        611,
+        1459,
+        648
+      ]
+    },
+    {
+      "pin_number": 50,
+      "name": "AVDD33",
+      "bbox_pin": null,
+      "bbox_name": [
+        1317,
+        564,
+        1409,
+        596
+      ]
+    },
+    {
+      "pin_number": 51,
+      "name": "WF0_RFIO_A",
+      "bbox_pin": null,
+      "bbox_name": [
+        1317,
+        509,
+        1457,
+        547
+      ]
+    },
+    {
+      "pin_number": 52,
+      "name": "AVDD33",
+      "bbox_pin": null,
+      "bbox_name": [
+        1315,
+        464,
+        1403,
+        492
+      ]
+    },
+    {
+      "pin_number": 53,
+      "name": "WF0_LNA_EXT_A",
+      "bbox_pin": null,
+      "bbox_name": [
+        1312,
+        408,
+        1498,
+        445
+      ]
+    },
+    {
+      "pin_number": 54,
+      "name": "WF0_LNA_EXT_G",
+      "bbox_pin": null,
+      "bbox_name": [
+        1320,
+        353,
+        1502,
+        391
+      ]
+    },
+    {
+      "pin_number": 55,
+      "name": "AVDD33",
+      "bbox_pin": null,
+      "bbox_name": [
+        1318,
+        302,
+        1402,
+        336
+      ]
+    },
+    {
+      "pin_number": 56,
+      "name": "WF0_RFIO_G",
+      "bbox_pin": null,
+      "bbox_name": [
+        1318,
+        253,
+        1462,
+        291
+      ]
+    },
+    {
+      "pin_number": 57,
+      "name": "AVDD33",
+      "bbox_pin": null,
+      "bbox_name": [
+        1320,
+        199,
+        1403,
+        233
+      ]
+    },
+    {
+      "pin_number": 58,
+      "name": "AVDD14",
+      "bbox_pin": null,
+      "bbox_name": [
+        1208,
+        56,
+        1242,
+        149
+      ]
+    },
+    {
+      "pin_number": 59,
+      "name": "AVDD14",
+      "bbox_pin": null,
+      "bbox_name": [
+        1158,
+        53,
+        1185,
+        151
+      ]
+    },
+    {
+      "pin_number": 60,
+      "name": "AVDD14",
+      "bbox_pin": null,
+      "bbox_name": [
+        1103,
+        55,
+        1132,
+        145
+      ]
+    },
+    {
+      "pin_number": 61,
+      "name": "BT_RFIP",
+      "bbox_pin": null,
+      "bbox_name": [
+        1051,
+        53,
+        1084,
+        148
+      ]
+    },
+    {
+      "pin_number": 62,
+      "name": "AVDD33",
+      "bbox_pin": null,
+      "bbox_name": [
+        1000,
+        53,
+        1031,
+        149
+      ]
+    },
+    {
+      "pin_number": 63,
+      "name": "GPIO3",
+      "bbox_pin": null,
+      "bbox_name": [
+        950,
+        72,
+        979,
+        146
+      ]
+    },
+    {
+      "pin_number": 64,
+      "name": "GPIO2",
+      "bbox_pin": null,
+      "bbox_name": [
+        899,
+        72,
+        928,
+        144
+      ]
+    },
+    {
+      "pin_number": 65,
+      "name": "DVDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        848,
+        80,
+        878,
+        148
+      ]
+    },
+    {
+      "pin_number": 66,
+      "name": "GPIO1",
+      "bbox_pin": null,
+      "bbox_name": [
+        797,
+        77,
+        829,
+        148
+      ]
+    },
+    {
+      "pin_number": 67,
+      "name": "PCM_SYNC",
+      "bbox_pin": null,
+      "bbox_name": [
+        750,
+        20,
+        778,
+        151
+      ]
+    },
+    {
+      "pin_number": 68,
+      "name": "PCM_CLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        694,
+        39,
+        730,
+        146
+      ]
+    },
+    {
+      "pin_number": 69,
+      "name": "PCM_IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        644,
+        58,
+        675,
+        149
+      ]
+    },
+    {
+      "pin_number": 70,
+      "name": "PCM_OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        591,
+        34,
+        621,
+        149
+      ]
+    },
+    {
+      "pin_number": 71,
+      "name": "DVDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        539,
+        73,
+        564,
+        146
+      ]
+    },
+    {
+      "pin_number": 72,
+      "name": "DVDDIO",
+      "bbox_pin": null,
+      "bbox_name": [
+        482,
+        55,
+        513,
+        144
+      ]
+    },
+    {
+      "pin_number": 73,
+      "name": "UART_RXD",
+      "bbox_pin": null,
+      "bbox_name": [
+        424,
+        22,
+        463,
+        151
+      ]
+    },
+    {
+      "pin_number": 74,
+      "name": "UART_TXD",
+      "bbox_pin": null,
+      "bbox_name": [
+        377,
+        29,
+        410,
+        146
+      ]
+    },
+    {
+      "pin_number": 75,
+      "name": "WIFI_INT_B",
+      "bbox_pin": null,
+      "bbox_name": [
+        324,
+        20,
+        356,
+        146
+      ]
+    },
+    {
+      "pin_number": 76,
+      "name": "SYSRST_B",
+      "bbox_pin": null,
+      "bbox_name": [
+        262,
+        26,
+        298,
+        145
+      ]
+    }
+  ]
+}

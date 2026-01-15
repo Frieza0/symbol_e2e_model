@@ -1,0 +1,264 @@
+{
+  "image_id": "chip_0160",
+  "width": 256,
+  "height": 256,
+  "total_pins": 16,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "GYRO_X",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        32,
+        56,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "GPIO12",
+      "bbox_pin": [
+        93,
+        58,
+        99,
+        68
+      ],
+      "bbox_name": [
+        13,
+        58,
+        51,
+        68
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "AN3",
+      "bbox_pin": [
+        93,
+        84,
+        99,
+        94
+      ],
+      "bbox_name": [
+        13,
+        84,
+        34,
+        94
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "SERIAL_TX",
+      "bbox_pin": [
+        93,
+        110,
+        99,
+        120
+      ],
+      "bbox_name": [
+        13,
+        109,
+        69,
+        121
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "USB_DP",
+      "bbox_pin": [
+        93,
+        135,
+        99,
+        145
+      ],
+      "bbox_name": [
+        13,
+        134,
+        54,
+        146
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "1V2",
+      "bbox_pin": [
+        93,
+        161,
+        99,
+        171
+      ],
+      "bbox_name": [
+        13,
+        161,
+        32,
+        171
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "ACCEL_X",
+      "bbox_pin": [
+        93,
+        187,
+        99,
+        197
+      ],
+      "bbox_name": [
+        13,
+        186,
+        61,
+        198
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "TEST",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        39,
+        223
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "D28",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        202,
+        43
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "BOOT",
+      "bbox_pin": [
+        163,
+        58,
+        175,
+        68
+      ],
+      "bbox_name": [
+        183,
+        58,
+        212,
+        68
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "A18",
+      "bbox_pin": [
+        163,
+        84,
+        175,
+        94
+      ],
+      "bbox_name": [
+        183,
+        84,
+        203,
+        94
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "ISNS",
+      "bbox_pin": [
+        163,
+        110,
+        175,
+        120
+      ],
+      "bbox_name": [
+        183,
+        110,
+        207,
+        120
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "RI",
+      "bbox_pin": [
+        163,
+        135,
+        175,
+        145
+      ],
+      "bbox_name": [
+        183,
+        135,
+        193,
+        145
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "PORTB",
+      "bbox_pin": [
+        163,
+        161,
+        175,
+        171
+      ],
+      "bbox_name": [
+        183,
+        161,
+        218,
+        171
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "PLLCLK",
+      "bbox_pin": [
+        163,
+        187,
+        175,
+        197
+      ],
+      "bbox_name": [
+        183,
+        187,
+        222,
+        197
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "POK",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        205,
+        223
+      ]
+    }
+  ]
+}

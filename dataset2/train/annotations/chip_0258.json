@@ -1,0 +1,232 @@
+{
+  "image_id": "chip_0258",
+  "width": 256,
+  "height": 256,
+  "total_pins": 14,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "PLLCLK",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        52,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "TEMP",
+      "bbox_pin": [
+        93,
+        63,
+        99,
+        73
+      ],
+      "bbox_name": [
+        13,
+        63,
+        41,
+        73
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "RESERVED",
+      "bbox_pin": [
+        93,
+        93,
+        99,
+        103
+      ],
+      "bbox_name": [
+        13,
+        93,
+        69,
+        103
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "METAL",
+      "bbox_pin": [
+        93,
+        123,
+        99,
+        133
+      ],
+      "bbox_name": [
+        13,
+        123,
+        47,
+        133
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "D+",
+      "bbox_pin": [
+        93,
+        153,
+        99,
+        163
+      ],
+      "bbox_name": [
+        13,
+        153,
+        26,
+        163
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "OUT",
+      "bbox_pin": [
+        93,
+        183,
+        99,
+        193
+      ],
+      "bbox_name": [
+        13,
+        183,
+        34,
+        193
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "RSSI",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        37,
+        223
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "AVDD",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        212,
+        43
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "EPAD",
+      "bbox_pin": [
+        163,
+        63,
+        175,
+        73
+      ],
+      "bbox_name": [
+        183,
+        63,
+        211,
+        73
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "CANL",
+      "bbox_pin": [
+        163,
+        93,
+        175,
+        103
+      ],
+      "bbox_name": [
+        183,
+        93,
+        210,
+        103
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "SCL1",
+      "bbox_pin": [
+        163,
+        123,
+        175,
+        133
+      ],
+      "bbox_name": [
+        183,
+        123,
+        209,
+        133
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "MFP_CLK",
+      "bbox_pin": [
+        163,
+        153,
+        175,
+        163
+      ],
+      "bbox_name": [
+        183,
+        152,
+        230,
+        164
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "D29",
+      "bbox_pin": [
+        163,
+        183,
+        169,
+        193
+      ],
+      "bbox_name": [
+        183,
+        183,
+        202,
+        193
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "RST#",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        209,
+        223
+      ]
+    }
+  ]
+}

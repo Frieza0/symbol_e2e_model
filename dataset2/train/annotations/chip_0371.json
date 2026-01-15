@@ -1,0 +1,264 @@
+{
+  "image_id": "chip_0371",
+  "width": 256,
+  "height": 256,
+  "total_pins": 16,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VSENSE",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        55,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "USB_DP",
+      "bbox_pin": [
+        93,
+        58,
+        99,
+        68
+      ],
+      "bbox_name": [
+        13,
+        57,
+        54,
+        69
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "D11",
+      "bbox_pin": [
+        93,
+        84,
+        99,
+        94
+      ],
+      "bbox_name": [
+        13,
+        84,
+        32,
+        94
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GPIO1",
+      "bbox_pin": [
+        93,
+        110,
+        99,
+        120
+      ],
+      "bbox_name": [
+        13,
+        110,
+        45,
+        120
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "SCI_TX",
+      "bbox_pin": [
+        93,
+        135,
+        99,
+        145
+      ],
+      "bbox_name": [
+        13,
+        134,
+        49,
+        146
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "CS1",
+      "bbox_pin": [
+        93,
+        161,
+        99,
+        171
+      ],
+      "bbox_name": [
+        13,
+        161,
+        33,
+        171
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "GND",
+      "bbox_pin": [
+        93,
+        187,
+        99,
+        197
+      ],
+      "bbox_name": [
+        13,
+        187,
+        35,
+        197
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "DIFFN",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        42,
+        223
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "STBY",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        210,
+        43
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "D12",
+      "bbox_pin": [
+        163,
+        58,
+        175,
+        68
+      ],
+      "bbox_name": [
+        183,
+        58,
+        202,
+        68
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "MONITOR",
+      "bbox_pin": [
+        163,
+        84,
+        175,
+        94
+      ],
+      "bbox_name": [
+        183,
+        84,
+        231,
+        94
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "GPIO9",
+      "bbox_pin": [
+        163,
+        110,
+        175,
+        120
+      ],
+      "bbox_name": [
+        183,
+        110,
+        215,
+        120
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "RMII_RXD0",
+      "bbox_pin": [
+        163,
+        135,
+        175,
+        145
+      ],
+      "bbox_name": [
+        183,
+        134,
+        237,
+        146
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "DB6",
+      "bbox_pin": [
+        163,
+        161,
+        175,
+        171
+      ],
+      "bbox_name": [
+        183,
+        161,
+        203,
+        171
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "RXER",
+      "bbox_pin": [
+        163,
+        187,
+        175,
+        197
+      ],
+      "bbox_name": [
+        183,
+        187,
+        212,
+        197
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "ID",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        193,
+        223
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "image_id": "HCPL-2231_2_3",
+  "width": 465,
+  "height": 328,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "ANODE 1",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        28,
+        110,
+        57
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "CATHODE 1",
+      "bbox_pin": null,
+      "bbox_name": [
+        9,
+        106,
+        109,
+        139
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "CATHODE 2",
+      "bbox_pin": null,
+      "bbox_name": [
+        9,
+        185,
+        110,
+        216
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "ANODE 2",
+      "bbox_pin": null,
+      "bbox_name": [
+        29,
+        259,
+        112,
+        290
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        410,
+        261,
+        451,
+        288
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "VO2",
+      "bbox_pin": null,
+      "bbox_name": [
+        412,
+        182,
+        447,
+        215
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "VO1",
+      "bbox_pin": null,
+      "bbox_name": [
+        411,
+        103,
+        448,
+        137
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        408,
+        29,
+        446,
+        60
+      ]
+    }
+  ]
+}

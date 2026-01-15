@@ -1,0 +1,75 @@
+{
+  "image_id": "sn74lvc1g08_3_5",
+  "width": 282,
+  "height": 195,
+  "total_pins": 6,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        57,
+        40,
+        81,
+        65
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "B",
+      "bbox_pin": null,
+      "bbox_name": [
+        58,
+        86,
+        81,
+        113
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        130,
+        85,
+        156
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        216,
+        132,
+        237,
+        156
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        215,
+        86,
+        256,
+        112
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        215,
+        39,
+        263,
+        71
+      ]
+    }
+  ]
+}

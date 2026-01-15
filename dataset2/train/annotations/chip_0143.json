@@ -1,0 +1,168 @@
+{
+  "image_id": "chip_0143",
+  "width": 256,
+  "height": 256,
+  "total_pins": 10,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "CONFIG_DONE",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        32,
+        87,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VNEG",
+      "bbox_pin": [
+        93,
+        78,
+        99,
+        88
+      ],
+      "bbox_name": [
+        13,
+        78,
+        42,
+        88
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "D9",
+      "bbox_pin": [
+        93,
+        123,
+        99,
+        133
+      ],
+      "bbox_name": [
+        13,
+        123,
+        26,
+        133
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "TST",
+      "bbox_pin": [
+        93,
+        168,
+        99,
+        178
+      ],
+      "bbox_name": [
+        13,
+        168,
+        32,
+        178
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "MISO",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        39,
+        223
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "OSC_IN",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        32,
+        221,
+        44
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "RXER",
+      "bbox_pin": [
+        163,
+        78,
+        169,
+        88
+      ],
+      "bbox_name": [
+        183,
+        78,
+        212,
+        88
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "ISENSE",
+      "bbox_pin": [
+        163,
+        123,
+        169,
+        133
+      ],
+      "bbox_name": [
+        183,
+        123,
+        221,
+        133
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "D16",
+      "bbox_pin": [
+        163,
+        168,
+        169,
+        178
+      ],
+      "bbox_name": [
+        183,
+        168,
+        202,
+        178
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "IO6",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        200,
+        223
+      ]
+    }
+  ]
+}

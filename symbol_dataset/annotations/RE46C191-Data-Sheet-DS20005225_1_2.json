@@ -1,0 +1,229 @@
+{
+  "image_id": "RE46C191-Data-Sheet-DS20005225_1_2",
+  "width": 495,
+  "height": 537,
+  "total_pins": 20,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        41,
+        19,
+        97,
+        58
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "IRED",
+      "bbox_pin": null,
+      "bbox_name": [
+        29,
+        77,
+        98,
+        106
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        45,
+        121,
+        98,
+        155
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "TEST1",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        171,
+        98,
+        200
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        51,
+        223,
+        102,
+        252
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "TEST2",
+      "bbox_pin": null,
+      "bbox_name": [
+        10,
+        275,
+        97,
+        301
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        58,
+        323,
+        100,
+        356
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "IRP",
+      "bbox_pin": null,
+      "bbox_name": [
+        44,
+        375,
+        98,
+        403
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        55,
+        426,
+        99,
+        454
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "IRN",
+      "bbox_pin": null,
+      "bbox_name": [
+        50,
+        475,
+        98,
+        508
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        396,
+        478,
+        441,
+        507
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "RLED",
+      "bbox_pin": null,
+      "bbox_name": [
+        397,
+        424,
+        472,
+        460
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "GLED",
+      "bbox_pin": null,
+      "bbox_name": [
+        395,
+        374,
+        474,
+        404
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "FEED",
+      "bbox_pin": null,
+      "bbox_name": [
+        395,
+        321,
+        474,
+        355
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "IRCAP",
+      "bbox_pin": null,
+      "bbox_name": [
+        396,
+        272,
+        481,
+        302
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "IO",
+      "bbox_pin": null,
+      "bbox_name": [
+        396,
+        220,
+        429,
+        252
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "HB",
+      "bbox_pin": null,
+      "bbox_name": [
+        395,
+        172,
+        438,
+        200
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "HS",
+      "bbox_pin": null,
+      "bbox_name": [
+        395,
+        125,
+        435,
+        149
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "VBST",
+      "bbox_pin": null,
+      "bbox_name": [
+        396,
+        76,
+        459,
+        110
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "LX",
+      "bbox_pin": null,
+      "bbox_name": [
+        399,
+        27,
+        437,
+        56
+      ]
+    }
+  ]
+}

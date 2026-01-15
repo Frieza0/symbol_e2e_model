@@ -6,197 +6,356 @@
   "package_type": "4side",
   "pins": [
     {
-      "pin_number": "1",
+      "pin_number": 1,
       "name": "DNC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        74,
+        109,
+        117,
+        131
+      ]
     },
     {
-      "pin_number": "2",
+      "pin_number": 2,
       "name": "DNC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        72,
+        133,
+        117,
+        154
+      ]
     },
     {
-      "pin_number": "3",
+      "pin_number": 3,
       "name": "DNC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        71,
+        157,
+        114,
+        175
+      ]
     },
     {
-      "pin_number": "4",
+      "pin_number": 4,
       "name": "DNC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        72,
+        181,
+        114,
+        198
+      ]
     },
     {
-      "pin_number": "5",
+      "pin_number": 5,
       "name": "DTX1/TPC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        25,
+        202,
+        117,
+        222
+      ]
     },
     {
-      "pin_number": "6",
+      "pin_number": 6,
       "name": "DTX0/TPB",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        27,
+        225,
+        117,
+        245
+      ]
     },
     {
-      "pin_number": "7",
+      "pin_number": 7,
       "name": "SYNC/TPA",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        23,
+        249,
+        116,
+        270
+      ]
     },
     {
-      "pin_number": "8",
+      "pin_number": 8,
       "name": "BCLK",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        61,
+        272,
+        114,
+        291
+      ]
     },
     {
-      "pin_number": "9",
+      "pin_number": 9,
       "name": "ALT_ADDR/TPD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        171,
+        347,
+        196,
+        491
+      ]
     },
     {
-      "pin_number": "10",
+      "pin_number": 10,
       "name": "SCL",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        197,
+        348,
+        214,
+        387
+      ]
     },
     {
-      "pin_number": "11",
+      "pin_number": 11,
       "name": "SDA",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        218,
+        350,
+        236,
+        389
+      ]
     },
     {
-      "pin_number": "12",
+      "pin_number": 12,
       "name": "DNC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        243,
+        349,
+        260,
+        391
+      ]
     },
     {
-      "pin_number": "13",
+      "pin_number": 13,
       "name": "DNC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        266,
+        347,
+        284,
+        389
+      ]
     },
     {
-      "pin_number": "14",
+      "pin_number": 14,
       "name": "DNC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        287,
+        349,
+        306,
+        389
+      ]
     },
     {
-      "pin_number": "15",
+      "pin_number": 15,
       "name": "DNC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        312,
+        348,
+        330,
+        391
+      ]
     },
     {
-      "pin_number": "16",
+      "pin_number": 16,
       "name": "DNC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        334,
+        349,
+        352,
+        390
+      ]
     },
     {
-      "pin_number": "17",
+      "pin_number": 17,
       "name": "VCC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        416,
+        273,
+        458,
+        291
+      ]
     },
     {
-      "pin_number": "18",
+      "pin_number": 18,
       "name": "VDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        417,
+        249,
+        457,
+        267
+      ]
     },
     {
-      "pin_number": "19",
+      "pin_number": 19,
       "name": "VSS",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        417,
+        225,
+        457,
+        244
+      ]
     },
     {
-      "pin_number": "20",
+      "pin_number": 20,
       "name": "DNC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        415,
+        203,
+        460,
+        222
+      ]
     },
     {
-      "pin_number": "21",
+      "pin_number": 21,
       "name": "DNC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        416,
+        179,
+        459,
+        199
+      ]
     },
     {
-      "pin_number": "22",
+      "pin_number": 22,
       "name": "DNC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        416,
+        157,
+        459,
+        176
+      ]
     },
     {
-      "pin_number": "23",
+      "pin_number": 23,
       "name": "DNC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        416,
+        134,
+        458,
+        152
+      ]
     },
     {
-      "pin_number": "24",
+      "pin_number": 24,
       "name": "DNC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        416,
+        108,
+        459,
+        130
+      ]
     },
     {
-      "pin_number": "25",
+      "pin_number": 25,
       "name": "DNC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        334,
+        12,
+        351,
+        53
+      ]
     },
     {
-      "pin_number": "26",
+      "pin_number": 26,
       "name": "DNC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        312,
+        9,
+        328,
+        52
+      ]
     },
     {
-      "pin_number": "27",
+      "pin_number": 27,
       "name": "DNC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        289,
+        11,
+        306,
+        54
+      ]
     },
     {
-      "pin_number": "28",
+      "pin_number": 28,
       "name": "DNC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        266,
+        12,
+        283,
+        52
+      ]
     },
     {
-      "pin_number": "29",
+      "pin_number": 29,
       "name": "DNC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        243,
+        11,
+        259,
+        52
+      ]
     },
     {
-      "pin_number": "30",
+      "pin_number": 30,
       "name": "DNC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        220,
+        12,
+        237,
+        53
+      ]
     },
     {
-      "pin_number": "31",
+      "pin_number": 31,
       "name": "DNC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        198,
+        11,
+        214,
+        52
+      ]
     },
     {
-      "pin_number": "32",
+      "pin_number": 32,
       "name": "DNC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        173,
+        10,
+        192,
+        52
+      ]
     }
-  ],
-  "file_name": "ADXL317_8_1.jpg"
+  ]
 }

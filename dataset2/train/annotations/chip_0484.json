@@ -1,0 +1,232 @@
+{
+  "image_id": "chip_0484",
+  "width": 256,
+  "height": 256,
+  "total_pins": 14,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "PA_EN",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        32,
+        47,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "D+",
+      "bbox_pin": [
+        93,
+        63,
+        99,
+        73
+      ],
+      "bbox_name": [
+        13,
+        63,
+        26,
+        73
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VSYNC",
+      "bbox_pin": [
+        93,
+        93,
+        99,
+        103
+      ],
+      "bbox_name": [
+        13,
+        93,
+        48,
+        103
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "EOC",
+      "bbox_pin": [
+        93,
+        123,
+        99,
+        133
+      ],
+      "bbox_name": [
+        13,
+        123,
+        35,
+        133
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "RMII_RXD1",
+      "bbox_pin": [
+        93,
+        153,
+        99,
+        163
+      ],
+      "bbox_name": [
+        13,
+        152,
+        67,
+        164
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "FEM_CTRL",
+      "bbox_pin": [
+        93,
+        183,
+        99,
+        193
+      ],
+      "bbox_name": [
+        13,
+        182,
+        66,
+        194
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "AD0",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        34,
+        223
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "AIN3",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        207,
+        43
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "MDC",
+      "bbox_pin": [
+        163,
+        63,
+        175,
+        73
+      ],
+      "bbox_name": [
+        183,
+        63,
+        205,
+        73
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "A4",
+      "bbox_pin": [
+        163,
+        93,
+        175,
+        103
+      ],
+      "bbox_name": [
+        183,
+        93,
+        197,
+        103
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "FB",
+      "bbox_pin": [
+        163,
+        123,
+        175,
+        133
+      ],
+      "bbox_name": [
+        183,
+        123,
+        196,
+        133
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "INT2",
+      "bbox_pin": [
+        163,
+        153,
+        175,
+        163
+      ],
+      "bbox_name": [
+        183,
+        153,
+        205,
+        163
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "POR",
+      "bbox_pin": [
+        163,
+        183,
+        169,
+        193
+      ],
+      "bbox_name": [
+        183,
+        183,
+        206,
+        193
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "OUT",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        204,
+        223
+      ]
+    }
+  ]
+}

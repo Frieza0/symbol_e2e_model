@@ -1,0 +1,317 @@
+{
+  "image_id": "lt8640s-8643s_2_1",
+  "width": 432,
+  "height": 416,
+  "total_pins": 28,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "BIAS",
+      "bbox_pin": null,
+      "bbox_name": [
+        39,
+        126,
+        78,
+        144
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "INTVCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        26,
+        161,
+        77,
+        183
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        40,
+        198,
+        76,
+        216
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        55,
+        233,
+        78,
+        252
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        48,
+        270,
+        77,
+        292
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "VIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        50,
+        306,
+        78,
+        328
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "BST",
+      "bbox_pin": null,
+      "bbox_name": [
+        121,
+        365,
+        143,
+        399
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "SW",
+      "bbox_pin": null,
+      "bbox_name": [
+        159,
+        365,
+        178,
+        393
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "SW",
+      "bbox_pin": null,
+      "bbox_name": [
+        193,
+        364,
+        213,
+        393
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "SW",
+      "bbox_pin": null,
+      "bbox_name": [
+        230,
+        365,
+        249,
+        392
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "SW",
+      "bbox_pin": null,
+      "bbox_name": [
+        266,
+        365,
+        286,
+        394
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "SW",
+      "bbox_pin": null,
+      "bbox_name": [
+        302,
+        365,
+        323,
+        393
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "VIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        362,
+        305,
+        387,
+        329
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "VIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        360,
+        271,
+        387,
+        292
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        361,
+        234,
+        387,
+        254
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        361,
+        199,
+        394,
+        217
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "EN/UV",
+      "bbox_pin": null,
+      "bbox_name": [
+        361,
+        163,
+        407,
+        180
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "RT",
+      "bbox_pin": null,
+      "bbox_name": [
+        362,
+        127,
+        385,
+        145
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "CLKOUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        304,
+        24,
+        322,
+        84
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "SYNC/MODE",
+      "bbox_pin": null,
+      "bbox_name": [
+        267,
+        0,
+        285,
+        84
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "TR/SS",
+      "bbox_pin": null,
+      "bbox_name": [
+        230,
+        39,
+        249,
+        87
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "VC",
+      "bbox_pin": null,
+      "bbox_name": [
+        194,
+        64,
+        216,
+        84
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "PG",
+      "bbox_pin": null,
+      "bbox_name": [
+        158,
+        61,
+        177,
+        84
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "FB",
+      "bbox_pin": null,
+      "bbox_name": [
+        121,
+        61,
+        141,
+        83
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        157,
+        179,
+        193,
+        199
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        251,
+        180,
+        287,
+        199
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        156,
+        272,
+        191,
+        294
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        251,
+        273,
+        286,
+        293
+      ]
+    }
+  ]
+}

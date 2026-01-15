@@ -2,87 +2,162 @@
   "image_id": "AT3205_5_1",
   "width": 519,
   "height": 543,
-  "total_pins": 13,
+  "total_pins": 14,
   "package_type": "2side",
   "pins": [
     {
-      "pin_number": "1",
+      "pin_number": 1,
       "name": "NC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        27,
+        60,
+        68,
+        83
+      ]
     },
     {
-      "pin_number": "2",
-      "name": "MISS",
+      "pin_number": 2,
+      "name": "R",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        36,
+        125,
+        60,
+        152
+      ]
     },
     {
-      "pin_number": "3",
-      "name": "!R!E",
+      "pin_number": 3,
+      "name": "R\\E\\",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        28,
+        185,
+        66,
+        221
+      ]
     },
     {
-      "pin_number": "04",
-      "name": "VCC",
+      "pin_number": 4,
+      "name": "DE",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        31,
+        260,
+        67,
+        290
+      ]
     },
     {
-      "pin_number": "4",
-      "name": "MISS",
-      "bbox_pin": null,
-      "bbox_name": null
-    },
-    {
-      "pin_number": "5",
+      "pin_number": 5,
       "name": "D",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        34,
+        323,
+        62,
+        355
+      ]
     },
     {
-      "pin_number": "6",
-      "name": "MISS",
-      "bbox_pin": null,
-      "bbox_name": null
-    },
-    {
-      "pin_number": "7",
+      "pin_number": 6,
       "name": "GND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        12,
+        394,
+        65,
+        421
+      ]
     },
     {
-      "pin_number": "8",
-      "name": "MISS",
+      "pin_number": 7,
+      "name": "GND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        15,
+        463,
+        66,
+        488
+      ]
     },
     {
-      "pin_number": "9",
-      "name": "MISS",
+      "pin_number": 8,
+      "name": "NC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        469,
+        464,
+        508,
+        489
+      ]
     },
     {
-      "pin_number": "10",
+      "pin_number": 9,
+      "name": "Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        468,
+        395,
+        490,
+        419
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "Z",
+      "bbox_pin": null,
+      "bbox_name": [
+        469,
+        330,
+        496,
+        353
+      ]
+    },
+    {
+      "pin_number": 11,
       "name": "B",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        469,
+        260,
+        494,
+        289
+      ]
     },
     {
-      "pin_number": "11",
-      "name": "MISS",
-      "bbox_pin": null,
-      "bbox_name": null
-    },
-    {
-      "pin_number": "12",
+      "pin_number": 12,
       "name": "A",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        468,
+        196,
+        491,
+        222
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        467,
+        128,
+        503,
+        154
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        466,
+        56,
+        505,
+        87
+      ]
     }
-  ],
-  "file_name": "AT3205_5_1.jpg"
+  ]
 }

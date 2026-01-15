@@ -6,437 +6,811 @@
   "package_type": "4side",
   "pins": [
     {
-      "pin_number": "1",
+      "pin_number": 1,
       "name": "AUX33V",
-      "bbox_pin": null,
-      "bbox_name": null
+      "bbox_pin": [
+        147,
+        166,
+        158,
+        184
+      ],
+      "bbox_name": [
+        56,
+        164,
+        126,
+        184
+      ]
     },
     {
-      "pin_number": "2",
+      "pin_number": 2,
       "name": "AUXADCREF",
-      "bbox_pin": null,
-      "bbox_name": null
+      "bbox_pin": [
+        144,
+        189,
+        159,
+        206
+      ],
+      "bbox_name": [
+        12,
+        189,
+        126,
+        205
+      ]
     },
     {
-      "pin_number": "3",
+      "pin_number": 3,
       "name": "RXQP",
-      "bbox_pin": null,
-      "bbox_name": null
+      "bbox_pin": [
+        146,
+        210,
+        160,
+        225
+      ],
+      "bbox_name": [
+        75,
+        210,
+        126,
+        226
+      ]
     },
     {
-      "pin_number": "4",
+      "pin_number": 4,
       "name": "RXQN",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        74,
+        230,
+        128,
+        247
+      ]
     },
     {
-      "pin_number": "5",
+      "pin_number": 5,
       "name": "RXGND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        56,
+        252,
+        128,
+        268
+      ]
     },
     {
-      "pin_number": "6",
+      "pin_number": 6,
       "name": "RXBIAS",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        58,
+        272,
+        126,
+        289
+      ]
     },
     {
-      "pin_number": "7",
+      "pin_number": 7,
       "name": "RX18V",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        68,
+        292,
+        126,
+        310
+      ]
     },
     {
-      "pin_number": "8",
+      "pin_number": 8,
       "name": "RX33V",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        67,
+        312,
+        126,
+        332
+      ]
     },
     {
-      "pin_number": "9",
+      "pin_number": 9,
       "name": "RX18VF",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        58,
+        335,
+        126,
+        353
+      ]
     },
     {
-      "pin_number": "10",
+      "pin_number": 10,
       "name": "RXCML",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        63,
+        356,
+        128,
+        375
+      ]
     },
     {
-      "pin_number": "11",
+      "pin_number": 11,
       "name": "RXGND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        58,
+        378,
+        126,
+        395
+      ]
     },
     {
-      "pin_number": "12",
+      "pin_number": 12,
       "name": "RXIN",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        80,
+        399,
+        128,
+        417
+      ]
     },
     {
-      "pin_number": "13",
+      "pin_number": 13,
       "name": "RXIP",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        82,
+        420,
+        127,
+        437
+      ]
     },
     {
-      "pin_number": "14",
+      "pin_number": 14,
       "name": "LDO_EN",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        50,
+        439,
+        128,
+        460
+      ]
     },
     {
-      "pin_number": "15",
+      "pin_number": 15,
       "name": "R\\E\\S\\E\\T\\",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        61,
+        463,
+        127,
+        479
+      ]
     },
     {
-      "pin_number": "16",
+      "pin_number": 16,
       "name": "SCLK",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        75,
+        482,
+        128,
+        500
+      ]
     },
     {
-      "pin_number": "17",
+      "pin_number": 17,
       "name": "C\\S\\",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        95,
+        500,
+        128,
+        520
+      ]
     },
     {
-      "pin_number": "18",
+      "pin_number": 18,
       "name": "SDIO",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        80,
+        526,
+        127,
+        543
+      ]
     },
     {
-      "pin_number": "19",
+      "pin_number": 19,
       "name": "DGND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        204,
+        619,
+        222,
+        678
+      ]
     },
     {
-      "pin_number": "20",
+      "pin_number": 20,
       "name": "DRVDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        224,
+        621,
+        243,
+        688
+      ]
     },
     {
-      "pin_number": "21",
+      "pin_number": 21,
       "name": "TRXD9",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        245,
+        620,
+        265,
+        683
+      ]
     },
     {
-      "pin_number": "22",
+      "pin_number": 22,
       "name": "TRXD8",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        267,
+        620,
+        286,
+        686
+      ]
     },
     {
-      "pin_number": "23",
+      "pin_number": 23,
       "name": "TRXD7",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        288,
+        620,
+        307,
+        683
+      ]
     },
     {
-      "pin_number": "24",
+      "pin_number": 24,
       "name": "TRXD6",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        310,
+        620,
+        327,
+        681
+      ]
     },
     {
-      "pin_number": "25",
+      "pin_number": 25,
       "name": "TRXD5",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        331,
+        621,
+        348,
+        684
+      ]
     },
     {
-      "pin_number": "26",
+      "pin_number": 26,
       "name": "TRXD4",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        352,
+        622,
+        369,
+        686
+      ]
     },
     {
-      "pin_number": "27",
+      "pin_number": 27,
       "name": "TRXD3",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        374,
+        619,
+        389,
+        685
+      ]
     },
     {
-      "pin_number": "28",
+      "pin_number": 28,
       "name": "TRXD2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        396,
+        621,
+        411,
+        684
+      ]
     },
     {
-      "pin_number": "29",
+      "pin_number": 29,
       "name": "TRXD1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        416,
+        620,
+        433,
+        685
+      ]
     },
     {
-      "pin_number": "30",
+      "pin_number": 30,
       "name": "TRXD0",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        437,
+        620,
+        454,
+        683
+      ]
     },
     {
-      "pin_number": "31",
+      "pin_number": 31,
       "name": "NC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        457,
+        620,
+        475,
+        648
+      ]
     },
     {
-      "pin_number": "32",
+      "pin_number": 32,
       "name": "NC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        481,
+        620,
+        497,
+        649
+      ]
     },
     {
-      "pin_number": "33",
+      "pin_number": 33,
       "name": "DRVDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        501,
+        619,
+        518,
+        688
+      ]
     },
     {
-      "pin_number": "34",
+      "pin_number": 34,
       "name": "DGND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        523,
+        618,
+        538,
+        679
+      ]
     },
     {
-      "pin_number": "35",
+      "pin_number": 35,
       "name": "TRXIQ",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        543,
+        618,
+        561,
+        684
+      ]
     },
     {
-      "pin_number": "36",
+      "pin_number": 36,
       "name": "TRXCLK",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        564,
+        620,
+        583,
+        698
+      ]
     },
     {
-      "pin_number": "37",
+      "pin_number": 37,
       "name": "TXCLK",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        656,
+        526,
+        720,
+        543
+      ]
     },
     {
-      "pin_number": "38",
-      "name": "TXIQ/TXNRX",
+      "pin_number": 38,
+      "name": "TXIQ/TXnRX",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        657,
+        504,
+        768,
+        522
+      ]
     },
     {
-      "pin_number": "39",
+      "pin_number": 39,
       "name": "TXD9",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        657,
+        482,
+        707,
+        501
+      ]
     },
     {
-      "pin_number": "40",
+      "pin_number": 40,
       "name": "TXD8",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        657,
+        460,
+        705,
+        479
+      ]
     },
     {
-      "pin_number": "41",
+      "pin_number": 41,
       "name": "TXD7",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        656,
+        440,
+        706,
+        457
+      ]
     },
     {
-      "pin_number": "42",
+      "pin_number": 42,
       "name": "TXD6",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        657,
+        419,
+        707,
+        437
+      ]
     },
     {
-      "pin_number": "43",
+      "pin_number": 43,
       "name": "TXD5",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        657,
+        398,
+        705,
+        417
+      ]
     },
     {
-      "pin_number": "44",
+      "pin_number": 44,
       "name": "TXD4",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        656,
+        376,
+        706,
+        396
+      ]
     },
     {
-      "pin_number": "45",
+      "pin_number": 45,
       "name": "TXD3",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        658,
+        354,
+        705,
+        375
+      ]
     },
     {
-      "pin_number": "46",
+      "pin_number": 46,
       "name": "TXD2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        656,
+        336,
+        705,
+        354
+      ]
     },
     {
-      "pin_number": "47",
+      "pin_number": 47,
       "name": "TXD1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        658,
+        313,
+        705,
+        332
+      ]
     },
     {
-      "pin_number": "48",
+      "pin_number": 48,
       "name": "TXD0",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        659,
+        292,
+        706,
+        311
+      ]
     },
     {
-      "pin_number": "49",
+      "pin_number": 49,
       "name": "NC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        658,
+        271,
+        688,
+        290
+      ]
     },
     {
-      "pin_number": "50",
+      "pin_number": 50,
       "name": "NC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        658,
+        249,
+        685,
+        270
+      ]
     },
     {
-      "pin_number": "51",
+      "pin_number": 51,
       "name": "DRVDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        658,
+        229,
+        724,
+        249
+      ]
     },
     {
-      "pin_number": "52",
+      "pin_number": 52,
       "name": "DVDD18",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        656,
+        207,
+        730,
+        227
+      ]
     },
     {
-      "pin_number": "53",
+      "pin_number": 53,
       "name": "DLL18V",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        658,
+        188,
+        727,
+        206
+      ]
     },
     {
-      "pin_number": "54",
+      "pin_number": 54,
       "name": "DLLFILT",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        658,
+        165,
+        730,
+        186
+      ]
     },
     {
-      "pin_number": "55",
+      "pin_number": 55,
       "name": "CLK18V",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        564,
+        18,
+        582,
+        93
+      ]
     },
     {
-      "pin_number": "56",
+      "pin_number": 56,
       "name": "CLKN",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        542,
+        34,
+        559,
+        91
+      ]
     },
     {
-      "pin_number": "57",
+      "pin_number": 57,
       "name": "CLKP",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        520,
+        35,
+        539,
+        89
+      ]
     },
     {
-      "pin_number": "58",
+      "pin_number": 58,
       "name": "CLK33V",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        500,
+        18,
+        517,
+        89
+      ]
     },
     {
-      "pin_number": "59",
+      "pin_number": 59,
       "name": "TXQN",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        480,
+        35,
+        496,
+        91
+      ]
     },
     {
-      "pin_number": "60",
+      "pin_number": 60,
       "name": "TXQP",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        459,
+        33,
+        476,
+        93
+      ]
     },
     {
-      "pin_number": "61",
+      "pin_number": 61,
       "name": "TXVDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        437,
+        26,
+        454,
+        91
+      ]
     },
     {
-      "pin_number": "62",
+      "pin_number": 62,
       "name": "TXCML",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        416,
+        26,
+        434,
+        92
+      ]
     },
     {
-      "pin_number": "63",
+      "pin_number": 63,
       "name": "REFIO",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        398,
+        29,
+        411,
+        92
+      ]
     },
     {
-      "pin_number": "64",
+      "pin_number": 64,
       "name": "TXGND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        374,
+        25,
+        389,
+        90
+      ]
     },
     {
-      "pin_number": "65",
+      "pin_number": 65,
       "name": "TXIP",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        352,
+        46,
+        369,
+        89
+      ]
     },
     {
-      "pin_number": "66",
+      "pin_number": 66,
       "name": "TXIN",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        332,
+        44,
+        347,
+        89
+      ]
     },
     {
-      "pin_number": "67",
+      "pin_number": 67,
       "name": "TXVDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        312,
+        27,
+        326,
+        92
+      ]
     },
     {
-      "pin_number": "68",
+      "pin_number": 68,
       "name": "DAC12B",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        290,
+        16,
+        306,
+        90
+      ]
     },
     {
-      "pin_number": "69",
+      "pin_number": 69,
       "name": "DAC12A",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        269,
+        15,
+        284,
+        92
+      ]
     },
     {
-      "pin_number": "70",
+      "pin_number": 70,
       "name": "AUXIO3",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        246,
+        18,
+        265,
+        88
+      ]
     },
     {
-      "pin_number": "71",
+      "pin_number": 71,
       "name": "AUXIO2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        226,
+        17,
+        243,
+        90
+      ]
     },
     {
-      "pin_number": "72",
+      "pin_number": 72,
       "name": "AUXIN1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        202,
+        19,
+        222,
+        89
+      ]
     }
-  ],
-  "file_name": "120个测试用例汇总_80_1.jpg"
+  ]
 }

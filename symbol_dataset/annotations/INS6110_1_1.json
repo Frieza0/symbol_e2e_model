@@ -1,0 +1,361 @@
+{
+  "image_id": "INS6110_1_1",
+  "width": 606,
+  "height": 567,
+  "total_pins": 32,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "Y0",
+      "bbox_pin": null,
+      "bbox_name": [
+        28,
+        138,
+        57,
+        158
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VDDOA",
+      "bbox_pin": null,
+      "bbox_name": [
+        17,
+        179,
+        57,
+        202
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "Y1",
+      "bbox_pin": null,
+      "bbox_name": [
+        31,
+        218,
+        55,
+        236
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        256,
+        56,
+        276
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "Y2",
+      "bbox_pin": null,
+      "bbox_name": [
+        34,
+        292,
+        54,
+        317
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "VDDOA",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        331,
+        57,
+        358
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "Y3",
+      "bbox_pin": null,
+      "bbox_name": [
+        33,
+        373,
+        58,
+        393
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "Y4",
+      "bbox_pin": null,
+      "bbox_name": [
+        31,
+        408,
+        55,
+        431
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        134,
+        499,
+        157,
+        530
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        178,
+        499,
+        202,
+        532
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "XIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        225,
+        500,
+        246,
+        526
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "XOUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        268,
+        502,
+        293,
+        535
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "CLKO",
+      "bbox_pin": null,
+      "bbox_name": [
+        312,
+        503,
+        334,
+        540
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "nCLK0",
+      "bbox_pin": null,
+      "bbox_name": [
+        355,
+        501,
+        380,
+        549
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        401,
+        501,
+        423,
+        531
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        445,
+        503,
+        466,
+        532
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "Y5",
+      "bbox_pin": null,
+      "bbox_name": [
+        545,
+        408,
+        569,
+        431
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "Y6",
+      "bbox_pin": null,
+      "bbox_name": [
+        546,
+        374,
+        571,
+        391
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "VDDOB",
+      "bbox_pin": null,
+      "bbox_name": [
+        546,
+        338,
+        586,
+        357
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "Y7",
+      "bbox_pin": null,
+      "bbox_name": [
+        547,
+        297,
+        570,
+        313
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        547,
+        258,
+        578,
+        275
+      ]
+    },
+    {
+      "pin_number": 22,
+      "name": "Y8",
+      "bbox_pin": null,
+      "bbox_name": [
+        546,
+        219,
+        570,
+        237
+      ]
+    },
+    {
+      "pin_number": 23,
+      "name": "VDDOB",
+      "bbox_pin": null,
+      "bbox_name": [
+        545,
+        180,
+        585,
+        199
+      ]
+    },
+    {
+      "pin_number": 24,
+      "name": "Y9",
+      "bbox_pin": null,
+      "bbox_name": [
+        547,
+        138,
+        568,
+        159
+      ]
+    },
+    {
+      "pin_number": 25,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        444,
+        39,
+        466,
+        67
+      ]
+    },
+    {
+      "pin_number": 26,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        404,
+        40,
+        421,
+        68
+      ]
+    },
+    {
+      "pin_number": 27,
+      "name": "nCLK1",
+      "bbox_pin": null,
+      "bbox_name": [
+        358,
+        27,
+        375,
+        68
+      ]
+    },
+    {
+      "pin_number": 28,
+      "name": "CLK1",
+      "bbox_pin": null,
+      "bbox_name": [
+        312,
+        34,
+        333,
+        68
+      ]
+    },
+    {
+      "pin_number": 29,
+      "name": "SEL1",
+      "bbox_pin": null,
+      "bbox_name": [
+        270,
+        33,
+        289,
+        67
+      ]
+    },
+    {
+      "pin_number": 30,
+      "name": "SEL0",
+      "bbox_pin": null,
+      "bbox_name": [
+        227,
+        32,
+        243,
+        67
+      ]
+    },
+    {
+      "pin_number": 31,
+      "name": "OE",
+      "bbox_pin": null,
+      "bbox_name": [
+        181,
+        47,
+        199,
+        68
+      ]
+    },
+    {
+      "pin_number": 32,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        136,
+        42,
+        156,
+        70
+      ]
+    }
+  ]
+}

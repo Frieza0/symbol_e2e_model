@@ -1,0 +1,264 @@
+{
+  "image_id": "chip_0013",
+  "width": 256,
+  "height": 256,
+  "total_pins": 16,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "MAG_X",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        32,
+        49,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "PWM",
+      "bbox_pin": [
+        93,
+        58,
+        99,
+        68
+      ],
+      "bbox_name": [
+        13,
+        58,
+        37,
+        68
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "RAS",
+      "bbox_pin": [
+        93,
+        84,
+        99,
+        94
+      ],
+      "bbox_name": [
+        13,
+        84,
+        34,
+        94
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "BODY",
+      "bbox_pin": [
+        93,
+        110,
+        99,
+        120
+      ],
+      "bbox_name": [
+        13,
+        110,
+        42,
+        120
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "DO",
+      "bbox_pin": [
+        93,
+        135,
+        99,
+        145
+      ],
+      "bbox_name": [
+        13,
+        135,
+        28,
+        145
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "ADDR",
+      "bbox_pin": [
+        93,
+        161,
+        99,
+        171
+      ],
+      "bbox_name": [
+        13,
+        161,
+        43,
+        171
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "AN3",
+      "bbox_pin": [
+        93,
+        187,
+        99,
+        197
+      ],
+      "bbox_name": [
+        13,
+        187,
+        34,
+        197
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GYRO_X",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        212,
+        56,
+        224
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "UB",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        197,
+        43
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "GPIO4",
+      "bbox_pin": [
+        163,
+        58,
+        175,
+        68
+      ],
+      "bbox_name": [
+        183,
+        58,
+        215,
+        68
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "LIN_IN",
+      "bbox_pin": [
+        163,
+        84,
+        175,
+        94
+      ],
+      "bbox_name": [
+        183,
+        83,
+        215,
+        95
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "I2S_SD",
+      "bbox_pin": [
+        163,
+        110,
+        175,
+        120
+      ],
+      "bbox_name": [
+        183,
+        109,
+        219,
+        121
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "RST#",
+      "bbox_pin": [
+        163,
+        135,
+        175,
+        145
+      ],
+      "bbox_name": [
+        183,
+        135,
+        209,
+        145
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "COMP",
+      "bbox_pin": [
+        163,
+        161,
+        175,
+        171
+      ],
+      "bbox_name": [
+        183,
+        161,
+        213,
+        171
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "OSC",
+      "bbox_pin": [
+        163,
+        187,
+        175,
+        197
+      ],
+      "bbox_name": [
+        183,
+        187,
+        205,
+        197
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "DSR",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        205,
+        223
+      ]
+    }
+  ]
+}

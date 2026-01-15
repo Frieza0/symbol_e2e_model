@@ -1,0 +1,229 @@
+{
+  "image_id": "TPL930ADJ-QF6R_5_1",
+  "width": 582,
+  "height": 579,
+  "total_pins": 20,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        159,
+        75,
+        183
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "SNS",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        211,
+        75,
+        239
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "FB",
+      "bbox_pin": null,
+      "bbox_name": [
+        37,
+        265,
+        75,
+        291
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "PG",
+      "bbox_pin": null,
+      "bbox_name": [
+        33,
+        316,
+        74,
+        349
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "50mV",
+      "bbox_pin": null,
+      "bbox_name": [
+        13,
+        371,
+        72,
+        403
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "100mV",
+      "bbox_pin": null,
+      "bbox_name": [
+        162,
+        494,
+        196,
+        568
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "200mV",
+      "bbox_pin": null,
+      "bbox_name": [
+        216,
+        492,
+        245,
+        570
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        274,
+        494,
+        300,
+        547
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "400mV",
+      "bbox_pin": null,
+      "bbox_name": [
+        326,
+        490,
+        353,
+        569
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "800mV",
+      "bbox_pin": null,
+      "bbox_name": [
+        380,
+        491,
+        408,
+        570
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "1.6V",
+      "bbox_pin": null,
+      "bbox_name": [
+        501,
+        370,
+        551,
+        403
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "BIAS",
+      "bbox_pin": null,
+      "bbox_name": [
+        500,
+        317,
+        555,
+        347
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "NR/SS",
+      "bbox_pin": null,
+      "bbox_name": [
+        499,
+        261,
+        572,
+        295
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "EN",
+      "bbox_pin": null,
+      "bbox_name": [
+        500,
+        212,
+        536,
+        237
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        504,
+        156,
+        530,
+        185
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        381,
+        41,
+        410,
+        69
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        326,
+        37,
+        351,
+        67
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        277,
+        15,
+        298,
+        67
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        220,
+        13,
+        247,
+        68
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        164,
+        16,
+        189,
+        67
+      ]
+    }
+  ]
+}

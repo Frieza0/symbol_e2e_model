@@ -6,53 +6,92 @@
   "package_type": "4side",
   "pins": [
     {
-      "pin_number": "1",
+      "pin_number": 1,
       "name": "C\\S\\",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        35,
+        160,
+        90,
+        195
+      ]
     },
     {
-      "pin_number": "2",
+      "pin_number": 2,
       "name": "SDO",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        21,
+        275,
+        86,
+        316
+      ]
     },
     {
-      "pin_number": "3",
+      "pin_number": 3,
       "name": "SCLK",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        11,
+        389,
+        85,
+        428
+      ]
     },
     {
-      "pin_number": "4",
+      "pin_number": 4,
       "name": "DVDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        276,
+        527,
+        314,
+        617
+      ]
     },
     {
-      "pin_number": "5",
+      "pin_number": 5,
       "name": "GND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        507,
+        392,
+        569,
+        425
+      ]
     },
     {
-      "pin_number": "6",
+      "pin_number": 6,
       "name": "AVDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        506,
+        276,
+        583,
+        309
+      ]
     },
     {
-      "pin_number": "7",
+      "pin_number": 7,
       "name": "AINP",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        502,
+        161,
+        574,
+        195
+      ]
     },
     {
-      "pin_number": "8",
+      "pin_number": 8,
       "name": "AINM",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        287,
+        14,
+        313,
+        90
+      ]
     }
-  ],
-  "file_name": "ads7052_3_1.jpg"
+  ]
 }

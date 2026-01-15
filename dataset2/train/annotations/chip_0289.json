@@ -1,0 +1,200 @@
+{
+  "image_id": "chip_0289",
+  "width": 256,
+  "height": 256,
+  "total_pins": 12,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "CRS",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        34,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "nRST",
+      "bbox_pin": [
+        93,
+        69,
+        99,
+        79
+      ],
+      "bbox_name": [
+        13,
+        69,
+        39,
+        79
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "AN0",
+      "bbox_pin": [
+        93,
+        105,
+        99,
+        115
+      ],
+      "bbox_name": [
+        13,
+        105,
+        34,
+        115
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "SWDIO",
+      "bbox_pin": [
+        93,
+        141,
+        99,
+        151
+      ],
+      "bbox_name": [
+        13,
+        141,
+        47,
+        151
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "D9",
+      "bbox_pin": [
+        93,
+        177,
+        99,
+        187
+      ],
+      "bbox_name": [
+        13,
+        177,
+        26,
+        187
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "DATA1",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        46,
+        223
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "O2",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        197,
+        43
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "WP",
+      "bbox_pin": [
+        163,
+        69,
+        175,
+        79
+      ],
+      "bbox_name": [
+        183,
+        69,
+        199,
+        79
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "VPP",
+      "bbox_pin": [
+        163,
+        105,
+        175,
+        115
+      ],
+      "bbox_name": [
+        183,
+        105,
+        204,
+        115
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "VMEAS",
+      "bbox_pin": [
+        163,
+        141,
+        169,
+        151
+      ],
+      "bbox_name": [
+        183,
+        141,
+        219,
+        151
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "LIN_IN",
+      "bbox_pin": [
+        163,
+        177,
+        169,
+        187
+      ],
+      "bbox_name": [
+        183,
+        176,
+        215,
+        188
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "I2C_SCL",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        212,
+        225,
+        224
+      ]
+    }
+  ]
+}

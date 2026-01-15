@@ -1,0 +1,97 @@
+{
+  "image_id": "pca9515a_1_1",
+  "width": 315,
+  "height": 194,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        43,
+        30,
+        80,
+        52
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "SCL0",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        68,
+        80,
+        88
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "SDA0",
+      "bbox_pin": null,
+      "bbox_name": [
+        23,
+        98,
+        79,
+        119
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        30,
+        133,
+        81,
+        150
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "EN",
+      "bbox_pin": null,
+      "bbox_name": [
+        230,
+        133,
+        267,
+        151
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SDA1",
+      "bbox_pin": null,
+      "bbox_name": [
+        235,
+        98,
+        290,
+        119
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "SCL1",
+      "bbox_pin": null,
+      "bbox_name": [
+        231,
+        67,
+        286,
+        87
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        232,
+        28,
+        276,
+        56
+      ]
+    }
+  ]
+}

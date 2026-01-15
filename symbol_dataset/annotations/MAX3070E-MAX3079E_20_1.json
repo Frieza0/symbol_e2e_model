@@ -1,0 +1,163 @@
+{
+  "image_id": "MAX3070E-MAX3079E_20_1",
+  "width": 378,
+  "height": 387,
+  "total_pins": 14,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "N.C.",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        51,
+        63,
+        77
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "RO",
+      "bbox_pin": null,
+      "bbox_name": [
+        32,
+        96,
+        63,
+        118
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "R\\E\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        28,
+        135,
+        63,
+        158
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "DE",
+      "bbox_pin": null,
+      "bbox_name": [
+        34,
+        182,
+        65,
+        203
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "DI",
+      "bbox_pin": null,
+      "bbox_name": [
+        37,
+        221,
+        66,
+        247
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        264,
+        63,
+        292
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        304,
+        63,
+        331
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "N.C.",
+      "bbox_pin": null,
+      "bbox_name": [
+        320,
+        306,
+        357,
+        332
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        317,
+        266,
+        336,
+        285
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "Z",
+      "bbox_pin": null,
+      "bbox_name": [
+        317,
+        223,
+        338,
+        245
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "B",
+      "bbox_pin": null,
+      "bbox_name": [
+        316,
+        183,
+        336,
+        203
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        316,
+        139,
+        338,
+        160
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "N.C.",
+      "bbox_pin": null,
+      "bbox_name": [
+        316,
+        98,
+        356,
+        119
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        317,
+        56,
+        357,
+        79
+      ]
+    }
+  ]
+}

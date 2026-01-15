@@ -1,0 +1,232 @@
+{
+  "image_id": "chip_0417",
+  "width": 256,
+  "height": 256,
+  "total_pins": 14,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "CLK1",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        39,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "CTS",
+      "bbox_pin": [
+        93,
+        63,
+        99,
+        73
+      ],
+      "bbox_name": [
+        13,
+        63,
+        33,
+        73
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "IO5",
+      "bbox_pin": [
+        93,
+        93,
+        99,
+        103
+      ],
+      "bbox_name": [
+        13,
+        93,
+        30,
+        103
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "PORTA",
+      "bbox_pin": [
+        93,
+        123,
+        99,
+        133
+      ],
+      "bbox_name": [
+        13,
+        123,
+        48,
+        133
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "DB2",
+      "bbox_pin": [
+        93,
+        153,
+        99,
+        163
+      ],
+      "bbox_name": [
+        13,
+        153,
+        33,
+        163
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "GYRO_Y",
+      "bbox_pin": [
+        93,
+        183,
+        99,
+        193
+      ],
+      "bbox_name": [
+        13,
+        182,
+        56,
+        194
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "XOUT",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        41,
+        223
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "IMON",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        209,
+        43
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "PIN_B",
+      "bbox_pin": [
+        163,
+        63,
+        175,
+        73
+      ],
+      "bbox_name": [
+        183,
+        62,
+        213,
+        74
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "RSV",
+      "bbox_pin": [
+        163,
+        93,
+        175,
+        103
+      ],
+      "bbox_name": [
+        183,
+        93,
+        204,
+        103
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "VDD",
+      "bbox_pin": [
+        163,
+        123,
+        175,
+        133
+      ],
+      "bbox_name": [
+        183,
+        123,
+        204,
+        133
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "O0",
+      "bbox_pin": [
+        163,
+        153,
+        175,
+        163
+      ],
+      "bbox_name": [
+        183,
+        153,
+        197,
+        163
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "IN",
+      "bbox_pin": [
+        163,
+        183,
+        169,
+        193
+      ],
+      "bbox_name": [
+        183,
+        183,
+        193,
+        193
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "BOOT",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        212,
+        223
+      ]
+    }
+  ]
+}

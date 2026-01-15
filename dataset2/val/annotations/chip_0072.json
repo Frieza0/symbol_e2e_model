@@ -1,0 +1,264 @@
+{
+  "image_id": "chip_0072",
+  "width": 256,
+  "height": 256,
+  "total_pins": 16,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "MSEL1",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        47,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "D1",
+      "bbox_pin": [
+        93,
+        58,
+        99,
+        68
+      ],
+      "bbox_name": [
+        13,
+        58,
+        26,
+        68
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GPIO4",
+      "bbox_pin": [
+        93,
+        84,
+        99,
+        94
+      ],
+      "bbox_name": [
+        13,
+        84,
+        45,
+        94
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "DB1",
+      "bbox_pin": [
+        93,
+        110,
+        99,
+        120
+      ],
+      "bbox_name": [
+        13,
+        110,
+        33,
+        120
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "A20",
+      "bbox_pin": [
+        93,
+        135,
+        99,
+        145
+      ],
+      "bbox_name": [
+        13,
+        135,
+        33,
+        145
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "CAM_HSYNC",
+      "bbox_pin": [
+        93,
+        161,
+        99,
+        171
+      ],
+      "bbox_name": [
+        13,
+        160,
+        76,
+        172
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "TDI",
+      "bbox_pin": [
+        93,
+        187,
+        99,
+        197
+      ],
+      "bbox_name": [
+        13,
+        187,
+        29,
+        197
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "DRDY",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        41,
+        223
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "NC",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        197,
+        43
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "AIN5",
+      "bbox_pin": [
+        163,
+        58,
+        175,
+        68
+      ],
+      "bbox_name": [
+        183,
+        58,
+        207,
+        68
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "CAM_PCLK",
+      "bbox_pin": [
+        163,
+        84,
+        175,
+        94
+      ],
+      "bbox_name": [
+        183,
+        83,
+        238,
+        95
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "SENSE",
+      "bbox_pin": [
+        163,
+        110,
+        175,
+        120
+      ],
+      "bbox_name": [
+        183,
+        110,
+        218,
+        120
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "SDA",
+      "bbox_pin": [
+        163,
+        135,
+        175,
+        145
+      ],
+      "bbox_name": [
+        183,
+        135,
+        204,
+        145
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "BOOT",
+      "bbox_pin": [
+        163,
+        161,
+        175,
+        171
+      ],
+      "bbox_name": [
+        183,
+        161,
+        212,
+        171
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "VDDD",
+      "bbox_pin": [
+        163,
+        187,
+        175,
+        197
+      ],
+      "bbox_name": [
+        183,
+        187,
+        211,
+        197
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "MCLK",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        211,
+        223
+      ]
+    }
+  ]
+}

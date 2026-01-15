@@ -1,0 +1,97 @@
+{
+  "image_id": "EPCQXXA_7_2",
+  "width": 423,
+  "height": 243,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "nCS",
+      "bbox_pin": null,
+      "bbox_name": [
+        50,
+        37,
+        96,
+        65
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "DATA1",
+      "bbox_pin": null,
+      "bbox_name": [
+        25,
+        81,
+        89,
+        113
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "DATA2",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        132,
+        91,
+        158
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        47,
+        176,
+        93,
+        204
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "DATA0",
+      "bbox_pin": null,
+      "bbox_name": [
+        330,
+        176,
+        400,
+        207
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "DCLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        328,
+        129,
+        388,
+        158
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "DATA3",
+      "bbox_pin": null,
+      "bbox_name": [
+        330,
+        84,
+        397,
+        110
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        330,
+        37,
+        366,
+        72
+      ]
+    }
+  ]
+}

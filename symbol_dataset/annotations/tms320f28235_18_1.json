@@ -1,0 +1,274 @@
+{
+  "image_id": "tms320f28235_18_1",
+  "width": 1245,
+  "height": 1143,
+  "total_pins": 44,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": "H8",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H9",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H11",
+      "name": "GPIO59/MFSRA/XD20",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H12",
+      "name": "GPIO58/MCLKRA/XD21",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H13",
+      "name": "GPIO57//XD22S\\P\\I\\S\\T\\E\\A\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "H14",
+      "name": "X2",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J8",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J9",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J11",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J12",
+      "name": "GPIO56/SPICLKA/XD23",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J13",
+      "name": "GPIO55/SPISOMIA/XD24",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "J14",
+      "name": "GPIO54/SPISIMOA/XD25",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K11",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K12",
+      "name": "GPIO53EQEP1I/XD26",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K13",
+      "name": "GPIO52/EQEP1S/XD27",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "K14",
+      "name": "GPIO51/EQEP1B/XD28",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L8",
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L9",
+      "name": "VDD3VFL",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L10",
+      "name": "VDDIO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L11",
+      "name": "T\\R\\S\\T\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L12",
+      "name": "GPIO50/EQEP1A/XD29",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L13",
+      "name": "GPIO49/ECAP6/XD30",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "L14",
+      "name": "GPIO48/ECAP5/XD31",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M8",
+      "name": "GPIO19//SCIRXDB/CANTXAS\\P\\I\\S\\T\\E\\A\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M9",
+      "name": "GPIO22/EQEP1S/MCLKXA/SCITXDB",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M10",
+      "name": "GPIO25/ECAP2/EQEP2B/MDRB",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M11",
+      "name": "GPIO32/SDAA/EPWMSYNCI/A\\D\\S\\O\\C\\A\\O\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M12",
+      "name": "TMS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M13",
+      "name": "X\\R\\S\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "M14",
+      "name": "TCK",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N8",
+      "name": "GPIO18/SPICLKA/SCITXDB/CANRXA",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N9",
+      "name": "GPIO21/EQEP1B/MDRA/CANRXB",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N10",
+      "name": "GPIO24/ECAP1/EQEP2A/MDXB",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N11",
+      "name": "GPIO27/ECAP4/EQEP2S/MFSXB",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N12",
+      "name": "TDI",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N13",
+      "name": "TDO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "N14",
+      "name": "VDDIO",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P8",
+      "name": "EMU1",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P9",
+      "name": "GPIO20/EQEP1A/MDXA/CANTXB",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P10",
+      "name": "GPIO23/EQEP1I/MFSXA/SCIRXDB",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P11",
+      "name": "GPIO26/ECAP3/EQEP2I/MCLKXB",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P12",
+      "name": "GPIO33/SCLA/EPWMSYNCO/A\\D\\C\\S\\O\\C\\B\\O\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P13",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "P14",
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ],
+  "file_name": "tms320f28235_18_1.jpg"
+}

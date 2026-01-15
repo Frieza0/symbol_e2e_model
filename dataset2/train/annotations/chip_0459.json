@@ -1,0 +1,264 @@
+{
+  "image_id": "chip_0459",
+  "width": 256,
+  "height": 256,
+  "total_pins": 16,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "BODY",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        42,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "I2",
+      "bbox_pin": [
+        93,
+        58,
+        99,
+        68
+      ],
+      "bbox_name": [
+        13,
+        58,
+        22,
+        68
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "A7",
+      "bbox_pin": [
+        93,
+        84,
+        99,
+        94
+      ],
+      "bbox_name": [
+        13,
+        84,
+        27,
+        94
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "BCLK",
+      "bbox_pin": [
+        93,
+        110,
+        99,
+        120
+      ],
+      "bbox_name": [
+        13,
+        110,
+        40,
+        120
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "TEMP",
+      "bbox_pin": [
+        93,
+        135,
+        99,
+        145
+      ],
+      "bbox_name": [
+        13,
+        135,
+        41,
+        145
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "DONE",
+      "bbox_pin": [
+        93,
+        161,
+        99,
+        171
+      ],
+      "bbox_name": [
+        13,
+        161,
+        42,
+        171
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "AB1",
+      "bbox_pin": [
+        93,
+        187,
+        99,
+        197
+      ],
+      "bbox_name": [
+        13,
+        187,
+        34,
+        197
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "SD",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        27,
+        223
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "PLL",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        202,
+        43
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "MISO",
+      "bbox_pin": [
+        163,
+        58,
+        175,
+        68
+      ],
+      "bbox_name": [
+        183,
+        58,
+        209,
+        68
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "ETH_RX-",
+      "bbox_pin": [
+        163,
+        84,
+        175,
+        94
+      ],
+      "bbox_name": [
+        183,
+        83,
+        227,
+        95
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "PORTD",
+      "bbox_pin": [
+        163,
+        110,
+        175,
+        120
+      ],
+      "bbox_name": [
+        183,
+        110,
+        218,
+        120
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "DATA5",
+      "bbox_pin": [
+        163,
+        135,
+        175,
+        145
+      ],
+      "bbox_name": [
+        183,
+        135,
+        216,
+        145
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "ETM",
+      "bbox_pin": [
+        163,
+        161,
+        175,
+        171
+      ],
+      "bbox_name": [
+        183,
+        161,
+        204,
+        171
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "VCC",
+      "bbox_pin": [
+        163,
+        187,
+        175,
+        197
+      ],
+      "bbox_name": [
+        183,
+        187,
+        204,
+        197
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "MIPI_D0N",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        212,
+        230,
+        224
+      ]
+    }
+  ]
+}

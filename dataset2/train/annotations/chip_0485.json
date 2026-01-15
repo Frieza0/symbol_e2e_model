@@ -1,0 +1,200 @@
+{
+  "image_id": "chip_0485",
+  "width": 256,
+  "height": 256,
+  "total_pins": 12,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "EPAD",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        41,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VREF",
+      "bbox_pin": [
+        93,
+        69,
+        99,
+        79
+      ],
+      "bbox_name": [
+        13,
+        69,
+        40,
+        79
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "TMS",
+      "bbox_pin": [
+        93,
+        105,
+        99,
+        115
+      ],
+      "bbox_name": [
+        13,
+        105,
+        34,
+        115
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "I2S_SD",
+      "bbox_pin": [
+        93,
+        141,
+        99,
+        151
+      ],
+      "bbox_name": [
+        13,
+        140,
+        49,
+        152
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "COMP",
+      "bbox_pin": [
+        93,
+        177,
+        99,
+        187
+      ],
+      "bbox_name": [
+        13,
+        177,
+        43,
+        187
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "O3",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        27,
+        223
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "CE",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        197,
+        43
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "AD0",
+      "bbox_pin": [
+        163,
+        69,
+        175,
+        79
+      ],
+      "bbox_name": [
+        183,
+        69,
+        204,
+        79
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "INT",
+      "bbox_pin": [
+        163,
+        105,
+        175,
+        115
+      ],
+      "bbox_name": [
+        183,
+        105,
+        199,
+        115
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "ERROR",
+      "bbox_pin": [
+        163,
+        141,
+        169,
+        151
+      ],
+      "bbox_name": [
+        183,
+        141,
+        220,
+        151
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GPIO2",
+      "bbox_pin": [
+        163,
+        177,
+        169,
+        187
+      ],
+      "bbox_name": [
+        183,
+        177,
+        215,
+        187
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "DIM",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        201,
+        223
+      ]
+    }
+  ]
+}

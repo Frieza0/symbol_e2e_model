@@ -1,0 +1,64 @@
+{
+  "image_id": "MIC2915x_2_4",
+  "width": 420,
+  "height": 225,
+  "total_pins": 5,
+  "package_type": "1side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "EN",
+      "bbox_pin": null,
+      "bbox_name": [
+        336,
+        158,
+        375,
+        181
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        335,
+        128,
+        367,
+        152
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        336,
+        100,
+        394,
+        122
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        336,
+        70,
+        392,
+        93
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "ADJ",
+      "bbox_pin": null,
+      "bbox_name": [
+        336,
+        41,
+        389,
+        66
+      ]
+    }
+  ]
+}

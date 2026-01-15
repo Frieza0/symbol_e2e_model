@@ -1,0 +1,232 @@
+{
+  "image_id": "chip_0460",
+  "width": 256,
+  "height": 256,
+  "total_pins": 14,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "PERST#",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        53,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "DB0",
+      "bbox_pin": [
+        93,
+        63,
+        99,
+        73
+      ],
+      "bbox_name": [
+        13,
+        63,
+        33,
+        73
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "LCD_B0",
+      "bbox_pin": [
+        93,
+        93,
+        99,
+        103
+      ],
+      "bbox_name": [
+        13,
+        92,
+        52,
+        104
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "STOP",
+      "bbox_pin": [
+        93,
+        123,
+        99,
+        133
+      ],
+      "bbox_name": [
+        13,
+        123,
+        41,
+        133
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "RMII_TX_EN",
+      "bbox_pin": [
+        93,
+        153,
+        99,
+        163
+      ],
+      "bbox_name": [
+        13,
+        152,
+        73,
+        164
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "I1",
+      "bbox_pin": [
+        93,
+        183,
+        99,
+        193
+      ],
+      "bbox_name": [
+        13,
+        183,
+        22,
+        193
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "VSYS",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        41,
+        223
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "D30",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        202,
+        43
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "INT2",
+      "bbox_pin": [
+        163,
+        63,
+        175,
+        73
+      ],
+      "bbox_name": [
+        183,
+        63,
+        205,
+        73
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "AUD_OUT",
+      "bbox_pin": [
+        163,
+        93,
+        175,
+        103
+      ],
+      "bbox_name": [
+        183,
+        92,
+        232,
+        104
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "A14",
+      "bbox_pin": [
+        163,
+        123,
+        175,
+        133
+      ],
+      "bbox_name": [
+        183,
+        123,
+        203,
+        133
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "TRST",
+      "bbox_pin": [
+        163,
+        153,
+        175,
+        163
+      ],
+      "bbox_name": [
+        183,
+        153,
+        209,
+        163
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "SDA2",
+      "bbox_pin": [
+        163,
+        183,
+        169,
+        193
+      ],
+      "bbox_name": [
+        183,
+        183,
+        210,
+        193
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "PORTA",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        218,
+        223
+      ]
+    }
+  ]
+}

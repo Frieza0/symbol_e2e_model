@@ -2,99 +2,184 @@
   "image_id": "AT26LV32E_3_1",
   "width": 594,
   "height": 513,
-  "total_pins": 15,
+  "total_pins": 16,
   "package_type": "2side",
   "pins": [
     {
-      "pin_number": "1",
+      "pin_number": 1,
       "name": "1B",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        38,
+        75,
+        67,
+        96
+      ]
     },
     {
-      "pin_number": "2",
+      "pin_number": 2,
       "name": "1A",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        39,
+        120,
+        69,
+        149
+      ]
     },
     {
-      "pin_number": "3",
+      "pin_number": 3,
       "name": "1Y",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        39,
+        167,
+        69,
+        196
+      ]
     },
     {
-      "pin_number": "4",
+      "pin_number": 4,
       "name": "G",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        46,
+        216,
+        67,
+        241
+      ]
     },
     {
-      "pin_number": "5",
+      "pin_number": 5,
       "name": "2Y",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        38,
+        267,
+        70,
+        289
+      ]
     },
     {
-      "pin_number": "6",
+      "pin_number": 6,
       "name": "2A",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        34,
+        314,
+        68,
+        339
+      ]
     },
     {
-      "pin_number": "7",
+      "pin_number": 7,
       "name": "2B",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        36,
+        362,
+        67,
+        388
+      ]
     },
     {
-      "pin_number": "8",
+      "pin_number": 8,
       "name": "GND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        18,
+        410,
+        66,
+        433
+      ]
     },
     {
-      "pin_number": "9",
+      "pin_number": 9,
       "name": "3B",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        544,
+        411,
+        575,
+        435
+      ]
     },
     {
-      "pin_number": "10",
+      "pin_number": 10,
       "name": "3A",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        544,
+        359,
+        573,
+        385
+      ]
     },
     {
-      "pin_number": "11",
+      "pin_number": 11,
       "name": "3Y",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        546,
+        313,
+        573,
+        337
+      ]
     },
     {
-      "pin_number": "12",
+      "pin_number": 12,
       "name": "G",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        543,
+        265,
+        570,
+        291
+      ]
     },
     {
-      "pin_number": "13",
+      "pin_number": 13,
       "name": "4Y",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        544,
+        220,
+        574,
+        241
+      ]
     },
     {
-      "pin_number": "14",
+      "pin_number": 14,
       "name": "4A",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        544,
+        173,
+        575,
+        193
+      ]
     },
     {
-      "pin_number": "15",
+      "pin_number": 15,
+      "name": "4B",
+      "bbox_pin": null,
+      "bbox_name": [
+        542,
+        121,
+        576,
+        147
+      ]
+    },
+    {
+      "pin_number": 16,
       "name": "VC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        541,
+        75,
+        572,
+        103
+      ]
     }
-  ],
-  "file_name": "AT26LV32E_3_1.jpg"
+  ]
 }

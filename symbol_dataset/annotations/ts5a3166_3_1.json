@@ -1,0 +1,64 @@
+{
+  "image_id": "ts5a3166_3_1",
+  "width": 579,
+  "height": 261,
+  "total_pins": 5,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "NO",
+      "bbox_pin": null,
+      "bbox_name": [
+        35,
+        38,
+        91,
+        72
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "COM",
+      "bbox_pin": null,
+      "bbox_name": [
+        8,
+        106,
+        88,
+        139
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        15,
+        170,
+        85,
+        204
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "IN",
+      "bbox_pin": null,
+      "bbox_name": [
+        530,
+        172,
+        571,
+        205
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "V+",
+      "bbox_pin": null,
+      "bbox_name": [
+        536,
+        44,
+        575,
+        80
+      ]
+    }
+  ]
+}

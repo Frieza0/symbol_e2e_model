@@ -1,0 +1,141 @@
+{
+  "image_id": "HV860-Low-Noise-Dimmable-EL-Lamp-Driver-Data-Sheet-DS20005906_1_1",
+  "width": 411,
+  "height": 330,
+  "total_pins": 12,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "REL-Osc",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        111,
+        93,
+        132
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VREG",
+      "bbox_pin": null,
+      "bbox_name": [
+        45,
+        155,
+        94,
+        172
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "VREF",
+      "bbox_pin": null,
+      "bbox_name": [
+        47,
+        194,
+        94,
+        214
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        166,
+        292,
+        204,
+        312
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "LX",
+      "bbox_pin": null,
+      "bbox_name": [
+        217,
+        291,
+        240,
+        311
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        254,
+        294,
+        284,
+        311
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "CS",
+      "bbox_pin": null,
+      "bbox_name": [
+        362,
+        196,
+        387,
+        213
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VB",
+      "bbox_pin": null,
+      "bbox_name": [
+        363,
+        156,
+        387,
+        172
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "VA",
+      "bbox_pin": null,
+      "bbox_name": [
+        361,
+        112,
+        387,
+        132
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        251,
+        11,
+        287,
+        28
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "EN",
+      "bbox_pin": null,
+      "bbox_name": [
+        218,
+        13,
+        241,
+        30
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "RSW-Osc",
+      "bbox_pin": null,
+      "bbox_name": [
+        145,
+        12,
+        213,
+        31
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "image_id": "chip_0233",
+  "width": 256,
+  "height": 256,
+  "total_pins": 10,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "A5",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        27,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "GPIO9",
+      "bbox_pin": [
+        93,
+        78,
+        99,
+        88
+      ],
+      "bbox_name": [
+        13,
+        78,
+        45,
+        88
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "CLK2",
+      "bbox_pin": [
+        93,
+        123,
+        99,
+        133
+      ],
+      "bbox_name": [
+        13,
+        123,
+        39,
+        133
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "1V8",
+      "bbox_pin": [
+        93,
+        168,
+        99,
+        178
+      ],
+      "bbox_name": [
+        13,
+        168,
+        32,
+        178
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "D28",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        32,
+        223
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "PIN_A",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        32,
+        213,
+        44
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "SUBSTRATE",
+      "bbox_pin": [
+        163,
+        78,
+        169,
+        88
+      ],
+      "bbox_name": [
+        183,
+        78,
+        244,
+        88
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "ANT",
+      "bbox_pin": [
+        163,
+        123,
+        169,
+        133
+      ],
+      "bbox_name": [
+        183,
+        123,
+        204,
+        133
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "UNUSED",
+      "bbox_pin": [
+        163,
+        168,
+        169,
+        178
+      ],
+      "bbox_name": [
+        183,
+        168,
+        225,
+        178
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "VPP",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        204,
+        223
+      ]
+    }
+  ]
+}

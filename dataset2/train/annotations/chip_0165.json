@@ -1,0 +1,200 @@
+{
+  "image_id": "chip_0165",
+  "width": 256,
+  "height": 256,
+  "total_pins": 12,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "NSS",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        34,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "D15",
+      "bbox_pin": [
+        93,
+        69,
+        99,
+        79
+      ],
+      "bbox_name": [
+        13,
+        69,
+        32,
+        79
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "STOP",
+      "bbox_pin": [
+        93,
+        105,
+        99,
+        115
+      ],
+      "bbox_name": [
+        13,
+        105,
+        41,
+        115
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GPIO11",
+      "bbox_pin": [
+        93,
+        141,
+        99,
+        151
+      ],
+      "bbox_name": [
+        13,
+        141,
+        51,
+        151
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "PROG",
+      "bbox_pin": [
+        93,
+        177,
+        99,
+        187
+      ],
+      "bbox_name": [
+        13,
+        177,
+        43,
+        187
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "IO",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        24,
+        223
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "CRC_ERROR",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        32,
+        247,
+        44
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "LRCLK",
+      "bbox_pin": [
+        163,
+        69,
+        175,
+        79
+      ],
+      "bbox_name": [
+        183,
+        69,
+        216,
+        79
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "DBG",
+      "bbox_pin": [
+        163,
+        105,
+        175,
+        115
+      ],
+      "bbox_name": [
+        183,
+        105,
+        205,
+        115
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "HSYNC",
+      "bbox_pin": [
+        163,
+        141,
+        169,
+        151
+      ],
+      "bbox_name": [
+        183,
+        141,
+        218,
+        151
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "LVDS_P",
+      "bbox_pin": [
+        163,
+        177,
+        169,
+        187
+      ],
+      "bbox_name": [
+        183,
+        176,
+        223,
+        188
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "PWM",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        207,
+        223
+      ]
+    }
+  ]
+}

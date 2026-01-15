@@ -20,7 +20,7 @@ class PinImageLabel(QLabel):
         super().__init__(parent)
         self.main_window = main_window
         self.setAlignment(Qt.AlignmentFlag.AlignCenter)
-        self.setFixedSize(1500, 1000)
+        self.setFixedSize(2000, 1200)
         self.pixmap = None
         self.pins = []
         self.rubberBand = QRubberBand(QRubberBand.Shape.Rectangle, self)

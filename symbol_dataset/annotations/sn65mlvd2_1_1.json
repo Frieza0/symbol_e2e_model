@@ -1,0 +1,97 @@
+{
+  "image_id": "sn65mlvd2_1_1",
+  "width": 483,
+  "height": 328,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        27,
+        33,
+        87,
+        71
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "R\\E\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        40,
+        99,
+        86,
+        135
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "R",
+      "bbox_pin": null,
+      "bbox_name": [
+        61,
+        176,
+        86,
+        205
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        253,
+        87,
+        282
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        393,
+        256,
+        461,
+        284
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        393,
+        175,
+        419,
+        205
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "B",
+      "bbox_pin": null,
+      "bbox_name": [
+        395,
+        101,
+        419,
+        127
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        396,
+        32,
+        448,
+        61
+      ]
+    }
+  ]
+}

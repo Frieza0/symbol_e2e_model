@@ -6,173 +6,312 @@
   "package_type": "2side",
   "pins": [
     {
-      "pin_number": "1",
+      "pin_number": 1,
       "name": "VDD",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        24,
+        28,
+        63,
+        52
+      ]
     },
     {
-      "pin_number": "2",
+      "pin_number": 2,
       "name": "DB",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        26,
+        59,
+        62,
+        80
+      ]
     },
     {
-      "pin_number": "3",
+      "pin_number": 3,
       "name": "NC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        29,
+        88,
+        61,
+        108
+      ]
     },
     {
-      "pin_number": "4",
+      "pin_number": 4,
       "name": "S8B",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        22,
+        116,
+        61,
+        137
+      ]
     },
     {
-      "pin_number": "5",
+      "pin_number": 5,
       "name": "S7B",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        20,
+        145,
+        60,
+        164
+      ]
     },
     {
-      "pin_number": "6",
+      "pin_number": 6,
       "name": "S6B",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        22,
+        171,
+        61,
+        194
+      ]
     },
     {
-      "pin_number": "7",
+      "pin_number": 7,
       "name": "S5B",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        21,
+        202,
+        61,
+        222
+      ]
     },
     {
-      "pin_number": "8",
+      "pin_number": 8,
       "name": "S4B",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        20,
+        230,
+        62,
+        250
+      ]
     },
     {
-      "pin_number": "9",
+      "pin_number": 9,
       "name": "S3B",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        22,
+        258,
+        61,
+        277
+      ]
     },
     {
-      "pin_number": "10",
+      "pin_number": 10,
       "name": "S2B",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        21,
+        287,
+        61,
+        304
+      ]
     },
     {
-      "pin_number": "11",
+      "pin_number": 11,
       "name": "S1B",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        22,
+        314,
+        61,
+        334
+      ]
     },
     {
-      "pin_number": "12",
+      "pin_number": 12,
       "name": "GND",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        16,
+        343,
+        62,
+        362
+      ]
     },
     {
-      "pin_number": "13",
+      "pin_number": 13,
       "name": "NC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        31,
+        370,
+        62,
+        392
+      ]
     },
     {
-      "pin_number": "14",
+      "pin_number": 14,
       "name": "NC",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        29,
+        398,
+        60,
+        419
+      ]
     },
     {
-      "pin_number": "15",
+      "pin_number": 15,
       "name": "A2",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        258,
+        400,
+        282,
+        420
+      ]
     },
     {
-      "pin_number": "16",
+      "pin_number": 16,
       "name": "A1",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        256,
+        368,
+        284,
+        391
+      ]
     },
     {
-      "pin_number": "17",
+      "pin_number": 17,
       "name": "A0",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        256,
+        341,
+        285,
+        362
+      ]
     },
     {
-      "pin_number": "18",
+      "pin_number": 18,
       "name": "EN",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        256,
+        311,
+        287,
+        334
+      ]
     },
     {
-      "pin_number": "19",
+      "pin_number": 19,
       "name": "S1A",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        256,
+        285,
+        295,
+        304
+      ]
     },
     {
-      "pin_number": "20",
+      "pin_number": 20,
       "name": "S2A",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        255,
+        257,
+        296,
+        276
+      ]
     },
     {
-      "pin_number": "21",
+      "pin_number": 21,
       "name": "S3A",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        256,
+        229,
+        295,
+        249
+      ]
     },
     {
-      "pin_number": "22",
+      "pin_number": 22,
       "name": "S4A",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        256,
+        201,
+        295,
+        221
+      ]
     },
     {
-      "pin_number": "23",
+      "pin_number": 23,
       "name": "S5A",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        257,
+        172,
+        296,
+        193
+      ]
     },
     {
-      "pin_number": "24",
+      "pin_number": 24,
       "name": "S6A",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        256,
+        143,
+        295,
+        163
+      ]
     },
     {
-      "pin_number": "25",
+      "pin_number": 25,
       "name": "S7A",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        256,
+        116,
+        295,
+        137
+      ]
     },
     {
-      "pin_number": "26",
+      "pin_number": 26,
       "name": "S8A",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        255,
+        89,
+        297,
+        106
+      ]
     },
     {
-      "pin_number": "27",
+      "pin_number": 27,
       "name": "VSS",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        256,
+        60,
+        292,
+        81
+      ]
     },
     {
-      "pin_number": "28",
+      "pin_number": 28,
       "name": "DA",
       "bbox_pin": null,
-      "bbox_name": null
+      "bbox_name": [
+        256,
+        31,
+        287,
+        52
+      ]
     }
-  ],
-  "file_name": "ADG406_407_426_10_1.jpg"
+  ]
 }

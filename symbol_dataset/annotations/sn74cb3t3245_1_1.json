@@ -1,0 +1,64 @@
+{
+  "image_id": "sn74cb3t3245_1_1",
+  "width": 699,
+  "height": 651,
+  "total_pins": 9,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": "1",
+      "name": "us roller",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "2",
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "3",
+      "name": "MISS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "4",
+      "name": "MISS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "5",
+      "name": "MISS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "6",
+      "name": "MISS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "7",
+      "name": "MISS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "8",
+      "name": "MISS",
+      "bbox_pin": null,
+      "bbox_name": null
+    },
+    {
+      "pin_number": "9",
+      "name": "0\\.\\1\\",
+      "bbox_pin": null,
+      "bbox_name": null
+    }
+  ],
+  "file_name": "sn74cb3t3245_1_1.jpg"
+}

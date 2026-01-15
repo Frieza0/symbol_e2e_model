@@ -1,0 +1,264 @@
+{
+  "image_id": "chip_0252",
+  "width": 256,
+  "height": 256,
+  "total_pins": 16,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "FEM_CTRL",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        32,
+        66,
+        44
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "VANA",
+      "bbox_pin": [
+        93,
+        58,
+        99,
+        68
+      ],
+      "bbox_name": [
+        13,
+        58,
+        41,
+        68
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "DONE",
+      "bbox_pin": [
+        93,
+        84,
+        99,
+        94
+      ],
+      "bbox_name": [
+        13,
+        84,
+        42,
+        94
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "BCLK",
+      "bbox_pin": [
+        93,
+        110,
+        99,
+        120
+      ],
+      "bbox_name": [
+        13,
+        110,
+        40,
+        120
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "DB2",
+      "bbox_pin": [
+        93,
+        135,
+        99,
+        145
+      ],
+      "bbox_name": [
+        13,
+        135,
+        33,
+        145
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "A3",
+      "bbox_pin": [
+        93,
+        161,
+        99,
+        171
+      ],
+      "bbox_name": [
+        13,
+        161,
+        27,
+        171
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "RXD",
+      "bbox_pin": [
+        93,
+        187,
+        99,
+        197
+      ],
+      "bbox_name": [
+        13,
+        187,
+        34,
+        197
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VTT",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        32,
+        223
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "CAM_PCLK",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        32,
+        238,
+        44
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "RUN",
+      "bbox_pin": [
+        163,
+        58,
+        175,
+        68
+      ],
+      "bbox_name": [
+        183,
+        58,
+        204,
+        68
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "IO2",
+      "bbox_pin": [
+        163,
+        84,
+        175,
+        94
+      ],
+      "bbox_name": [
+        183,
+        84,
+        200,
+        94
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "D18",
+      "bbox_pin": [
+        163,
+        110,
+        175,
+        120
+      ],
+      "bbox_name": [
+        183,
+        110,
+        202,
+        120
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "WIFI_ANT",
+      "bbox_pin": [
+        163,
+        135,
+        175,
+        145
+      ],
+      "bbox_name": [
+        183,
+        134,
+        230,
+        146
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "SS",
+      "bbox_pin": [
+        163,
+        161,
+        175,
+        171
+      ],
+      "bbox_name": [
+        183,
+        161,
+        197,
+        171
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "THERM",
+      "bbox_pin": [
+        163,
+        187,
+        175,
+        197
+      ],
+      "bbox_name": [
+        183,
+        187,
+        218,
+        197
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "I2S_SD",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        212,
+        219,
+        224
+      ]
+    }
+  ]
+}

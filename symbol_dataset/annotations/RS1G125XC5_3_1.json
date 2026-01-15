@@ -1,0 +1,64 @@
+{
+  "image_id": "RS1G125XC5_3_1",
+  "width": 540,
+  "height": 321,
+  "total_pins": 5,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "O\\E\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        52,
+        81,
+        96
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "A",
+      "bbox_pin": null,
+      "bbox_name": [
+        46,
+        143,
+        78,
+        179
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        12,
+        220,
+        86,
+        256
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "Y",
+      "bbox_pin": null,
+      "bbox_name": [
+        468,
+        214,
+        501,
+        247
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        468,
+        51,
+        532,
+        90
+      ]
+    }
+  ]
+}

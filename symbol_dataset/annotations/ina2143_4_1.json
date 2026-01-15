@@ -1,0 +1,163 @@
+{
+  "image_id": "ina2143_4_1",
+  "width": 588,
+  "height": 665,
+  "total_pins": 14,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        33,
+        59,
+        79,
+        91
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "–In A",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        144,
+        77,
+        172
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "+In A",
+      "bbox_pin": null,
+      "bbox_name": [
+        16,
+        232,
+        76,
+        258
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "V–",
+      "bbox_pin": null,
+      "bbox_name": [
+        41,
+        319,
+        77,
+        344
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "+In B",
+      "bbox_pin": null,
+      "bbox_name": [
+        18,
+        402,
+        77,
+        432
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "–In B",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        484,
+        77,
+        513
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        40,
+        565,
+        79,
+        600
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "Ref B",
+      "bbox_pin": null,
+      "bbox_name": [
+        477,
+        569,
+        542,
+        596
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "Out B",
+      "bbox_pin": null,
+      "bbox_name": [
+        476,
+        478,
+        543,
+        512
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "Sense B",
+      "bbox_pin": null,
+      "bbox_name": [
+        478,
+        397,
+        564,
+        433
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "V+",
+      "bbox_pin": null,
+      "bbox_name": [
+        478,
+        318,
+        513,
+        344
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "Sense A",
+      "bbox_pin": null,
+      "bbox_name": [
+        478,
+        231,
+        568,
+        258
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "Out A",
+      "bbox_pin": null,
+      "bbox_name": [
+        478,
+        145,
+        539,
+        177
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "Ref A",
+      "bbox_pin": null,
+      "bbox_name": [
+        477,
+        59,
+        540,
+        93
+      ]
+    }
+  ]
+}

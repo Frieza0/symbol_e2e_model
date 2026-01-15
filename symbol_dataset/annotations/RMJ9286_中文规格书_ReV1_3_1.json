@@ -1,0 +1,229 @@
+{
+  "image_id": "RMJ9286_中文规格书_ReV1_3_1",
+  "width": 537,
+  "height": 528,
+  "total_pins": 20,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "EN",
+      "bbox_pin": null,
+      "bbox_name": [
+        185,
+        23,
+        232,
+        55
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "RT",
+      "bbox_pin": null,
+      "bbox_name": [
+        67,
+        88,
+        114,
+        117
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "SS/TRK",
+      "bbox_pin": null,
+      "bbox_name": [
+        18,
+        136,
+        113,
+        167
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "COMP",
+      "bbox_pin": null,
+      "bbox_name": [
+        35,
+        183,
+        113,
+        208
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "FB",
+      "bbox_pin": null,
+      "bbox_name": [
+        70,
+        226,
+        112,
+        256
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "AGND",
+      "bbox_pin": null,
+      "bbox_name": [
+        35,
+        273,
+        110,
+        302
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "SYNCO",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        323,
+        113,
+        346
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "SYNCI",
+      "bbox_pin": null,
+      "bbox_name": [
+        36,
+        365,
+        111,
+        395
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        72,
+        414,
+        115,
+        438
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "PG",
+      "bbox_pin": null,
+      "bbox_name": [
+        190,
+        480,
+        225,
+        506
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "ILIM",
+      "bbox_pin": null,
+      "bbox_name": [
+        322,
+        476,
+        375,
+        505
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "PGND",
+      "bbox_pin": null,
+      "bbox_name": [
+        443,
+        410,
+        515,
+        441
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "LO",
+      "bbox_pin": null,
+      "bbox_name": [
+        442,
+        363,
+        480,
+        391
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        445,
+        317,
+        502,
+        347
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "EP",
+      "bbox_pin": null,
+      "bbox_name": [
+        444,
+        269,
+        481,
+        298
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        444,
+        225,
+        485,
+        255
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "BST",
+      "bbox_pin": null,
+      "bbox_name": [
+        444,
+        181,
+        494,
+        210
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "HO",
+      "bbox_pin": null,
+      "bbox_name": [
+        445,
+        135,
+        483,
+        161
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "SW",
+      "bbox_pin": null,
+      "bbox_name": [
+        445,
+        91,
+        489,
+        117
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "VIN",
+      "bbox_pin": null,
+      "bbox_name": [
+        320,
+        19,
+        368,
+        47
+      ]
+    }
+  ]
+}

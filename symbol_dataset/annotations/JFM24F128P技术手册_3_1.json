@@ -1,0 +1,97 @@
+{
+  "image_id": "JFM24F128P技术手册_3_1",
+  "width": 453,
+  "height": 269,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "S0",
+      "bbox_pin": null,
+      "bbox_name": [
+        48,
+        41,
+        91,
+        69
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "S1",
+      "bbox_pin": null,
+      "bbox_name": [
+        52,
+        88,
+        90,
+        117
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "S2",
+      "bbox_pin": null,
+      "bbox_name": [
+        46,
+        144,
+        88,
+        171
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        26,
+        189,
+        87,
+        219
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "SDA",
+      "bbox_pin": null,
+      "bbox_name": [
+        367,
+        190,
+        430,
+        218
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "SCL",
+      "bbox_pin": null,
+      "bbox_name": [
+        368,
+        142,
+        428,
+        170
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "PP",
+      "bbox_pin": null,
+      "bbox_name": [
+        368,
+        86,
+        413,
+        115
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        360,
+        39,
+        431,
+        68
+      ]
+    }
+  ]
+}

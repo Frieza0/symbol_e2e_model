@@ -1,0 +1,97 @@
+{
+  "image_id": "JFM25QL256_EFM25QL256用户技术手册_8_1",
+  "width": 870,
+  "height": 269,
+  "total_pins": 8,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "CS#",
+      "bbox_pin": null,
+      "bbox_name": [
+        100,
+        23,
+        169,
+        53
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "DO(DQ1)",
+      "bbox_pin": null,
+      "bbox_name": [
+        43,
+        84,
+        165,
+        115
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "WP#(DQ2)",
+      "bbox_pin": null,
+      "bbox_name": [
+        15,
+        134,
+        167,
+        180
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VSS",
+      "bbox_pin": null,
+      "bbox_name": [
+        94,
+        190,
+        172,
+        229
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "DI(DQo)",
+      "bbox_pin": null,
+      "bbox_name": [
+        552,
+        189,
+        667,
+        232
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "CLK",
+      "bbox_pin": null,
+      "bbox_name": [
+        552,
+        142,
+        616,
+        174
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "HOLD#/RESET#(DQ3)",
+      "bbox_pin": null,
+      "bbox_name": [
+        547,
+        82,
+        849,
+        125
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        550,
+        26,
+        624,
+        60
+      ]
+    }
+  ]
+}

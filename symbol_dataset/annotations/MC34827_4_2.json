@@ -1,0 +1,240 @@
+{
+  "image_id": "MC34827_4_2",
+  "width": 573,
+  "height": 528,
+  "total_pins": 21,
+  "package_type": "4side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "SPK_R",
+      "bbox_pin": null,
+      "bbox_name": [
+        19,
+        164,
+        105,
+        195
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "SPK_L",
+      "bbox_pin": null,
+      "bbox_name": [
+        20,
+        201,
+        102,
+        234
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "MIC",
+      "bbox_pin": null,
+      "bbox_name": [
+        51,
+        244,
+        102,
+        269
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "D+",
+      "bbox_pin": null,
+      "bbox_name": [
+        64,
+        283,
+        101,
+        311
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "D-",
+      "bbox_pin": null,
+      "bbox_name": [
+        65,
+        327,
+        100,
+        353
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "RxD",
+      "bbox_pin": null,
+      "bbox_name": [
+        183,
+        430,
+        215,
+        483
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "TxD",
+      "bbox_pin": null,
+      "bbox_name": [
+        228,
+        429,
+        259,
+        480
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "BOOT",
+      "bbox_pin": null,
+      "bbox_name": [
+        265,
+        430,
+        295,
+        503
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "VDDIO",
+      "bbox_pin": null,
+      "bbox_name": [
+        304,
+        430,
+        339,
+        508
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "JIG",
+      "bbox_pin": null,
+      "bbox_name": [
+        348,
+        429,
+        379,
+        474
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "VDD",
+      "bbox_pin": null,
+      "bbox_name": [
+        448,
+        325,
+        503,
+        355
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "INTB",
+      "bbox_pin": null,
+      "bbox_name": [
+        448,
+        287,
+        506,
+        311
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "I2C_SDA",
+      "bbox_pin": null,
+      "bbox_name": [
+        446,
+        246,
+        552,
+        276
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "I2C_SCL",
+      "bbox_pin": null,
+      "bbox_name": [
+        446,
+        203,
+        546,
+        235
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "OUT",
+      "bbox_pin": null,
+      "bbox_name": [
+        445,
+        162,
+        503,
+        189
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "ISET",
+      "bbox_pin": null,
+      "bbox_name": [
+        348,
+        27,
+        375,
+        92
+      ]
+    },
+    {
+      "pin_number": 17,
+      "name": "VBUS",
+      "bbox_pin": null,
+      "bbox_name": [
+        304,
+        21,
+        332,
+        92
+      ]
+    },
+    {
+      "pin_number": 18,
+      "name": "DM",
+      "bbox_pin": null,
+      "bbox_name": [
+        263,
+        46,
+        289,
+        92
+      ]
+    },
+    {
+      "pin_number": 19,
+      "name": "DP",
+      "bbox_pin": null,
+      "bbox_name": [
+        227,
+        53,
+        251,
+        90
+      ]
+    },
+    {
+      "pin_number": 20,
+      "name": "ID",
+      "bbox_pin": null,
+      "bbox_name": [
+        183,
+        61,
+        207,
+        92
+      ]
+    },
+    {
+      "pin_number": 21,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        246,
+        250,
+        308,
+        275
+      ]
+    }
+  ]
+}

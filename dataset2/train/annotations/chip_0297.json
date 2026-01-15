@@ -1,0 +1,264 @@
+{
+  "image_id": "chip_0297",
+  "width": 256,
+  "height": 256,
+  "total_pins": 16,
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "TMS",
+      "bbox_pin": [
+        93,
+        33,
+        99,
+        43
+      ],
+      "bbox_name": [
+        13,
+        33,
+        34,
+        43
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "PG",
+      "bbox_pin": [
+        93,
+        58,
+        99,
+        68
+      ],
+      "bbox_name": [
+        13,
+        58,
+        28,
+        68
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "nSTATUS",
+      "bbox_pin": [
+        93,
+        84,
+        99,
+        94
+      ],
+      "bbox_name": [
+        13,
+        84,
+        59,
+        94
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "VSENSE",
+      "bbox_pin": [
+        93,
+        110,
+        99,
+        120
+      ],
+      "bbox_name": [
+        13,
+        110,
+        55,
+        120
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "SHDN",
+      "bbox_pin": [
+        93,
+        135,
+        99,
+        145
+      ],
+      "bbox_name": [
+        13,
+        135,
+        41,
+        145
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "RMII_TX_EN",
+      "bbox_pin": [
+        93,
+        161,
+        99,
+        171
+      ],
+      "bbox_name": [
+        13,
+        160,
+        73,
+        172
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "WCLK",
+      "bbox_pin": [
+        93,
+        187,
+        99,
+        197
+      ],
+      "bbox_name": [
+        13,
+        187,
+        42,
+        197
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "AB0",
+      "bbox_pin": [
+        93,
+        213,
+        99,
+        223
+      ],
+      "bbox_name": [
+        13,
+        213,
+        34,
+        223
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "OVLO",
+      "bbox_pin": [
+        163,
+        33,
+        175,
+        43
+      ],
+      "bbox_name": [
+        183,
+        33,
+        212,
+        43
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "SPI_MOSI",
+      "bbox_pin": [
+        163,
+        58,
+        175,
+        68
+      ],
+      "bbox_name": [
+        183,
+        57,
+        232,
+        69
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "CAM_HSYNC",
+      "bbox_pin": [
+        163,
+        84,
+        175,
+        94
+      ],
+      "bbox_name": [
+        183,
+        83,
+        246,
+        95
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "ACCEL_Y",
+      "bbox_pin": [
+        163,
+        110,
+        175,
+        120
+      ],
+      "bbox_name": [
+        183,
+        109,
+        231,
+        121
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "HOLD",
+      "bbox_pin": [
+        163,
+        135,
+        175,
+        145
+      ],
+      "bbox_name": [
+        183,
+        135,
+        211,
+        145
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "INIT_DONE",
+      "bbox_pin": [
+        163,
+        161,
+        175,
+        171
+      ],
+      "bbox_name": [
+        183,
+        160,
+        237,
+        172
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "LIN_IN",
+      "bbox_pin": [
+        163,
+        187,
+        175,
+        197
+      ],
+      "bbox_name": [
+        183,
+        186,
+        215,
+        198
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "GPIO14",
+      "bbox_pin": [
+        163,
+        213,
+        169,
+        223
+      ],
+      "bbox_name": [
+        183,
+        213,
+        221,
+        223
+      ]
+    }
+  ]
+}

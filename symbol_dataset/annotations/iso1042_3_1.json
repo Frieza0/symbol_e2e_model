@@ -1,0 +1,185 @@
+{
+  "image_id": "iso1042_3_1",
+  "width": 687,
+  "height": 542,
+  "total_pins": 16,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "VCC1",
+      "bbox_pin": null,
+      "bbox_name": [
+        24,
+        70,
+        74,
+        98
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "GND1",
+      "bbox_pin": null,
+      "bbox_name": [
+        11,
+        123,
+        73,
+        152
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "TXD",
+      "bbox_pin": null,
+      "bbox_name": [
+        26,
+        177,
+        74,
+        204
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        34,
+        233,
+        74,
+        259
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "RXD",
+      "bbox_pin": null,
+      "bbox_name": [
+        21,
+        287,
+        76,
+        313
+      ]
+    },
+    {
+      "pin_number": 6,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        39,
+        340,
+        73,
+        366
+      ]
+    },
+    {
+      "pin_number": 7,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        36,
+        392,
+        74,
+        418
+      ]
+    },
+    {
+      "pin_number": 8,
+      "name": "GND1",
+      "bbox_pin": null,
+      "bbox_name": [
+        12,
+        447,
+        72,
+        478
+      ]
+    },
+    {
+      "pin_number": 9,
+      "name": "GND2",
+      "bbox_pin": null,
+      "bbox_name": [
+        608,
+        446,
+        674,
+        476
+      ]
+    },
+    {
+      "pin_number": 10,
+      "name": "GND2",
+      "bbox_pin": null,
+      "bbox_name": [
+        612,
+        394,
+        676,
+        419
+      ]
+    },
+    {
+      "pin_number": 11,
+      "name": "VCC2",
+      "bbox_pin": null,
+      "bbox_name": [
+        609,
+        340,
+        663,
+        369
+      ]
+    },
+    {
+      "pin_number": 12,
+      "name": "CANL",
+      "bbox_pin": null,
+      "bbox_name": [
+        611,
+        285,
+        672,
+        312
+      ]
+    },
+    {
+      "pin_number": 13,
+      "name": "CANH",
+      "bbox_pin": null,
+      "bbox_name": [
+        609,
+        232,
+        678,
+        261
+      ]
+    },
+    {
+      "pin_number": 14,
+      "name": "NC",
+      "bbox_pin": null,
+      "bbox_name": [
+        608,
+        178,
+        652,
+        205
+      ]
+    },
+    {
+      "pin_number": 15,
+      "name": "GND2",
+      "bbox_pin": null,
+      "bbox_name": [
+        610,
+        124,
+        675,
+        151
+      ]
+    },
+    {
+      "pin_number": 16,
+      "name": "VCC2",
+      "bbox_pin": null,
+      "bbox_name": [
+        611,
+        72,
+        663,
+        97
+      ]
+    }
+  ]
+}

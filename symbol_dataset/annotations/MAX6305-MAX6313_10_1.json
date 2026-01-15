@@ -1,0 +1,64 @@
+{
+  "image_id": "MAX6305-MAX6313_10_1",
+  "width": 447,
+  "height": 300,
+  "total_pins": 5,
+  "package_type": "2side",
+  "pins": [
+    {
+      "pin_number": 1,
+      "name": "(R\\E\\S\\E\\T\\) R\\E\\S\\E\\T\\",
+      "bbox_pin": null,
+      "bbox_name": [
+        10,
+        40,
+        131,
+        82
+      ]
+    },
+    {
+      "pin_number": 2,
+      "name": "GND",
+      "bbox_pin": null,
+      "bbox_name": [
+        82,
+        133,
+        134,
+        166
+      ]
+    },
+    {
+      "pin_number": 3,
+      "name": "RST IN1",
+      "bbox_pin": null,
+      "bbox_name": [
+        59,
+        220,
+        128,
+        255
+      ]
+    },
+    {
+      "pin_number": 4,
+      "name": "RST IN2",
+      "bbox_pin": null,
+      "bbox_name": [
+        364,
+        221,
+        438,
+        254
+      ]
+    },
+    {
+      "pin_number": 5,
+      "name": "VCC",
+      "bbox_pin": null,
+      "bbox_name": [
+        372,
+        50,
+        407,
+        83
+      ]
+    }
+  ]
+}
